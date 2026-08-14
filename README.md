@@ -13,16 +13,16 @@ An automated **Tech & AI News Digest (Git-Scraper)** powered entirely by **GitHu
 
 | # | Story | Points | Comments | Discussion |
 |:---:|:---|:---:|:---:|:---:|
-| **1** | [GLM-5.3: Frontier coding with emergent cyber capabilities](https://z.ai/blog/glm-5.3) | ⭐ 774 | 💬 392 | [HN Thread](https://news.ycombinator.com/item?id=49294997) |
-| **2** | [Don't classify, hallucinate!](https://softwaredoug.com/blog/2026/08/10/hypothetical-classifications) | ⭐ 96 | 💬 50 | [HN Thread](https://news.ycombinator.com/item?id=49249523) |
-| **3** | [In Australia, a Home Battery Boom Has Helped Cut Wholesale Power Prices in Half](https://e360.yale.edu/digest/australia-home-batteries) | ⭐ 38 | 💬 10 | [HN Thread](https://news.ycombinator.com/item?id=49298910) |
-| **4** | [DeepSeek peak/off-peak pricing update](https://api-docs.deepseek.com/news/news260813/) | ⭐ 143 | 💬 77 | [HN Thread](https://news.ycombinator.com/item?id=49296627) |
-| **5** | [Show HN: Lambdock – Wayland-native GTK4 dock with a live Lisp REPL](https://codeberg.org/jjba23/lambdock) | ⭐ 9 | 💬 0 | [HN Thread](https://news.ycombinator.com/item?id=49260628) |
-| **6** | [Gemini 3.7 Flash](https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-3-7-flash/) | ⭐ 917 | 💬 463 | [HN Thread](https://news.ycombinator.com/item?id=49289112) |
-| **7** | [Differential Heuristics](https://www.redblobgames.com/blog/2026-08-08-differential-heuristics/) | ⭐ 76 | 💬 5 | [HN Thread](https://news.ycombinator.com/item?id=49231490) |
-| **8** | [Why does Opus 5 feel worse to work with?](https://mun-logadan.github.io/why-does-opus-5-feel-worse/) | ⭐ 304 | 💬 289 | [HN Thread](https://news.ycombinator.com/item?id=49296740) |
-| **9** | [Protect Your Relays](https://www.iroh.computer/blog/authenticated-relays) | ⭐ 30 | 💬 10 | [HN Thread](https://news.ycombinator.com/item?id=49242867) |
-| **10** | [HashAgent – Share an AI agent as a URL, runs locally via WebGPU](https://hashagent.pages.dev/) | ⭐ 7 | 💬 0 | [HN Thread](https://news.ycombinator.com/item?id=49298088) |
+| **1** | [Qwen 3.8 27B](https://huggingface.co/Qwen/Qwen3.8-27B-FP8) | ⭐ 435 | 💬 309 | [HN Thread](https://news.ycombinator.com/item?id=49299605) |
+| **2** | [Count Binface receives over a quarter of votes in Clacton by-election](https://www.bbc.com/news/articles/ce97mm3vvemo) | ⭐ 209 | 💬 121 | [HN Thread](https://news.ycombinator.com/item?id=49301260) |
+| **3** | [Seven books I keep close because I love them](https://blog.plover.com/2026/08/02/) | ⭐ 183 | 💬 73 | [HN Thread](https://news.ycombinator.com/item?id=49299675) |
+| **4** | [RustDesk now supports true unattended remote access on Wayland](https://rustdesk.com/blog/unattended-remote-access-wayland/) | ⭐ 93 | 💬 35 | [HN Thread](https://news.ycombinator.com/item?id=49300759) |
+| **5** | [Why does Opus 5 feel worse to work with?](https://mun-logadan.github.io/why-does-opus-5-feel-worse/) | ⭐ 514 | 💬 473 | [HN Thread](https://news.ycombinator.com/item?id=49296740) |
+| **6** | [GLM-5.3: Frontier coding with emergent cyber capabilities](https://z.ai/blog/glm-5.3) | ⭐ 946 | 💬 476 | [HN Thread](https://news.ycombinator.com/item?id=49294997) |
+| **7** | [Introducing Toast 1](https://www.mixedbread.com/blog/toast-1) | ⭐ 121 | 💬 33 | [HN Thread](https://news.ycombinator.com/item?id=49299746) |
+| **8** | [Maximizing the value of your Claude Code sessions](https://claude.com/blog/maximizing-the-value-of-your-claude-code-sessions) | ⭐ 55 | 💬 25 | [HN Thread](https://news.ycombinator.com/item?id=49300800) |
+| **9** | [Ultraviolet Bird Photography](https://uvbirds.com/) | ⭐ 46 | 💬 7 | [HN Thread](https://news.ycombinator.com/item?id=49211375) |
+| **10** | [AI by Hand](https://www.byhand.ai/) | ⭐ 67 | 💬 6 | [HN Thread](https://news.ycombinator.com/item?id=49300568) |
 
 ---
 
