@@ -147,7 +147,7 @@ An automated **Tech & AI News Digest (Git-Scraper)** powered entirely by **GitHu
 
 ```
 ┌───────────────────────────────┐
-│ GitHub Actions Cron (Daily)   │ 06:00 UTC
+│ GitHub Actions Cron (Every 6h)│ 00:00, 06:00, 12:00, 18:00 UTC
 └──────────────┬────────────────┘
                ▼
 ┌───────────────────────────────┐
@@ -163,7 +163,7 @@ An automated **Tech & AI News Digest (Git-Scraper)** powered entirely by **GitHu
 └───────────────────────────────┘
 ```
 
-1. **Scheduled Trigger:** GitHub Actions runs daily at `06:00 UTC` (`09:30 AM` Local Time) and supports manual triggering via `workflow_dispatch`.
+1. **Scheduled Trigger:** GitHub Actions runs every 6 hours (`00:00`, `06:00`, `12:00`, `18:00` UTC) and supports manual triggering via `workflow_dispatch`.
 2. **Data Scraping:** `scraper.py` queries Hacker News API for the highest-ranked stories and discussions.
 3. **Archive Generation:** Saves a full snapshot into `archive/YYYY-MM-DD.md`.
 4. **Dashboard Update:** Re-renders this `README.md` with live highlights and table of contents.

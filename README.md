@@ -13,16 +13,16 @@ An automated **Tech & AI News Digest (Git-Scraper)** powered entirely by **GitHu
 
 | # | Story | Points | Comments | Discussion |
 |:---:|:---|:---:|:---:|:---:|
-| **1** | [GLM-5.3: Frontier coding with emergent cyber capabilities](https://z.ai/blog/glm-5.3) | ⭐ 770 | 💬 390 | [HN Thread](https://news.ycombinator.com/item?id=49294997) |
-| **2** | [Don't classify, hallucinate!](https://softwaredoug.com/blog/2026/08/10/hypothetical-classifications) | ⭐ 90 | 💬 46 | [HN Thread](https://news.ycombinator.com/item?id=49249523) |
-| **3** | [In Australia, a Home Battery Boom Has Helped Cut Wholesale Power Prices in Half](https://e360.yale.edu/digest/australia-home-batteries) | ⭐ 33 | 💬 6 | [HN Thread](https://news.ycombinator.com/item?id=49298910) |
-| **4** | [DeepSeek peak/off-peak pricing update](https://api-docs.deepseek.com/news/news260813/) | ⭐ 143 | 💬 76 | [HN Thread](https://news.ycombinator.com/item?id=49296627) |
+| **1** | [GLM-5.3: Frontier coding with emergent cyber capabilities](https://z.ai/blog/glm-5.3) | ⭐ 774 | 💬 392 | [HN Thread](https://news.ycombinator.com/item?id=49294997) |
+| **2** | [Don't classify, hallucinate!](https://softwaredoug.com/blog/2026/08/10/hypothetical-classifications) | ⭐ 96 | 💬 50 | [HN Thread](https://news.ycombinator.com/item?id=49249523) |
+| **3** | [In Australia, a Home Battery Boom Has Helped Cut Wholesale Power Prices in Half](https://e360.yale.edu/digest/australia-home-batteries) | ⭐ 38 | 💬 10 | [HN Thread](https://news.ycombinator.com/item?id=49298910) |
+| **4** | [DeepSeek peak/off-peak pricing update](https://api-docs.deepseek.com/news/news260813/) | ⭐ 143 | 💬 77 | [HN Thread](https://news.ycombinator.com/item?id=49296627) |
 | **5** | [Show HN: Lambdock – Wayland-native GTK4 dock with a live Lisp REPL](https://codeberg.org/jjba23/lambdock) | ⭐ 9 | 💬 0 | [HN Thread](https://news.ycombinator.com/item?id=49260628) |
-| **6** | [Gemini 3.7 Flash](https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-3-7-flash/) | ⭐ 916 | 💬 463 | [HN Thread](https://news.ycombinator.com/item?id=49289112) |
+| **6** | [Gemini 3.7 Flash](https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-3-7-flash/) | ⭐ 917 | 💬 463 | [HN Thread](https://news.ycombinator.com/item?id=49289112) |
 | **7** | [Differential Heuristics](https://www.redblobgames.com/blog/2026-08-08-differential-heuristics/) | ⭐ 76 | 💬 5 | [HN Thread](https://news.ycombinator.com/item?id=49231490) |
-| **8** | [Why does Opus 5 feel worse to work with?](https://mun-logadan.github.io/why-does-opus-5-feel-worse/) | ⭐ 300 | 💬 283 | [HN Thread](https://news.ycombinator.com/item?id=49296740) |
+| **8** | [Why does Opus 5 feel worse to work with?](https://mun-logadan.github.io/why-does-opus-5-feel-worse/) | ⭐ 304 | 💬 289 | [HN Thread](https://news.ycombinator.com/item?id=49296740) |
 | **9** | [Protect Your Relays](https://www.iroh.computer/blog/authenticated-relays) | ⭐ 30 | 💬 10 | [HN Thread](https://news.ycombinator.com/item?id=49242867) |
-| **10** | [Hello, me. It's been a while](https://themech.net/2026/08/hello-me-its-been-a-while/) | ⭐ 312 | 💬 165 | [HN Thread](https://news.ycombinator.com/item?id=49290166) |
+| **10** | [HashAgent – Share an AI agent as a URL, runs locally via WebGPU](https://hashagent.pages.dev/) | ⭐ 7 | 💬 0 | [HN Thread](https://news.ycombinator.com/item?id=49298088) |
 
 ---
 
@@ -36,7 +36,7 @@ An automated **Tech & AI News Digest (Git-Scraper)** powered entirely by **GitHu
 
 ```
 ┌───────────────────────────────┐
-│ GitHub Actions Cron (Daily)   │ 06:00 UTC
+│ GitHub Actions Cron (Every 6h)│ 00:00, 06:00, 12:00, 18:00 UTC
 └──────────────┬────────────────┘
                ▼
 ┌───────────────────────────────┐
@@ -52,7 +52,7 @@ An automated **Tech & AI News Digest (Git-Scraper)** powered entirely by **GitHu
 └───────────────────────────────┘
 ```
 
-1. **Scheduled Trigger:** GitHub Actions runs daily at `06:00 UTC` (`09:30 AM` Local Time) and supports manual triggering via `workflow_dispatch`.
+1. **Scheduled Trigger:** GitHub Actions runs every 6 hours (`00:00`, `06:00`, `12:00`, `18:00` UTC) and supports manual triggering via `workflow_dispatch`.
 2. **Data Scraping:** `scraper.py` queries Hacker News API for the highest-ranked stories and discussions.
 3. **Archive Generation:** Saves a full snapshot into `archive/YYYY-MM-DD.md`.
 4. **Dashboard Update:** Re-renders this `README.md` with live highlights and table of contents.
