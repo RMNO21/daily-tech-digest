@@ -1,0 +1,40 @@
+name: Daily Tech Digest
+
+on:
+  schedule:
+    # Runs daily at 06:00 UTC (09:30 AM Iran Standard Time)
+    - cron: '0 6 * * *'
+  workflow_dispatch: # Allows manual trigger from GitHub Actions tab
+
+permissions:
+  contents: write
+
+jobs:
+  run-digest:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Run Scraper Engine
+        run: python scraper.py
+
+      - name: Commit and Push Changes
+        run: |
+          git config --global user.name "RMNO21"
+          git config --global user.email "tondroraman83@gmail.com"
+          git add archive/ README.md
+          if git diff-index --quiet HEAD --; then
+            echo "No new updates to commit."
+          else
+            git commit -m "chore(digest): update daily tech digest [$(date -u +'%Y-%m-%d')]"
+            git push
+          fi
