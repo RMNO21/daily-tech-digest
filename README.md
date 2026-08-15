@@ -13,16 +13,16 @@ An automated **Tech & AI News Digest (Git-Scraper)** powered entirely by **GitHu
 
 | # | Story | Points | Comments | Discussion |
 |:---:|:---|:---:|:---:|:---:|
-| **1** | [Auto-research with codex: How I achieved a 232x Faster Kernel](https://sankalp.bearblog.dev/autoresearch/) | ⭐ 41 | 💬 7 | [HN Thread](https://news.ycombinator.com/item?id=49309549) |
-| **2** | [The other Sean Byrne doesn't exist](https://conic.al/writing/the-other-sean-byrne-doesnt-exist/) | ⭐ 239 | 💬 119 | [HN Thread](https://news.ycombinator.com/item?id=49307592) |
-| **3** | [Qwen 3.8 27B](https://huggingface.co/Qwen/Qwen3.8-27B-FP8) | ⭐ 1201 | 💬 718 | [HN Thread](https://news.ycombinator.com/item?id=49299605) |
-| **4** | [The mathematical beauty of hyperbezier curves](https://linebender.org/blog/hyperbezier/) | ⭐ 37 | 💬 1 | [HN Thread](https://news.ycombinator.com/item?id=49237183) |
-| **5** | [Using GCC's Nested Functions with Wide Pointers and No Trampolines II](https://uecker.codeberg.page/2026-07-14.html) | ⭐ 34 | 💬 14 | [HN Thread](https://news.ycombinator.com/item?id=49308685) |
-| **6** | [Going Dark, and the era of law enforcement hacking](https://blog.cryptographyengineering.com/2026/08/14/everything-is-about-to-go-dark/) | ⭐ 366 | 💬 171 | [HN Thread](https://news.ycombinator.com/item?id=49304447) |
-| **7** | [Show HN: Eigendrum - Draw any shape and hear what it sounds like as a drum](https://baselashraf81.github.io/eigendrum/) | ⭐ 36 | 💬 7 | [HN Thread](https://news.ycombinator.com/item?id=49246366) |
-| **8** | [In 1962, Egypt's Missile Program Lost Its Key Scientist Without a Trace](https://www.popularmechanics.com/military/a73358518/nazi-rocket-scientist-disappearance/) | ⭐ 61 | 💬 35 | [HN Thread](https://news.ycombinator.com/item?id=49271382) |
-| **9** | [Understanding WCAG 2.2 as ePub and PDF](https://doeken.org/wcag-ebook) | ⭐ 34 | 💬 2 | [HN Thread](https://news.ycombinator.com/item?id=49271442) |
-| **10** | [The Color of White Light](https://ludens.cl/photo/spectra/spectra.html) | ⭐ 7 | 💬 1 | [HN Thread](https://news.ycombinator.com/item?id=49260582) |
+| **1** | [Semaglutide linked to 26% lower 5-year predicted dementia risk](https://alz-journals.onlinelibrary.wiley.com/doi/10.1002/dad2.70432) | ⭐ 132 | 💬 74 | [HN Thread](https://news.ycombinator.com/item?id=49311651) |
+| **2** | [AI Isn't Outthinking Mathematicians. It's Out-Remembering Them](https://davidepiffer.com/p/ai-isnt-outthinking-mathematicians) | ⭐ 27 | 💬 10 | [HN Thread](https://news.ycombinator.com/item?id=49312845) |
+| **3** | [The First At-Home Test for Infected Ticks Could Improve Lyme Disease Diagnosis](https://www.smithsonianmag.com/innovation/the-first-at-home-test-for-infected-ticks-could-improve-lyme-disease-diagnosis-180989235/) | ⭐ 119 | 💬 44 | [HN Thread](https://news.ycombinator.com/item?id=49310682) |
+| **4** | [Auto-research with codex: How I achieved a 232x Faster Kernel](https://sankalp.bearblog.dev/autoresearch/) | ⭐ 286 | 💬 75 | [HN Thread](https://news.ycombinator.com/item?id=49309549) |
+| **5** | [RISC-V: They Should Have Known Better](https://dmitry.gr/?r=06.%20Thoughts&proj=12.%20RV) | ⭐ 87 | 💬 227 | [HN Thread](https://news.ycombinator.com/item?id=49298035) |
+| **6** | [A Spectre Is Haunting Unicode](https://www.dampfkraft.com/ghost-characters.html) | ⭐ 50 | 💬 9 | [HN Thread](https://news.ycombinator.com/item?id=49310926) |
+| **7** | [A controversial Alzheimer's surgery is said to reverse symptoms](https://www.nature.com/articles/d41586-026-02448-x) | ⭐ 74 | 💬 24 | [HN Thread](https://news.ycombinator.com/item?id=49312008) |
+| **8** | [Working with AI Feels More Like Leadership Than Coding](https://allen.bargi.org/notes/working-with-ai-feels-like-leadership/) | ⭐ 170 | 💬 122 | [HN Thread](https://news.ycombinator.com/item?id=49309451) |
+| **9** | [2D Gaussian Splatting for Bézier Spline Line Art Vectorization](https://studios.disneyresearch.com/2026/07/16/2d-gaussian-splatting-for-bezier-spline-line-art-vectorization/) | ⭐ 28 | 💬 4 | [HN Thread](https://news.ycombinator.com/item?id=49306333) |
+| **10** | [Could a computer scientist build a brain?](https://stankerstjens.github.io/could-a-computer-scientist-build-a-brain/) | ⭐ 38 | 💬 24 | [HN Thread](https://news.ycombinator.com/item?id=49310362) |
 
 ---
 
