@@ -1,7 +1,7 @@
 # 📰 Daily Tech & AI Digest
 
 [![Daily Tech Digest](https://github.com/RMNO21/daily-tech-digest/actions/workflows/daily-digest.yml/badge.svg)](https://github.com/RMNO21/daily-tech-digest/actions/workflows/daily-digest.yml)
-[![Last Updated](https://img.shields.io/badge/Last%20Updated-2026-08-14-blue.svg)](#-todays-highlights-2026-08-14)
+[![Last Updated](https://img.shields.io/badge/Last%20Updated-2026-08-15-blue.svg)](#-todays-highlights-2026-08-15)
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 [![Python 3.x](https://img.shields.io/badge/Python-3.x-3776AB?logo=python&logoColor=white)](https://python.org)
 
@@ -9,25 +9,26 @@ An automated **Tech & AI News Digest (Git-Scraper)** powered entirely by **GitHu
 
 ---
 
-## 🚀 Today's Highlights (2026-08-14)
+## 🚀 Today's Highlights (2026-08-15)
 
 | # | Story | Points | Comments | Discussion |
 |:---:|:---|:---:|:---:|:---:|
-| **1** | [Qwen 3.8 27B](https://huggingface.co/Qwen/Qwen3.8-27B-FP8) | ⭐ 435 | 💬 309 | [HN Thread](https://news.ycombinator.com/item?id=49299605) |
-| **2** | [Count Binface receives over a quarter of votes in Clacton by-election](https://www.bbc.com/news/articles/ce97mm3vvemo) | ⭐ 209 | 💬 121 | [HN Thread](https://news.ycombinator.com/item?id=49301260) |
-| **3** | [Seven books I keep close because I love them](https://blog.plover.com/2026/08/02/) | ⭐ 183 | 💬 73 | [HN Thread](https://news.ycombinator.com/item?id=49299675) |
-| **4** | [RustDesk now supports true unattended remote access on Wayland](https://rustdesk.com/blog/unattended-remote-access-wayland/) | ⭐ 93 | 💬 35 | [HN Thread](https://news.ycombinator.com/item?id=49300759) |
-| **5** | [Why does Opus 5 feel worse to work with?](https://mun-logadan.github.io/why-does-opus-5-feel-worse/) | ⭐ 514 | 💬 473 | [HN Thread](https://news.ycombinator.com/item?id=49296740) |
-| **6** | [GLM-5.3: Frontier coding with emergent cyber capabilities](https://z.ai/blog/glm-5.3) | ⭐ 946 | 💬 476 | [HN Thread](https://news.ycombinator.com/item?id=49294997) |
-| **7** | [Introducing Toast 1](https://www.mixedbread.com/blog/toast-1) | ⭐ 121 | 💬 33 | [HN Thread](https://news.ycombinator.com/item?id=49299746) |
-| **8** | [Maximizing the value of your Claude Code sessions](https://claude.com/blog/maximizing-the-value-of-your-claude-code-sessions) | ⭐ 55 | 💬 25 | [HN Thread](https://news.ycombinator.com/item?id=49300800) |
-| **9** | [Ultraviolet Bird Photography](https://uvbirds.com/) | ⭐ 46 | 💬 7 | [HN Thread](https://news.ycombinator.com/item?id=49211375) |
-| **10** | [AI by Hand](https://www.byhand.ai/) | ⭐ 67 | 💬 6 | [HN Thread](https://news.ycombinator.com/item?id=49300568) |
+| **1** | [Qwen 3.8 27B](https://huggingface.co/Qwen/Qwen3.8-27B-FP8) | ⭐ 878 | 💬 573 | [HN Thread](https://news.ycombinator.com/item?id=49299605) |
+| **2** | [Going Dark, and the era of law enforcement hacking](https://blog.cryptographyengineering.com/2026/08/14/everything-is-about-to-go-dark/) | ⭐ 180 | 💬 109 | [HN Thread](https://news.ycombinator.com/item?id=49304447) |
+| **3** | [RISC-V: They should have known better](https://dmitry.gr/?r=06.%20Thoughts&proj=12.%20RV) | ⭐ 104 | 💬 54 | [HN Thread](https://news.ycombinator.com/item?id=49305492) |
+| **4** | [The case for overhauling American science](https://www.economist.com/by-invitation/2026/08/13/the-case-for-overhauling-american-science) | ⭐ 26 | 💬 11 | [HN Thread](https://news.ycombinator.com/item?id=49305708) |
+| **5** | [Why does Opus 5 feel worse to work with?](https://mun-logadan.github.io/why-does-opus-5-feel-worse/) | ⭐ 773 | 💬 708 | [HN Thread](https://news.ycombinator.com/item?id=49296740) |
+| **6** | [Google is making private AI practical with homomorphic encryption](https://blog.google/security/how-google-is-making-private-ai-practical-with-homomorphic-encryption/) | ⭐ 271 | 💬 165 | [HN Thread](https://news.ycombinator.com/item?id=49300314) |
+| **7** | [Stop sending me huge PRs; a rant](https://getsmall.xyz/post/cmstjfl9l000if70ljmpzr4va) | ⭐ 47 | 💬 27 | [HN Thread](https://news.ycombinator.com/item?id=49305558) |
+| **8** | [RustDesk now supports true unattended remote access on Wayland](https://rustdesk.com/blog/unattended-remote-access-wayland/) | ⭐ 216 | 💬 94 | [HN Thread](https://news.ycombinator.com/item?id=49300759) |
+| **9** | [Super Mario Derivations](https://fzakaria.com/2026/08/05/super-mario-derivations) | ⭐ 43 | 💬 7 | [HN Thread](https://news.ycombinator.com/item?id=49215682) |
+| **10** | [Jane Street suffers $15B hit after meltdown at Situational Awareness](https://www.ft.com/content/47dd5308-dd17-404a-a615-61046defd697) | ⭐ 64 | 💬 19 | [HN Thread](https://news.ycombinator.com/item?id=49305927) |
 
 ---
 
 ## 🗄️ Recent Archives
 
+- 📅 [2026-08-15](archive/2026-08-15.md)
 - 📅 [2026-08-14](archive/2026-08-14.md)
 
 ---
@@ -44,7 +45,7 @@ An automated **Tech & AI News Digest (Git-Scraper)** powered entirely by **GitHu
 └──────────────┬────────────────┘
                ▼
 ┌───────────────────────────────┐
-│ Markdown Generator            │ Updates archive/2026-08-14.md & README.md
+│ Markdown Generator            │ Updates archive/2026-08-15.md & README.md
 └──────────────┬────────────────┘
                ▼
 ┌───────────────────────────────┐
