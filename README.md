@@ -13,16 +13,16 @@ An automated **Tech & AI News Digest (Git-Scraper)** powered entirely by **GitHu
 
 | # | Story | Points | Comments | Discussion |
 |:---:|:---|:---:|:---:|:---:|
-| **1** | [Semaglutide linked to lower predicted dementia risk](https://alz-journals.onlinelibrary.wiley.com/doi/10.1002/dad2.70432) | ⭐ 340 | 💬 236 | [HN Thread](https://news.ycombinator.com/item?id=49311651) |
-| **2** | [ChatGPT lost 22 points of web share in a year](https://aicharts.grok.me/c/market-share) | ⭐ 12 | 💬 11 | [HN Thread](https://news.ycombinator.com/item?id=49315630) |
-| **3** | [Cultivating a state of mind where new ideas are born (2023)](https://www.henrikkarlsson.xyz/p/good-ideas) | ⭐ 70 | 💬 19 | [HN Thread](https://news.ycombinator.com/item?id=49314235) |
-| **4** | [AI in drug discovery – what it is, where we stand and the path forward](https://www.science.org/content/blog-post/so-how-ai-drug-discovery-doing-really) | ⭐ 84 | 💬 42 | [HN Thread](https://news.ycombinator.com/item?id=49313367) |
-| **5** | [At-home test for infected ticks could improve Lyme Disease diagnosis](https://www.smithsonianmag.com/innovation/the-first-at-home-test-for-infected-ticks-could-improve-lyme-disease-diagnosis-180989235/) | ⭐ 210 | 💬 72 | [HN Thread](https://news.ycombinator.com/item?id=49310682) |
-| **6** | [Abdominal fat predicts heart disease risk better than BMI](https://www.acc.org/about-acc/press-releases/2026/08/11/14/59/abdominal-fat-predicts-heart-disease-risk-better-than-bmi) | ⭐ 135 | 💬 99 | [HN Thread](https://news.ycombinator.com/item?id=49314403) |
-| **7** | [RISC-V: They Should Have Known Better](https://dmitry.gr/?r=06.%20Thoughts&proj=12.%20RV) | ⭐ 224 | 💬 295 | [HN Thread](https://news.ycombinator.com/item?id=49298035) |
-| **8** | [Tracking down a Zsh history data loss bug](https://michael.stapelberg.ch/posts/2026-08-09-zsh-history-truncation-bug/) | ⭐ 31 | 💬 4 | [HN Thread](https://news.ycombinator.com/item?id=49314579) |
-| **9** | [AI has access to a vastly larger working memory than the human brain](https://davidepiffer.com/p/ai-isnt-outthinking-mathematicians) | ⭐ 406 | 💬 362 | [HN Thread](https://news.ycombinator.com/item?id=49312845) |
-| **10** | [Super El Niño Keeps Growing as New Forecasts Reach Record Territory Ahead Winter](https://www.severe-weather.eu/long-range-2/super-el-nino-growth-accelerating-to-record-strength-fall-winter-2026-2027-forecast-impact-united-states-canada-europe-fa/) | ⭐ 57 | 💬 17 | [HN Thread](https://news.ycombinator.com/item?id=49313428) |
+| **1** | [Asus Bike Booster](https://www.asus.com/accessories/bike-booster/asus-oxiis/oxiis-intelligent-bike-booster/) | ⭐ 284 | 💬 160 | [HN Thread](https://news.ycombinator.com/item?id=49268580) |
+| **2** | [The quirky personal homepages of programming language creators](https://breck.lol/plMakers.html) | ⭐ 54 | 💬 16 | [HN Thread](https://news.ycombinator.com/item?id=49316888) |
+| **3** | [Asynchronous I/O in DuckDB: Work, Thread, Work](https://duckdb.org/2026/07/31/asynchronous-io) | ⭐ 112 | 💬 8 | [HN Thread](https://news.ycombinator.com/item?id=49243061) |
+| **4** | [Semaglutide linked to lower predicted dementia risk](https://alz-journals.onlinelibrary.wiley.com/doi/10.1002/dad2.70432) | ⭐ 400 | 💬 276 | [HN Thread](https://news.ycombinator.com/item?id=49311651) |
+| **5** | [Patterns and problems in emerging multi-agent systems](https://www.anthropic.com/research/multiagent-systems) | ⭐ 42 | 💬 11 | [HN Thread](https://news.ycombinator.com/item?id=49316271) |
+| **6** | [Cultivating a state of mind where new ideas are born (2023)](https://www.henrikkarlsson.xyz/p/good-ideas) | ⭐ 136 | 💬 32 | [HN Thread](https://news.ycombinator.com/item?id=49314235) |
+| **7** | [Targeted marine cloud brightening weakens subsequent El Niño](https://www.science.org/doi/10.1126/sciadv.adx3012) | ⭐ 13 | 💬 0 | [HN Thread](https://news.ycombinator.com/item?id=49316685) |
+| **8** | [Guiding Ships with Moire Patterns](https://tinkerings.org/2018/03/28/guiding-ships-with-moire-patterns/) | ⭐ 29 | 💬 7 | [HN Thread](https://news.ycombinator.com/item?id=49315995) |
+| **9** | [Show HN: Mic Drop, a real-time multiplayer karaoke game](https://www.micdrop.gg/) | ⭐ 44 | 💬 16 | [HN Thread](https://news.ycombinator.com/item?id=49315742) |
+| **10** | [Super El Niño Keeps Growing as New Forecasts Reach Record Territory Ahead Winter](https://www.severe-weather.eu/long-range-2/super-el-nino-growth-accelerating-to-record-strength-fall-winter-2026-2027-forecast-impact-united-states-canada-europe-fa/) | ⭐ 167 | 💬 95 | [HN Thread](https://news.ycombinator.com/item?id=49313428) |
 
 ---
 
