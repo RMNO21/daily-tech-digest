@@ -69,7 +69,7 @@ def format_archive_content(today: str, stories: list) -> str:
     lines = [
         f"# 📰 Tech & AI News Digest — {today}",
         "",
-        f"> Automatically generated on `{today}` via **GitHub Actions**.",
+        f"> Automatically generated on `{today}`.",
         "",
         "| # | Story & Link | Points | Comments | Discussion |",
         "|:---:|:---|:---:|:---:|:---:|",
@@ -121,15 +121,14 @@ def generate_readme(today: str, stories: list, archive_files: list) -> str:
     readme_content = f"""# 📰 Daily Tech & AI Digest
 
 [![Daily Tech Digest](https://github.com/RMNO21/daily-tech-digest/actions/workflows/daily-digest.yml/badge.svg)](https://github.com/RMNO21/daily-tech-digest/actions/workflows/daily-digest.yml)
-[![Last Updated](https://img.shields.io/badge/Last%20Updated-{today}-blue.svg)](#-todays-highlights-{today})
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 [![Python 3.x](https://img.shields.io/badge/Python-3.x-3776AB?logo=python&logoColor=white)](https://python.org)
 
-An automated **Tech & AI News Digest (Git-Scraper)** powered entirely by **GitHub Actions**. Every day, this repository fetches trending technology and artificial intelligence highlights, creates a persistent date-stamped archive, updates the dashboard below, and commits changes directly.
+An automated **Tech & AI News Digest** that aggregates top trending discussions and articles from the developer community and maintains an organized history archive.
 
 ---
 
-## 🚀 Today's Highlights ({today})
+## 🚀 Latest News
 
 | # | Story | Points | Comments | Discussion |
 |:---:|:---|:---:|:---:|:---:|
@@ -137,7 +136,7 @@ An automated **Tech & AI News Digest (Git-Scraper)** powered entirely by **GitHu
 
 ---
 
-## 🗄️ Recent Archives
+## 🗄️ News Archive
 
 {archive_section}
 
@@ -147,7 +146,7 @@ An automated **Tech & AI News Digest (Git-Scraper)** powered entirely by **GitHu
 
 ```
 ┌───────────────────────────────┐
-│ GitHub Actions Cron (Every 6h)│ 00:00, 06:00, 12:00, 18:00 UTC
+│ GitHub Actions Automation     │
 └──────────────┬────────────────┘
                ▼
 ┌───────────────────────────────┐
@@ -155,19 +154,18 @@ An automated **Tech & AI News Digest (Git-Scraper)** powered entirely by **GitHu
 └──────────────┬────────────────┘
                ▼
 ┌───────────────────────────────┐
-│ Markdown Generator            │ Updates archive/{today}.md & README.md
+│ Markdown Generator            │ Updates archive/ & README.md
 └──────────────┬────────────────┘
                ▼
 ┌───────────────────────────────┐
-│ Git Auto-Commit & Push        │ Signed with RMNO21 identity
+│ Repository Sync               │ Preserves news records
 └───────────────────────────────┘
 ```
 
-1. **Scheduled Trigger:** GitHub Actions runs every 6 hours (`00:00`, `06:00`, `12:00`, `18:00` UTC) and supports manual triggering via `workflow_dispatch`.
-2. **Data Scraping:** `scraper.py` queries Hacker News API for the highest-ranked stories and discussions.
-3. **Archive Generation:** Saves a full snapshot into `archive/YYYY-MM-DD.md`.
-4. **Dashboard Update:** Re-renders this `README.md` with live highlights and table of contents.
-5. **Auto Commit & Push:** Commits changes using the author's verified credentials, contributing to the GitHub activity graph.
+1. **Workflow Trigger:** Automated GitHub Actions workflow executes on schedule and supports manual triggers.
+2. **Data Aggregation:** `scraper.py` queries the official Hacker News API to retrieve top tech and AI stories.
+3. **Archive Storage:** Archives historical snapshots in the `archive/` directory.
+4. **Dashboard Generation:** Dynamically updates `README.md` with the latest stories and archive index.
 
 ---
 
@@ -185,7 +183,7 @@ python scraper.py
 ---
 
 <div align="center">
-  <sub>Maintained automatically by <a href="https://github.com/RMNO21">RMNO21</a> • Powered by GitHub Actions & Hacker News API</sub>
+  <sub>Maintained by <a href="https://github.com/RMNO21">RMNO21</a> • Powered by GitHub Actions & Hacker News API</sub>
 </div>
 """
     return readme_content
