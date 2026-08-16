@@ -12,16 +12,16 @@ An automated **Tech & AI News Digest** that aggregates top trending discussions 
 
 | # | Story | Points | Comments | Discussion |
 |:---:|:---|:---:|:---:|:---:|
-| **1** | [Claude: System Prompts](https://platform.claude.com/docs/en/release-notes/system-prompts) | ⭐ 99 | 💬 42 | [HN Thread](https://news.ycombinator.com/item?id=49319556) |
-| **2** | [Firefox for iOS now has a native adblocker](https://support.mozilla.org/en-US/kb/block-ads-firefox-ios) | ⭐ 55 | 💬 17 | [HN Thread](https://news.ycombinator.com/item?id=49319633) |
-| **3** | [A SAT Attack on Tarski's High School Algebra Problem](https://arxiv.org/abs/2608.08421) | ⭐ 30 | 💬 14 | [HN Thread](https://news.ycombinator.com/item?id=49268565) |
-| **4** | [Does anyone run Postgres without PgBouncer?](https://brandur.org/fragments/postgres-without-pgbouncer) | ⭐ 49 | 💬 17 | [HN Thread](https://news.ycombinator.com/item?id=49277952) |
-| **5** | [Research papers using "kidney disappointment" instead of "kidney failure"](https://scholar.google.com/scholar?q=%22kidney+disappointment%22) | ⭐ 77 | 💬 33 | [HN Thread](https://news.ycombinator.com/item?id=49319389) |
-| **6** | [Asus Bike Booster](https://www.asus.com/accessories/bike-booster/asus-oxiis/oxiis-intelligent-bike-booster/) | ⭐ 509 | 💬 355 | [HN Thread](https://news.ycombinator.com/item?id=49268580) |
-| **7** | [Chestnut – eGPU dock with open-source firmware](https://hwbusters.com/news/comma-ai-egpu-dock-runs-open-source-firmware-249-bare-799-with-an-rx-9060/) | ⭐ 63 | 💬 16 | [HN Thread](https://news.ycombinator.com/item?id=49292385) |
-| **8** | [Tasklet (YC P26) Is Hiring a Head of Design Engineering](https://tasklet.ai/careers/head-of-design-engineering) | ⭐ 1 | 💬 0 | [HN Thread](https://news.ycombinator.com/item?id=49319892) |
-| **9** | [Asynchronous I/O in DuckDB: Work, Thread, Work](https://duckdb.org/2026/07/31/asynchronous-io) | ⭐ 215 | 💬 26 | [HN Thread](https://news.ycombinator.com/item?id=49243061) |
-| **10** | [Superconducting monolayer cuprate with a single CuO2 plane](https://www.nature.com/articles/s41586-026-10857-1) | ⭐ 35 | 💬 11 | [HN Thread](https://news.ycombinator.com/item?id=49277153) |
+| **1** | [Claude: System Prompts](https://platform.claude.com/docs/en/release-notes/system-prompts) | ⭐ 238 | 💬 122 | [HN Thread](https://news.ycombinator.com/item?id=49319556) |
+| **2** | [The AI Credit Resale Economy](https://vectoral.com/blog/who-are-the-token-brokers) | ⭐ 78 | 💬 24 | [HN Thread](https://news.ycombinator.com/item?id=49320611) |
+| **3** | [St Lucie Nuclear Reactor Unit 1 manually shutdown, 3 control rods drop into core](https://www.wptv.com/news/treasure-coast/region-st-lucie-county/saint-lucie-nuclear-power-plant-unit-1-manually-shut-down-after-3-control-rods-drop-into-reactor-core) | ⭐ 30 | 💬 14 | [HN Thread](https://news.ycombinator.com/item?id=49320856) |
+| **4** | [Firefox for iOS now has a native adblocker](https://support.mozilla.org/en-US/kb/block-ads-firefox-ios) | ⭐ 214 | 💬 82 | [HN Thread](https://news.ycombinator.com/item?id=49319633) |
+| **5** | [A True Telnet BBS on a Casio Calculator](https://ei3lh.eu/2026/08/16/a-true-telnet-bbs-on-a-casio-calculator/) | ⭐ 37 | 💬 6 | [HN Thread](https://news.ycombinator.com/item?id=49319349) |
+| **6** | [Show HN: A public AI whose memory is shared across all users](https://wildstatic.com/) | ⭐ 25 | 💬 14 | [HN Thread](https://news.ycombinator.com/item?id=49319814) |
+| **7** | [The weekend is 100 years old](https://www.theguardian.com/money/2026/aug/16/the-weekend-is-100-years-old-skiveday-fridays-and-hybrid-working-ruined-it) | ⭐ 31 | 💬 6 | [HN Thread](https://news.ycombinator.com/item?id=49320984) |
+| **8** | [GPS and the Lost Art of Getting Lost](https://www.newyorker.com/news/annals-of-inquiry/gps-and-the-lost-art-of-getting-lost) | ⭐ 10 | 💬 7 | [HN Thread](https://news.ycombinator.com/item?id=49320673) |
+| **9** | [Clamiga: Common Lisp for the Amiga](https://nnamgreb.de/blog/Clamiga+-+Common+Lisp+for+the+Amiga) | ⭐ 10 | 💬 0 | [HN Thread](https://news.ycombinator.com/item?id=49281352) |
+| **10** | [A SAT Attack on Tarski's High School Algebra Problem](https://arxiv.org/abs/2608.08421) | ⭐ 46 | 💬 16 | [HN Thread](https://news.ycombinator.com/item?id=49268565) |
 
 ---
 
