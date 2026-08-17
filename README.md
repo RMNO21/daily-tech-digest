@@ -12,16 +12,16 @@ An automated **Tech & AI News Digest** that aggregates top trending discussions 
 
 | # | Story | Points | Comments | Discussion |
 |:---:|:---|:---:|:---:|:---:|
-| **1** | [Qwen 3.8 27B is excellent, but it defaults to overthinking things](https://simonwillison.net/2026/Aug/16/qwen-38-27b/) | ⭐ 594 | 💬 284 | [HN Thread](https://news.ycombinator.com/item?id=49324985) |
-| **2** | [On A.I. regulation and messaging](https://twitter.com/DarioAmodei/status/2088758816376807762) | ⭐ 134 | 💬 230 | [HN Thread](https://news.ycombinator.com/item?id=49325789) |
-| **3** | [GPT 5.6 Sol is the best "vision" model OpenAI ever released](https://blog.roboflow.com/openai-gpt-5-6/) | ⭐ 5 | 💬 1 | [HN Thread](https://news.ycombinator.com/item?id=49329575) |
-| **4** | [Anthropic's 'watermark' text adulteration in Claude is a perversion of writing](https://daringfireball.net/2026/08/anthropics_watermark_text_adulteration_in_claude_is_a_perversion_of_writing) | ⭐ 408 | 💬 395 | [HN Thread](https://news.ycombinator.com/item?id=49324087) |
-| **5** | [How Go detects struct copies with sync.noCopy](https://func25.dev/posts/go-sync-nocopy/) | ⭐ 9 | 💬 6 | [HN Thread](https://news.ycombinator.com/item?id=49284983) |
-| **6** | [A third world engineer responds to “RISC-V: They should have known better”](https://rvembedded.com/blog_post/12/) | ⭐ 553 | 💬 281 | [HN Thread](https://news.ycombinator.com/item?id=49321717) |
-| **7** | [Show HN: Desktopcolors.com – A museum for solid background colors of classic OS](https://desktopcolors.com) | ⭐ 40 | 💬 20 | [HN Thread](https://news.ycombinator.com/item?id=49327643) |
-| **8** | [Buyer cancels showing after Deflock shows two cameras utilized by the HOA](https://twitter.com/lydiakauppi/status/2089196932413452386) | ⭐ 20 | 💬 3 | [HN Thread](https://news.ycombinator.com/item?id=49329660) |
-| **9** | [Reticulum – Decentralized Mesh Network](https://reticulum.network/) | ⭐ 156 | 💬 53 | [HN Thread](https://news.ycombinator.com/item?id=49325061) |
-| **10** | [Claude: System Prompts](https://platform.claude.com/docs/en/release-notes/system-prompts) | ⭐ 691 | 💬 268 | [HN Thread](https://news.ycombinator.com/item?id=49319556) |
+| **1** | [A Preview of DuckDB v2.0](https://duckdb.org/2026/08/17/duckdb-20-highlights) | ⭐ 209 | 💬 29 | [HN Thread](https://news.ycombinator.com/item?id=49330781) |
+| **2** | [AI-Generated GitHub Copilot "Autofix" Allowed Compromise of Snowflake's Jira](https://www.wiz.io/blog/red-agent-snowflake-copilot-cicd-bug) | ⭐ 97 | 💬 43 | [HN Thread](https://news.ycombinator.com/item?id=49331423) |
+| **3** | [GPT 5.6 Sol is the best "vision" model OpenAI ever released](https://blog.roboflow.com/openai-gpt-5-6/) | ⭐ 183 | 💬 100 | [HN Thread](https://news.ycombinator.com/item?id=49329575) |
+| **4** | [Launch HN: Speko (YC S26) – OpenRouter for Voice AI](https://speko.ai/) | ⭐ 22 | 💬 7 | [HN Thread](https://news.ycombinator.com/item?id=49332751) |
+| **5** | [How to disable or avoid intrusive AI](https://www.librarian.net/notoai/) | ⭐ 75 | 💬 20 | [HN Thread](https://news.ycombinator.com/item?id=49331220) |
+| **6** | [How to put 170 atoms in an atom](https://signoregalilei.com/2026/08/02/how-to-put-170-atoms-in-an-atom/) | ⭐ 41 | 💬 4 | [HN Thread](https://news.ycombinator.com/item?id=49331474) |
+| **7** | [GitHub down again? no PR access](https://news.ycombinator.com/item?id=49330632) | ⭐ 280 | 💬 97 | [HN Thread](https://news.ycombinator.com/item?id=49330632) |
+| **8** | [Olo (Color)](https://en.wikipedia.org/wiki/Olo_(color)) | ⭐ 53 | 💬 4 | [HN Thread](https://news.ycombinator.com/item?id=49270194) |
+| **9** | [Apple's App Tracking Transparency treated its own apps better than rivals](https://www.bundeskartellamt.de/SharedDocs/Meldung/EN/Pressemitteilungen/2026/08_17_2026_Apple_ATTF.html) | ⭐ 166 | 💬 58 | [HN Thread](https://news.ycombinator.com/item?id=49331222) |
+| **10** | [How I developed an Am29000 C compiler and web browser](https://nanochess.org/am29000_c_compiler_web_browser.html) | ⭐ 30 | 💬 2 | [HN Thread](https://news.ycombinator.com/item?id=49323474) |
 
 ---
 
