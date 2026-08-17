@@ -12,16 +12,16 @@ An automated **Tech & AI News Digest** that aggregates top trending discussions 
 
 | # | Story | Points | Comments | Discussion |
 |:---:|:---|:---:|:---:|:---:|
-| **1** | [Qwen 3.8 27B is excellent, but it defaults to overthinking things](https://simonwillison.net/2026/Aug/16/qwen-38-27b/) | ⭐ 431 | 💬 190 | [HN Thread](https://news.ycombinator.com/item?id=49324985) |
-| **2** | [GIMP Development Update](https://www.gimp.org/news/2026/08/16/dev-update-august-2026/) | ⭐ 121 | 💬 56 | [HN Thread](https://news.ycombinator.com/item?id=49326156) |
-| **3** | [On A.I. regulation and messaging](https://twitter.com/DarioAmodei/status/2088758816376807762) | ⭐ 43 | 💬 30 | [HN Thread](https://news.ycombinator.com/item?id=49325789) |
-| **4** | [A third world engineer responds to “RISC-V: They should have known better”](https://rvembedded.com/blog_post/12/) | ⭐ 495 | 💬 260 | [HN Thread](https://news.ycombinator.com/item?id=49321717) |
-| **5** | [Linear algebra done right](https://linear.axler.net/) | ⭐ 56 | 💬 28 | [HN Thread](https://news.ycombinator.com/item?id=49326816) |
-| **6** | [Beware the Permanent Periphery](https://asteriskmag.com/issues/15/beware-the-permanent-periphery) | ⭐ 6 | 💬 0 | [HN Thread](https://news.ycombinator.com/item?id=49251775) |
-| **7** | [Anthropic's 'watermark' text adulteration in Claude is a perversion of writing](https://daringfireball.net/2026/08/anthropics_watermark_text_adulteration_in_claude_is_a_perversion_of_writing) | ⭐ 226 | 💬 208 | [HN Thread](https://news.ycombinator.com/item?id=49324087) |
-| **8** | [Reticulum – Decentralized Mesh Network](https://reticulum.network/) | ⭐ 116 | 💬 27 | [HN Thread](https://news.ycombinator.com/item?id=49325061) |
-| **9** | [Claude: System Prompts](https://platform.claude.com/docs/en/release-notes/system-prompts) | ⭐ 644 | 💬 254 | [HN Thread](https://news.ycombinator.com/item?id=49319556) |
-| **10** | [AGI-64 Brings Sierra Adventures to the Commodore 64](https://meanhamster.com/news/agi-64-brings-sierra-adventures-to-the-commodore-64) | ⭐ 81 | 💬 10 | [HN Thread](https://news.ycombinator.com/item?id=49325714) |
+| **1** | [Qwen 3.8 27B is excellent, but it defaults to overthinking things](https://simonwillison.net/2026/Aug/16/qwen-38-27b/) | ⭐ 594 | 💬 284 | [HN Thread](https://news.ycombinator.com/item?id=49324985) |
+| **2** | [On A.I. regulation and messaging](https://twitter.com/DarioAmodei/status/2088758816376807762) | ⭐ 134 | 💬 230 | [HN Thread](https://news.ycombinator.com/item?id=49325789) |
+| **3** | [GPT 5.6 Sol is the best "vision" model OpenAI ever released](https://blog.roboflow.com/openai-gpt-5-6/) | ⭐ 5 | 💬 1 | [HN Thread](https://news.ycombinator.com/item?id=49329575) |
+| **4** | [Anthropic's 'watermark' text adulteration in Claude is a perversion of writing](https://daringfireball.net/2026/08/anthropics_watermark_text_adulteration_in_claude_is_a_perversion_of_writing) | ⭐ 408 | 💬 395 | [HN Thread](https://news.ycombinator.com/item?id=49324087) |
+| **5** | [How Go detects struct copies with sync.noCopy](https://func25.dev/posts/go-sync-nocopy/) | ⭐ 9 | 💬 6 | [HN Thread](https://news.ycombinator.com/item?id=49284983) |
+| **6** | [A third world engineer responds to “RISC-V: They should have known better”](https://rvembedded.com/blog_post/12/) | ⭐ 553 | 💬 281 | [HN Thread](https://news.ycombinator.com/item?id=49321717) |
+| **7** | [Show HN: Desktopcolors.com – A museum for solid background colors of classic OS](https://desktopcolors.com) | ⭐ 40 | 💬 20 | [HN Thread](https://news.ycombinator.com/item?id=49327643) |
+| **8** | [Buyer cancels showing after Deflock shows two cameras utilized by the HOA](https://twitter.com/lydiakauppi/status/2089196932413452386) | ⭐ 20 | 💬 3 | [HN Thread](https://news.ycombinator.com/item?id=49329660) |
+| **9** | [Reticulum – Decentralized Mesh Network](https://reticulum.network/) | ⭐ 156 | 💬 53 | [HN Thread](https://news.ycombinator.com/item?id=49325061) |
+| **10** | [Claude: System Prompts](https://platform.claude.com/docs/en/release-notes/system-prompts) | ⭐ 691 | 💬 268 | [HN Thread](https://news.ycombinator.com/item?id=49319556) |
 
 ---
 
