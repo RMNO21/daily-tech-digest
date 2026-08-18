@@ -12,16 +12,16 @@ An automated **Tech & AI News Digest** that aggregates top trending discussions 
 
 | # | Story | Points | Comments | Discussion |
 |:---:|:---|:---:|:---:|:---:|
-| **1** | [Using the railway network as a flatbed scanner](https://philo.gay/linecam/) | ⭐ 226 | 💬 39 | [HN Thread](https://news.ycombinator.com/item?id=49344825) |
-| **2** | [Fixing a Bricked Framework Laptop](https://quantum5.ca/2026/08/16/fixing-bricked-amd-7040-series-framework-13-laptop-with-20-tools/) | ⭐ 170 | 💬 88 | [HN Thread](https://news.ycombinator.com/item?id=49345220) |
-| **3** | [The Amazon Tax](https://seths.blog/2026/08/the-amazon-tax/) | ⭐ 369 | 💬 267 | [HN Thread](https://news.ycombinator.com/item?id=49345263) |
-| **4** | [How I Under-Engineered My Book](https://chriskiehl.com/article/how-i-under-engineered-my-book) | ⭐ 34 | 💬 4 | [HN Thread](https://news.ycombinator.com/item?id=49336392) |
-| **5** | [Apple announces changes for apps in the European Union](https://www.apple.com/newsroom/2026/08/apple-announces-changes-for-apps-in-the-european-union/) | ⭐ 12 | 💬 3 | [HN Thread](https://news.ycombinator.com/item?id=49348055) |
-| **6** | [Linux 7.3 improves performance when running out of vRAM](https://pixelcluster.dev/VRAM-Overcommit/) | ⭐ 394 | 💬 158 | [HN Thread](https://news.ycombinator.com/item?id=49342719) |
-| **7** | [Python Polars Cheatsheet (based on our O'Reilly book)](https://opensource.posit.co/resources/cheatsheets/polars/) | ⭐ 66 | 💬 12 | [HN Thread](https://news.ycombinator.com/item?id=49345476) |
-| **8** | [Claude: Degraded Performance for Multiple Models](https://status.claude.com/incidents/q7txxvbsftgq) | ⭐ 5 | 💬 0 | [HN Thread](https://news.ycombinator.com/item?id=49348163) |
-| **9** | [Launch HN: machine0 (YC S26) – Persistent CPU and GPU VMs from the CLI](https://machine0.io) | ⭐ 3 | 💬 0 | [HN Thread](https://news.ycombinator.com/item?id=49348136) |
-| **10** | [Teaching my kid to code with a modern MUD](https://tau.dev/2026/08/07/canon) | ⭐ 139 | 💬 45 | [HN Thread](https://news.ycombinator.com/item?id=49272631) |
+| **1** | [Beware Management Consultants](https://about.iceland.co.uk/our-story/the-dark-ages/beware-management-consultants/) | ⭐ 82 | 💬 17 | [HN Thread](https://news.ycombinator.com/item?id=49351324) |
+| **2** | [Turbovec – Google's TurboQuant for vector search in Rust](https://github.com/RyanCodrai/turbovec) | ⭐ 120 | 💬 14 | [HN Thread](https://news.ycombinator.com/item?id=49349898) |
+| **3** | [The Amazon tax](https://seths.blog/2026/08/the-amazon-tax/) | ⭐ 657 | 💬 436 | [HN Thread](https://news.ycombinator.com/item?id=49345263) |
+| **4** | [Using the railway network as a flatbed scanner](https://philo.gay/linecam/) | ⭐ 329 | 💬 53 | [HN Thread](https://news.ycombinator.com/item?id=49344825) |
+| **5** | [How does IKEA come up with names for its products?](https://www.ikea.com/se/en/customer-service/knowledge/articles/6f564c4d-2ccc-46de-b643-545a3948dc79.html) | ⭐ 126 | 💬 82 | [HN Thread](https://news.ycombinator.com/item?id=49349984) |
+| **6** | [Fixing a bricked Framework laptop](https://quantum5.ca/2026/08/16/fixing-bricked-amd-7040-series-framework-13-laptop-with-20-tools/) | ⭐ 287 | 💬 191 | [HN Thread](https://news.ycombinator.com/item?id=49345220) |
+| **7** | [Cursor launches Origin, GitHub alternative](https://cursor.com/changelog/origin-code-hosting) | ⭐ 324 | 💬 251 | [HN Thread](https://news.ycombinator.com/item?id=49334209) |
+| **8** | [Norway Should Buy OpenAI](https://www.onethousandmeans.com/p/norway-should-buy-openai) | ⭐ 120 | 💬 117 | [HN Thread](https://news.ycombinator.com/item?id=49351330) |
+| **9** | [Linux 7.3 improves performance when running out of vRAM](https://pixelcluster.dev/VRAM-Overcommit/) | ⭐ 464 | 💬 216 | [HN Thread](https://news.ycombinator.com/item?id=49342719) |
+| **10** | [Pacing model development in an era of cyber-critical capabilities](https://openai.com/index/pacing-model-development-cyber-capabilities/) | ⭐ 26 | 💬 4 | [HN Thread](https://news.ycombinator.com/item?id=49350031) |
 
 ---
 
