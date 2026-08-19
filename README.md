@@ -12,21 +12,22 @@ An automated **Tech & AI News Digest** that aggregates top trending discussions 
 
 | # | Story | Points | Comments | Discussion |
 |:---:|:---|:---:|:---:|:---:|
-| **1** | [Beware Management Consultants](https://about.iceland.co.uk/our-story/the-dark-ages/beware-management-consultants/) | ⭐ 82 | 💬 17 | [HN Thread](https://news.ycombinator.com/item?id=49351324) |
-| **2** | [Turbovec – Google's TurboQuant for vector search in Rust](https://github.com/RyanCodrai/turbovec) | ⭐ 120 | 💬 14 | [HN Thread](https://news.ycombinator.com/item?id=49349898) |
-| **3** | [The Amazon tax](https://seths.blog/2026/08/the-amazon-tax/) | ⭐ 657 | 💬 436 | [HN Thread](https://news.ycombinator.com/item?id=49345263) |
-| **4** | [Using the railway network as a flatbed scanner](https://philo.gay/linecam/) | ⭐ 329 | 💬 53 | [HN Thread](https://news.ycombinator.com/item?id=49344825) |
-| **5** | [How does IKEA come up with names for its products?](https://www.ikea.com/se/en/customer-service/knowledge/articles/6f564c4d-2ccc-46de-b643-545a3948dc79.html) | ⭐ 126 | 💬 82 | [HN Thread](https://news.ycombinator.com/item?id=49349984) |
-| **6** | [Fixing a bricked Framework laptop](https://quantum5.ca/2026/08/16/fixing-bricked-amd-7040-series-framework-13-laptop-with-20-tools/) | ⭐ 287 | 💬 191 | [HN Thread](https://news.ycombinator.com/item?id=49345220) |
-| **7** | [Cursor launches Origin, GitHub alternative](https://cursor.com/changelog/origin-code-hosting) | ⭐ 324 | 💬 251 | [HN Thread](https://news.ycombinator.com/item?id=49334209) |
-| **8** | [Norway Should Buy OpenAI](https://www.onethousandmeans.com/p/norway-should-buy-openai) | ⭐ 120 | 💬 117 | [HN Thread](https://news.ycombinator.com/item?id=49351330) |
-| **9** | [Linux 7.3 improves performance when running out of vRAM](https://pixelcluster.dev/VRAM-Overcommit/) | ⭐ 464 | 💬 216 | [HN Thread](https://news.ycombinator.com/item?id=49342719) |
-| **10** | [Pacing model development in an era of cyber-critical capabilities](https://openai.com/index/pacing-model-development-cyber-capabilities/) | ⭐ 26 | 💬 4 | [HN Thread](https://news.ycombinator.com/item?id=49350031) |
+| **1** | [A 3D fruit fly on macOS desktop powered by the real FlyWire connectome](https://github.com/DenisSergeevitch/desktop-fly) | ⭐ 141 | 💬 34 | [HN Thread](https://news.ycombinator.com/item?id=49353221) |
+| **2** | [The Amazon tax](https://seths.blog/2026/08/the-amazon-tax/) | ⭐ 925 | 💬 535 | [HN Thread](https://news.ycombinator.com/item?id=49345263) |
+| **3** | [Solo – a .so loader for static Linux binaries](https://github.com/pg83/solo) | ⭐ 32 | 💬 38 | [HN Thread](https://news.ycombinator.com/item?id=49354613) |
+| **4** | [How does IKEA come up with names for its products?](https://www.ikea.com/se/en/customer-service/knowledge/articles/6f564c4d-2ccc-46de-b643-545a3948dc79.html) | ⭐ 222 | 💬 140 | [HN Thread](https://news.ycombinator.com/item?id=49349984) |
+| **5** | [Show HN: Interactive, animated architecture of any HuggingFace models](https://modelmap.cc) | ⭐ 28 | 💬 3 | [HN Thread](https://news.ycombinator.com/item?id=49354664) |
+| **6** | [Turbovec – Google's TurboQuant for vector search in Rust](https://github.com/RyanCodrai/turbovec) | ⭐ 202 | 💬 27 | [HN Thread](https://news.ycombinator.com/item?id=49349898) |
+| **7** | [AI usage patterns in software teams](https://linear.app/data) | ⭐ 35 | 💬 18 | [HN Thread](https://news.ycombinator.com/item?id=49353432) |
+| **8** | [Being ambitious and being a dad](https://nicholascharriere.com/blog/being-ambitious-and-being-a-dad/) | ⭐ 261 | 💬 142 | [HN Thread](https://news.ycombinator.com/item?id=49321298) |
+| **9** | [Using the railway network as a flatbed scanner](https://philo.gay/linecam/) | ⭐ 396 | 💬 64 | [HN Thread](https://news.ycombinator.com/item?id=49344825) |
+| **10** | [Cursor launches Origin, GitHub alternative](https://cursor.com/changelog/origin-code-hosting) | ⭐ 462 | 💬 361 | [HN Thread](https://news.ycombinator.com/item?id=49334209) |
 
 ---
 
 ## 🗄️ News Archive
 
+- 📅 [2026-08-19](archive/2026-08-19.md)
 - 📅 [2026-08-18](archive/2026-08-18.md)
 - 📅 [2026-08-17](archive/2026-08-17.md)
 - 📅 [2026-08-16](archive/2026-08-16.md)
