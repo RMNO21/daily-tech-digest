@@ -12,16 +12,16 @@ An automated **Tech & AI News Digest** that aggregates top trending discussions 
 
 | # | Story | Points | Comments | Discussion |
 |:---:|:---|:---:|:---:|:---:|
-| **1** | [Civic Hygiene – avoid building technologies that could be used by a police state](https://shkspr.mobi/blog/2013/11/civic-hygiene/) | ⭐ 76 | 💬 22 | [HN Thread](https://news.ycombinator.com/item?id=49363433) |
-| **2** | [Geolocating a random island using geometry and CUDA programming](https://yassa9.github.io/osint/gralhix-004/) | ⭐ 226 | 💬 46 | [HN Thread](https://news.ycombinator.com/item?id=49360545) |
-| **3** | [A joke domain purchase turned in geopolitical warfare](https://sprocketfox.io/xssfox/2026/08/19/sondehub-and-war/) | ⭐ 300 | 💬 40 | [HN Thread](https://news.ycombinator.com/item?id=49360015) |
-| **4** | [OpenLogi](https://openlogi.org/en) | ⭐ 1284 | 💬 355 | [HN Thread](https://news.ycombinator.com/item?id=49355606) |
-| **5** | [PostgreSQL for Everything](https://www.raphaelbauer.com:443/posts/postgresql-everything/) | ⭐ 151 | 💬 103 | [HN Thread](https://news.ycombinator.com/item?id=49361279) |
-| **6** | [Microgpt in pure C hits 10M tps on Apple m5](https://github.com/vixhal-baraiya/microgpt-c) | ⭐ 42 | 💬 6 | [HN Thread](https://news.ycombinator.com/item?id=49347477) |
-| **7** | [Devices with GrapheneOS support should be available in 2027](https://grapheneos.social/@GrapheneOS/117078064184215730) | ⭐ 443 | 💬 265 | [HN Thread](https://news.ycombinator.com/item?id=49360242) |
-| **8** | [Moderna reports first positive Phase 3 for mRNA neoantigen therapy in melanoma](https://twitter.com/NoubarAfeyan/status/2090050162441752787) | ⭐ 257 | 💬 106 | [HN Thread](https://news.ycombinator.com/item?id=49361395) |
-| **9** | [Launch HN: OneCLI (YC S26) – OSS sandboxed agent harness for teams](https://github.com/onecli/onecli) | ⭐ 3 | 💬 0 | [HN Thread](https://news.ycombinator.com/item?id=49363710) |
-| **10** | [Ornith-1.5: From Self-Scaffolding to Self-Improvement](https://ornith.ai/ornith_1_5.html) | ⭐ 21 | 💬 1 | [HN Thread](https://news.ycombinator.com/item?id=49362401) |
+| **1** | [Go 1.27](https://go.dev/blog/go1.27) | ⭐ 231 | 💬 35 | [HN Thread](https://news.ycombinator.com/item?id=49365405) |
+| **2** | [OpenRouter is joining Stripe](https://openrouter.ai/blog/announcements/openrouter-is-joining-stripe/) | ⭐ 336 | 💬 210 | [HN Thread](https://news.ycombinator.com/item?id=49364559) |
+| **3** | [Unsloth Dynamic 3.0 GGUFs](https://unsloth.ai/docs/basics/dynamic-3.0-ggufs) | ⭐ 67 | 💬 15 | [HN Thread](https://news.ycombinator.com/item?id=49365443) |
+| **4** | [Pixel 11 Pro Fold feels like the end of an era](https://www.theverge.com/tech/981956/google-pixel-11-pro-fold-review) | ⭐ 20 | 💬 33 | [HN Thread](https://news.ycombinator.com/item?id=49366264) |
+| **5** | [A joke domain purchase turned in geopolitical warfare](https://sprocketfox.io/xssfox/2026/08/19/sondehub-and-war/) | ⭐ 593 | 💬 77 | [HN Thread](https://news.ycombinator.com/item?id=49360015) |
+| **6** | [Unlocking a locked/deactivated e-waste Cricut Maker](https://sprocketfox.io/xssfox/2026/07/01/cricut-unlock/) | ⭐ 27 | 💬 7 | [HN Thread](https://news.ycombinator.com/item?id=49365841) |
+| **7** | [Casio F-B100W-1A](https://www.casio.com/uk/watches/casio/product.F-B100W-1A/) | ⭐ 173 | 💬 141 | [HN Thread](https://news.ycombinator.com/item?id=49362887) |
+| **8** | [Ornith-1.5: From Self-Scaffolding to Self-Improvement](https://ornith.ai/ornith_1_5.html) | ⭐ 133 | 💬 34 | [HN Thread](https://news.ycombinator.com/item?id=49362401) |
+| **9** | [Geolocating a random island using geometry and CUDA programming](https://yassa9.github.io/osint/gralhix-004/) | ⭐ 346 | 💬 60 | [HN Thread](https://news.ycombinator.com/item?id=49360545) |
+| **10** | [Ramp Launches a Model Router](https://router.com) | ⭐ 26 | 💬 9 | [HN Thread](https://news.ycombinator.com/item?id=49366067) |
 
 ---
 
