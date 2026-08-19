@@ -12,16 +12,16 @@ An automated **Tech & AI News Digest** that aggregates top trending discussions 
 
 | # | Story | Points | Comments | Discussion |
 |:---:|:---|:---:|:---:|:---:|
-| **1** | [GrapheneOS in 2027 available on high-end Motorola phones](https://grapheneos.social/@GrapheneOS/117078064184215730) | ⭐ 106 | 💬 23 | [HN Thread](https://news.ycombinator.com/item?id=49360242) |
-| **2** | [OpenLogi](https://openlogi.org/en) | ⭐ 997 | 💬 275 | [HN Thread](https://news.ycombinator.com/item?id=49355606) |
-| **3** | [Air Theremin – a browser theremin you play by waving at your webcam](https://theremin.bizibah.com/) | ⭐ 76 | 💬 39 | [HN Thread](https://news.ycombinator.com/item?id=49359425) |
-| **4** | [Geolocating a random island using geometry and CUDA programming](https://yassa9.github.io/osint/gralhix-004/) | ⭐ 15 | 💬 5 | [HN Thread](https://news.ycombinator.com/item?id=49360545) |
-| **5** | [Cerebras CS-4](https://www.cerebras.ai/cs4) | ⭐ 348 | 💬 214 | [HN Thread](https://news.ycombinator.com/item?id=49354949) |
-| **6** | [Rings forged from meteorites may have been fashionable among ancient Greek elite](https://phys.org/news/2026-08-forged-meteorites-fashionable-ancient-greek.html) | ⭐ 32 | 💬 15 | [HN Thread](https://news.ycombinator.com/item?id=49298283) |
-| **7** | [Being ambitious and being a dad](https://nicholascharriere.com/blog/being-ambitious-and-being-a-dad/) | ⭐ 649 | 💬 449 | [HN Thread](https://news.ycombinator.com/item?id=49321298) |
-| **8** | [Supersonic Trebuchet [video]](https://www.youtube.com/watch?v=Co57SfcT-h0) | ⭐ 161 | 💬 66 | [HN Thread](https://news.ycombinator.com/item?id=49306207) |
-| **9** | [Palomar: A registry of Lean verified mathematics](https://terrytao.wordpress.com/2026/08/18/palomar-a-registry-of-lean-verified-mathematics/) | ⭐ 128 | 💬 26 | [HN Thread](https://news.ycombinator.com/item?id=49355968) |
-| **10** | [A 3D fruit fly on macOS desktop powered by the real FlyWire connectome](https://github.com/DenisSergeevitch/desktop-fly) | ⭐ 316 | 💬 130 | [HN Thread](https://news.ycombinator.com/item?id=49353221) |
+| **1** | [Civic Hygiene – avoid building technologies that could be used by a police state](https://shkspr.mobi/blog/2013/11/civic-hygiene/) | ⭐ 76 | 💬 22 | [HN Thread](https://news.ycombinator.com/item?id=49363433) |
+| **2** | [Geolocating a random island using geometry and CUDA programming](https://yassa9.github.io/osint/gralhix-004/) | ⭐ 226 | 💬 46 | [HN Thread](https://news.ycombinator.com/item?id=49360545) |
+| **3** | [A joke domain purchase turned in geopolitical warfare](https://sprocketfox.io/xssfox/2026/08/19/sondehub-and-war/) | ⭐ 300 | 💬 40 | [HN Thread](https://news.ycombinator.com/item?id=49360015) |
+| **4** | [OpenLogi](https://openlogi.org/en) | ⭐ 1284 | 💬 355 | [HN Thread](https://news.ycombinator.com/item?id=49355606) |
+| **5** | [PostgreSQL for Everything](https://www.raphaelbauer.com:443/posts/postgresql-everything/) | ⭐ 151 | 💬 103 | [HN Thread](https://news.ycombinator.com/item?id=49361279) |
+| **6** | [Microgpt in pure C hits 10M tps on Apple m5](https://github.com/vixhal-baraiya/microgpt-c) | ⭐ 42 | 💬 6 | [HN Thread](https://news.ycombinator.com/item?id=49347477) |
+| **7** | [Devices with GrapheneOS support should be available in 2027](https://grapheneos.social/@GrapheneOS/117078064184215730) | ⭐ 443 | 💬 265 | [HN Thread](https://news.ycombinator.com/item?id=49360242) |
+| **8** | [Moderna reports first positive Phase 3 for mRNA neoantigen therapy in melanoma](https://twitter.com/NoubarAfeyan/status/2090050162441752787) | ⭐ 257 | 💬 106 | [HN Thread](https://news.ycombinator.com/item?id=49361395) |
+| **9** | [Launch HN: OneCLI (YC S26) – OSS sandboxed agent harness for teams](https://github.com/onecli/onecli) | ⭐ 3 | 💬 0 | [HN Thread](https://news.ycombinator.com/item?id=49363710) |
+| **10** | [Ornith-1.5: From Self-Scaffolding to Self-Improvement](https://ornith.ai/ornith_1_5.html) | ⭐ 21 | 💬 1 | [HN Thread](https://news.ycombinator.com/item?id=49362401) |
 
 ---
 
