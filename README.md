@@ -12,16 +12,16 @@ An automated **Tech & AI News Digest** that aggregates top trending discussions 
 
 | # | Story | Points | Comments | Discussion |
 |:---:|:---|:---:|:---:|:---:|
-| **1** | [A 3D fruit fly on macOS desktop powered by the real FlyWire connectome](https://github.com/DenisSergeevitch/desktop-fly) | ⭐ 141 | 💬 34 | [HN Thread](https://news.ycombinator.com/item?id=49353221) |
-| **2** | [The Amazon tax](https://seths.blog/2026/08/the-amazon-tax/) | ⭐ 925 | 💬 535 | [HN Thread](https://news.ycombinator.com/item?id=49345263) |
-| **3** | [Solo – a .so loader for static Linux binaries](https://github.com/pg83/solo) | ⭐ 32 | 💬 38 | [HN Thread](https://news.ycombinator.com/item?id=49354613) |
-| **4** | [How does IKEA come up with names for its products?](https://www.ikea.com/se/en/customer-service/knowledge/articles/6f564c4d-2ccc-46de-b643-545a3948dc79.html) | ⭐ 222 | 💬 140 | [HN Thread](https://news.ycombinator.com/item?id=49349984) |
-| **5** | [Show HN: Interactive, animated architecture of any HuggingFace models](https://modelmap.cc) | ⭐ 28 | 💬 3 | [HN Thread](https://news.ycombinator.com/item?id=49354664) |
-| **6** | [Turbovec – Google's TurboQuant for vector search in Rust](https://github.com/RyanCodrai/turbovec) | ⭐ 202 | 💬 27 | [HN Thread](https://news.ycombinator.com/item?id=49349898) |
-| **7** | [AI usage patterns in software teams](https://linear.app/data) | ⭐ 35 | 💬 18 | [HN Thread](https://news.ycombinator.com/item?id=49353432) |
-| **8** | [Being ambitious and being a dad](https://nicholascharriere.com/blog/being-ambitious-and-being-a-dad/) | ⭐ 261 | 💬 142 | [HN Thread](https://news.ycombinator.com/item?id=49321298) |
-| **9** | [Using the railway network as a flatbed scanner](https://philo.gay/linecam/) | ⭐ 396 | 💬 64 | [HN Thread](https://news.ycombinator.com/item?id=49344825) |
-| **10** | [Cursor launches Origin, GitHub alternative](https://cursor.com/changelog/origin-code-hosting) | ⭐ 462 | 💬 361 | [HN Thread](https://news.ycombinator.com/item?id=49334209) |
+| **1** | [New paper shows that 37% of workers in US saw real wages decline from 2021-2024 [pdf]](https://bfi.uchicago.edu/wp-content/uploads/2026/08/BFI_WP_2026-108-1.pdf) | ⭐ 323 | 💬 166 | [HN Thread](https://news.ycombinator.com/item?id=49355142) |
+| **2** | [Meta's blockbuster trial draws parallels to big tobacco](https://www.economist.com/business/2026/08/18/metas-blockbuster-trial-draws-parallels-to-big-tobacco) | ⭐ 91 | 💬 65 | [HN Thread](https://news.ycombinator.com/item?id=49355825) |
+| **3** | [OpenLogi](https://openlogi.org/en) | ⭐ 126 | 💬 30 | [HN Thread](https://news.ycombinator.com/item?id=49355606) |
+| **4** | [Palomar: A registry of Lean verified mathematics](https://terrytao.wordpress.com/2026/08/18/palomar-a-registry-of-lean-verified-mathematics/) | ⭐ 29 | 💬 3 | [HN Thread](https://news.ycombinator.com/item?id=49355968) |
+| **5** | [A 3D fruit fly on macOS desktop powered by the real FlyWire connectome](https://github.com/DenisSergeevitch/desktop-fly) | ⭐ 204 | 💬 58 | [HN Thread](https://news.ycombinator.com/item?id=49353221) |
+| **6** | [Cerebras CS-4](https://www.cerebras.ai/cs4) | ⭐ 144 | 💬 99 | [HN Thread](https://news.ycombinator.com/item?id=49354949) |
+| **7** | [The Amazon tax](https://seths.blog/2026/08/the-amazon-tax/) | ⭐ 1040 | 💬 602 | [HN Thread](https://news.ycombinator.com/item?id=49345263) |
+| **8** | [Scientists stunned by children's lung recovery in ultra low emission zone](https://www.bbc.com/news/articles/c1l1r1zne1ro) | ⭐ 79 | 💬 47 | [HN Thread](https://news.ycombinator.com/item?id=49355105) |
+| **9** | [Solo – a .so loader for static Linux binaries](https://github.com/pg83/solo) | ⭐ 78 | 💬 77 | [HN Thread](https://news.ycombinator.com/item?id=49354613) |
+| **10** | [How does IKEA come up with names for its products?](https://www.ikea.com/se/en/customer-service/knowledge/articles/6f564c4d-2ccc-46de-b643-545a3948dc79.html) | ⭐ 268 | 💬 155 | [HN Thread](https://news.ycombinator.com/item?id=49349984) |
 
 ---
 
