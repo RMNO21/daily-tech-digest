@@ -12,16 +12,16 @@ An automated **Tech & AI News Digest** that aggregates top trending discussions 
 
 | # | Story | Points | Comments | Discussion |
 |:---:|:---|:---:|:---:|:---:|
-| **1** | [OpenLogi](https://openlogi.org/en) | ⭐ 536 | 💬 150 | [HN Thread](https://news.ycombinator.com/item?id=49355606) |
-| **2** | [Where Human Sleep Went Wrong](https://nautil.us/where-human-sleep-went-wrong-1283797) | ⭐ 27 | 💬 7 | [HN Thread](https://news.ycombinator.com/item?id=49358259) |
-| **3** | [Cerebras CS-4](https://www.cerebras.ai/cs4) | ⭐ 255 | 💬 179 | [HN Thread](https://news.ycombinator.com/item?id=49354949) |
-| **4** | [Palomar: A registry of Lean verified mathematics](https://terrytao.wordpress.com/2026/08/18/palomar-a-registry-of-lean-verified-mathematics/) | ⭐ 93 | 💬 17 | [HN Thread](https://news.ycombinator.com/item?id=49355968) |
-| **5** | [Supersonic Trebuchet [video]](https://www.youtube.com/watch?v=Co57SfcT-h0) | ⭐ 88 | 💬 20 | [HN Thread](https://news.ycombinator.com/item?id=49306207) |
-| **6** | [Being ambitious and being a dad](https://nicholascharriere.com/blog/being-ambitious-and-being-a-dad/) | ⭐ 464 | 💬 273 | [HN Thread](https://news.ycombinator.com/item?id=49321298) |
-| **7** | [Scientists stunned by children's lung recovery in ultra low emission zone](https://www.bbc.com/news/articles/c1l1r1zne1ro) | ⭐ 226 | 💬 163 | [HN Thread](https://news.ycombinator.com/item?id=49355105) |
-| **8** | [A 3D fruit fly on macOS desktop powered by the real FlyWire connectome](https://github.com/DenisSergeevitch/desktop-fly) | ⭐ 260 | 💬 102 | [HN Thread](https://news.ycombinator.com/item?id=49353221) |
-| **9** | [The Vietnam Binh Chau (Chau Tan) Late Tang Wreck](https://www.koh-antique.com/client/tangwreck/tangwreck.html) | ⭐ 36 | 💬 1 | [HN Thread](https://news.ycombinator.com/item?id=49355451) |
-| **10** | [Solo – a .so loader for static Linux binaries](https://github.com/pg83/solo) | ⭐ 138 | 💬 135 | [HN Thread](https://news.ycombinator.com/item?id=49354613) |
+| **1** | [GrapheneOS in 2027 available on high-end Motorola phones](https://grapheneos.social/@GrapheneOS/117078064184215730) | ⭐ 106 | 💬 23 | [HN Thread](https://news.ycombinator.com/item?id=49360242) |
+| **2** | [OpenLogi](https://openlogi.org/en) | ⭐ 997 | 💬 275 | [HN Thread](https://news.ycombinator.com/item?id=49355606) |
+| **3** | [Air Theremin – a browser theremin you play by waving at your webcam](https://theremin.bizibah.com/) | ⭐ 76 | 💬 39 | [HN Thread](https://news.ycombinator.com/item?id=49359425) |
+| **4** | [Geolocating a random island using geometry and CUDA programming](https://yassa9.github.io/osint/gralhix-004/) | ⭐ 15 | 💬 5 | [HN Thread](https://news.ycombinator.com/item?id=49360545) |
+| **5** | [Cerebras CS-4](https://www.cerebras.ai/cs4) | ⭐ 348 | 💬 214 | [HN Thread](https://news.ycombinator.com/item?id=49354949) |
+| **6** | [Rings forged from meteorites may have been fashionable among ancient Greek elite](https://phys.org/news/2026-08-forged-meteorites-fashionable-ancient-greek.html) | ⭐ 32 | 💬 15 | [HN Thread](https://news.ycombinator.com/item?id=49298283) |
+| **7** | [Being ambitious and being a dad](https://nicholascharriere.com/blog/being-ambitious-and-being-a-dad/) | ⭐ 649 | 💬 449 | [HN Thread](https://news.ycombinator.com/item?id=49321298) |
+| **8** | [Supersonic Trebuchet [video]](https://www.youtube.com/watch?v=Co57SfcT-h0) | ⭐ 161 | 💬 66 | [HN Thread](https://news.ycombinator.com/item?id=49306207) |
+| **9** | [Palomar: A registry of Lean verified mathematics](https://terrytao.wordpress.com/2026/08/18/palomar-a-registry-of-lean-verified-mathematics/) | ⭐ 128 | 💬 26 | [HN Thread](https://news.ycombinator.com/item?id=49355968) |
+| **10** | [A 3D fruit fly on macOS desktop powered by the real FlyWire connectome](https://github.com/DenisSergeevitch/desktop-fly) | ⭐ 316 | 💬 130 | [HN Thread](https://news.ycombinator.com/item?id=49353221) |
 
 ---
 
