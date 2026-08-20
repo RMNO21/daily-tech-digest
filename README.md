@@ -12,16 +12,16 @@ An automated **Tech & AI News Digest** that aggregates top trending discussions 
 
 | # | Story | Points | Comments | Discussion |
 |:---:|:---|:---:|:---:|:---:|
-| **1** | [AliExpress runs silent WebAudio fingerprinting that breaks Bluetooth multipoint](https://blog.laserphile.com/2026/08/aliexpress-webpage-keeping-multipoint.html) | ⭐ 569 | 💬 193 | [HN Thread](https://news.ycombinator.com/item?id=49372583) |
-| **2** | [I like 'em thick: an apology to my English teachers](https://www.experimental-history.com/p/i-like-em-thick) | ⭐ 116 | 💬 31 | [HN Thread](https://news.ycombinator.com/item?id=49347543) |
-| **3** | [Show HN: I trained a 125M model to autocomplete piano on-device](https://simedw.com/2026/08/20/midi-autocomplete/) | ⭐ 297 | 💬 71 | [HN Thread](https://news.ycombinator.com/item?id=49373456) |
-| **4** | [HTML Can Do That](https://chrisburnell.com/html-can-do-that/) | ⭐ 172 | 💬 35 | [HN Thread](https://news.ycombinator.com/item?id=49362689) |
-| **5** | [Malicious Rust crate Arrayref runs a build-time payload](https://safedep.io/arrayref-proc-macro1-rust-build-time-malware/) | ⭐ 235 | 💬 181 | [HN Thread](https://news.ycombinator.com/item?id=49374269) |
-| **6** | [CIA funding helped keep NeXT afloat in the 80s](https://www.wsj.com/tech/steve-jobs-apple-next-cia-161b65f9?st=NWWds1&reflink=desktopwebshare_permalink) | ⭐ 112 | 💬 37 | [HN Thread](https://news.ycombinator.com/item?id=49368886) |
-| **7** | [Clean up Claude 5's token vomit with a separate LLM](https://github.com/zachahn/vomit) | ⭐ 46 | 💬 31 | [HN Thread](https://news.ycombinator.com/item?id=49375996) |
-| **8** | [DiffusionGemma Technical Report](https://arxiv.org/abs/2608.00146) | ⭐ 74 | 💬 12 | [HN Thread](https://news.ycombinator.com/item?id=49374287) |
-| **9** | [How to compromise your system with a job interview](https://www.codedge.de/posts/how-to-compromise-your-system-with-a-job-interview) | ⭐ 21 | 💬 6 | [HN Thread](https://news.ycombinator.com/item?id=49376332) |
-| **10** | [Xorg-Server 26.0.99.901](https://lists.x.org/archives/xorg-announce/2026-August/003741.html) | ⭐ 59 | 💬 13 | [HN Thread](https://news.ycombinator.com/item?id=49373932) |
+| **1** | [Scientific study reveals TikTok videos deactivate key cognitive brain regions](https://www.rathbiotaclan.com/tiktok-videos-deactivate-key-cognitive-brain-regions/) | ⭐ 215 | 💬 85 | [HN Thread](https://news.ycombinator.com/item?id=49378630) |
+| **2** | [Stop Eating Lady Gaga's Oreos](https://www.experimental-history.com/p/stop-eating-lady-gagas-oreos) | ⭐ 56 | 💬 12 | [HN Thread](https://news.ycombinator.com/item?id=49379253) |
+| **3** | [I should have loved biology](https://jsomers.net/i-should-have-loved-biology/) | ⭐ 121 | 💬 49 | [HN Thread](https://news.ycombinator.com/item?id=49377853) |
+| **4** | [I like 'em thick: an apology to my English teachers](https://www.experimental-history.com/p/i-like-em-thick) | ⭐ 417 | 💬 202 | [HN Thread](https://news.ycombinator.com/item?id=49347543) |
+| **5** | [Show HN: Huzzah – a novel approach to coding with AI](https://www.danielvaughn.dev/posts/huzzah/) | ⭐ 45 | 💬 21 | [HN Thread](https://news.ycombinator.com/item?id=49378768) |
+| **6** | [AliExpress runs silent WebAudio fingerprinting that breaks Bluetooth multipoint](https://blog.laserphile.com/2026/08/aliexpress-webpage-keeping-multipoint.html) | ⭐ 764 | 💬 258 | [HN Thread](https://news.ycombinator.com/item?id=49372583) |
+| **7** | [Consumer Rights Wiki](https://consumerrights.wiki/w/Main_Page) | ⭐ 50 | 💬 0 | [HN Thread](https://news.ycombinator.com/item?id=49378243) |
+| **8** | [HTML Can Do That](https://chrisburnell.com/html-can-do-that/) | ⭐ 436 | 💬 120 | [HN Thread](https://news.ycombinator.com/item?id=49362689) |
+| **9** | [Linux 7.2](https://www.igalia.com/2026/08/19/Linux-72-Released.html) | ⭐ 133 | 💬 49 | [HN Thread](https://news.ycombinator.com/item?id=49376265) |
+| **10** | [CIA funding helped keep NeXT afloat in the 80s](https://www.wsj.com/tech/steve-jobs-apple-next-cia-161b65f9?st=NWWds1&reflink=desktopwebshare_permalink) | ⭐ 264 | 💬 161 | [HN Thread](https://news.ycombinator.com/item?id=49368886) |
 
 ---
 
