@@ -12,13 +12,16 @@ An automated **Tech & AI News Digest** that aggregates top trending discussions 
 
 | # | Story | Points | Comments | Discussion |
 |:---:|:---|:---:|:---:|:---:|
-| **1** | [OpenRouter is joining Stripe](https://openrouter.ai/blog/announcements/openrouter-is-joining-stripe/) | ⭐ 731 | 💬 369 | [HN Thread](https://news.ycombinator.com/item?id=49364559) |
-| **2** | [Go 1.27](https://go.dev/blog/go1.27) | ⭐ 514 | 💬 135 | [HN Thread](https://news.ycombinator.com/item?id=49365405) |
-| **4** | [A faster way to calculate the day of the week](https://www.benjoffe.com/fast-day-of-week) | ⭐ 51 | 💬 6 | [HN Thread](https://news.ycombinator.com/item?id=49323795) |
-| **5** | [Error by AI scribe during medical appointment leaves patient devastated](https://www.abc.net.au/news/2026-08-14/ai-medical-scribe-error-leaves-patient-devastated/107031672) | ⭐ 31 | 💬 12 | [HN Thread](https://news.ycombinator.com/item?id=49294441) |
-| **8** | [Unlocking a locked/deactivated e-waste Cricut Maker](https://sprocketfox.io/xssfox/2026/07/01/cricut-unlock/) | ⭐ 163 | 💬 39 | [HN Thread](https://news.ycombinator.com/item?id=49365841) |
-| **9** | [Unsloth Dynamic 3.0 GGUFs](https://unsloth.ai/docs/basics/dynamic-3.0-ggufs) | ⭐ 208 | 💬 80 | [HN Thread](https://news.ycombinator.com/item?id=49365443) |
-| **10** | [A joke domain purchase turned in geopolitical warfare](https://sprocketfox.io/xssfox/2026/08/19/sondehub-and-war/) | ⭐ 805 | 💬 126 | [HN Thread](https://news.ycombinator.com/item?id=49360015) |
+| **1** | [Windows brings out the Rorschach test in everyone](https://devblogs.microsoft.com/oldnewthing/20030825-00/?p=42803) | ⭐ 124 | 💬 50 | [HN Thread](https://news.ycombinator.com/item?id=49371006) |
+| **2** | [Don't Paste the AI, please](https://dontpastetheai.com/) | ⭐ 16 | 💬 8 | [HN Thread](https://news.ycombinator.com/item?id=49371857) |
+| **3** | [OpenRouter is joining Stripe](https://openrouter.ai/blog/announcements/openrouter-is-joining-stripe/) | ⭐ 828 | 💬 425 | [HN Thread](https://news.ycombinator.com/item?id=49364559) |
+| **4** | [Turns are Better than Radians (2022)](https://www.computerenhance.com/p/turns-are-better-than-radians) | ⭐ 194 | 💬 83 | [HN Thread](https://news.ycombinator.com/item?id=49369408) |
+| **5** | [Go 1.27](https://go.dev/blog/go1.27) | ⭐ 620 | 💬 170 | [HN Thread](https://news.ycombinator.com/item?id=49365405) |
+| **6** | [Google has stopped pushing Git tags for some Android source code](https://grapheneos.social/@GrapheneOS/117057099753905023) | ⭐ 516 | 💬 212 | [HN Thread](https://news.ycombinator.com/item?id=49364745) |
+| **7** | [A faster way to calculate the day of the week](https://www.benjoffe.com/fast-day-of-week) | ⭐ 132 | 💬 21 | [HN Thread](https://news.ycombinator.com/item?id=49323795) |
+| **8** | [Manabu Kosaka's Handmade Paper Sculptures](https://coca11272000.wixsite.com/manabukosaka) | ⭐ 125 | 💬 14 | [HN Thread](https://news.ycombinator.com/item?id=49362001) |
+| **9** | [A joke domain purchase turned in geopolitical warfare](https://sprocketfox.io/xssfox/2026/08/19/sondehub-and-war/) | ⭐ 888 | 💬 142 | [HN Thread](https://news.ycombinator.com/item?id=49360015) |
+| **10** | [The Chauffeur Problem](https://engines.egr.uh.edu/episode/1495) | ⭐ 7 | 💬 2 | [HN Thread](https://news.ycombinator.com/item?id=49325037) |
 
 ---
 
