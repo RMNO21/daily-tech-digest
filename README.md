@@ -12,16 +12,13 @@ An automated **Tech & AI News Digest** that aggregates top trending discussions 
 
 | # | Story | Points | Comments | Discussion |
 |:---:|:---|:---:|:---:|:---:|
-| **1** | [OpenRouter is joining Stripe](https://openrouter.ai/blog/announcements/openrouter-is-joining-stripe/) | ⭐ 621 | 💬 331 | [HN Thread](https://news.ycombinator.com/item?id=49364559) |
-| **2** | [Go 1.27](https://go.dev/blog/go1.27) | ⭐ 433 | 💬 108 | [HN Thread](https://news.ycombinator.com/item?id=49365405) |
-| **3** | [Google replaced Git tags for certain source code with obtaining via Google Drive](https://grapheneos.social/@GrapheneOS/117057099753905023) | ⭐ 286 | 💬 118 | [HN Thread](https://news.ycombinator.com/item?id=49364745) |
-| **4** | [Unlocking a locked/deactivated e-waste Cricut Maker](https://sprocketfox.io/xssfox/2026/07/01/cricut-unlock/) | ⭐ 128 | 💬 34 | [HN Thread](https://news.ycombinator.com/item?id=49365841) |
-| **5** | [Unsloth Dynamic 3.0 GGUFs](https://unsloth.ai/docs/basics/dynamic-3.0-ggufs) | ⭐ 183 | 💬 66 | [HN Thread](https://news.ycombinator.com/item?id=49365443) |
-| **6** | [Manabu Kosaka's Handmade Paper Sculptures](https://coca11272000.wixsite.com/manabukosaka) | ⭐ 21 | 💬 0 | [HN Thread](https://news.ycombinator.com/item?id=49362001) |
-| **7** | [A joke domain purchase turned in geopolitical warfare](https://sprocketfox.io/xssfox/2026/08/19/sondehub-and-war/) | ⭐ 747 | 💬 114 | [HN Thread](https://news.ycombinator.com/item?id=49360015) |
-| **8** | [Os8088.com: IBM XT OS now has a Browser, CP/M 2.2 with Z80 core and MS Word 1.1a](https://os8088.com/spotlight/) | ⭐ 41 | 💬 25 | [HN Thread](https://news.ycombinator.com/item?id=49367256) |
-| **9** | [Casio F-B100W-1A](https://www.casio.com/uk/watches/casio/product.F-B100W-1A/) | ⭐ 273 | 💬 221 | [HN Thread](https://news.ycombinator.com/item?id=49362887) |
-| **10** | [DFlash 2: Keep Drafting Parallel](https://inco.ai/blog/dflash2/) | ⭐ 71 | 💬 8 | [HN Thread](https://news.ycombinator.com/item?id=49366792) |
+| **1** | [OpenRouter is joining Stripe](https://openrouter.ai/blog/announcements/openrouter-is-joining-stripe/) | ⭐ 731 | 💬 369 | [HN Thread](https://news.ycombinator.com/item?id=49364559) |
+| **2** | [Go 1.27](https://go.dev/blog/go1.27) | ⭐ 514 | 💬 135 | [HN Thread](https://news.ycombinator.com/item?id=49365405) |
+| **4** | [A faster way to calculate the day of the week](https://www.benjoffe.com/fast-day-of-week) | ⭐ 51 | 💬 6 | [HN Thread](https://news.ycombinator.com/item?id=49323795) |
+| **5** | [Error by AI scribe during medical appointment leaves patient devastated](https://www.abc.net.au/news/2026-08-14/ai-medical-scribe-error-leaves-patient-devastated/107031672) | ⭐ 31 | 💬 12 | [HN Thread](https://news.ycombinator.com/item?id=49294441) |
+| **8** | [Unlocking a locked/deactivated e-waste Cricut Maker](https://sprocketfox.io/xssfox/2026/07/01/cricut-unlock/) | ⭐ 163 | 💬 39 | [HN Thread](https://news.ycombinator.com/item?id=49365841) |
+| **9** | [Unsloth Dynamic 3.0 GGUFs](https://unsloth.ai/docs/basics/dynamic-3.0-ggufs) | ⭐ 208 | 💬 80 | [HN Thread](https://news.ycombinator.com/item?id=49365443) |
+| **10** | [A joke domain purchase turned in geopolitical warfare](https://sprocketfox.io/xssfox/2026/08/19/sondehub-and-war/) | ⭐ 805 | 💬 126 | [HN Thread](https://news.ycombinator.com/item?id=49360015) |
 
 ---
 
