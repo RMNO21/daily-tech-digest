@@ -12,16 +12,16 @@ An automated **Tech & AI News Digest** that aggregates top trending discussions 
 
 | # | Story | Points | Comments | Discussion |
 |:---:|:---|:---:|:---:|:---:|
-| **1** | [Copyright does not protect AI-generated content in EU](https://mathstodon.xyz/@maxpool/117128107757895678) | ⭐ 65 | 💬 64 | [HN Thread](https://news.ycombinator.com/item?id=49382041) |
-| **2** | [The August 17 outage, and the work ahead](https://github.blog/news-insights/company-news/the-august-17-outage-and-the-work-ahead/) | ⭐ 312 | 💬 353 | [HN Thread](https://news.ycombinator.com/item?id=49378957) |
-| **3** | [Consumer Rights Wiki](https://consumerrights.wiki/w/Main_Page) | ⭐ 213 | 💬 31 | [HN Thread](https://news.ycombinator.com/item?id=49378243) |
-| **4** | [I like 'em thick: an apology to my English teachers](https://www.experimental-history.com/p/i-like-em-thick) | ⭐ 558 | 💬 258 | [HN Thread](https://news.ycombinator.com/item?id=49347543) |
-| **5** | [There's no such thing as a small software team anymore](https://jacob.gold/posts/theres-no-such-thing-as-a-small-software-team/) | ⭐ 16 | 💬 11 | [HN Thread](https://news.ycombinator.com/item?id=49382152) |
-| **6** | [Aaron Swartz was prosecuted for scraping, while Meta does it without consequence](https://blog.curiousquail.com/im-upset-again-about-a-co-creator-of-rss-being-prosecuted-for-something-meta-is-doing-with-little-consequence/) | ⭐ 952 | 💬 219 | [HN Thread](https://news.ycombinator.com/item?id=49379550) |
-| **7** | [AliExpress runs silent WebAudio fingerprinting that breaks Bluetooth multipoint](https://blog.laserphile.com/2026/08/aliexpress-webpage-keeping-multipoint.html) | ⭐ 879 | 💬 287 | [HN Thread](https://news.ycombinator.com/item?id=49372583) |
-| **8** | [I should have loved biology (2020)](https://jsomers.net/i-should-have-loved-biology/) | ⭐ 198 | 💬 74 | [HN Thread](https://news.ycombinator.com/item?id=49377853) |
-| **9** | [HTML Can Do That](https://chrisburnell.com/html-can-do-that/) | ⭐ 572 | 💬 162 | [HN Thread](https://news.ycombinator.com/item?id=49362689) |
-| **10** | [Stealth Model](https://openrouter.ai/stealth/ox-alpha) | ⭐ 23 | 💬 4 | [HN Thread](https://news.ycombinator.com/item?id=49381896) |
+| **1** | [Codex on AWS bedrock bug causing 10x charges](https://github.com/openai/codex/issues/37674) | ⭐ 29 | 💬 8 | [HN Thread](https://news.ycombinator.com/item?id=49383326) |
+| **2** | [The August 17 outage](https://github.blog/news-insights/company-news/the-august-17-outage-and-the-work-ahead/) | ⭐ 401 | 💬 441 | [HN Thread](https://news.ycombinator.com/item?id=49378957) |
+| **3** | [I like 'em thick: an apology to my English teachers](https://www.experimental-history.com/p/i-like-em-thick) | ⭐ 627 | 💬 270 | [HN Thread](https://news.ycombinator.com/item?id=49347543) |
+| **4** | [HTML Can Do That](https://chrisburnell.com/html-can-do-that/) | ⭐ 641 | 💬 170 | [HN Thread](https://news.ycombinator.com/item?id=49362689) |
+| **5** | [Malicious Rust crate Arrayref runs a build-time payload](https://safedep.io/arrayref-proc-macro1-rust-build-time-malware/) | ⭐ 425 | 💬 377 | [HN Thread](https://news.ycombinator.com/item?id=49374269) |
+| **6** | [I should have loved biology (2020)](https://jsomers.net/i-should-have-loved-biology/) | ⭐ 218 | 💬 82 | [HN Thread](https://news.ycombinator.com/item?id=49377853) |
+| **7** | [Captain Zilog](https://www.zilog.com/captain_zilog/) | ⭐ 21 | 💬 3 | [HN Thread](https://news.ycombinator.com/item?id=49329919) |
+| **8** | [Ox Alpha](https://openrouter.ai/stealth/ox-alpha) | ⭐ 63 | 💬 49 | [HN Thread](https://news.ycombinator.com/item?id=49381896) |
+| **9** | [AI companies destroy physical books – let's scan rare books before it's too late](https://annas-archive.gl/blog/physical-destruction.html) | ⭐ 153 | 💬 99 | [HN Thread](https://news.ycombinator.com/item?id=49383026) |
+| **10** | [Make a 6-Tesla-class high-temperature superconducting dipole magnet at 4.2 K](https://journals.aps.org/prab/abstract/10.1103/4nhs-bkwh) | ⭐ 20 | 💬 5 | [HN Thread](https://news.ycombinator.com/item?id=49304409) |
 
 ---
 
