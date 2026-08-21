@@ -12,16 +12,16 @@ An automated **Tech & AI News Digest** that aggregates top trending discussions 
 
 | # | Story | Points | Comments | Discussion |
 |:---:|:---|:---:|:---:|:---:|
-| **1** | [Kagi added a setting for removing paywalled links from search results](https://kagi.com/changelog#11296) | ⭐ 514 | 💬 188 | [HN Thread](https://news.ycombinator.com/item?id=49388154) |
-| **2** | [AI companies destroy physical books – let's scan rare books before it's too late](https://annas-archive.pk/blog/physical-destruction.html) | ⭐ 612 | 💬 373 | [HN Thread](https://news.ycombinator.com/item?id=49385994) |
-| **3** | [Omacom Foundation Launches with $8M](https://omarchy.org/news/2026/08/omacom-foundation-launches-with-8-million/) | ⭐ 41 | 💬 25 | [HN Thread](https://news.ycombinator.com/item?id=49390132) |
-| **4** | [DeepSeek-v4-flash-vision-exp](https://api-docs.deepseek.com/guides/vision/) | ⭐ 343 | 💬 114 | [HN Thread](https://news.ycombinator.com/item?id=49386163) |
-| **5** | [I accidentally logged phone calls to military bases](https://lina.sh/blog/hijacking-e164-arpa) | ⭐ 145 | 💬 23 | [HN Thread](https://news.ycombinator.com/item?id=49387570) |
-| **6** | [AI Boosted Homework Scores by 18% – Then Exam Scores Dropped 20%, Study Shows](https://canews24.online/?p=71) | ⭐ 60 | 💬 37 | [HN Thread](https://news.ycombinator.com/item?id=49389565) |
-| **7** | [Cancer-Related Mortality Among US Pilots and Flight Attendants](https://jamanetwork.com/journals/jamainternalmedicine/article-abstract/2852504) | ⭐ 32 | 💬 15 | [HN Thread](https://news.ycombinator.com/item?id=49389524) |
-| **8** | [c100](https://caligra.com/c100/) | ⭐ 74 | 💬 48 | [HN Thread](https://news.ycombinator.com/item?id=49389392) |
-| **9** | [Felony Bench](https://www.felonybench.com/) | ⭐ 35 | 💬 13 | [HN Thread](https://news.ycombinator.com/item?id=49389430) |
-| **10** | [WPD won't replace stolen Flock cameras, citing public trust](https://www.winonapost.com/news/wpd-wont-replace-stolen-flock-cameras-citing-public-trust/article_06a67859-2d97-414b-aa8f-d8751ad214bb.html) | ⭐ 36 | 💬 4 | [HN Thread](https://news.ycombinator.com/item?id=49388682) |
+| **1** | [Kobo can run apps now](https://bandarlabs.github.io/Cobalt/) | ⭐ 256 | 💬 94 | [HN Thread](https://news.ycombinator.com/item?id=49390427) |
+| **2** | [Felony Bench](https://www.felonybench.com/) | ⭐ 307 | 💬 142 | [HN Thread](https://news.ycombinator.com/item?id=49389430) |
+| **3** | [Scientists release biggest 2D map of the universe](https://newscenter.lbl.gov/2026/08/10/scientists-release-biggest-2d-map-of-the-universe/) | ⭐ 56 | 💬 16 | [HN Thread](https://news.ycombinator.com/item?id=49392200) |
+| **4** | [Kagi added a setting for removing paywalled links from search results](https://kagi.com/changelog#11296) | ⭐ 861 | 💬 295 | [HN Thread](https://news.ycombinator.com/item?id=49388154) |
+| **5** | [AI boosted homework scores, then exam scores dropped: study](https://www.economist.com/graphic-detail/2026/08/18/does-ai-stop-children-from-learning) | ⭐ 137 | 💬 190 | [HN Thread](https://news.ycombinator.com/item?id=49357530) |
+| **6** | [Quick impressions: A week of using Codex more than Claude](https://allaboutcoding.ghinda.com/a-week-of-using-codex-more-than-claude/) | ⭐ 13 | 💬 2 | [HN Thread](https://news.ycombinator.com/item?id=49393051) |
+| **7** | [I accidentally logged hundreds of thousands of phone calls to military bases](https://lina.sh/blog/hijacking-e164-arpa) | ⭐ 326 | 💬 38 | [HN Thread](https://news.ycombinator.com/item?id=49387570) |
+| **8** | [Felony charges for citizen deleting phone data at US Border](https://www.nytimes.com/2026/08/21/us/politics/samuel-tunick-deleted-phone-felony.html) | ⭐ 200 | 💬 283 | [HN Thread](https://news.ycombinator.com/item?id=49386895) |
+| **9** | [People of ACM – Russ Cox](https://www.acm.org/articles/people-of-acm/2026/russ-cox) | ⭐ 34 | 💬 4 | [HN Thread](https://news.ycombinator.com/item?id=49327408) |
+| **10** | [A look under our trunk: what's in our compute](https://waymo.com/blog/2026/08/look-under-our-trunk/) | ⭐ 49 | 💬 9 | [HN Thread](https://news.ycombinator.com/item?id=49374853) |
 
 ---
 
