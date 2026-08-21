@@ -12,16 +12,16 @@ An automated **Tech & AI News Digest** that aggregates top trending discussions 
 
 | # | Story | Points | Comments | Discussion |
 |:---:|:---|:---:|:---:|:---:|
-| **1** | [The Lost Treasure of Sid Meier's Pirates](https://remapradio.com/articles/the-lost-treasure-of-sid-meiers-pirates/) | ⭐ 42 | 💬 10 | [HN Thread](https://news.ycombinator.com/item?id=49384896) |
-| **2** | [We Rebuilt the Linux MicroVM Stack on Apple Silicon](https://encore.dev/blog/firecracker-apple-silicon) | ⭐ 37 | 💬 6 | [HN Thread](https://news.ycombinator.com/item?id=49384716) |
-| **3** | [The August 17 outage](https://github.blog/news-insights/company-news/the-august-17-outage-and-the-work-ahead/) | ⭐ 495 | 💬 565 | [HN Thread](https://news.ycombinator.com/item?id=49378957) |
-| **4** | [I like 'em thick: an apology to my English teachers](https://www.experimental-history.com/p/i-like-em-thick) | ⭐ 717 | 💬 294 | [HN Thread](https://news.ycombinator.com/item?id=49347543) |
-| **5** | [HTML Can Do That](https://chrisburnell.com/html-can-do-that/) | ⭐ 778 | 💬 188 | [HN Thread](https://news.ycombinator.com/item?id=49362689) |
-| **6** | [Version Control for Everything](https://tyoverby.com/posts/version-control-for-everything-else/) | ⭐ 28 | 💬 16 | [HN Thread](https://news.ycombinator.com/item?id=49336358) |
-| **7** | [Malicious Rust crate Arrayref runs a build-time payload](https://safedep.io/arrayref-proc-macro1-rust-build-time-malware/) | ⭐ 486 | 💬 413 | [HN Thread](https://news.ycombinator.com/item?id=49374269) |
-| **8** | [The Religious Experience of Philip K. Dick by R. Crumb (1986)](https://philipdick.com/resources/miscellaneous/the-religious-experience-of-philip-k-dick-by-r-crumb-from-weirdo-17/) | ⭐ 29 | 💬 11 | [HN Thread](https://news.ycombinator.com/item?id=49384224) |
-| **9** | [Ox Alpha](https://openrouter.ai/stealth/ox-alpha) | ⭐ 132 | 💬 98 | [HN Thread](https://news.ycombinator.com/item?id=49381896) |
-| **10** | [I should have loved biology (2020)](https://jsomers.net/i-should-have-loved-biology/) | ⭐ 272 | 💬 104 | [HN Thread](https://news.ycombinator.com/item?id=49377853) |
+| **1** | [DeepSeek-v4-flash-vision-exp](https://api-docs.deepseek.com/guides/vision/) | ⭐ 185 | 💬 43 | [HN Thread](https://news.ycombinator.com/item?id=49386163) |
+| **2** | [AI companies destroy physical books – let's scan rare books before it's too late](https://annas-archive.pk/blog/physical-destruction.html) | ⭐ 150 | 💬 92 | [HN Thread](https://news.ycombinator.com/item?id=49385994) |
+| **3** | [TigerBeetle Core System Architecture: Deconstructing Performance Engineering](https://ixuvo.com/blog/tigerbeetle-core-system-architecture-performance-engineering) | ⭐ 41 | 💬 11 | [HN Thread](https://news.ycombinator.com/item?id=49386659) |
+| **4** | [The Lost Treasure of Sid Meier's Pirates](https://remapradio.com/articles/the-lost-treasure-of-sid-meiers-pirates/) | ⭐ 150 | 💬 79 | [HN Thread](https://news.ycombinator.com/item?id=49384896) |
+| **5** | [Small, native web tricks worth remembering](https://htmlcat.net/) | ⭐ 97 | 💬 23 | [HN Thread](https://news.ycombinator.com/item?id=49385860) |
+| **6** | [Kino: A high-performance Ractor web server for Ruby 4.0](https://github.com/yaroslav/kino) | ⭐ 17 | 💬 1 | [HN Thread](https://news.ycombinator.com/item?id=49386383) |
+| **7** | [We Rebuilt the Linux MicroVM Stack on Apple Silicon](https://encore.dev/blog/firecracker-apple-silicon) | ⭐ 113 | 💬 53 | [HN Thread](https://news.ycombinator.com/item?id=49384716) |
+| **8** | [Flat Chair by Sara Paculdo](https://www.toxel.com/tech/2026/08/07/flat-chair-by-sara-paculdo/) | ⭐ 55 | 💬 17 | [HN Thread](https://news.ycombinator.com/item?id=49331084) |
+| **9** | [The August 17 outage](https://github.blog/news-insights/company-news/the-august-17-outage-and-the-work-ahead/) | ⭐ 578 | 💬 639 | [HN Thread](https://news.ycombinator.com/item?id=49378957) |
+| **10** | [The Mystery of Dark Oxygen](https://www.newyorker.com/science/elements/the-mystery-of-dark-oxygen) | ⭐ 15 | 💬 4 | [HN Thread](https://news.ycombinator.com/item?id=49319733) |
 
 ---
 
