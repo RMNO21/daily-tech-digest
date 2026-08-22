@@ -12,16 +12,16 @@ An automated **Tech & AI News Digest** that aggregates top trending discussions 
 
 | # | Story | Points | Comments | Discussion |
 |:---:|:---|:---:|:---:|:---:|
-| **1** | [A Kantian Critique of "Sorry" by Justin Bieber](https://decodingvibes.com/blog/a-kantian-critique-of-sorry-by-justin-bieber/) | ⭐ 131 | 💬 48 | [HN Thread](https://news.ycombinator.com/item?id=49399524) |
-| **2** | [ElevenLabs, TwelveLabs, ThirteenLabs](https://quantumi.sh/public/labs.html) | ⭐ 56 | 💬 14 | [HN Thread](https://news.ycombinator.com/item?id=49400408) |
-| **3** | [A Friendly Introduction to Racket](https://geometridae.bearblog.dev/a-friendly-introduction-to-racket/) | ⭐ 34 | 💬 5 | [HN Thread](https://news.ycombinator.com/item?id=49399898) |
-| **4** | [The New MCP Roadmap](https://blog.modelcontextprotocol.io/posts/mcp-roadmap/) | ⭐ 85 | 💬 65 | [HN Thread](https://news.ycombinator.com/item?id=49399591) |
-| **5** | [Munder Difflin – Agent harness to run an office of your clones](https://munderdiffl.in/) | ⭐ 173 | 💬 70 | [HN Thread](https://news.ycombinator.com/item?id=49398152) |
-| **6** | [Z80 – The 1970s Microprocessor Still Alive (2021)](https://www.computer.org/csdl/magazine/mi/2021/06/09623402/1yJTvlRLmhi) | ⭐ 78 | 💬 35 | [HN Thread](https://news.ycombinator.com/item?id=49398158) |
-| **7** | [Show HN: Rotation via Double Reflection](https://static.laszlokorte.de/rotor-reflect/) | ⭐ 23 | 💬 3 | [HN Thread](https://news.ycombinator.com/item?id=49391168) |
-| **8** | [Rust Glancer: Rust LSP using 100x less RAM](https://rust-glancer.github.io/blog/hello-world/) | ⭐ 351 | 💬 70 | [HN Thread](https://news.ycombinator.com/item?id=49393052) |
-| **9** | [Hook, hold, harvest and hide: Meta's alleged strategy laid out in first week](https://www.theguardian.com/technology/2026/aug/22/meta-trial-children-privacy) | ⭐ 144 | 💬 92 | [HN Thread](https://news.ycombinator.com/item?id=49398904) |
-| **10** | [Felony Bench](https://www.felonybench.com/) | ⭐ 791 | 💬 311 | [HN Thread](https://news.ycombinator.com/item?id=49389430) |
+| **1** | [hdiutil is deprecated in macOS 27 Golden Gate](https://lapcatsoftware.com/articles/2026/8/7.html) | ⭐ 70 | 💬 20 | [HN Thread](https://news.ycombinator.com/item?id=49402741) |
+| **2** | [NetBSD and My Life (2005)](https://mail-index.netbsd.org/netbsd-advocacy/2005/09/10/0000.html) | ⭐ 36 | 💬 3 | [HN Thread](https://news.ycombinator.com/item?id=49402781) |
+| **3** | [Scrap](https://twitter.com/moxie/status/2091218652133732491) | ⭐ 100 | 💬 23 | [HN Thread](https://news.ycombinator.com/item?id=49402189) |
+| **4** | [ElevenLabs, TwelveLabs, ThirteenLabs](https://quantumi.sh/public/labs.html) | ⭐ 232 | 💬 76 | [HN Thread](https://news.ycombinator.com/item?id=49400408) |
+| **5** | [Hister – A private, full content search index that you control](https://hister.org/) | ⭐ 111 | 💬 40 | [HN Thread](https://news.ycombinator.com/item?id=49351802) |
+| **6** | [A Friendly Introduction to Racket](https://geometridae.bearblog.dev/a-friendly-introduction-to-racket/) | ⭐ 104 | 💬 42 | [HN Thread](https://news.ycombinator.com/item?id=49399898) |
+| **7** | [Show HN: Make your logo extra bright on HDR screens](https://www.soverybright.com/) | ⭐ 17 | 💬 14 | [HN Thread](https://news.ycombinator.com/item?id=49402521) |
+| **8** | [typ.ing](https://typ.ing/) | ⭐ 86 | 💬 27 | [HN Thread](https://news.ycombinator.com/item?id=49346854) |
+| **9** | [RF Cafe](https://www.rfcafe.com/) | ⭐ 74 | 💬 9 | [HN Thread](https://news.ycombinator.com/item?id=49355659) |
+| **10** | [Why your local LLM feels dumber than it is](https://forum.level1techs.com/t/why-your-local-llm-feels-dumber-than-it-is/253917) | ⭐ 15 | 💬 1 | [HN Thread](https://news.ycombinator.com/item?id=49402232) |
 
 ---
 
