@@ -12,21 +12,22 @@ An automated **Tech & AI News Digest** that aggregates top trending discussions 
 
 | # | Story | Points | Comments | Discussion |
 |:---:|:---|:---:|:---:|:---:|
-| **1** | [Kobo can run apps now](https://bandarlabs.github.io/Cobalt/) | ⭐ 256 | 💬 94 | [HN Thread](https://news.ycombinator.com/item?id=49390427) |
-| **2** | [Felony Bench](https://www.felonybench.com/) | ⭐ 307 | 💬 142 | [HN Thread](https://news.ycombinator.com/item?id=49389430) |
-| **3** | [Scientists release biggest 2D map of the universe](https://newscenter.lbl.gov/2026/08/10/scientists-release-biggest-2d-map-of-the-universe/) | ⭐ 56 | 💬 16 | [HN Thread](https://news.ycombinator.com/item?id=49392200) |
-| **4** | [Kagi added a setting for removing paywalled links from search results](https://kagi.com/changelog#11296) | ⭐ 861 | 💬 295 | [HN Thread](https://news.ycombinator.com/item?id=49388154) |
-| **5** | [AI boosted homework scores, then exam scores dropped: study](https://www.economist.com/graphic-detail/2026/08/18/does-ai-stop-children-from-learning) | ⭐ 137 | 💬 190 | [HN Thread](https://news.ycombinator.com/item?id=49357530) |
-| **6** | [Quick impressions: A week of using Codex more than Claude](https://allaboutcoding.ghinda.com/a-week-of-using-codex-more-than-claude/) | ⭐ 13 | 💬 2 | [HN Thread](https://news.ycombinator.com/item?id=49393051) |
-| **7** | [I accidentally logged hundreds of thousands of phone calls to military bases](https://lina.sh/blog/hijacking-e164-arpa) | ⭐ 326 | 💬 38 | [HN Thread](https://news.ycombinator.com/item?id=49387570) |
-| **8** | [Felony charges for citizen deleting phone data at US Border](https://www.nytimes.com/2026/08/21/us/politics/samuel-tunick-deleted-phone-felony.html) | ⭐ 200 | 💬 283 | [HN Thread](https://news.ycombinator.com/item?id=49386895) |
-| **9** | [People of ACM – Russ Cox](https://www.acm.org/articles/people-of-acm/2026/russ-cox) | ⭐ 34 | 💬 4 | [HN Thread](https://news.ycombinator.com/item?id=49327408) |
-| **10** | [A look under our trunk: what's in our compute](https://waymo.com/blog/2026/08/look-under-our-trunk/) | ⭐ 49 | 💬 9 | [HN Thread](https://news.ycombinator.com/item?id=49374853) |
+| **1** | [Kobo can run apps now](https://bandarlabs.github.io/Cobalt/) | ⭐ 426 | 💬 144 | [HN Thread](https://news.ycombinator.com/item?id=49390427) |
+| **2** | [Felony Bench](https://www.felonybench.com/) | ⭐ 512 | 💬 225 | [HN Thread](https://news.ycombinator.com/item?id=49389430) |
+| **3** | [Three important steps in my maturation process](https://thomasdullien.github.io/posts/2026-08-21-three-important-steps-in-my-maturation-process/) | ⭐ 41 | 💬 8 | [HN Thread](https://news.ycombinator.com/item?id=49394496) |
+| **4** | [Scientists release biggest 2D map of the universe](https://newscenter.lbl.gov/2026/08/10/scientists-release-biggest-2d-map-of-the-universe/) | ⭐ 146 | 💬 46 | [HN Thread](https://news.ycombinator.com/item?id=49392200) |
+| **5** | [Kagi added a setting for removing paywalled links from search results](https://kagi.com/changelog#11296) | ⭐ 1008 | 💬 338 | [HN Thread](https://news.ycombinator.com/item?id=49388154) |
+| **6** | [Rust Glancer: Rust LSP using 100x less RAM](https://rust-glancer.github.io/blog/hello-world/) | ⭐ 12 | 💬 9 | [HN Thread](https://news.ycombinator.com/item?id=49393052) |
+| **7** | [I accidentally logged hundreds of thousands of phone calls to military bases](https://lina.sh/blog/hijacking-e164-arpa) | ⭐ 442 | 💬 50 | [HN Thread](https://news.ycombinator.com/item?id=49387570) |
+| **8** | [Show HN: OzBrain, a shared brain for knowledge between agents and your team](https://ozbrain.com) | ⭐ 31 | 💬 10 | [HN Thread](https://news.ycombinator.com/item?id=49394827) |
+| **9** | [Felony charges for citizen deleting phone data at US Border](https://www.nytimes.com/2026/08/21/us/politics/samuel-tunick-deleted-phone-felony.html) | ⭐ 549 | 💬 722 | [HN Thread](https://news.ycombinator.com/item?id=49386895) |
+| **10** | [People of ACM – Russ Cox](https://www.acm.org/articles/people-of-acm/2026/russ-cox) | ⭐ 90 | 💬 11 | [HN Thread](https://news.ycombinator.com/item?id=49327408) |
 
 ---
 
 ## 🗄️ News Archive
 
+- 📅 [2026-08-22](archive/2026-08-22.md)
 - 📅 [2026-08-21](archive/2026-08-21.md)
 - 📅 [2026-08-20](archive/2026-08-20.md)
 - 📅 [2026-08-19](archive/2026-08-19.md)
