@@ -12,16 +12,16 @@ An automated **Tech & AI News Digest** that aggregates top trending discussions 
 
 | # | Story | Points | Comments | Discussion |
 |:---:|:---|:---:|:---:|:---:|
-| **1** | [There's no reason for software to be slow anymore](https://danluu.com/perf-opt/) | ⭐ 171 | 💬 139 | [HN Thread](https://news.ycombinator.com/item?id=49395628) |
-| **2** | [Felony Bench](https://www.felonybench.com/) | ⭐ 585 | 💬 244 | [HN Thread](https://news.ycombinator.com/item?id=49389430) |
-| **3** | [Rust Glancer: Rust LSP using 100x less RAM](https://rust-glancer.github.io/blog/hello-world/) | ⭐ 79 | 💬 24 | [HN Thread](https://news.ycombinator.com/item?id=49393052) |
-| **4** | [Kobo can run apps now](https://bandarlabs.github.io/Cobalt/) | ⭐ 467 | 💬 164 | [HN Thread](https://news.ycombinator.com/item?id=49390427) |
-| **5** | [Initial focus for our partnership with Motorola is a regular non-folding device](https://grapheneos.social/@GrapheneOS/117136278553665985) | ⭐ 41 | 💬 14 | [HN Thread](https://news.ycombinator.com/item?id=49395605) |
-| **6** | [Early Humans Likely Ate Carbs and Sugary Foods](https://www.history.com/articles/early-human-ancestors-diet-sugar-carbs) | ⭐ 16 | 💬 25 | [HN Thread](https://news.ycombinator.com/item?id=49396086) |
-| **7** | [Three important steps in my maturation process](https://thomasdullien.github.io/posts/2026-08-21-three-important-steps-in-my-maturation-process/) | ⭐ 90 | 💬 26 | [HN Thread](https://news.ycombinator.com/item?id=49394496) |
-| **8** | [Scientists release biggest 2D map of the universe](https://newscenter.lbl.gov/2026/08/10/scientists-release-biggest-2d-map-of-the-universe/) | ⭐ 165 | 💬 52 | [HN Thread](https://news.ycombinator.com/item?id=49392200) |
-| **9** | [Kagi added a setting for removing paywalled links from search results](https://kagi.com/changelog#11296) | ⭐ 1047 | 💬 349 | [HN Thread](https://news.ycombinator.com/item?id=49388154) |
-| **10** | [Felony charges for citizen deleting phone data at US Border](https://www.nytimes.com/2026/08/21/us/politics/samuel-tunick-deleted-phone-felony.html) | ⭐ 637 | 💬 794 | [HN Thread](https://news.ycombinator.com/item?id=49386895) |
+| **1** | [Rust Glancer: Rust LSP using 100x less RAM](https://rust-glancer.github.io/blog/hello-world/) | ⭐ 170 | 💬 34 | [HN Thread](https://news.ycombinator.com/item?id=49393052) |
+| **2** | [Felony Bench](https://www.felonybench.com/) | ⭐ 684 | 💬 272 | [HN Thread](https://news.ycombinator.com/item?id=49389430) |
+| **3** | [Kobo can run apps now](https://bandarlabs.github.io/Cobalt/) | ⭐ 528 | 💬 186 | [HN Thread](https://news.ycombinator.com/item?id=49390427) |
+| **4** | [There's no reason for software to be slow anymore](https://danluu.com/perf-opt/) | ⭐ 369 | 💬 268 | [HN Thread](https://news.ycombinator.com/item?id=49395628) |
+| **5** | [Felony charges for citizen deleting phone data at US Border](https://www.nytimes.com/2026/08/21/us/politics/samuel-tunick-deleted-phone-felony.html) | ⭐ 757 | 💬 883 | [HN Thread](https://news.ycombinator.com/item?id=49386895) |
+| **6** | [Optimizing meshoptimizer to process billions of triangles in minutes (2025)](https://zeux.io/2025/09/30/billions-of-triangles-in-minutes/) | ⭐ 17 | 💬 0 | [HN Thread](https://news.ycombinator.com/item?id=49391661) |
+| **7** | [I accidentally logged hundreds of thousands of phone calls to military bases](https://lina.sh/blog/hijacking-e164-arpa) | ⭐ 533 | 💬 60 | [HN Thread](https://news.ycombinator.com/item?id=49387570) |
+| **8** | [Kagi added a setting for removing paywalled links from search results](https://kagi.com/changelog#11296) | ⭐ 1106 | 💬 361 | [HN Thread](https://news.ycombinator.com/item?id=49388154) |
+| **9** | [OTel isn’t going well](https://matduggan.com/otel-isnt-going-well-and-i-made-a-spreadsheet-about-it/) | ⭐ 105 | 💬 42 | [HN Thread](https://news.ycombinator.com/item?id=49391553) |
+| **10** | [Three important steps in my maturation process](https://thomasdullien.github.io/posts/2026-08-21-three-important-steps-in-my-maturation-process/) | ⭐ 129 | 💬 58 | [HN Thread](https://news.ycombinator.com/item?id=49394496) |
 
 ---
 
