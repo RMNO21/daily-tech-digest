@@ -12,16 +12,16 @@ An automated **Tech & AI News Digest** that aggregates top trending discussions 
 
 | # | Story | Points | Comments | Discussion |
 |:---:|:---|:---:|:---:|:---:|
-| **1** | [The End of an Athlon](http://www.os2museum.com/wp/the-end-of-an-athlon/) | ⭐ 63 | 💬 13 | [HN Thread](https://news.ycombinator.com/item?id=49406333) |
-| **2** | [JIT Compiling Code in 5μs](https://malisper.me/jit-compiling-code-in-5-us/) | ⭐ 44 | 💬 5 | [HN Thread](https://news.ycombinator.com/item?id=49406387) |
-| **3** | [To become a better writer, read as much as you can](https://nappertime.com/the-golden-rule-of-becoming-a-better-writer/) | ⭐ 108 | 💬 58 | [HN Thread](https://news.ycombinator.com/item?id=49405870) |
-| **4** | [MartyPC is a cross-platform emulator of early PCs written in Rust](https://martypc.net/) | ⭐ 105 | 💬 27 | [HN Thread](https://news.ycombinator.com/item?id=49405816) |
-| **5** | [I Dream of Quieter Computing](https://henry.codes/writing/i-dream-of-quieter-computing/) | ⭐ 58 | 💬 34 | [HN Thread](https://news.ycombinator.com/item?id=49405682) |
-| **6** | [Why your local LLM feels dumber than it is](https://forum.level1techs.com/t/why-your-local-llm-feels-dumber-than-it-is/253917) | ⭐ 325 | 💬 110 | [HN Thread](https://news.ycombinator.com/item?id=49402232) |
-| **7** | [Wi-Fi 8 is the first wireless upgrade in years that isn't chasing speed](https://www.xda-developers.com/wi-fi-8-first-wireless-upgrade-years-isnt-chasing-speed-home-networks-need-it/) | ⭐ 74 | 💬 52 | [HN Thread](https://news.ycombinator.com/item?id=49406539) |
-| **8** | [The Art and Beauty of Blade Runner (2015)](https://nappertime.com/the-art-of-and-beauty-of-blade-runner/) | ⭐ 68 | 💬 21 | [HN Thread](https://news.ycombinator.com/item?id=49405331) |
-| **9** | [Scrap (2006)](https://twitter.com/moxie/status/2091218652133732491) | ⭐ 367 | 💬 196 | [HN Thread](https://news.ycombinator.com/item?id=49402189) |
-| **10** | [ElevenLabs, TwelveLabs, ThirteenLabs](https://quantumi.sh/public/labs.html) | ⭐ 392 | 💬 115 | [HN Thread](https://news.ycombinator.com/item?id=49400408) |
+| **1** | [Sydney Marathon medal mistakenly depicts Munich stadium](https://www.bbc.com/news/articles/cvg92y1wzn8o) | ⭐ 27 | 💬 13 | [HN Thread](https://news.ycombinator.com/item?id=49407576) |
+| **2** | [To become a better writer, read as much as you can](https://nappertime.com/the-golden-rule-of-becoming-a-better-writer/) | ⭐ 238 | 💬 154 | [HN Thread](https://news.ycombinator.com/item?id=49405870) |
+| **3** | [The End of an Athlon](http://www.os2museum.com/wp/the-end-of-an-athlon/) | ⭐ 124 | 💬 40 | [HN Thread](https://news.ycombinator.com/item?id=49406333) |
+| **4** | [Show HN: Live 3D satellite tracker and the declassified Pentagon UFO archive](https://skylens.yantraai.app/) | ⭐ 21 | 💬 0 | [HN Thread](https://news.ycombinator.com/item?id=49407309) |
+| **5** | [JIT Compiling Code in 5μs](https://malisper.me/jit-compiling-code-in-5-us/) | ⭐ 91 | 💬 50 | [HN Thread](https://news.ycombinator.com/item?id=49406387) |
+| **6** | [MartyPC is a cross-platform emulator of early PCs written in Rust](https://martypc.net/) | ⭐ 138 | 💬 49 | [HN Thread](https://news.ycombinator.com/item?id=49405816) |
+| **7** | [I gave Qwen 3.8 27B a reverse-engineering job and it finished in 30 minutes](https://www.xda-developers.com/qwen-3-8-27b-reverse-engineering-job-frontier-model/) | ⭐ 64 | 💬 24 | [HN Thread](https://news.ycombinator.com/item?id=49407507) |
+| **8** | [Fast and Hard Code](https://lucumr.pocoo.org/2026/8/22/fast-hard-code/) | ⭐ 59 | 💬 21 | [HN Thread](https://news.ycombinator.com/item?id=49406285) |
+| **9** | [Why your local LLM feels dumber than it is](https://forum.level1techs.com/t/why-your-local-llm-feels-dumber-than-it-is/253917) | ⭐ 389 | 💬 151 | [HN Thread](https://news.ycombinator.com/item?id=49402232) |
+| **10** | [The Art and Beauty of Blade Runner (2015)](https://nappertime.com/the-art-of-and-beauty-of-blade-runner/) | ⭐ 109 | 💬 46 | [HN Thread](https://news.ycombinator.com/item?id=49405331) |
 
 ---
 
