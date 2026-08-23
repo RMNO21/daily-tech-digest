@@ -12,21 +12,22 @@ An automated **Tech & AI News Digest** that aggregates top trending discussions 
 
 | # | Story | Points | Comments | Discussion |
 |:---:|:---|:---:|:---:|:---:|
-| **1** | [hdiutil is deprecated in macOS 27 Golden Gate](https://lapcatsoftware.com/articles/2026/8/7.html) | ⭐ 70 | 💬 20 | [HN Thread](https://news.ycombinator.com/item?id=49402741) |
-| **2** | [NetBSD and My Life (2005)](https://mail-index.netbsd.org/netbsd-advocacy/2005/09/10/0000.html) | ⭐ 36 | 💬 3 | [HN Thread](https://news.ycombinator.com/item?id=49402781) |
-| **3** | [Scrap](https://twitter.com/moxie/status/2091218652133732491) | ⭐ 100 | 💬 23 | [HN Thread](https://news.ycombinator.com/item?id=49402189) |
-| **4** | [ElevenLabs, TwelveLabs, ThirteenLabs](https://quantumi.sh/public/labs.html) | ⭐ 232 | 💬 76 | [HN Thread](https://news.ycombinator.com/item?id=49400408) |
-| **5** | [Hister – A private, full content search index that you control](https://hister.org/) | ⭐ 111 | 💬 40 | [HN Thread](https://news.ycombinator.com/item?id=49351802) |
-| **6** | [A Friendly Introduction to Racket](https://geometridae.bearblog.dev/a-friendly-introduction-to-racket/) | ⭐ 104 | 💬 42 | [HN Thread](https://news.ycombinator.com/item?id=49399898) |
-| **7** | [Show HN: Make your logo extra bright on HDR screens](https://www.soverybright.com/) | ⭐ 17 | 💬 14 | [HN Thread](https://news.ycombinator.com/item?id=49402521) |
-| **8** | [typ.ing](https://typ.ing/) | ⭐ 86 | 💬 27 | [HN Thread](https://news.ycombinator.com/item?id=49346854) |
-| **9** | [RF Cafe](https://www.rfcafe.com/) | ⭐ 74 | 💬 9 | [HN Thread](https://news.ycombinator.com/item?id=49355659) |
-| **10** | [Why your local LLM feels dumber than it is](https://forum.level1techs.com/t/why-your-local-llm-feels-dumber-than-it-is/253917) | ⭐ 15 | 💬 1 | [HN Thread](https://news.ycombinator.com/item?id=49402232) |
+| **1** | [Figmimic – A bookmarklet to copy any webpage into Figma as editable layers](https://marcua.net/minitools/figmimic/) | ⭐ 13 | 💬 0 | [HN Thread](https://news.ycombinator.com/item?id=49402213) |
+| **2** | [NanoGPT Speedrun Frontier](https://www.primeintellect.ai/research/nanogpt-speedrun) | ⭐ 44 | 💬 12 | [HN Thread](https://news.ycombinator.com/item?id=49404380) |
+| **3** | [Scrap (2006)](https://twitter.com/moxie/status/2091218652133732491) | ⭐ 313 | 💬 175 | [HN Thread](https://news.ycombinator.com/item?id=49402189) |
+| **4** | [Why your local LLM feels dumber than it is](https://forum.level1techs.com/t/why-your-local-llm-feels-dumber-than-it-is/253917) | ⭐ 176 | 💬 58 | [HN Thread](https://news.ycombinator.com/item?id=49402232) |
+| **5** | [ElevenLabs, TwelveLabs, ThirteenLabs](https://quantumi.sh/public/labs.html) | ⭐ 303 | 💬 101 | [HN Thread](https://news.ycombinator.com/item?id=49400408) |
+| **6** | [Hister – A private, full content search index that you control](https://hister.org/) | ⭐ 231 | 💬 66 | [HN Thread](https://news.ycombinator.com/item?id=49351802) |
+| **7** | [NetBSD and my life (2005)](https://mail-index.netbsd.org/netbsd-advocacy/2005/09/10/0000.html) | ⭐ 94 | 💬 24 | [HN Thread](https://news.ycombinator.com/item?id=49402781) |
+| **8** | [RF Cafe](https://www.rfcafe.com/) | ⭐ 149 | 💬 24 | [HN Thread](https://news.ycombinator.com/item?id=49355659) |
+| **9** | [typ.ing](https://typ.ing/) | ⭐ 176 | 💬 56 | [HN Thread](https://news.ycombinator.com/item?id=49346854) |
+| **10** | [How a Texas student blew the whistle on a rogue AI hacking attempt](https://www.reuters.com/world/how-texas-student-blew-whistle-rogue-ai-hacking-attempt-2026-08-20/) | ⭐ 109 | 💬 41 | [HN Thread](https://news.ycombinator.com/item?id=49387959) |
 
 ---
 
 ## 🗄️ News Archive
 
+- 📅 [2026-08-23](archive/2026-08-23.md)
 - 📅 [2026-08-22](archive/2026-08-22.md)
 - 📅 [2026-08-21](archive/2026-08-21.md)
 - 📅 [2026-08-20](archive/2026-08-20.md)
