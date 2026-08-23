@@ -12,16 +12,16 @@ An automated **Tech & AI News Digest** that aggregates top trending discussions 
 
 | # | Story | Points | Comments | Discussion |
 |:---:|:---|:---:|:---:|:---:|
-| **1** | [Figmimic – A bookmarklet to copy any webpage into Figma as editable layers](https://marcua.net/minitools/figmimic/) | ⭐ 13 | 💬 0 | [HN Thread](https://news.ycombinator.com/item?id=49402213) |
-| **2** | [NanoGPT Speedrun Frontier](https://www.primeintellect.ai/research/nanogpt-speedrun) | ⭐ 44 | 💬 12 | [HN Thread](https://news.ycombinator.com/item?id=49404380) |
-| **3** | [Scrap (2006)](https://twitter.com/moxie/status/2091218652133732491) | ⭐ 313 | 💬 175 | [HN Thread](https://news.ycombinator.com/item?id=49402189) |
-| **4** | [Why your local LLM feels dumber than it is](https://forum.level1techs.com/t/why-your-local-llm-feels-dumber-than-it-is/253917) | ⭐ 176 | 💬 58 | [HN Thread](https://news.ycombinator.com/item?id=49402232) |
-| **5** | [ElevenLabs, TwelveLabs, ThirteenLabs](https://quantumi.sh/public/labs.html) | ⭐ 303 | 💬 101 | [HN Thread](https://news.ycombinator.com/item?id=49400408) |
-| **6** | [Hister – A private, full content search index that you control](https://hister.org/) | ⭐ 231 | 💬 66 | [HN Thread](https://news.ycombinator.com/item?id=49351802) |
-| **7** | [NetBSD and my life (2005)](https://mail-index.netbsd.org/netbsd-advocacy/2005/09/10/0000.html) | ⭐ 94 | 💬 24 | [HN Thread](https://news.ycombinator.com/item?id=49402781) |
-| **8** | [RF Cafe](https://www.rfcafe.com/) | ⭐ 149 | 💬 24 | [HN Thread](https://news.ycombinator.com/item?id=49355659) |
-| **9** | [typ.ing](https://typ.ing/) | ⭐ 176 | 💬 56 | [HN Thread](https://news.ycombinator.com/item?id=49346854) |
-| **10** | [How a Texas student blew the whistle on a rogue AI hacking attempt](https://www.reuters.com/world/how-texas-student-blew-whistle-rogue-ai-hacking-attempt-2026-08-20/) | ⭐ 109 | 💬 41 | [HN Thread](https://news.ycombinator.com/item?id=49387959) |
+| **1** | [MartyPC is a cross-platform emulator of early PCs written in Rust](https://martypc.net/) | ⭐ 15 | 💬 0 | [HN Thread](https://news.ycombinator.com/item?id=49405816) |
+| **2** | [Scrap (2006)](https://twitter.com/moxie/status/2091218652133732491) | ⭐ 347 | 💬 188 | [HN Thread](https://news.ycombinator.com/item?id=49402189) |
+| **3** | [Why your local LLM feels dumber than it is](https://forum.level1techs.com/t/why-your-local-llm-feels-dumber-than-it-is/253917) | ⭐ 237 | 💬 82 | [HN Thread](https://news.ycombinator.com/item?id=49402232) |
+| **4** | [NanoGPT Speedrun Frontier](https://www.primeintellect.ai/research/nanogpt-speedrun) | ⭐ 68 | 💬 19 | [HN Thread](https://news.ycombinator.com/item?id=49404380) |
+| **5** | [ElevenLabs, TwelveLabs, ThirteenLabs](https://quantumi.sh/public/labs.html) | ⭐ 342 | 💬 108 | [HN Thread](https://news.ycombinator.com/item?id=49400408) |
+| **6** | [Hister – A private, full content search index that you control](https://hister.org/) | ⭐ 278 | 💬 73 | [HN Thread](https://news.ycombinator.com/item?id=49351802) |
+| **7** | [I Dream of Quieter Computing](https://henry.codes/writing/i-dream-of-quieter-computing/) | ⭐ 8 | 💬 0 | [HN Thread](https://news.ycombinator.com/item?id=49405682) |
+| **8** | [The Art and Beauty of Blade Runner](https://nappertime.com/the-art-of-and-beauty-of-blade-runner/) | ⭐ 19 | 💬 5 | [HN Thread](https://news.ycombinator.com/item?id=49405331) |
+| **9** | [typ.ing](https://typ.ing/) | ⭐ 216 | 💬 63 | [HN Thread](https://news.ycombinator.com/item?id=49346854) |
+| **10** | [RF Cafe](https://www.rfcafe.com/) | ⭐ 172 | 💬 28 | [HN Thread](https://news.ycombinator.com/item?id=49355659) |
 
 ---
 
