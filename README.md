@@ -12,16 +12,16 @@ An automated **Tech & AI News Digest** that aggregates top trending discussions 
 
 | # | Story | Points | Comments | Discussion |
 |:---:|:---|:---:|:---:|:---:|
-| **1** | [Malware infects Android-based automotive head unit firmware](https://securelist.com/android-head-unit-malware/121106/) | ⭐ 141 | 💬 53 | [HN Thread](https://news.ycombinator.com/item?id=49408550) |
-| **2** | [How Complex Systems Fail](https://how.complexsystems.fail/) | ⭐ 44 | 💬 3 | [HN Thread](https://news.ycombinator.com/item?id=49409473) |
-| **3** | [My favorite nonfiction books about cults, scams, and schemes](https://bookdna.com/best-books/nonfiction-about-cults-scams-and-schemes) | ⭐ 85 | 💬 21 | [HN Thread](https://news.ycombinator.com/item?id=49408858) |
-| **4** | [I spent $266 and four AI models to own my tablet. GLM-5.3 finished it in a day](https://ericpardee.github.io/fire-hd-ownership/) | ⭐ 87 | 💬 29 | [HN Thread](https://news.ycombinator.com/item?id=49409073) |
-| **5** | [Coconut Oil Jet Fuel Matches Kerosene's Efficiency in Engine Tests](https://studyfinds.com/coconut-oil-jet-fuel-matches-kerosenes-efficiency-in-engine-tests/) | ⭐ 7 | 💬 3 | [HN Thread](https://news.ycombinator.com/item?id=49409780) |
-| **6** | [Things I want in a modern relational query language](https://sporks.space/2026/08/19/things-i-want-in-a-modern-relational-query-language/) | ⭐ 42 | 💬 27 | [HN Thread](https://news.ycombinator.com/item?id=49402491) |
-| **7** | [Slovakia finds Russian backdoor in traffic speed cameras](https://risky.biz/risky-bulletin-slovakia-finds-russian-backdoor-in-traffic-speed-cameras/) | ⭐ 102 | 💬 39 | [HN Thread](https://news.ycombinator.com/item?id=49409200) |
-| **8** | [To become a better writer, read as much as you can](https://nappertime.com/the-golden-rule-of-becoming-a-better-writer/) | ⭐ 353 | 💬 226 | [HN Thread](https://news.ycombinator.com/item?id=49405870) |
-| **9** | [What Is a Harness?](https://earendil.com/posts/what-is-a-harness/) | ⭐ 90 | 💬 60 | [HN Thread](https://news.ycombinator.com/item?id=49409092) |
-| **10** | [The End of an Athlon](http://www.os2museum.com/wp/the-end-of-an-athlon/) | ⭐ 154 | 💬 62 | [HN Thread](https://news.ycombinator.com/item?id=49406333) |
+| **1** | [How I Find Problems to Solve as a Staff Engineer](https://lalitm.com/post/find-problems-staff-engineer/) | ⭐ 43 | 💬 21 | [HN Thread](https://news.ycombinator.com/item?id=49411643) |
+| **2** | [A website for debloated open source alternatives](https://debloat.dev/) | ⭐ 149 | 💬 62 | [HN Thread](https://news.ycombinator.com/item?id=49410362) |
+| **3** | [Fable and the End of the Free Lunch](https://www.dbreunig.com/2026/08/23/fable-the-end-of-moore-s-law.html) | ⭐ 30 | 💬 15 | [HN Thread](https://news.ycombinator.com/item?id=49411468) |
+| **4** | [How Complex Systems Fail (1998)](https://how.complexsystems.fail/) | ⭐ 163 | 💬 45 | [HN Thread](https://news.ycombinator.com/item?id=49409473) |
+| **5** | [Why Sal Khan't: On Learning by Making but Teaching by Telling](https://punyamishra.com/2026/04/16/why-sal-khant-on-learning-by-making-but-teaching-by-telling/) | ⭐ 82 | 💬 51 | [HN Thread](https://news.ycombinator.com/item?id=49409862) |
+| **6** | [The Vibe Tax](https://insufferable.dev/posts/vibe-tax/) | ⭐ 18 | 💬 5 | [HN Thread](https://news.ycombinator.com/item?id=49411199) |
+| **7** | [Malware infects Android-based automotive head unit firmware](https://securelist.com/android-head-unit-malware/121106/) | ⭐ 179 | 💬 85 | [HN Thread](https://news.ycombinator.com/item?id=49408550) |
+| **8** | [My favorite nonfiction books about cults, scams, and schemes](https://bookdna.com/best-books/nonfiction-about-cults-scams-and-schemes) | ⭐ 152 | 💬 58 | [HN Thread](https://news.ycombinator.com/item?id=49408858) |
+| **9** | [What Is a Harness?](https://earendil.com/posts/what-is-a-harness/) | ⭐ 192 | 💬 102 | [HN Thread](https://news.ycombinator.com/item?id=49409092) |
+| **10** | [Coconut Oil Jet Fuel Matches Kerosene's Efficiency in Engine Tests](https://studyfinds.com/coconut-oil-jet-fuel-matches-kerosenes-efficiency-in-engine-tests/) | ⭐ 102 | 💬 90 | [HN Thread](https://news.ycombinator.com/item?id=49409780) |
 
 ---
 
