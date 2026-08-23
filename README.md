@@ -12,16 +12,16 @@ An automated **Tech & AI News Digest** that aggregates top trending discussions 
 
 | # | Story | Points | Comments | Discussion |
 |:---:|:---|:---:|:---:|:---:|
-| **1** | [Sydney Marathon medal mistakenly depicts Munich stadium](https://www.bbc.com/news/articles/cvg92y1wzn8o) | ⭐ 27 | 💬 13 | [HN Thread](https://news.ycombinator.com/item?id=49407576) |
-| **2** | [To become a better writer, read as much as you can](https://nappertime.com/the-golden-rule-of-becoming-a-better-writer/) | ⭐ 238 | 💬 154 | [HN Thread](https://news.ycombinator.com/item?id=49405870) |
-| **3** | [The End of an Athlon](http://www.os2museum.com/wp/the-end-of-an-athlon/) | ⭐ 124 | 💬 40 | [HN Thread](https://news.ycombinator.com/item?id=49406333) |
-| **4** | [Show HN: Live 3D satellite tracker and the declassified Pentagon UFO archive](https://skylens.yantraai.app/) | ⭐ 21 | 💬 0 | [HN Thread](https://news.ycombinator.com/item?id=49407309) |
-| **5** | [JIT Compiling Code in 5μs](https://malisper.me/jit-compiling-code-in-5-us/) | ⭐ 91 | 💬 50 | [HN Thread](https://news.ycombinator.com/item?id=49406387) |
-| **6** | [MartyPC is a cross-platform emulator of early PCs written in Rust](https://martypc.net/) | ⭐ 138 | 💬 49 | [HN Thread](https://news.ycombinator.com/item?id=49405816) |
-| **7** | [I gave Qwen 3.8 27B a reverse-engineering job and it finished in 30 minutes](https://www.xda-developers.com/qwen-3-8-27b-reverse-engineering-job-frontier-model/) | ⭐ 64 | 💬 24 | [HN Thread](https://news.ycombinator.com/item?id=49407507) |
-| **8** | [Fast and Hard Code](https://lucumr.pocoo.org/2026/8/22/fast-hard-code/) | ⭐ 59 | 💬 21 | [HN Thread](https://news.ycombinator.com/item?id=49406285) |
-| **9** | [Why your local LLM feels dumber than it is](https://forum.level1techs.com/t/why-your-local-llm-feels-dumber-than-it-is/253917) | ⭐ 389 | 💬 151 | [HN Thread](https://news.ycombinator.com/item?id=49402232) |
-| **10** | [The Art and Beauty of Blade Runner (2015)](https://nappertime.com/the-art-of-and-beauty-of-blade-runner/) | ⭐ 109 | 💬 46 | [HN Thread](https://news.ycombinator.com/item?id=49405331) |
+| **1** | [Malware infects Android-based automotive head unit firmware](https://securelist.com/android-head-unit-malware/121106/) | ⭐ 141 | 💬 53 | [HN Thread](https://news.ycombinator.com/item?id=49408550) |
+| **2** | [How Complex Systems Fail](https://how.complexsystems.fail/) | ⭐ 44 | 💬 3 | [HN Thread](https://news.ycombinator.com/item?id=49409473) |
+| **3** | [My favorite nonfiction books about cults, scams, and schemes](https://bookdna.com/best-books/nonfiction-about-cults-scams-and-schemes) | ⭐ 85 | 💬 21 | [HN Thread](https://news.ycombinator.com/item?id=49408858) |
+| **4** | [I spent $266 and four AI models to own my tablet. GLM-5.3 finished it in a day](https://ericpardee.github.io/fire-hd-ownership/) | ⭐ 87 | 💬 29 | [HN Thread](https://news.ycombinator.com/item?id=49409073) |
+| **5** | [Coconut Oil Jet Fuel Matches Kerosene's Efficiency in Engine Tests](https://studyfinds.com/coconut-oil-jet-fuel-matches-kerosenes-efficiency-in-engine-tests/) | ⭐ 7 | 💬 3 | [HN Thread](https://news.ycombinator.com/item?id=49409780) |
+| **6** | [Things I want in a modern relational query language](https://sporks.space/2026/08/19/things-i-want-in-a-modern-relational-query-language/) | ⭐ 42 | 💬 27 | [HN Thread](https://news.ycombinator.com/item?id=49402491) |
+| **7** | [Slovakia finds Russian backdoor in traffic speed cameras](https://risky.biz/risky-bulletin-slovakia-finds-russian-backdoor-in-traffic-speed-cameras/) | ⭐ 102 | 💬 39 | [HN Thread](https://news.ycombinator.com/item?id=49409200) |
+| **8** | [To become a better writer, read as much as you can](https://nappertime.com/the-golden-rule-of-becoming-a-better-writer/) | ⭐ 353 | 💬 226 | [HN Thread](https://news.ycombinator.com/item?id=49405870) |
+| **9** | [What Is a Harness?](https://earendil.com/posts/what-is-a-harness/) | ⭐ 90 | 💬 60 | [HN Thread](https://news.ycombinator.com/item?id=49409092) |
+| **10** | [The End of an Athlon](http://www.os2museum.com/wp/the-end-of-an-athlon/) | ⭐ 154 | 💬 62 | [HN Thread](https://news.ycombinator.com/item?id=49406333) |
 
 ---
 
