@@ -12,21 +12,22 @@ An automated **Tech & AI News Digest** that aggregates top trending discussions 
 
 | # | Story | Points | Comments | Discussion |
 |:---:|:---|:---:|:---:|:---:|
-| **1** | [How I Find Problems to Solve as a Staff Engineer](https://lalitm.com/post/find-problems-staff-engineer/) | ⭐ 43 | 💬 21 | [HN Thread](https://news.ycombinator.com/item?id=49411643) |
-| **2** | [A website for debloated open source alternatives](https://debloat.dev/) | ⭐ 149 | 💬 62 | [HN Thread](https://news.ycombinator.com/item?id=49410362) |
-| **3** | [Fable and the End of the Free Lunch](https://www.dbreunig.com/2026/08/23/fable-the-end-of-moore-s-law.html) | ⭐ 30 | 💬 15 | [HN Thread](https://news.ycombinator.com/item?id=49411468) |
-| **4** | [How Complex Systems Fail (1998)](https://how.complexsystems.fail/) | ⭐ 163 | 💬 45 | [HN Thread](https://news.ycombinator.com/item?id=49409473) |
-| **5** | [Why Sal Khan't: On Learning by Making but Teaching by Telling](https://punyamishra.com/2026/04/16/why-sal-khant-on-learning-by-making-but-teaching-by-telling/) | ⭐ 82 | 💬 51 | [HN Thread](https://news.ycombinator.com/item?id=49409862) |
-| **6** | [The Vibe Tax](https://insufferable.dev/posts/vibe-tax/) | ⭐ 18 | 💬 5 | [HN Thread](https://news.ycombinator.com/item?id=49411199) |
-| **7** | [Malware infects Android-based automotive head unit firmware](https://securelist.com/android-head-unit-malware/121106/) | ⭐ 179 | 💬 85 | [HN Thread](https://news.ycombinator.com/item?id=49408550) |
-| **8** | [My favorite nonfiction books about cults, scams, and schemes](https://bookdna.com/best-books/nonfiction-about-cults-scams-and-schemes) | ⭐ 152 | 💬 58 | [HN Thread](https://news.ycombinator.com/item?id=49408858) |
-| **9** | [What Is a Harness?](https://earendil.com/posts/what-is-a-harness/) | ⭐ 192 | 💬 102 | [HN Thread](https://news.ycombinator.com/item?id=49409092) |
-| **10** | [Coconut Oil Jet Fuel Matches Kerosene's Efficiency in Engine Tests](https://studyfinds.com/coconut-oil-jet-fuel-matches-kerosenes-efficiency-in-engine-tests/) | ⭐ 102 | 💬 90 | [HN Thread](https://news.ycombinator.com/item?id=49409780) |
+| **1** | [Everything I own, owned](https://schlarp.com/posts/everything-i-own-owned/) | ⭐ 251 | 💬 79 | [HN Thread](https://news.ycombinator.com/item?id=49413320) |
+| **2** | [How I find problems to solve as a staff engineer](https://lalitm.com/post/find-problems-staff-engineer/) | ⭐ 261 | 💬 103 | [HN Thread](https://news.ycombinator.com/item?id=49411643) |
+| **3** | [Anthropic's best AI model struggles to attract users as cheaper tools thrive](https://www.ft.com/content/5ee49718-c258-4f01-aa32-7e5b76ae5245) | ⭐ 211 | 💬 178 | [HN Thread](https://news.ycombinator.com/item?id=49411102) |
+| **4** | [Google Workspace thinks my domain is an email provider (2025)](https://blog.elis.cc/articles/google-workspace-thinks-my-domain-is-an-email-provider/) | ⭐ 181 | 💬 45 | [HN Thread](https://news.ycombinator.com/item?id=49411717) |
+| **5** | [My agent.md to improve LLM-assisted code quality](https://fabiensanglard.net/agent.md/index.html) | ⭐ 160 | 💬 79 | [HN Thread](https://news.ycombinator.com/item?id=49410932) |
+| **6** | [What Is a Harness?](https://earendil.com/posts/what-is-a-harness/) | ⭐ 302 | 💬 133 | [HN Thread](https://news.ycombinator.com/item?id=49409092) |
+| **7** | [AI Chip Architectures](https://www.jepeake.com/ai-chip-architectures) | ⭐ 42 | 💬 9 | [HN Thread](https://news.ycombinator.com/item?id=49405657) |
+| **8** | [How Complex Systems Fail (1998)](https://how.complexsystems.fail/) | ⭐ 237 | 💬 62 | [HN Thread](https://news.ycombinator.com/item?id=49409473) |
+| **9** | [Malware infects Android-based automotive head unit firmware](https://securelist.com/android-head-unit-malware/121106/) | ⭐ 214 | 💬 106 | [HN Thread](https://news.ycombinator.com/item?id=49408550) |
+| **10** | [Implementation of GPT-2 in pure CMake](https://github.com/AlpinDale/gpt2.cmake) | ⭐ 30 | 💬 10 | [HN Thread](https://news.ycombinator.com/item?id=49412909) |
 
 ---
 
 ## 🗄️ News Archive
 
+- 📅 [2026-08-24](archive/2026-08-24.md)
 - 📅 [2026-08-23](archive/2026-08-23.md)
 - 📅 [2026-08-22](archive/2026-08-22.md)
 - 📅 [2026-08-21](archive/2026-08-21.md)
