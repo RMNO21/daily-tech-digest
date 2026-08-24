@@ -12,16 +12,16 @@ An automated **Tech & AI News Digest** that aggregates top trending discussions 
 
 | # | Story | Points | Comments | Discussion |
 |:---:|:---|:---:|:---:|:---:|
-| **1** | [Everything I own, owned](https://schlarp.com/posts/everything-i-own-owned/) | ⭐ 474 | 💬 144 | [HN Thread](https://news.ycombinator.com/item?id=49413320) |
-| **2** | [How I find problems to solve as a staff engineer](https://lalitm.com/post/find-problems-staff-engineer/) | ⭐ 336 | 💬 118 | [HN Thread](https://news.ycombinator.com/item?id=49411643) |
-| **3** | [Anthropic's best AI model struggles to attract users as cheaper tools thrive](https://www.ft.com/content/5ee49718-c258-4f01-aa32-7e5b76ae5245) | ⭐ 336 | 💬 286 | [HN Thread](https://news.ycombinator.com/item?id=49411102) |
-| **4** | [Migrating a Synology NAS to a UniFi UNAS Pro 8 with Robocopy, SMB Multichannel](https://www.hanselman.com/blog/migrating-a-synology-nas-to-a-unifi-unas-pro-8-with-robocopy-smb-multichannel-and-surprising-performance-traps) | ⭐ 26 | 💬 25 | [HN Thread](https://news.ycombinator.com/item?id=49414338) |
-| **5** | [Google Workspace thinks my domain is an email provider (2025)](https://blog.elis.cc/articles/google-workspace-thinks-my-domain-is-an-email-provider/) | ⭐ 219 | 💬 62 | [HN Thread](https://news.ycombinator.com/item?id=49411717) |
-| **6** | [My agent.md to improve LLM-assisted code quality](https://fabiensanglard.net/agent.md/index.html) | ⭐ 223 | 💬 94 | [HN Thread](https://news.ycombinator.com/item?id=49410932) |
-| **7** | [Nearly 3M Teslas recalled in China over hidden door handles](https://www.bbc.com/news/articles/c4g6ggdg030o) | ⭐ 14 | 💬 6 | [HN Thread](https://news.ycombinator.com/item?id=49415187) |
-| **8** | [I built a low-latency AI companion that plays Skyrim with me](https://pantel.is/projects/ai-gaming-companion/) | ⭐ 37 | 💬 6 | [HN Thread](https://news.ycombinator.com/item?id=49413561) |
-| **9** | [What Is a Harness?](https://earendil.com/posts/what-is-a-harness/) | ⭐ 364 | 💬 142 | [HN Thread](https://news.ycombinator.com/item?id=49409092) |
-| **10** | [How Complex Systems Fail (1998)](https://how.complexsystems.fail/) | ⭐ 273 | 💬 66 | [HN Thread](https://news.ycombinator.com/item?id=49409473) |
+| **1** | [Everything I own, owned](https://schlarp.com/posts/everything-i-own-owned/) | ⭐ 831 | 💬 242 | [HN Thread](https://news.ycombinator.com/item?id=49413320) |
+| **2** | [FDA clears blood test to aid evaluation for Alzheimer's disease](https://medicine.washu.edu/news/fda-clears-blood-test-to-aid-evaluation-for-alzheimers-disease/) | ⭐ 32 | 💬 7 | [HN Thread](https://news.ycombinator.com/item?id=49415893) |
+| **3** | [I were 17, I'd learn how to build LLMs from scratch](https://twitter.com/paulg/status/2091544343589060625) | ⭐ 72 | 💬 149 | [HN Thread](https://news.ycombinator.com/item?id=49412396) |
+| **4** | [The Work Number: credit score but for your employment history – by Equifax](https://employees.theworknumber.com) | ⭐ 24 | 💬 29 | [HN Thread](https://news.ycombinator.com/item?id=49416200) |
+| **5** | [Anthropic's best AI model struggles to attract users as cheaper tools thrive](https://www.ft.com/content/5ee49718-c258-4f01-aa32-7e5b76ae5245) | ⭐ 482 | 💬 433 | [HN Thread](https://news.ycombinator.com/item?id=49411102) |
+| **6** | [How I find problems to solve as a staff engineer](https://lalitm.com/post/find-problems-staff-engineer/) | ⭐ 400 | 💬 127 | [HN Thread](https://news.ycombinator.com/item?id=49411643) |
+| **7** | [We are not going anywhere](https://gist.github.com/omeid/a9d6d1e3c25cb3aa577931e60e006f54) | ⭐ 46 | 💬 33 | [HN Thread](https://news.ycombinator.com/item?id=49416366) |
+| **8** | [OCR It – pull text out of un-copyable documents for your LLM](https://github.com/thiagotigaz/ocr-it) | ⭐ 18 | 💬 6 | [HN Thread](https://news.ycombinator.com/item?id=49415852) |
+| **9** | [Andreessen Horowitz is investing billions into a bleak future](https://www.modelrepublic.org/articles/a16z-portfolio) | ⭐ 86 | 💬 17 | [HN Thread](https://news.ycombinator.com/item?id=49416055) |
+| **10** | [I built a low-latency AI companion that plays Skyrim with me](https://pantel.is/projects/ai-gaming-companion/) | ⭐ 137 | 💬 26 | [HN Thread](https://news.ycombinator.com/item?id=49413561) |
 
 ---
 
