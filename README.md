@@ -12,16 +12,16 @@ An automated **Tech & AI News Digest** that aggregates top trending discussions 
 
 | # | Story | Points | Comments | Discussion |
 |:---:|:---|:---:|:---:|:---:|
-| **1** | [iCloud+ Hide My Email addresses will remain on icloud.com](https://developer.apple.com/news/?id=1ptvdtcm) | ⭐ 318 | 💬 77 | [HN Thread](https://news.ycombinator.com/item?id=49426564) |
-| **2** | [Xiaomi: New CPU matches Apple cores single threaded, much faster multithreaded](https://twitter.com/lemire/status/2091894299289874926) | ⭐ 779 | 💬 527 | [HN Thread](https://news.ycombinator.com/item?id=49420873) |
-| **3** | [MS Paint and Photos inivisibly watermark even locally generated output with GUID](https://xusheng.dev/posts/reversing/mspaint_invisible_watermark/main/) | ⭐ 616 | 💬 242 | [HN Thread](https://news.ycombinator.com/item?id=49421158) |
-| **4** | [Headlong: A Microharness for Persistent Agents](https://www.laude.org/updates/headlong-a-microharness-for-persistent-agents) | ⭐ 11 | 💬 3 | [HN Thread](https://news.ycombinator.com/item?id=49428882) |
-| **5** | [How Universities Should Prepare Founders](https://paulgraham.com/prepare.html) | ⭐ 52 | 💬 52 | [HN Thread](https://news.ycombinator.com/item?id=49428121) |
-| **6** | [Moon (2024)](https://ciechanow.ski/moon/) | ⭐ 125 | 💬 20 | [HN Thread](https://news.ycombinator.com/item?id=49426466) |
-| **7** | [How Europe is killing makers and micro-entrepreneurs](https://lectronz.com/u/lectronz/articles/how-europe-is-killing-makers-and-micro-entrepreneurs) | ⭐ 1130 | 💬 676 | [HN Thread](https://news.ycombinator.com/item?id=49419237) |
-| **8** | [The entire city of San Francisco as a video game](https://sf.thijs.gg/) | ⭐ 394 | 💬 130 | [HN Thread](https://news.ycombinator.com/item?id=49422784) |
-| **9** | [Nostr is an inclusive communication commons](https://nostr.org/) | ⭐ 47 | 💬 3 | [HN Thread](https://news.ycombinator.com/item?id=49399722) |
-| **10** | [Bookshelf – Self-hosted eBook library that runs on object storage](https://github.com/murerkinn/bookshelf) | ⭐ 60 | 💬 24 | [HN Thread](https://news.ycombinator.com/item?id=49427001) |
+| **1** | [iCloud+ Hide My Email addresses will remain on icloud.com](https://developer.apple.com/news/?id=1ptvdtcm) | ⭐ 436 | 💬 119 | [HN Thread](https://news.ycombinator.com/item?id=49426564) |
+| **2** | [Xiaomi: New CPU matches Apple cores single threaded, much faster multithreaded](https://twitter.com/lemire/status/2091894299289874926) | ⭐ 849 | 💬 606 | [HN Thread](https://news.ycombinator.com/item?id=49420873) |
+| **3** | [MS Paint and Photos inivisibly watermark even locally generated output with GUID](https://xusheng.dev/posts/reversing/mspaint_invisible_watermark/main/) | ⭐ 695 | 💬 288 | [HN Thread](https://news.ycombinator.com/item?id=49421158) |
+| **4** | [Nostr is an inclusive communication commons](https://nostr.org/) | ⭐ 130 | 💬 60 | [HN Thread](https://news.ycombinator.com/item?id=49399722) |
+| **5** | [How Universities Should Prepare Founders](https://paulgraham.com/prepare.html) | ⭐ 110 | 💬 131 | [HN Thread](https://news.ycombinator.com/item?id=49428121) |
+| **6** | [SiFive's First Server Platform](https://chipsandcheese.com/p/sifives-first-server-platform) | ⭐ 42 | 💬 8 | [HN Thread](https://news.ycombinator.com/item?id=49428638) |
+| **7** | [How Europe is killing makers and micro-entrepreneurs](https://lectronz.com/u/lectronz/articles/how-europe-is-killing-makers-and-micro-entrepreneurs) | ⭐ 1309 | 💬 808 | [HN Thread](https://news.ycombinator.com/item?id=49419237) |
+| **8** | [Headlong: A Microharness for Persistent Agents](https://www.laude.org/updates/headlong-a-microharness-for-persistent-agents) | ⭐ 50 | 💬 17 | [HN Thread](https://news.ycombinator.com/item?id=49428882) |
+| **9** | [Moon (2024)](https://ciechanow.ski/moon/) | ⭐ 174 | 💬 32 | [HN Thread](https://news.ycombinator.com/item?id=49426466) |
+| **10** | [The entire city of San Francisco as a video game](https://sf.thijs.gg/) | ⭐ 445 | 💬 140 | [HN Thread](https://news.ycombinator.com/item?id=49422784) |
 
 ---
 
