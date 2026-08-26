@@ -12,21 +12,22 @@ An automated **Tech & AI News Digest** that aggregates top trending discussions 
 
 | # | Story | Points | Comments | Discussion |
 |:---:|:---|:---:|:---:|:---:|
-| **1** | [Apple introduces M6 and M5 Ultra](https://www.apple.com/newsroom/2026/08/apple-introduces-m6-and-m5-ultra-for-a-big-leap-in-performance-and-ai-compute/) | ⭐ 796 | 💬 707 | [HN Thread](https://news.ycombinator.com/item?id=49433292) |
-| **2** | [FDA authorizes first wearable device that monitors ketone and blood sugar levels](https://www.fda.gov/news-events/press-announcements/fda-authorizes-first-wearable-device-continuously-monitors-both-ketone-levels-and-blood-sugar) | ⭐ 55 | 💬 28 | [HN Thread](https://news.ycombinator.com/item?id=49439017) |
-| **3** | [New Mac Studio with M5 Max and M5 Ultra](https://www.apple.com/newsroom/2026/08/apple-introduces-new-mac-studio-with-m5-max-and-m5-ultra/) | ⭐ 629 | 💬 377 | [HN Thread](https://news.ycombinator.com/item?id=49433316) |
-| **4** | [Black hole singularity is a surface not a point](https://arxiv.org/abs/2608.21590) | ⭐ 113 | 💬 62 | [HN Thread](https://news.ycombinator.com/item?id=49437210) |
-| **5** | [My Friend Aaron](https://rorz.io/writing/my-friend-aaron) | ⭐ 258 | 💬 64 | [HN Thread](https://news.ycombinator.com/item?id=49437069) |
-| **6** | [Run OpenBSD on DigitalOcean for $4/month](https://nil.wallyjones.com/run-openbsd-on-digitalocean-for-4month/) | ⭐ 71 | 💬 27 | [HN Thread](https://news.ycombinator.com/item?id=49437483) |
-| **7** | [New Mac mini, featuring M6 and M5 Pro](https://www.apple.com/newsroom/2026/08/apple-unveils-a-more-powerful-mac-mini-featuring-the-all-new-m6-and-m5-pro/) | ⭐ 357 | 💬 196 | [HN Thread](https://news.ycombinator.com/item?id=49433450) |
-| **8** | [Show HN: I made a Raspberry with Qwen my local car AI](https://github.com/ThinkOffApp/CarWatch) | ⭐ 38 | 💬 11 | [HN Thread](https://news.ycombinator.com/item?id=49435675) |
-| **9** | [Dolly Parton has died](https://www.theguardian.com/music/2026/aug/25/dolly-parton-country-singer-dead) | ⭐ 707 | 💬 108 | [HN Thread](https://news.ycombinator.com/item?id=49438052) |
-| **10** | [Bomb fishing is wreaking havoc on Indonesia's coral reefs](https://e360.yale.edu/digest/bomb-fishing-coral-reefs) | ⭐ 199 | 💬 113 | [HN Thread](https://news.ycombinator.com/item?id=49434820) |
+| **1** | [FDA authorizes first wearable device that monitors ketone and blood sugar levels](https://www.fda.gov/news-events/press-announcements/fda-authorizes-first-wearable-device-continuously-monitors-both-ketone-levels-and-blood-sugar) | ⭐ 255 | 💬 145 | [HN Thread](https://news.ycombinator.com/item?id=49439017) |
+| **2** | [Apple introduces M6 and M5 Ultra](https://www.apple.com/newsroom/2026/08/apple-introduces-m6-and-m5-ultra-for-a-big-leap-in-performance-and-ai-compute/) | ⭐ 955 | 💬 898 | [HN Thread](https://news.ycombinator.com/item?id=49433292) |
+| **3** | [OpenAI Jalapeño: Better than Nvidia Blackwell](https://newsletter.semianalysis.com/p/openai-jalapeno-better-than-nvidia) | ⭐ 323 | 💬 222 | [HN Thread](https://news.ycombinator.com/item?id=49434378) |
+| **4** | [New Mac Studio with M5 Max and M5 Ultra](https://www.apple.com/newsroom/2026/08/apple-introduces-new-mac-studio-with-m5-max-and-m5-ultra/) | ⭐ 702 | 💬 447 | [HN Thread](https://news.ycombinator.com/item?id=49433316) |
+| **5** | [When str.lower() is a security vulnerability in Python – Seth Larson](https://sethmlarson.dev/when-str-lower-is-a-security-vulnerability) | ⭐ 58 | 💬 29 | [HN Thread](https://news.ycombinator.com/item?id=49440410) |
+| **6** | [Black hole singularity is a surface not a point](https://arxiv.org/abs/2608.21590) | ⭐ 184 | 💬 125 | [HN Thread](https://news.ycombinator.com/item?id=49437210) |
+| **7** | [Maiao: Gerrit-style code review workflow for GitHub, GitLab, Gitea, others](https://github.com/runetes/maiao) | ⭐ 25 | 💬 4 | [HN Thread](https://news.ycombinator.com/item?id=49441666) |
+| **8** | [Python's pre-declared constants are kinda weird](https://sebsite.pw/w/20260801-pythonconstants.html) | ⭐ 140 | 💬 110 | [HN Thread](https://news.ycombinator.com/item?id=49441033) |
+| **9** | [Show HN: TeXbrain, a LaTeX editor that runs pdfTeX in the browser via WASM](https://github.com/swimmingbrain/texbrain) | ⭐ 46 | 💬 9 | [HN Thread](https://news.ycombinator.com/item?id=49441375) |
+| **10** | [C2PA Cameras Do Not Survive Contact with Reality](https://www.da.vidbuchanan.co.uk/blog/android-c2pa.html) | ⭐ 76 | 💬 35 | [HN Thread](https://news.ycombinator.com/item?id=49439499) |
 
 ---
 
 ## 🗄️ News Archive
 
+- 📅 [2026-08-26](archive/2026-08-26.md)
 - 📅 [2026-08-25](archive/2026-08-25.md)
 - 📅 [2026-08-24](archive/2026-08-24.md)
 - 📅 [2026-08-23](archive/2026-08-23.md)
