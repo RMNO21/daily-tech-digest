@@ -12,16 +12,16 @@ An automated **Tech & AI News Digest** that aggregates top trending discussions 
 
 | # | Story | Points | Comments | Discussion |
 |:---:|:---|:---:|:---:|:---:|
-| **1** | [Apple introduces M6 and M5 Ultra](https://www.apple.com/newsroom/2026/08/apple-introduces-m6-and-m5-ultra-for-a-big-leap-in-performance-and-ai-compute/) | ⭐ 1027 | 💬 948 | [HN Thread](https://news.ycombinator.com/item?id=49433292) |
-| **2** | [FDA authorizes first wearable device that monitors ketone and blood sugar levels](https://www.fda.gov/news-events/press-announcements/fda-authorizes-first-wearable-device-continuously-monitors-both-ketone-levels-and-blood-sugar) | ⭐ 323 | 💬 158 | [HN Thread](https://news.ycombinator.com/item?id=49439017) |
-| **3** | [OpenAI Jalapeño: Better than Nvidia Blackwell](https://newsletter.semianalysis.com/p/openai-jalapeno-better-than-nvidia) | ⭐ 386 | 💬 257 | [HN Thread](https://news.ycombinator.com/item?id=49434378) |
-| **4** | [New Mac Studio with M5 Max and M5 Ultra](https://www.apple.com/newsroom/2026/08/apple-introduces-new-mac-studio-with-m5-max-and-m5-ultra/) | ⭐ 725 | 💬 481 | [HN Thread](https://news.ycombinator.com/item?id=49433316) |
-| **5** | [Queryable Executables](https://fzakaria.com/2026/08/24/actually-queryable-executables) | ⭐ 53 | 💬 7 | [HN Thread](https://news.ycombinator.com/item?id=49442589) |
-| **6** | [Black hole singularity is a surface not a point](https://arxiv.org/abs/2608.21590) | ⭐ 213 | 💬 152 | [HN Thread](https://news.ycombinator.com/item?id=49437210) |
-| **7** | [Maiao: Gerrit-style code review workflow for GitHub, GitLab, Gitea, others](https://github.com/runetes/maiao) | ⭐ 48 | 💬 19 | [HN Thread](https://news.ycombinator.com/item?id=49441666) |
-| **8** | [New Mac mini, featuring M6 and M5 Pro](https://www.apple.com/newsroom/2026/08/apple-unveils-a-more-powerful-mac-mini-featuring-the-all-new-m6-and-m5-pro/) | ⭐ 457 | 💬 281 | [HN Thread](https://news.ycombinator.com/item?id=49433450) |
-| **9** | [When str.lower() is a security vulnerability in Python – Seth Larson](https://sethmlarson.dev/when-str-lower-is-a-security-vulnerability) | ⭐ 89 | 💬 38 | [HN Thread](https://news.ycombinator.com/item?id=49440410) |
-| **10** | [C2PA Cameras Do Not Survive Contact with Reality](https://www.da.vidbuchanan.co.uk/blog/android-c2pa.html) | ⭐ 106 | 💬 56 | [HN Thread](https://news.ycombinator.com/item?id=49439499) |
+| **1** | [Apple introduces M6 and M5 Ultra](https://www.apple.com/newsroom/2026/08/apple-introduces-m6-and-m5-ultra-for-a-big-leap-in-performance-and-ai-compute/) | ⭐ 1120 | 💬 1079 | [HN Thread](https://news.ycombinator.com/item?id=49433292) |
+| **2** | [Stalking the Wily Hacker: 40 years later – Cliff Stoll [video]](https://www.youtube.com/watch?v=656058JxTM0) | ⭐ 83 | 💬 23 | [HN Thread](https://news.ycombinator.com/item?id=49395802) |
+| **3** | [FDA authorizes first wearable device that monitors ketone and blood sugar levels](https://www.fda.gov/news-events/press-announcements/fda-authorizes-first-wearable-device-continuously-monitors-both-ketone-levels-and-blood-sugar) | ⭐ 380 | 💬 188 | [HN Thread](https://news.ycombinator.com/item?id=49439017) |
+| **4** | [Harvest (IBM 7950): Supercomputer for cryptanalysis at the NSA in the Cold War](https://spectrum.ieee.org/cold-war-codebreaker-nsa-ibm) | ⭐ 33 | 💬 10 | [HN Thread](https://news.ycombinator.com/item?id=49444232) |
+| **5** | [Queryable Executables](https://fzakaria.com/2026/08/24/actually-queryable-executables) | ⭐ 171 | 💬 36 | [HN Thread](https://news.ycombinator.com/item?id=49442589) |
+| **6** | [OpenAI Jalapeño: Better than Nvidia Blackwell](https://newsletter.semianalysis.com/p/openai-jalapeno-better-than-nvidia) | ⭐ 468 | 💬 302 | [HN Thread](https://news.ycombinator.com/item?id=49434378) |
+| **7** | [New Mac Studio with M5 Max and M5 Ultra](https://www.apple.com/newsroom/2026/08/apple-introduces-new-mac-studio-with-m5-max-and-m5-ultra/) | ⭐ 766 | 💬 504 | [HN Thread](https://news.ycombinator.com/item?id=49433316) |
+| **8** | [Maiao: Gerrit-style code review workflow for GitHub, GitLab, Gitea, others](https://github.com/runetes/maiao) | ⭐ 78 | 💬 44 | [HN Thread](https://news.ycombinator.com/item?id=49441666) |
+| **9** | [Black hole singularity is a surface not a point](https://arxiv.org/abs/2608.21590) | ⭐ 237 | 💬 174 | [HN Thread](https://news.ycombinator.com/item?id=49437210) |
+| **10** | [When str.lower() is a security vulnerability in Python](https://sethmlarson.dev/when-str-lower-is-a-security-vulnerability) | ⭐ 117 | 💬 48 | [HN Thread](https://news.ycombinator.com/item?id=49440410) |
 
 ---
 
