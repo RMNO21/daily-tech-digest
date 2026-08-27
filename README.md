@@ -12,21 +12,22 @@ An automated **Tech & AI News Digest** that aggregates top trending discussions 
 
 | # | Story | Points | Comments | Discussion |
 |:---:|:---|:---:|:---:|:---:|
-| **1** | [Tailcat – Like netcat, but over Tailscale’s data plane](https://github.com/tailscale/tailcat) | ⭐ 419 | 💬 78 | [HN Thread](https://news.ycombinator.com/item?id=49452990) |
-| **2** | [GLM-5.3-Flash](https://z.ai/blog/glm-5.3-flash) | ⭐ 809 | 💬 401 | [HN Thread](https://news.ycombinator.com/item?id=49449507) |
-| **3** | [Actinide is first startup to produce high-assay low-enriched uranium (HALEU)](https://www.actinideinc.com/press/actinide-becomes-first-startup-to-ever-enrich-natural-uranium-to-produce-haleu) | ⭐ 126 | 💬 54 | [HN Thread](https://news.ycombinator.com/item?id=49454419) |
-| **4** | [AWS Acquires DuckLabs](https://ducklabs.com/news/2026/08/26/ducklabs-to-join-aws) | ⭐ 921 | 💬 274 | [HN Thread](https://news.ycombinator.com/item?id=49448321) |
-| **5** | [An ongoing 3D-printer AGPL violation](https://lwn.net/SubscriberLink/1089390/46116614cc74b814/) | ⭐ 255 | 💬 113 | [HN Thread](https://news.ycombinator.com/item?id=49452980) |
-| **6** | [GitHub Outage Tracker: Is GitHub Cooked?](https://isgithubcooked.com/) | ⭐ 111 | 💬 49 | [HN Thread](https://news.ycombinator.com/item?id=49454728) |
-| **7** | [The Hugging Face incident and the road ahead](https://openai.com/index/hugging-face-incident-and-the-road-ahead/) | ⭐ 121 | 💬 132 | [HN Thread](https://news.ycombinator.com/item?id=49454314) |
-| **8** | [CoMaps: The Offline App That Guided Rescuers Without a Signal in Venezuela](https://hotosm.org/en/news/comaps-the-offline-app-that-guided-rescuers-without-a-signal-in-the-venezuela-response/) | ⭐ 167 | 💬 41 | [HN Thread](https://news.ycombinator.com/item?id=49452671) |
-| **9** | [IBM Unveils Next Generation Dual-Architecture Processor](https://newsroom.ibm.com/2026-08-24-ibm-unveils-next-generation-dual-architecture-processor-for-ibm-z-and-linuxone) | ⭐ 53 | 💬 49 | [HN Thread](https://news.ycombinator.com/item?id=49455471) |
-| **10** | [Serve Markdown to AI Agents with Accept Headers](https://acceptmarkdown.com/) | ⭐ 63 | 💬 24 | [HN Thread](https://news.ycombinator.com/item?id=49454764) |
+| **1** | [Nvidia agrees to acquire Hugging Face for $13B](https://www.businessinsider.com/nvidia-in-talks-to-buy-hugging-face-13-billion-dollars-2026-8) | ⭐ 982 | 💬 420 | [HN Thread](https://news.ycombinator.com/item?id=49458161) |
+| **2** | [Mechanical Turk shutting down September 30](https://www.mturk.com/) | ⭐ 320 | 💬 87 | [HN Thread](https://news.ycombinator.com/item?id=49457545) |
+| **3** | [GLM-5.3-Flash](https://z.ai/blog/glm-5.3-flash) | ⭐ 1009 | 💬 505 | [HN Thread](https://news.ycombinator.com/item?id=49449507) |
+| **4** | [Asahi Linux Progress Report: Linux 7.2](https://asahilinux.org/2026/08/progress-report-7-2/) | ⭐ 252 | 💬 79 | [HN Thread](https://news.ycombinator.com/item?id=49456851) |
+| **5** | [Tailcat – Like netcat, but over Tailscale’s data plane](https://github.com/tailscale/tailcat) | ⭐ 562 | 💬 99 | [HN Thread](https://news.ycombinator.com/item?id=49452990) |
+| **6** | [CEO fired developers to make room for AI. Developers create open source AI CEO](https://github.com/SenteLabsAI/OpenExecutive) | ⭐ 521 | 💬 340 | [HN Thread](https://news.ycombinator.com/item?id=49458418) |
+| **7** | [Worst-case glacial lake flood scenarios in a transboundary Himalayan basin 2022](https://nhess.copernicus.org/articles/22/3765/2022/nhess-22-3765-2022.html) | ⭐ 157 | 💬 70 | [HN Thread](https://news.ycombinator.com/item?id=49456929) |
+| **8** | [U.S. State Department pauses immigrant visa applications](https://www.wsj.com/politics/policy/u-s-state-department-pauses-immigrant-visa-applications-25b31b23) | ⭐ 481 | 💬 716 | [HN Thread](https://news.ycombinator.com/item?id=49452709) |
+| **9** | [An ongoing 3D-printer AGPL violation](https://lwn.net/SubscriberLink/1089390/46116614cc74b814/) | ⭐ 396 | 💬 177 | [HN Thread](https://news.ycombinator.com/item?id=49452980) |
+| **10** | [Stripe acquires Clerky](https://www.clerky.com/blog/clerky-is-joining-stripe) | ⭐ 163 | 💬 26 | [HN Thread](https://news.ycombinator.com/item?id=49455956) |
 
 ---
 
 ## 🗄️ News Archive
 
+- 📅 [2026-08-27](archive/2026-08-27.md)
 - 📅 [2026-08-26](archive/2026-08-26.md)
 - 📅 [2026-08-25](archive/2026-08-25.md)
 - 📅 [2026-08-24](archive/2026-08-24.md)
