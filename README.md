@@ -12,21 +12,22 @@ An automated **Tech & AI News Digest** that aggregates top trending discussions 
 
 | # | Story | Points | Comments | Discussion |
 |:---:|:---|:---:|:---:|:---:|
-| **1** | [Saving 100 terabytes of memory by optimizing 1.1.1.1's DNS cache](https://blog.cloudflare.com/dns-cache-memory-optimization-1111/) | ⭐ 360 | 💬 104 | [HN Thread](https://news.ycombinator.com/item?id=49468083) |
-| **2** | [Small Models Have Arrived](https://calv.info/small-models-have-arrived) | ⭐ 350 | 💬 154 | [HN Thread](https://news.ycombinator.com/item?id=49466917) |
-| **3** | [507 Mechanical Movements](https://507movements.com/) | ⭐ 414 | 💬 62 | [HN Thread](https://news.ycombinator.com/item?id=49465169) |
-| **4** | [We found a division by zero bug in FFmpeg with a vibecoded fuzzer](https://code.ffmpeg.org/FFmpeg/FFmpeg/issues/24290) | ⭐ 122 | 💬 92 | [HN Thread](https://news.ycombinator.com/item?id=49468642) |
-| **5** | [Show HN: We built open OpenRouter that distills usage into a better model](https://github.com/experientiallabs/experiential) | ⭐ 8 | 💬 0 | [HN Thread](https://news.ycombinator.com/item?id=49471407) |
-| **6** | [Gemini-3.5-Transcribe](https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-5-transcribe/) | ⭐ 66 | 💬 19 | [HN Thread](https://news.ycombinator.com/item?id=49468818) |
-| **7** | [Microduck](https://pollen-robotics.com/microduck/) | ⭐ 442 | 💬 173 | [HN Thread](https://news.ycombinator.com/item?id=49462763) |
-| **8** | [Decompiling a Nintendo 64 game in 84 days](https://blog.chrislewis.au/decompiling-a-nintendo-64-game-in-84-days/) | ⭐ 151 | 💬 69 | [HN Thread](https://news.ycombinator.com/item?id=49466006) |
-| **9** | [M5Stack Launches PaperMono](https://shop.m5stack.com/blogs/news/m5stack-launches-papermono-a-compact-e-ink-development-terminal-for-connected-projects) | ⭐ 73 | 💬 25 | [HN Thread](https://news.ycombinator.com/item?id=49468593) |
-| **10** | [Gemini Omni 1.1 Flash](https://blog.google/innovation-and-ai/technology/developers-tools/build-with-gemini-omni-1-1-flash/) | ⭐ 160 | 💬 110 | [HN Thread](https://news.ycombinator.com/item?id=49467922) |
+| **1** | [Hilariously Fast Volume Computation with the Divergence Theorem](https://alyssarosenzweig.ca/blog/hilariously-fast-volume-computation-with-the-divergence-theorem.html) | ⭐ 44 | 💬 6 | [HN Thread](https://news.ycombinator.com/item?id=49476143) |
+| **2** | [Saving 100 terabytes of memory by optimizing 1.1.1.1's DNS cache](https://blog.cloudflare.com/dns-cache-memory-optimization-1111/) | ⭐ 769 | 💬 225 | [HN Thread](https://news.ycombinator.com/item?id=49468083) |
+| **3** | [Small Models Have Arrived](https://calv.info/small-models-have-arrived) | ⭐ 648 | 💬 295 | [HN Thread](https://news.ycombinator.com/item?id=49466917) |
+| **4** | [Sovereign Tech Agency invests €500k in Flatpak](https://modal.cx/blog/announcing-flatpak-sta/) | ⭐ 129 | 💬 73 | [HN Thread](https://news.ycombinator.com/item?id=49474786) |
+| **5** | [507 Mechanical Movements](https://507movements.com/) | ⭐ 587 | 💬 74 | [HN Thread](https://news.ycombinator.com/item?id=49465169) |
+| **6** | [Show HN: OpenTIE and OpenXWA, Modern Ports of Tie Fighter and X-Wing Alliance](https://github.com/elyosh/OpenTIE/) | ⭐ 164 | 💬 38 | [HN Thread](https://news.ycombinator.com/item?id=49471965) |
+| **7** | [Gemini-3.5-Transcribe](https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-5-transcribe/) | ⭐ 288 | 💬 92 | [HN Thread](https://news.ycombinator.com/item?id=49468818) |
+| **8** | [Microduck](https://pollen-robotics.com/microduck/) | ⭐ 664 | 💬 213 | [HN Thread](https://news.ycombinator.com/item?id=49462763) |
+| **9** | [Doctors are finally learning to manage antidepressant withdrawal](https://www.newscientist.com/article/2584861-antidepressant-withdrawal-symptoms-are-prompting-a-radical-rethink-of-how-we-treat-depression/) | ⭐ 129 | 💬 119 | [HN Thread](https://news.ycombinator.com/item?id=49472090) |
+| **10** | [We found a division by zero bug in FFmpeg with a vibecoded fuzzer](https://code.ffmpeg.org/FFmpeg/FFmpeg/issues/24290) | ⭐ 248 | 💬 194 | [HN Thread](https://news.ycombinator.com/item?id=49468642) |
 
 ---
 
 ## 🗄️ News Archive
 
+- 📅 [2026-08-28](archive/2026-08-28.md)
 - 📅 [2026-08-27](archive/2026-08-27.md)
 - 📅 [2026-08-26](archive/2026-08-26.md)
 - 📅 [2026-08-25](archive/2026-08-25.md)
@@ -40,7 +41,8 @@ An automated **Tech & AI News Digest** that aggregates top trending discussions 
 - 📅 [2026-08-17](archive/2026-08-17.md)
 - 📅 [2026-08-16](archive/2026-08-16.md)
 - 📅 [2026-08-15](archive/2026-08-15.md)
-- 📅 [2026-08-14](archive/2026-08-14.md)
+
+*... and [1 older editions in the archive folder](archive/)*
 
 ---
 
