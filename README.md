@@ -12,21 +12,22 @@ An automated **Tech & AI News Digest** that aggregates top trending discussions 
 
 | # | Story | Points | Comments | Discussion |
 |:---:|:---|:---:|:---:|:---:|
-| **1** | [Stopping the smart TV from being used against you](https://www.s-config.com/stopping-a-smart-tv-from-being-used-against-you/) | ⭐ 61 | 💬 36 | [HN Thread](https://news.ycombinator.com/item?id=49483816) |
-| **2** | [GUIs should be fully keyboard-driven](https://ckardaris.com/blog/2026/08/28/keyboard-driven-guis.html) | ⭐ 452 | 💬 240 | [HN Thread](https://news.ycombinator.com/item?id=49479837) |
-| **3** | [25,000 Lbs. Of Chicken Products Recalled in 5 States: USDA](https://www.thehealthy.com/news/chicken-recall-fsis-august-2026/) | ⭐ 154 | 💬 109 | [HN Thread](https://news.ycombinator.com/item?id=49483182) |
-| **4** | [Htmx 4.0](https://four.htmx.org/announcements/2026-08-28-htmx-4.0.0-is-released) | ⭐ 416 | 💬 102 | [HN Thread](https://news.ycombinator.com/item?id=49478178) |
-| **5** | [Just the rumour of a bug is enough to find an exploit these days](https://anil.recoil.org/notes/rumour-is-the-exploit) | ⭐ 196 | 💬 66 | [HN Thread](https://news.ycombinator.com/item?id=49480466) |
-| **6** | [U.S. sanctions against the A/I Collective](https://www.inventati.org/) | ⭐ 409 | 💬 363 | [HN Thread](https://news.ycombinator.com/item?id=49477854) |
-| **7** | [Inception-style curved map for turn-by-turn directions](https://www.orbify.eu/demo/) | ⭐ 369 | 💬 126 | [HN Thread](https://news.ycombinator.com/item?id=49477564) |
-| **8** | [Curvature Beziers: Improving on a timeless recipe](https://acko.net/blog/curvature-beziers/) | ⭐ 46 | 💬 10 | [HN Thread](https://news.ycombinator.com/item?id=49422743) |
-| **9** | [Visual Analysis of Binary Files](https://binvis.io/#/) | ⭐ 46 | 💬 11 | [HN Thread](https://news.ycombinator.com/item?id=49443783) |
-| **10** | [Autonomous Mathematical Discovery in an Open-World Multi-Agent Environment](https://arxiv.org/abs/2608.23691) | ⭐ 60 | 💬 11 | [HN Thread](https://news.ycombinator.com/item?id=49481455) |
+| **1** | [Our decision on Cursor following its acquisition by SpaceX](https://openai.com/index/our-decision-on-cursor-following-its-acquisition-by-spacex/) | ⭐ 356 | 💬 148 | [HN Thread](https://news.ycombinator.com/item?id=49486172) |
+| **2** | [Boot a Virtual iPhone via Apple's Virtualization.framework](https://github.com/Lakr233/vphone-cli) | ⭐ 209 | 💬 67 | [HN Thread](https://news.ycombinator.com/item?id=49485267) |
+| **3** | [GUIs should be fully keyboard-driven](https://ckardaris.com/blog/2026/08/28/keyboard-driven-guis.html) | ⭐ 723 | 💬 357 | [HN Thread](https://news.ycombinator.com/item?id=49479837) |
+| **4** | [TurboKV: Insanely fast Rust key-value store](https://github.com/kingroryg/turbokv) | ⭐ 62 | 💬 22 | [HN Thread](https://news.ycombinator.com/item?id=49486334) |
+| **5** | [Htmx 4.0](https://four.htmx.org/announcements/2026-08-28-htmx-4.0.0-is-released) | ⭐ 607 | 💬 150 | [HN Thread](https://news.ycombinator.com/item?id=49478178) |
+| **6** | [9th Circuit sides with states in Kalshi gambling fight](https://azmirror.com/2026/08/28/9th-circuit-sides-with-states-in-kalshi-gambling-fight-potentially-reviving-arizonas-prosecution/) | ⭐ 113 | 💬 83 | [HN Thread](https://news.ycombinator.com/item?id=49485452) |
+| **7** | [U.S. sanctions against the A/I Collective](https://www.inventati.org/) | ⭐ 546 | 💬 541 | [HN Thread](https://news.ycombinator.com/item?id=49477854) |
+| **8** | [I accidentally turned LLM memory into program analysis](https://pwning.systems/posts/llm-memory-program-analysis/) | ⭐ 95 | 💬 16 | [HN Thread](https://news.ycombinator.com/item?id=49485416) |
+| **9** | [StemDeck, a free, open-source and local AI stem separator](https://github.com/stemdeckapp/stemdeck) | ⭐ 66 | 💬 13 | [HN Thread](https://news.ycombinator.com/item?id=49486081) |
+| **10** | [Does the Sumerian King List Align with Paleoclimate Events?](https://www.vectorian.be/articles/2026-06-07/sumerian-king-list-paleoclimate-alignment-explorer/) | ⭐ 77 | 💬 30 | [HN Thread](https://news.ycombinator.com/item?id=49485532) |
 
 ---
 
 ## 🗄️ News Archive
 
+- 📅 [2026-08-29](archive/2026-08-29.md)
 - 📅 [2026-08-28](archive/2026-08-28.md)
 - 📅 [2026-08-27](archive/2026-08-27.md)
 - 📅 [2026-08-26](archive/2026-08-26.md)
@@ -40,9 +41,8 @@ An automated **Tech & AI News Digest** that aggregates top trending discussions 
 - 📅 [2026-08-18](archive/2026-08-18.md)
 - 📅 [2026-08-17](archive/2026-08-17.md)
 - 📅 [2026-08-16](archive/2026-08-16.md)
-- 📅 [2026-08-15](archive/2026-08-15.md)
 
-*... and [1 older editions in the archive folder](archive/)*
+*... and [2 older editions in the archive folder](archive/)*
 
 ---
 
