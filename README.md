@@ -12,16 +12,16 @@ An automated **Tech & AI News Digest** that aggregates top trending discussions 
 
 | # | Story | Points | Comments | Discussion |
 |:---:|:---|:---:|:---:|:---:|
-| **1** | [The Internet Is Kind of a Predatory Cesspit Now](https://www.stephendiehl.com/posts/internet_predatory_cesspit/) | ⭐ 97 | 💬 48 | [HN Thread](https://news.ycombinator.com/item?id=49492193) |
-| **2** | [Warp builds self-improving agents on Claude](https://claude.com/blog/how-warp-builds-self-improving-agents-on-claude) | ⭐ 4 | 💬 0 | [HN Thread](https://news.ycombinator.com/item?id=49492432) |
-| **3** | [SQLite as a Document Database (2020)](https://dgl.cx/2020/06/sqlite-json-support) | ⭐ 111 | 💬 27 | [HN Thread](https://news.ycombinator.com/item?id=49426995) |
-| **4** | [Calibrate Before You Accelerate: Bias Toward Action in a New Role](https://tucker.wales/writing/bias-towards-action/) | ⭐ 24 | 💬 4 | [HN Thread](https://news.ycombinator.com/item?id=49491714) |
-| **5** | [Tether: iMessage, SMS, etc. on Linux](https://zackbartel.com/blog/2026/08/tether/) | ⭐ 149 | 💬 80 | [HN Thread](https://news.ycombinator.com/item?id=49415386) |
-| **6** | [Sleepwalker: Passive Backdoor with Its Own Command Language](https://r136a1.dev/2026/08/24/sleepwalker-a-passive-backdoor-with-its-own-command-language/) | ⭐ 35 | 💬 2 | [HN Thread](https://news.ycombinator.com/item?id=49428756) |
-| **7** | [Indirect Calling of Nested Functions on GCC Without Executable Stack](https://uecker.codeberg.page/2026-08-29.html) | ⭐ 49 | 💬 24 | [HN Thread](https://news.ycombinator.com/item?id=49490138) |
-| **8** | [Quantifying Colour](https://ekunazanu.foo/lab/quantifying-colour/) | ⭐ 36 | 💬 2 | [HN Thread](https://news.ycombinator.com/item?id=49490832) |
-| **9** | [Show HN: Typebase – A single-folder back end you write in TypeScript](https://typebase.io) | ⭐ 72 | 💬 15 | [HN Thread](https://news.ycombinator.com/item?id=49447178) |
-| **10** | [Good Culture Is the Biggest Productivity Hack, Not AI](https://newsletter.eng-leadership.com/p/good-culture-is-the-biggest-productivity) | ⭐ 60 | 💬 12 | [HN Thread](https://news.ycombinator.com/item?id=49491568) |
+| **1** | [Tencent Releases and Open-Sources Tencent Hy4 Preview](https://www.tencent.com/tencent-releases-and-open-sources-tencent-hy4-preview/) | ⭐ 103 | 💬 47 | [HN Thread](https://news.ycombinator.com/item?id=49492632) |
+| **2** | [$44M Solar-Powered EV Production Deal Struck](https://frequal.com/aptera/ProductionDealAug2026.html) | ⭐ 14 | 💬 14 | [HN Thread](https://news.ycombinator.com/item?id=49493563) |
+| **3** | [vLLM v0.28.0](https://github.com/vllm-project/vllm/releases/tag/v0.28.0) | ⭐ 65 | 💬 21 | [HN Thread](https://news.ycombinator.com/item?id=49492067) |
+| **4** | [Tether: iMessage, SMS, etc. on Linux](https://zackbartel.com/blog/2026/08/tether/) | ⭐ 262 | 💬 117 | [HN Thread](https://news.ycombinator.com/item?id=49415386) |
+| **5** | [What we want is a hunter gatherer lifestyle with space age tools](https://www.strangeloopcanon.com/p/what-we-want-is-a-hunter-gatherer) | ⭐ 38 | 💬 31 | [HN Thread](https://news.ycombinator.com/item?id=49493244) |
+| **6** | [Calibrate Before You Accelerate: Bias Toward Action in a New Role](https://tucker.wales/writing/bias-towards-action/) | ⭐ 76 | 💬 28 | [HN Thread](https://news.ycombinator.com/item?id=49491714) |
+| **7** | [Nancy Grace Roman Space Telescope Launches this Sunday](https://www.npr.org/2026/08/28/nx-s1-5905370/nasa-nancy-grace-roman-space-telescope-dark-energy-supernova) | ⭐ 33 | 💬 2 | [HN Thread](https://news.ycombinator.com/item?id=49482833) |
+| **8** | [Functional State Machines in Rust: Typestate and Newtype Patterns](https://dl.acm.org/doi/10.1145/3830438.3830958) | ⭐ 22 | 💬 1 | [HN Thread](https://news.ycombinator.com/item?id=49492368) |
+| **9** | [SQLite as a Document Database (2020)](https://dgl.cx/2020/06/sqlite-json-support) | ⭐ 145 | 💬 42 | [HN Thread](https://news.ycombinator.com/item?id=49426995) |
+| **10** | [Domain-Driven Agents](https://coldtake.dev/blog/domain-driven-agents) | ⭐ 23 | 💬 1 | [HN Thread](https://news.ycombinator.com/item?id=49492584) |
 
 ---
 
