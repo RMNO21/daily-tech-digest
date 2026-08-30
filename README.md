@@ -12,16 +12,16 @@ An automated **Tech & AI News Digest** that aggregates top trending discussions 
 
 | # | Story | Points | Comments | Discussion |
 |:---:|:---|:---:|:---:|:---:|
-| **1** | [Hacking IKEA Furniture](https://greenlightning.eu/diy/hacking-ikea-furniture/) | ⭐ 41 | 💬 11 | [HN Thread](https://news.ycombinator.com/item?id=49497810) |
-| **2** | [Arbitrary code execution in QubesOS via copy-to-VM error reporting backchannel](https://www.qubes-os.org/news/2026/08/29/qsb-118/) | ⭐ 100 | 💬 41 | [HN Thread](https://news.ycombinator.com/item?id=49496918) |
-| **3** | [Longest Straight Line Paths on Water or Land on the Earth (2018)](https://arxiv.org/abs/1804.07389) | ⭐ 128 | 💬 32 | [HN Thread](https://news.ycombinator.com/item?id=49496782) |
-| **4** | [Casey Muratori – The Root of the Root of All Evil – BSC 2026 [video]](https://www.youtube.com/watch?v=hpj6r6CjJf8) | ⭐ 79 | 💬 12 | [HN Thread](https://news.ycombinator.com/item?id=49463888) |
-| **5** | [Claude Session URL appended to commit messages and PR descriptions by default](https://github.com/anthropics/claude-code/issues/66504) | ⭐ 56 | 💬 49 | [HN Thread](https://news.ycombinator.com/item?id=49498201) |
-| **6** | [An implementation of Conway's Game of Life for Windows 3.1x and later](https://www.muppetlabs.com/~breadbox/software/windows.html) | ⭐ 14 | 💬 1 | [HN Thread](https://news.ycombinator.com/item?id=49497819) |
-| **7** | [Brits would quite like their private messages to stay private](https://www.theregister.com/security/2026/08/30/turns-out-brits-would-quite-like-their-private-messages-to-stay-private/5292994) | ⭐ 196 | 💬 119 | [HN Thread](https://news.ycombinator.com/item?id=49497063) |
-| **8** | [What my dad taught me about AI coding in the 90s](https://askmike.org/articles/ai-coding-lessons-in-the-90s-from-my-dad/) | ⭐ 10 | 💬 0 | [HN Thread](https://news.ycombinator.com/item?id=49419381) |
-| **9** | [One Nix flake to rule them all](https://fzakaria.com/2026/08/28/one-flake-to-rule-them-all) | ⭐ 24 | 💬 4 | [HN Thread](https://news.ycombinator.com/item?id=49497712) |
-| **10** | [monty-go: Pure-Go wrapper for Pydantic's Monty Python Interpreter](https://github.com/fugue-labs/monty-go) | ⭐ 14 | 💬 1 | [HN Thread](https://news.ycombinator.com/item?id=49497928) |
+| **1** | [Haiku R1/beta6 has been released](https://www.haiku-os.org/news/2026-08-26_haiku_r1_beta6) | ⭐ 148 | 💬 38 | [HN Thread](https://news.ycombinator.com/item?id=49499867) |
+| **2** | [Creepy Crawlies](https://people.kernel.org/monsieuricon/creepy-crawlies) | ⭐ 470 | 💬 219 | [HN Thread](https://news.ycombinator.com/item?id=49491791) |
+| **3** | [Coordination Headwind: How Organizations Are Like Slime Molds](https://komoroske.com/slime-mold/) | ⭐ 57 | 💬 26 | [HN Thread](https://news.ycombinator.com/item?id=49499891) |
+| **4** | [Running SQLite Apps on Docker and Kubernetes with Litestream](https://openrun.dev/blog/litestream/) | ⭐ 10 | 💬 4 | [HN Thread](https://news.ycombinator.com/item?id=49501147) |
+| **5** | [METR and Redwood Offer Holy %^ Postmortem of the HuggingFace Hack](https://thezvi.wordpress.com/2026/08/29/metr-and-redwood-offer-holy-postmortem-of-the-huggingface-hack/) | ⭐ 88 | 💬 35 | [HN Thread](https://news.ycombinator.com/item?id=49498787) |
+| **6** | [Hacking IKEA Furniture](https://greenlightning.eu/diy/hacking-ikea-furniture/) | ⭐ 201 | 💬 114 | [HN Thread](https://news.ycombinator.com/item?id=49497810) |
+| **7** | [Electric rain can eat through metal](https://www.scientificamerican.com/article/electric-rain-can-eat-through-metal/) | ⭐ 52 | 💬 10 | [HN Thread](https://news.ycombinator.com/item?id=49463397) |
+| **8** | [Zig: Pointer Stability for ArrayLists](https://ziglang.org/devlog/2026/#2026-08-27) | ⭐ 42 | 💬 11 | [HN Thread](https://news.ycombinator.com/item?id=49499095) |
+| **9** | [European Commission Revives Push for Encryption Backdoors in ProtectEU Strategy](https://reclaimthenet.org/eu-protecteu-strategy-encryption-backdoor-law-enforcement) | ⭐ 209 | 💬 77 | [HN Thread](https://news.ycombinator.com/item?id=49499394) |
+| **10** | [Artie (YC S23) Is Hiring Technical AES](https://www.artie.com/careers?ashby_jid=e87b84d2-78b3-41a3-937a-47e83643cdf1) | ⭐ 1 | 💬 0 | [HN Thread](https://news.ycombinator.com/item?id=49500471) |
 
 ---
 
