@@ -12,21 +12,22 @@ An automated **Tech & AI News Digest** that aggregates top trending discussions 
 
 | # | Story | Points | Comments | Discussion |
 |:---:|:---|:---:|:---:|:---:|
-| **1** | [Tencent Releases and Open-Sources Tencent Hy4 Preview](https://www.tencent.com/tencent-releases-and-open-sources-tencent-hy4-preview/) | ⭐ 103 | 💬 47 | [HN Thread](https://news.ycombinator.com/item?id=49492632) |
-| **2** | [$44M Solar-Powered EV Production Deal Struck](https://frequal.com/aptera/ProductionDealAug2026.html) | ⭐ 14 | 💬 14 | [HN Thread](https://news.ycombinator.com/item?id=49493563) |
-| **3** | [vLLM v0.28.0](https://github.com/vllm-project/vllm/releases/tag/v0.28.0) | ⭐ 65 | 💬 21 | [HN Thread](https://news.ycombinator.com/item?id=49492067) |
-| **4** | [Tether: iMessage, SMS, etc. on Linux](https://zackbartel.com/blog/2026/08/tether/) | ⭐ 262 | 💬 117 | [HN Thread](https://news.ycombinator.com/item?id=49415386) |
-| **5** | [What we want is a hunter gatherer lifestyle with space age tools](https://www.strangeloopcanon.com/p/what-we-want-is-a-hunter-gatherer) | ⭐ 38 | 💬 31 | [HN Thread](https://news.ycombinator.com/item?id=49493244) |
-| **6** | [Calibrate Before You Accelerate: Bias Toward Action in a New Role](https://tucker.wales/writing/bias-towards-action/) | ⭐ 76 | 💬 28 | [HN Thread](https://news.ycombinator.com/item?id=49491714) |
-| **7** | [Nancy Grace Roman Space Telescope Launches this Sunday](https://www.npr.org/2026/08/28/nx-s1-5905370/nasa-nancy-grace-roman-space-telescope-dark-energy-supernova) | ⭐ 33 | 💬 2 | [HN Thread](https://news.ycombinator.com/item?id=49482833) |
-| **8** | [Functional State Machines in Rust: Typestate and Newtype Patterns](https://dl.acm.org/doi/10.1145/3830438.3830958) | ⭐ 22 | 💬 1 | [HN Thread](https://news.ycombinator.com/item?id=49492368) |
-| **9** | [SQLite as a Document Database (2020)](https://dgl.cx/2020/06/sqlite-json-support) | ⭐ 145 | 💬 42 | [HN Thread](https://news.ycombinator.com/item?id=49426995) |
-| **10** | [Domain-Driven Agents](https://coldtake.dev/blog/domain-driven-agents) | ⭐ 23 | 💬 1 | [HN Thread](https://news.ycombinator.com/item?id=49492584) |
+| **1** | [Bug Blindness](https://danluu.com/bug-blind/) | ⭐ 128 | 💬 50 | [HN Thread](https://news.ycombinator.com/item?id=49494520) |
+| **2** | [Hy4 preview](https://www.tencent.com/tencent-releases-and-open-sources-tencent-hy4-preview/) | ⭐ 229 | 💬 137 | [HN Thread](https://news.ycombinator.com/item?id=49492632) |
+| **3** | [RISC-V is now officially supported by CPython](https://blog.python.org/2026/08/riscv-now-officially-supported/) | ⭐ 62 | 💬 8 | [HN Thread](https://news.ycombinator.com/item?id=49425252) |
+| **4** | [Algorithmic Rent-Pricing Litigation Expands Under New State and Local Laws](https://www.morganlewis.com/pubs/2026/08/algorithmic-rent-pricing-litigation-expands-under-new-state-and-local-laws) | ⭐ 22 | 💬 10 | [HN Thread](https://news.ycombinator.com/item?id=49495127) |
+| **5** | [FreeCORE TrueNAS Core – Continued](https://freecore.org/) | ⭐ 53 | 💬 28 | [HN Thread](https://news.ycombinator.com/item?id=49494856) |
+| **6** | [Tether: iMessage, SMS, etc. on Linux](https://zackbartel.com/blog/2026/08/tether/) | ⭐ 395 | 💬 165 | [HN Thread](https://news.ycombinator.com/item?id=49415386) |
+| **7** | [Show HN: I missed the moving blocks, so I built a real Linux disk defragmenter](https://github.com/gbin/defragger) | ⭐ 29 | 💬 18 | [HN Thread](https://news.ycombinator.com/item?id=49438865) |
+| **8** | [Nancy Grace Roman Space Telescope](https://science.nasa.gov/mission/roman-space-telescope/) | ⭐ 160 | 💬 68 | [HN Thread](https://news.ycombinator.com/item?id=49490870) |
+| **9** | [Lawmakers added $1 to car insurance policies. That money paid for Flock cameras](https://www.texastribune.org/2026/08/28/texas-flock-cameras-auto-insurance-fee-mvcpa-grants/) | ⭐ 194 | 💬 88 | [HN Thread](https://news.ycombinator.com/item?id=49494182) |
+| **10** | [Benjamin Franklin's Alter Egos Gave Him the Most Freedom](https://www.smithsonianmag.com/history/among-all-great-things-benjamin-franklin-invented-discovered-alter-egos-gave-him-most-freedom-180988824/) | ⭐ 18 | 💬 5 | [HN Thread](https://news.ycombinator.com/item?id=49494751) |
 
 ---
 
 ## 🗄️ News Archive
 
+- 📅 [2026-08-30](archive/2026-08-30.md)
 - 📅 [2026-08-29](archive/2026-08-29.md)
 - 📅 [2026-08-28](archive/2026-08-28.md)
 - 📅 [2026-08-27](archive/2026-08-27.md)
@@ -40,9 +41,8 @@ An automated **Tech & AI News Digest** that aggregates top trending discussions 
 - 📅 [2026-08-19](archive/2026-08-19.md)
 - 📅 [2026-08-18](archive/2026-08-18.md)
 - 📅 [2026-08-17](archive/2026-08-17.md)
-- 📅 [2026-08-16](archive/2026-08-16.md)
 
-*... and [2 older editions in the archive folder](archive/)*
+*... and [3 older editions in the archive folder](archive/)*
 
 ---
 
