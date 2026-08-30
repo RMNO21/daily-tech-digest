@@ -12,16 +12,16 @@ An automated **Tech & AI News Digest** that aggregates top trending discussions 
 
 | # | Story | Points | Comments | Discussion |
 |:---:|:---|:---:|:---:|:---:|
-| **1** | [Haiku R1/beta6 has been released](https://www.haiku-os.org/news/2026-08-26_haiku_r1_beta6) | ⭐ 148 | 💬 38 | [HN Thread](https://news.ycombinator.com/item?id=49499867) |
-| **2** | [Creepy Crawlies](https://people.kernel.org/monsieuricon/creepy-crawlies) | ⭐ 470 | 💬 219 | [HN Thread](https://news.ycombinator.com/item?id=49491791) |
-| **3** | [Coordination Headwind: How Organizations Are Like Slime Molds](https://komoroske.com/slime-mold/) | ⭐ 57 | 💬 26 | [HN Thread](https://news.ycombinator.com/item?id=49499891) |
-| **4** | [Running SQLite Apps on Docker and Kubernetes with Litestream](https://openrun.dev/blog/litestream/) | ⭐ 10 | 💬 4 | [HN Thread](https://news.ycombinator.com/item?id=49501147) |
-| **5** | [METR and Redwood Offer Holy %^ Postmortem of the HuggingFace Hack](https://thezvi.wordpress.com/2026/08/29/metr-and-redwood-offer-holy-postmortem-of-the-huggingface-hack/) | ⭐ 88 | 💬 35 | [HN Thread](https://news.ycombinator.com/item?id=49498787) |
-| **6** | [Hacking IKEA Furniture](https://greenlightning.eu/diy/hacking-ikea-furniture/) | ⭐ 201 | 💬 114 | [HN Thread](https://news.ycombinator.com/item?id=49497810) |
-| **7** | [Electric rain can eat through metal](https://www.scientificamerican.com/article/electric-rain-can-eat-through-metal/) | ⭐ 52 | 💬 10 | [HN Thread](https://news.ycombinator.com/item?id=49463397) |
-| **8** | [Zig: Pointer Stability for ArrayLists](https://ziglang.org/devlog/2026/#2026-08-27) | ⭐ 42 | 💬 11 | [HN Thread](https://news.ycombinator.com/item?id=49499095) |
-| **9** | [European Commission Revives Push for Encryption Backdoors in ProtectEU Strategy](https://reclaimthenet.org/eu-protecteu-strategy-encryption-backdoor-law-enforcement) | ⭐ 209 | 💬 77 | [HN Thread](https://news.ycombinator.com/item?id=49499394) |
-| **10** | [Artie (YC S23) Is Hiring Technical AES](https://www.artie.com/careers?ashby_jid=e87b84d2-78b3-41a3-937a-47e83643cdf1) | ⭐ 1 | 💬 0 | [HN Thread](https://news.ycombinator.com/item?id=49500471) |
+| **1** | [Creepy Crawlies](https://people.kernel.org/monsieuricon/creepy-crawlies) | ⭐ 793 | 💬 366 | [HN Thread](https://news.ycombinator.com/item?id=49491791) |
+| **2** | [Cores in space: The core memory module from a 1980 Spacelab computer](https://www.righto.com/2026/08/spacelab-core-memory.html) | ⭐ 44 | 💬 8 | [HN Thread](https://news.ycombinator.com/item?id=49502214) |
+| **3** | [Haiku R1/beta6 has been released](https://www.haiku-os.org/news/2026-08-26_haiku_r1_beta6) | ⭐ 215 | 💬 60 | [HN Thread](https://news.ycombinator.com/item?id=49499867) |
+| **4** | [NFC Energy-Harvesting PCB Business Card with an MCU](https://wilsonharper.net/projects/businesscard/) | ⭐ 58 | 💬 5 | [HN Thread](https://news.ycombinator.com/item?id=49478426) |
+| **5** | [Continuous Diffusion Language Models (CDLM's)](https://sander.ai/2026/08/24/continuous-dlms.html) | ⭐ 30 | 💬 3 | [HN Thread](https://news.ycombinator.com/item?id=49502611) |
+| **6** | [Sort branches by last commit date](https://ryangreenberg.com/til/git-branches-by-commit-date/) | ⭐ 53 | 💬 13 | [HN Thread](https://news.ycombinator.com/item?id=49435285) |
+| **7** | [Why open source rocks – a new SM750 (Silicon Motion GPU) HDMI Driver](https://github.com/KodeMunkie/sm750hdmifb) | ⭐ 51 | 💬 26 | [HN Thread](https://news.ycombinator.com/item?id=49501611) |
+| **8** | [Coordination Headwind: How Organizations Are Like Slime Molds](https://komoroske.com/slime-mold/) | ⭐ 110 | 💬 38 | [HN Thread](https://news.ycombinator.com/item?id=49499891) |
+| **9** | [Hacking IKEA Furniture](https://greenlightning.eu/diy/hacking-ikea-furniture/) | ⭐ 240 | 💬 147 | [HN Thread](https://news.ycombinator.com/item?id=49497810) |
+| **10** | [Zig: Pointer Stability for ArrayLists](https://ziglang.org/devlog/2026/#2026-08-27) | ⭐ 74 | 💬 33 | [HN Thread](https://news.ycombinator.com/item?id=49499095) |
 
 ---
 
