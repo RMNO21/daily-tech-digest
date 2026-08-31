@@ -12,21 +12,22 @@ An automated **Tech & AI News Digest** that aggregates top trending discussions 
 
 | # | Story | Points | Comments | Discussion |
 |:---:|:---|:---:|:---:|:---:|
-| **1** | [Creepy Crawlies](https://people.kernel.org/monsieuricon/creepy-crawlies) | ⭐ 793 | 💬 366 | [HN Thread](https://news.ycombinator.com/item?id=49491791) |
-| **2** | [Cores in space: The core memory module from a 1980 Spacelab computer](https://www.righto.com/2026/08/spacelab-core-memory.html) | ⭐ 44 | 💬 8 | [HN Thread](https://news.ycombinator.com/item?id=49502214) |
-| **3** | [Haiku R1/beta6 has been released](https://www.haiku-os.org/news/2026-08-26_haiku_r1_beta6) | ⭐ 215 | 💬 60 | [HN Thread](https://news.ycombinator.com/item?id=49499867) |
-| **4** | [NFC Energy-Harvesting PCB Business Card with an MCU](https://wilsonharper.net/projects/businesscard/) | ⭐ 58 | 💬 5 | [HN Thread](https://news.ycombinator.com/item?id=49478426) |
-| **5** | [Continuous Diffusion Language Models (CDLM's)](https://sander.ai/2026/08/24/continuous-dlms.html) | ⭐ 30 | 💬 3 | [HN Thread](https://news.ycombinator.com/item?id=49502611) |
-| **6** | [Sort branches by last commit date](https://ryangreenberg.com/til/git-branches-by-commit-date/) | ⭐ 53 | 💬 13 | [HN Thread](https://news.ycombinator.com/item?id=49435285) |
-| **7** | [Why open source rocks – a new SM750 (Silicon Motion GPU) HDMI Driver](https://github.com/KodeMunkie/sm750hdmifb) | ⭐ 51 | 💬 26 | [HN Thread](https://news.ycombinator.com/item?id=49501611) |
-| **8** | [Coordination Headwind: How Organizations Are Like Slime Molds](https://komoroske.com/slime-mold/) | ⭐ 110 | 💬 38 | [HN Thread](https://news.ycombinator.com/item?id=49499891) |
-| **9** | [Hacking IKEA Furniture](https://greenlightning.eu/diy/hacking-ikea-furniture/) | ⭐ 240 | 💬 147 | [HN Thread](https://news.ycombinator.com/item?id=49497810) |
-| **10** | [Zig: Pointer Stability for ArrayLists](https://ziglang.org/devlog/2026/#2026-08-27) | ⭐ 74 | 💬 33 | [HN Thread](https://news.ycombinator.com/item?id=49499095) |
+| **1** | [“I just chose words carefully”](https://unsung.aresluna.org/i-just-chose-words-carefully/) | ⭐ 446 | 💬 109 | [HN Thread](https://news.ycombinator.com/item?id=49503601) |
+| **2** | [Creepy Crawlies](https://people.kernel.org/monsieuricon/creepy-crawlies) | ⭐ 991 | 💬 489 | [HN Thread](https://news.ycombinator.com/item?id=49491791) |
+| **3** | [P99 0 ms* autocomplete for 240M domain names](https://ruurtjan.com/articles/p99-0ms-autocomplete-for-240-million-domain-names) | ⭐ 16 | 💬 7 | [HN Thread](https://news.ycombinator.com/item?id=49505219) |
+| **4** | [The EU has begun enforcing the AI Act: first RFIs to model providers](https://tokenstead.ai/guides/eu-ai-act-first-enforcement-security-rfis) | ⭐ 15 | 💬 4 | [HN Thread](https://news.ycombinator.com/item?id=49505351) |
+| **5** | [It takes 5 cloud services to hear my doorbell](https://blog.vghaisas.com/rube-goldberg-doorbell/) | ⭐ 52 | 💬 38 | [HN Thread](https://news.ycombinator.com/item?id=49480091) |
+| **6** | [Understanding ChatGPT Work](https://simonwillison.net/2026/Aug/30/understanding-chatgpt-work/) | ⭐ 95 | 💬 31 | [HN Thread](https://news.ycombinator.com/item?id=49504625) |
+| **7** | [Matrox: Graphics for Professionals](https://www.abortretry.fail/p/matrox) | ⭐ 55 | 💬 11 | [HN Thread](https://news.ycombinator.com/item?id=49503934) |
+| **8** | [Haiku R1/beta6 has been released](https://www.haiku-os.org/news/2026-08-26_haiku_r1_beta6) | ⭐ 272 | 💬 83 | [HN Thread](https://news.ycombinator.com/item?id=49499867) |
+| **9** | [UC Berkeley indefinitely suspends international student work authorizations](https://www.dailycal.org/news/campus/after-second-ice-threat-uc-berkeley-indefinitely-suspends-international-student-work-authorizations/article_0e9ae0c0-dd4d-4455-a25b-e8be7b47e350.html) | ⭐ 46 | 💬 33 | [HN Thread](https://news.ycombinator.com/item?id=49505288) |
+| **10** | [CobaltC – The Successor to C?](https://strawberry9.github.io/the-wrong-memory/Appendix_06.html) | ⭐ 12 | 💬 16 | [HN Thread](https://news.ycombinator.com/item?id=49504922) |
 
 ---
 
 ## 🗄️ News Archive
 
+- 📅 [2026-08-31](archive/2026-08-31.md)
 - 📅 [2026-08-30](archive/2026-08-30.md)
 - 📅 [2026-08-29](archive/2026-08-29.md)
 - 📅 [2026-08-28](archive/2026-08-28.md)
@@ -40,9 +41,8 @@ An automated **Tech & AI News Digest** that aggregates top trending discussions 
 - 📅 [2026-08-20](archive/2026-08-20.md)
 - 📅 [2026-08-19](archive/2026-08-19.md)
 - 📅 [2026-08-18](archive/2026-08-18.md)
-- 📅 [2026-08-17](archive/2026-08-17.md)
 
-*... and [3 older editions in the archive folder](archive/)*
+*... and [4 older editions in the archive folder](archive/)*
 
 ---
 
