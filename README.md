@@ -12,16 +12,16 @@ An automated **Tech & AI News Digest** that aggregates top trending discussions 
 
 | # | Story | Points | Comments | Discussion |
 |:---:|:---|:---:|:---:|:---:|
-| **1** | [Claude Fable 5.1 and Claude Mythos 5.1](https://www.anthropic.com/claude-fable-and-mythos-5-1) | ⭐ 388 | 💬 322 | [HN Thread](https://news.ycombinator.com/item?id=49525378) |
-| **2** | [Play Store blocks AuroraStore, hurting GrapheneOS users](https://gitlab.com/AuroraOSS/AuroraStore/-/work_items/1566) | ⭐ 319 | 💬 119 | [HN Thread](https://news.ycombinator.com/item?id=49523754) |
-| **3** | [The creator of Jujutsu has joined ERSC](https://ersc.io/blog/martin-joins-ersc) | ⭐ 73 | 💬 47 | [HN Thread](https://news.ycombinator.com/item?id=49525297) |
-| **4** | [Launch HN: Nori Robotics (YC S26) – A low-cost humanoid robot for development](https://www.norirobotics.com/) | ⭐ 49 | 💬 11 | [HN Thread](https://news.ycombinator.com/item?id=49525153) |
-| **5** | [AnkiDroid: Google Play no longer allowing Open Collective donation link](https://github.com/ankidroid/Anki-Android/issues/21656) | ⭐ 716 | 💬 199 | [HN Thread](https://news.ycombinator.com/item?id=49520022) |
-| **6** | [Ambient CSS v3 – Blender meets CSS](https://ambientcss.vercel.app/) | ⭐ 112 | 💬 45 | [HN Thread](https://news.ycombinator.com/item?id=49523387) |
-| **7** | [Ask HN: Who is hiring? (September 2026)](https://news.ycombinator.com/item?id=49522897) | ⭐ 138 | 💬 134 | [HN Thread](https://news.ycombinator.com/item?id=49522897) |
-| **8** | [UEFA's Champions League draw creates unfair clusters; a Cayley graph fixes it](https://sariyuce.com/blog/2026/UEFA-Draw/) | ⭐ 27 | 💬 6 | [HN Thread](https://news.ycombinator.com/item?id=49525420) |
-| **9** | [I trained a small transformer in 1.5hrs and it beats many LLMs](https://mvakde.github.io/blog/44-on-arc-1/) | ⭐ 404 | 💬 117 | [HN Thread](https://news.ycombinator.com/item?id=49519939) |
-| **10** | [Show HN: Running 104GB Qwen3.8-Flash-Next on 48GB Mac with at ~12 tok/s](https://github.com/carloslfu/slotstream) | ⭐ 63 | 💬 50 | [HN Thread](https://news.ycombinator.com/item?id=49524447) |
+| **1** | [Claude Fable 5.1 and Claude Mythos 5.1](https://www.anthropic.com/claude-fable-and-mythos-5-1) | ⭐ 763 | 💬 722 | [HN Thread](https://news.ycombinator.com/item?id=49525378) |
+| **2** | [How accurate have Ed Zitron's AI skeptic predictions been?](https://danluu.com/zitron/) | ⭐ 237 | 💬 255 | [HN Thread](https://news.ycombinator.com/item?id=49526069) |
+| **3** | [The ChatGPT/Codex app bundles a full copy of LibreOffice](https://simonwillison.net/2026/Sep/1/codex-libreoffice/) | ⭐ 163 | 💬 84 | [HN Thread](https://news.ycombinator.com/item?id=49527396) |
+| **4** | [Show HN: Weedout – Safari extension that hides YouTube AI-labeled videos](https://masteranza.github.io/weedout/) | ⭐ 9 | 💬 0 | [HN Thread](https://news.ycombinator.com/item?id=49528895) |
+| **5** | [Refurbishing a Tektronix TDS7104 Oscilloscope](https://tomverbeure.github.io/2026/08/23/Tektronix-TDS7104-Refurbishing.html) | ⭐ 54 | 💬 22 | [HN Thread](https://news.ycombinator.com/item?id=49527232) |
+| **6** | [Path to Astra: critical capabilities and frontier safeguards](https://openai.com/index/path-to-astra/) | ⭐ 52 | 💬 11 | [HN Thread](https://news.ycombinator.com/item?id=49527595) |
+| **7** | [The creator of Jujutsu has joined ERSC](https://ersc.io/blog/martin-joins-ersc) | ⭐ 150 | 💬 116 | [HN Thread](https://news.ycombinator.com/item?id=49525297) |
+| **8** | [AnkiDroid: Google Play no longer allowing Open Collective donation link](https://github.com/ankidroid/Anki-Android/issues/21656) | ⭐ 794 | 💬 228 | [HN Thread](https://news.ycombinator.com/item?id=49520022) |
+| **9** | [Launch HN: Nori Robotics (YC S26) – A low-cost humanoid robot for development](https://www.norirobotics.com/) | ⭐ 97 | 💬 36 | [HN Thread](https://news.ycombinator.com/item?id=49525153) |
+| **10** | [Introducing Ad Blocker for Firefox on iOS](https://blog.mozilla.org/en/firefox/ad-blocker-on-ios/) | ⭐ 248 | 💬 87 | [HN Thread](https://news.ycombinator.com/item?id=49521973) |
 
 ---
 
