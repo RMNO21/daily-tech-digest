@@ -12,15 +12,16 @@ An automated **Tech & AI News Digest** that aggregates top trending discussions 
 
 | # | Story | Points | Comments | Discussion |
 |:---:|:---|:---:|:---:|:---:|
-| **1** | [AnkiDroid: Google Play no longer allowing Open Collective donation link](https://github.com/ankidroid/Anki-Android/issues/21656) | ⭐ 317 | 💬 59 | [HN Thread](https://news.ycombinator.com/item?id=49520022) |
-| **2** | [44% on ARC-AGI-1 in 67 cents](https://mvakde.github.io/blog/44-on-arc-1/) | ⭐ 139 | 💬 36 | [HN Thread](https://news.ycombinator.com/item?id=49519939) |
-| **3** | [Fastpotify](https://fastpotify.rocks/) | ⭐ 548 | 💬 322 | [HN Thread](https://news.ycombinator.com/item?id=49517448) |
-| **4** | [American Airlines' Legendary Mechanic Passes Away at 100 After 80-Year Career](https://simpleflying.com/american-airlines-mechanic-passes-away-100-record-80-years/) | ⭐ 129 | 💬 49 | [HN Thread](https://news.ycombinator.com/item?id=49493468) |
-| **5** | [EFF to Courts: Don't Rewrite Copyright over AI Hype](https://www.eff.org/deeplinks/2026/08/eff-courts-dont-rewrite-copyright-over-ai-hype) | ⭐ 20 | 💬 4 | [HN Thread](https://news.ycombinator.com/item?id=49521315) |
-| **6** | [GPU World](https://www.gpuworld.org/) | ⭐ 296 | 💬 172 | [HN Thread](https://news.ycombinator.com/item?id=49517584) |
-| **8** | [Restroom Archive](https://restroomarchive.com) | ⭐ 185 | 💬 47 | [HN Thread](https://news.ycombinator.com/item?id=49517624) |
-| **9** | [Playa Phone](https://playaphone.com/) | ⭐ 672 | 💬 215 | [HN Thread](https://news.ycombinator.com/item?id=49510514) |
-| **10** | [I turned my security cameras into an automatic bird identification system](https://jasontucker.blog/how-i-turned-my-security-cameras-into-an-automatic-bird-identification-system-with-birdnet-go/) | ⭐ 538 | 💬 137 | [HN Thread](https://news.ycombinator.com/item?id=49511856) |
+| **1** | [Claude Fable 5.1 and Claude Mythos 5.1](https://www.anthropic.com/claude-fable-and-mythos-5-1) | ⭐ 388 | 💬 322 | [HN Thread](https://news.ycombinator.com/item?id=49525378) |
+| **2** | [Play Store blocks AuroraStore, hurting GrapheneOS users](https://gitlab.com/AuroraOSS/AuroraStore/-/work_items/1566) | ⭐ 319 | 💬 119 | [HN Thread](https://news.ycombinator.com/item?id=49523754) |
+| **3** | [The creator of Jujutsu has joined ERSC](https://ersc.io/blog/martin-joins-ersc) | ⭐ 73 | 💬 47 | [HN Thread](https://news.ycombinator.com/item?id=49525297) |
+| **4** | [Launch HN: Nori Robotics (YC S26) – A low-cost humanoid robot for development](https://www.norirobotics.com/) | ⭐ 49 | 💬 11 | [HN Thread](https://news.ycombinator.com/item?id=49525153) |
+| **5** | [AnkiDroid: Google Play no longer allowing Open Collective donation link](https://github.com/ankidroid/Anki-Android/issues/21656) | ⭐ 716 | 💬 199 | [HN Thread](https://news.ycombinator.com/item?id=49520022) |
+| **6** | [Ambient CSS v3 – Blender meets CSS](https://ambientcss.vercel.app/) | ⭐ 112 | 💬 45 | [HN Thread](https://news.ycombinator.com/item?id=49523387) |
+| **7** | [Ask HN: Who is hiring? (September 2026)](https://news.ycombinator.com/item?id=49522897) | ⭐ 138 | 💬 134 | [HN Thread](https://news.ycombinator.com/item?id=49522897) |
+| **8** | [UEFA's Champions League draw creates unfair clusters; a Cayley graph fixes it](https://sariyuce.com/blog/2026/UEFA-Draw/) | ⭐ 27 | 💬 6 | [HN Thread](https://news.ycombinator.com/item?id=49525420) |
+| **9** | [I trained a small transformer in 1.5hrs and it beats many LLMs](https://mvakde.github.io/blog/44-on-arc-1/) | ⭐ 404 | 💬 117 | [HN Thread](https://news.ycombinator.com/item?id=49519939) |
+| **10** | [Show HN: Running 104GB Qwen3.8-Flash-Next on 48GB Mac with at ~12 tok/s](https://github.com/carloslfu/slotstream) | ⭐ 63 | 💬 50 | [HN Thread](https://news.ycombinator.com/item?id=49524447) |
 
 ---
 
