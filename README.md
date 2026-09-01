@@ -12,21 +12,22 @@ An automated **Tech & AI News Digest** that aggregates top trending discussions 
 
 | # | Story | Points | Comments | Discussion |
 |:---:|:---|:---:|:---:|:---:|
-| **1** | [I turned my security cameras into an automatic bird identification system](https://jasontucker.blog/how-i-turned-my-security-cameras-into-an-automatic-bird-identification-system-with-birdnet-go/) | ⭐ 278 | 💬 76 | [HN Thread](https://news.ycombinator.com/item?id=49511856) |
-| **2** | [A walkable ASCII cyberpunk city in one HTML file [video]](https://www.youtube.com/watch?v=3YtygAx_C6A) | ⭐ 130 | 💬 24 | [HN Thread](https://news.ycombinator.com/item?id=49512975) |
-| **3** | [Playa Phone](https://playaphone.com/) | ⭐ 404 | 💬 156 | [HN Thread](https://news.ycombinator.com/item?id=49510514) |
-| **4** | ['Mad honey' that can stop your heart is being sold online](https://phys.org/news/2026-08-mad-honey-heart-sold-online.html) | ⭐ 30 | 💬 8 | [HN Thread](https://news.ycombinator.com/item?id=49476239) |
-| **5** | [Show HN: Laser Graffiti](https://laser.consti.de) | ⭐ 77 | 💬 16 | [HN Thread](https://news.ycombinator.com/item?id=49489376) |
-| **6** | [Smartphone LED detects hidden cameras with AI](https://www.chosun.com/english/industry-en/2026/08/30/SBFXUIJQYZEARKP5T4FBAY25HQ/) | ⭐ 90 | 💬 25 | [HN Thread](https://news.ycombinator.com/item?id=49496292) |
-| **7** | [Autonomous (YC F25) Is Hiring Engineers](https://news.ycombinator.com/item?id=49514781) | ⭐ 1 | 💬 0 | [HN Thread](https://news.ycombinator.com/item?id=49514781) |
-| **8** | [Terence Tao explains 6 essential mathematical concepts [video]](https://www.youtube.com/watch?v=OOMx2BHHWtE) | ⭐ 81 | 💬 11 | [HN Thread](https://news.ycombinator.com/item?id=49503521) |
-| **9** | [Dwarf Fortress is getting the mother of all magic updates](https://www.rockpapershotgun.com/dwarf-fortress-is-getting-the-mother-of-all-magic-updates-extending-to-the-fundamental-cosmological-makeup-of-the-universe) | ⭐ 212 | 💬 74 | [HN Thread](https://news.ycombinator.com/item?id=49467636) |
-| **10** | [Tmp.0ut, Vol. 5](https://tmpout.sh/5/) | ⭐ 91 | 💬 4 | [HN Thread](https://news.ycombinator.com/item?id=49433481) |
+| **1** | [Tailcat: Tailscale Without Tailscale, by Tailscale](https://tailscale.com/blog/tailcat) | ⭐ 39 | 💬 3 | [HN Thread](https://news.ycombinator.com/item?id=49517420) |
+| **2** | [Fastpotify](https://fastpotify.rocks/) | ⭐ 30 | 💬 5 | [HN Thread](https://news.ycombinator.com/item?id=49517448) |
+| **3** | [Google Antigravity introduces Boost deep reasoning (/boost)](https://antigravity.google/docs/boost/) | ⭐ 24 | 💬 7 | [HN Thread](https://news.ycombinator.com/item?id=49517537) |
+| **4** | [2004 RuneScape fit a multiplayer RPG into 56k dial-up](https://jkm.dev/posts/how-2004-runescape-fit-a-multiplayer-rpg-into-56k-dialup/) | ⭐ 65 | 💬 37 | [HN Thread](https://news.ycombinator.com/item?id=49516699) |
+| **5** | [I turned my security cameras into an automatic bird identification system](https://jasontucker.blog/how-i-turned-my-security-cameras-into-an-automatic-bird-identification-system-with-birdnet-go/) | ⭐ 406 | 💬 99 | [HN Thread](https://news.ycombinator.com/item?id=49511856) |
+| **6** | [Playa Phone](https://playaphone.com/) | ⭐ 543 | 💬 196 | [HN Thread](https://news.ycombinator.com/item?id=49510514) |
+| **7** | [A walkable ASCII cyberpunk city in one HTML file [video]](https://www.youtube.com/watch?v=3YtygAx_C6A) | ⭐ 253 | 💬 33 | [HN Thread](https://news.ycombinator.com/item?id=49512975) |
+| **8** | [Terence Tao explains 6 essential mathematical concepts [video]](https://www.youtube.com/watch?v=OOMx2BHHWtE) | ⭐ 284 | 💬 32 | [HN Thread](https://news.ycombinator.com/item?id=49503521) |
+| **9** | [Dwarf Fortress is getting the mother of all magic updates](https://www.rockpapershotgun.com/dwarf-fortress-is-getting-the-mother-of-all-magic-updates-extending-to-the-fundamental-cosmological-makeup-of-the-universe) | ⭐ 335 | 💬 126 | [HN Thread](https://news.ycombinator.com/item?id=49467636) |
+| **10** | [RotaryCell: Making an unmodified rotary phone work over LTE with an ESP32-S3](https://github.com/fregacmols/RotaryCell) | ⭐ 7 | 💬 1 | [HN Thread](https://news.ycombinator.com/item?id=49517297) |
 
 ---
 
 ## 🗄️ News Archive
 
+- 📅 [2026-09-01](archive/2026-09-01.md)
 - 📅 [2026-08-31](archive/2026-08-31.md)
 - 📅 [2026-08-30](archive/2026-08-30.md)
 - 📅 [2026-08-29](archive/2026-08-29.md)
@@ -40,9 +41,8 @@ An automated **Tech & AI News Digest** that aggregates top trending discussions 
 - 📅 [2026-08-21](archive/2026-08-21.md)
 - 📅 [2026-08-20](archive/2026-08-20.md)
 - 📅 [2026-08-19](archive/2026-08-19.md)
-- 📅 [2026-08-18](archive/2026-08-18.md)
 
-*... and [4 older editions in the archive folder](archive/)*
+*... and [5 older editions in the archive folder](archive/)*
 
 ---
 
