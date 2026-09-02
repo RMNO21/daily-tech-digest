@@ -12,21 +12,22 @@ An automated **Tech & AI News Digest** that aggregates top trending discussions 
 
 | # | Story | Points | Comments | Discussion |
 |:---:|:---|:---:|:---:|:---:|
-| **1** | [Claude Fable 5.1 and Claude Mythos 5.1](https://www.anthropic.com/claude-fable-and-mythos-5-1) | ⭐ 763 | 💬 722 | [HN Thread](https://news.ycombinator.com/item?id=49525378) |
-| **2** | [How accurate have Ed Zitron's AI skeptic predictions been?](https://danluu.com/zitron/) | ⭐ 237 | 💬 255 | [HN Thread](https://news.ycombinator.com/item?id=49526069) |
-| **3** | [The ChatGPT/Codex app bundles a full copy of LibreOffice](https://simonwillison.net/2026/Sep/1/codex-libreoffice/) | ⭐ 163 | 💬 84 | [HN Thread](https://news.ycombinator.com/item?id=49527396) |
-| **4** | [Show HN: Weedout – Safari extension that hides YouTube AI-labeled videos](https://masteranza.github.io/weedout/) | ⭐ 9 | 💬 0 | [HN Thread](https://news.ycombinator.com/item?id=49528895) |
-| **5** | [Refurbishing a Tektronix TDS7104 Oscilloscope](https://tomverbeure.github.io/2026/08/23/Tektronix-TDS7104-Refurbishing.html) | ⭐ 54 | 💬 22 | [HN Thread](https://news.ycombinator.com/item?id=49527232) |
-| **6** | [Path to Astra: critical capabilities and frontier safeguards](https://openai.com/index/path-to-astra/) | ⭐ 52 | 💬 11 | [HN Thread](https://news.ycombinator.com/item?id=49527595) |
-| **7** | [The creator of Jujutsu has joined ERSC](https://ersc.io/blog/martin-joins-ersc) | ⭐ 150 | 💬 116 | [HN Thread](https://news.ycombinator.com/item?id=49525297) |
-| **8** | [AnkiDroid: Google Play no longer allowing Open Collective donation link](https://github.com/ankidroid/Anki-Android/issues/21656) | ⭐ 794 | 💬 228 | [HN Thread](https://news.ycombinator.com/item?id=49520022) |
-| **9** | [Launch HN: Nori Robotics (YC S26) – A low-cost humanoid robot for development](https://www.norirobotics.com/) | ⭐ 97 | 💬 36 | [HN Thread](https://news.ycombinator.com/item?id=49525153) |
-| **10** | [Introducing Ad Blocker for Firefox on iOS](https://blog.mozilla.org/en/firefox/ad-blocker-on-ios/) | ⭐ 248 | 💬 87 | [HN Thread](https://news.ycombinator.com/item?id=49521973) |
+| **1** | [Claude Fable 5.1 and Claude Mythos 5.1](https://www.anthropic.com/claude-fable-and-mythos-5-1) | ⭐ 990 | 💬 929 | [HN Thread](https://news.ycombinator.com/item?id=49525378) |
+| **2** | [How accurate have Ed Zitron's AI skeptic predictions been?](https://danluu.com/zitron/) | ⭐ 494 | 💬 570 | [HN Thread](https://news.ycombinator.com/item?id=49526069) |
+| **3** | [The efficient frontier of LLM inference](https://www.baseten.co/blog/the-efficient-frontier-of-llm-inference/) | ⭐ 59 | 💬 9 | [HN Thread](https://news.ycombinator.com/item?id=49529898) |
+| **4** | [Show HN: Weedout – Safari extension that hides YouTube AI-labeled videos](https://masteranza.github.io/weedout/) | ⭐ 80 | 💬 25 | [HN Thread](https://news.ycombinator.com/item?id=49528895) |
+| **5** | [My local model setup on an M4 Pro Mac Mini](https://lws.io/blog/my-local-model-setup/) | ⭐ 96 | 💬 42 | [HN Thread](https://news.ycombinator.com/item?id=49529132) |
+| **6** | [FBI Probes Service Selling 153M+ Drivers Licenses](https://krebsonsecurity.com/2026/09/fbi-probes-service-selling-153m-drivers-licenses/) | ⭐ 54 | 💬 8 | [HN Thread](https://news.ycombinator.com/item?id=49529621) |
+| **7** | [Introducing Ad Blocker for Firefox on iOS](https://blog.mozilla.org/en/firefox/ad-blocker-on-ios/) | ⭐ 344 | 💬 115 | [HN Thread](https://news.ycombinator.com/item?id=49521973) |
+| **8** | [Sonic Pi](https://sonic-pi.net/) | ⭐ 59 | 💬 8 | [HN Thread](https://news.ycombinator.com/item?id=49482099) |
+| **9** | [The ChatGPT/Codex app bundles a full copy of LibreOffice](https://simonwillison.net/2026/Sep/1/codex-libreoffice/) | ⭐ 284 | 💬 122 | [HN Thread](https://news.ycombinator.com/item?id=49527396) |
+| **10** | [Launch HN: Nori Robotics (YC S26) – A low-cost humanoid robot for development](https://www.norirobotics.com/) | ⭐ 123 | 💬 41 | [HN Thread](https://news.ycombinator.com/item?id=49525153) |
 
 ---
 
 ## 🗄️ News Archive
 
+- 📅 [2026-09-02](archive/2026-09-02.md)
 - 📅 [2026-09-01](archive/2026-09-01.md)
 - 📅 [2026-08-31](archive/2026-08-31.md)
 - 📅 [2026-08-30](archive/2026-08-30.md)
@@ -40,9 +41,8 @@ An automated **Tech & AI News Digest** that aggregates top trending discussions 
 - 📅 [2026-08-22](archive/2026-08-22.md)
 - 📅 [2026-08-21](archive/2026-08-21.md)
 - 📅 [2026-08-20](archive/2026-08-20.md)
-- 📅 [2026-08-19](archive/2026-08-19.md)
 
-*... and [5 older editions in the archive folder](archive/)*
+*... and [6 older editions in the archive folder](archive/)*
 
 ---
 
