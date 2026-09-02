@@ -12,16 +12,16 @@ An automated **Tech & AI News Digest** that aggregates top trending discussions 
 
 | # | Story | Points | Comments | Discussion |
 |:---:|:---|:---:|:---:|:---:|
-| **1** | [Gemini 3.8 Flash](https://deepmind.google/models/model-cards/gemini-3-8-flash/) | ⭐ 205 | 💬 106 | [HN Thread](https://news.ycombinator.com/item?id=49537553) |
-| **2** | [A Note from LWN](https://lwn.net/Articles/1090585/) | ⭐ 437 | 💬 92 | [HN Thread](https://news.ycombinator.com/item?id=49535752) |
-| **3** | [GrapheneOS says Pixel 11 has MTE support after all](https://grapheneos.social/@GrapheneOS/117194007157499435) | ⭐ 89 | 💬 57 | [HN Thread](https://news.ycombinator.com/item?id=49536384) |
-| **4** | [Mistral now trains on user input by default, except on enterprise tier](https://help.mistral.ai/en/articles/455207-can-i-opt-out-of-my-input-or-output-data-being-used-for-training) | ⭐ 169 | 💬 77 | [HN Thread](https://news.ycombinator.com/item?id=49535284) |
-| **5** | [Biggest dark matter detector spots a single weird particle](https://www.science.org/content/article/world-s-biggest-dark-matter-detector-spots-single-weird-particle) | ⭐ 106 | 💬 18 | [HN Thread](https://news.ycombinator.com/item?id=49536079) |
-| **6** | [Three sites made 215,128 “best software” pages for AI. Perplexity cites them](https://trellner.com/reports/manufactured-sources-behind-ai-recommendations/) | ⭐ 139 | 💬 76 | [HN Thread](https://news.ycombinator.com/item?id=49536375) |
-| **7** | [Exit the Cave](https://turtlespace.blog/p/exit-the-cave) | ⭐ 55 | 💬 13 | [HN Thread](https://news.ycombinator.com/item?id=49536606) |
-| **8** | [Gemini 3.8 Flash and 3.8 Flash Cyber](https://blog.google/innovation-and-ai/models-and-research/gemini-models/3-8-flash-and-3-8-flash-cyber/) | ⭐ 19 | 💬 1 | [HN Thread](https://news.ycombinator.com/item?id=49538007) |
-| **9** | [Poisson Disk Sampling](https://stripeacross.com/posts/poisson-disk-sampling/) | ⭐ 54 | 💬 6 | [HN Thread](https://news.ycombinator.com/item?id=49536177) |
-| **10** | [Aging Brains Blend Memories Together Instead of Just Forgetting Them](https://studyfinds.com/aging-brains-blend-memories-together-instead-of-forgetting-them-study-finds/) | ⭐ 69 | 💬 26 | [HN Thread](https://news.ycombinator.com/item?id=49535548) |
+| **1** | [Muse Spark 1.3](https://developer.meta.com/ai/models/muse-spark/) | ⭐ 275 | 💬 173 | [HN Thread](https://news.ycombinator.com/item?id=49541256) |
+| **2** | [Gemini 3.8 Flash and 3.8 Flash Cyber](https://blog.google/innovation-and-ai/models-and-research/gemini-models/3-8-flash-and-3-8-flash-cyber/) | ⭐ 740 | 💬 429 | [HN Thread](https://news.ycombinator.com/item?id=49537553) |
+| **3** | [Google avoids a breakup of its ad tech business](https://www.nytimes.com/2026/09/02/technology/google-ad-tech-remedies.html) | ⭐ 172 | 💬 93 | [HN Thread](https://news.ycombinator.com/item?id=49537131) |
+| **4** | [Reverse Engineering Unknown File Formats with ImHex](https://werwolv.net/posts/file_format_reverse_engineering/) | ⭐ 46 | 💬 3 | [HN Thread](https://news.ycombinator.com/item?id=49508608) |
+| **5** | [Fable 5.1 World Modeling](https://github.com/PhiloLabs/fable51-worlds) | ⭐ 83 | 💬 25 | [HN Thread](https://news.ycombinator.com/item?id=49541458) |
+| **6** | [Three sites made 215,128 “best software” pages for AI. Perplexity cites them](https://trellner.com/reports/manufactured-sources-behind-ai-recommendations/) | ⭐ 260 | 💬 121 | [HN Thread](https://news.ycombinator.com/item?id=49536375) |
+| **7** | [Altair Basic Interpreter Source Code (1975) [pdf]](https://images.gatesnotes.com/12514eb8-7b51-008e-41a9-512542cf683b/34d561c8-cf5c-4e69-af47-3782ea11482e/Original-Microsoft-Source-Code.pdf) | ⭐ 29 | 💬 10 | [HN Thread](https://news.ycombinator.com/item?id=49541754) |
+| **8** | [Wendell Berry has died](https://www.nytimes.com/2026/08/31/us/wendell-berry-dead.html) | ⭐ 103 | 💬 49 | [HN Thread](https://news.ycombinator.com/item?id=49517018) |
+| **9** | [Nango (YC W23) is hiring across eng, product and GTM (SF and remote)](https://nango.dev/careers) | ⭐ 1 | 💬 0 | [HN Thread](https://news.ycombinator.com/item?id=49542486) |
+| **10** | [Can I opt out of my input or output data being used for training?](https://help.mistral.ai/en/articles/455207-can-i-opt-out-of-my-input-or-output-data-being-used-for-training) | ⭐ 346 | 💬 149 | [HN Thread](https://news.ycombinator.com/item?id=49535284) |
 
 ---
 
