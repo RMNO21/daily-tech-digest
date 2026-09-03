@@ -2,8 +2,8 @@ name: Daily Tech Digest
 
 on:
   schedule:
-    # Runs every 4 hours
-    - cron: '0 */4 * * *'
+    # Runs hourly to process dynamic daily sync schedule
+    - cron: '17 * * * *'
   workflow_dispatch:
 
 permissions:
@@ -27,14 +27,15 @@ jobs:
       - name: Run Scraper Engine
         run: python scraper.py
 
-      - name: Commit and Push Changes
+      - name: Sync Updates
         run: |
           git config --global user.name "RMNO21"
           git config --global user.email "tondroraman83@gmail.com"
           git add archive/ README.md
           if git diff-index --quiet HEAD --; then
-            echo "No new updates to commit."
+            echo "Working tree clean. No sync required for this cycle."
           else
-            git commit -m "docs: update latest news digest"
+            COMMIT_MSG=$(python -c "import scraper; print(scraper.get_natural_commit_message())")
+            git commit -m "$COMMIT_MSG"
             git push
           fi

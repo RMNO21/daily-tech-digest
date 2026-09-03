@@ -1,6 +1,8 @@
 import os
 import sys
 import json
+import random
+import hashlib
 import urllib.request
 from datetime import datetime, timezone
 
@@ -9,6 +11,48 @@ HN_ITEM_URL = "https://hacker-news.firebaseio.com/v0/item/{item_id}.json"
 ARCHIVE_DIR = "archive"
 TOP_STORIES_COUNT = 10
 HEADERS = {"User-Agent": "DailyTechDigest/1.0 (GitHub: RMNO21)"}
+
+COMMIT_MESSAGES = [
+    "feat: sync latest tech & AI news updates",
+    "docs: update daily digests and breaking headlines",
+    "chore: refresh latest news feeds",
+    "feat: update top trending community discussions",
+    "docs: refresh tech highlights and discussion threads",
+    "chore: sync latest developer news snapshots",
+    "feat: update breaking tech stories",
+    "docs: update daily news digest"
+]
+
+
+def should_sync_now() -> bool:
+    """Smart sync schedule: distributes updates naturally across the day."""
+    if "--force" in sys.argv:
+        return True
+
+    now_utc = datetime.now(timezone.utc)
+    date_str = now_utc.strftime("%Y-%m-%d")
+    current_hour = now_utc.hour
+
+    seed_val = int(hashlib.md5(date_str.encode()).hexdigest(), 16)
+    rng = random.Random(seed_val)
+    
+    # Target updates between 4 and 12 slots per day
+    daily_target = 4 + (seed_val % 9)
+    available_hours = list(range(4, 24)) # Active global hours
+    scheduled_hours = set(rng.sample(available_hours, daily_target))
+
+    if current_hour in scheduled_hours:
+        return True
+
+    print(f"[{now_utc.strftime('%H:%M:%S')} UTC] Sync window inactive for hour {current_hour}. Next active cycle scheduled.")
+    return False
+
+
+def get_natural_commit_message() -> str:
+    """Returns a natural, varied commit message based on current timestamp."""
+    now_utc = datetime.now(timezone.utc)
+    msg_idx = (now_utc.hour + now_utc.day) % len(COMMIT_MESSAGES)
+    return COMMIT_MESSAGES[msg_idx]
 
 
 def fetch_json(url: str, timeout: int = 15):
@@ -108,7 +152,7 @@ def generate_readme(today: str, stories: list, archive_files: list) -> str:
         )
     story_table = "\n".join(story_rows)
 
-    # Archive links (show up to recent 14 days, with count)
+    # Archive links (show up to recent 14 days)
     archive_links = []
     for f in archive_files[:14]:
         date_label = f.replace(".md", "")
@@ -177,7 +221,7 @@ git clone https://github.com/RMNO21/daily-tech-digest.git
 cd daily-tech-digest
 
 # 2. Run scraper (Zero dependencies, pure Python standard library)
-python scraper.py
+python scraper.py --force
 ```
 
 ---
@@ -190,6 +234,9 @@ python scraper.py
 
 
 def main():
+    if not should_sync_now():
+        sys.exit(0)
+
     today = datetime.now(timezone.utc).strftime("%Y-%m-%d")
     print(f"--- Starting Daily Tech Digest for {today} ---")
     

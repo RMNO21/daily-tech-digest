@@ -12,21 +12,22 @@ An automated **Tech & AI News Digest** that aggregates top trending discussions 
 
 | # | Story | Points | Comments | Discussion |
 |:---:|:---|:---:|:---:|:---:|
-| **1** | [Claude: System Prompts](https://platform.claude.com/docs/en/release-notes/system-prompts) | ⭐ 98 | 💬 42 | [HN Thread](https://news.ycombinator.com/item?id=49319556) |
-| **2** | [Firefox for iOS now has a native adblocker](https://support.mozilla.org/en-US/kb/block-ads-firefox-ios) | ⭐ 54 | 💬 17 | [HN Thread](https://news.ycombinator.com/item?id=49319633) |
-| **3** | [A SAT Attack on Tarski's High School Algebra Problem](https://arxiv.org/abs/2608.08421) | ⭐ 30 | 💬 14 | [HN Thread](https://news.ycombinator.com/item?id=49268565) |
-| **4** | [Does anyone run Postgres without PgBouncer?](https://brandur.org/fragments/postgres-without-pgbouncer) | ⭐ 49 | 💬 17 | [HN Thread](https://news.ycombinator.com/item?id=49277952) |
-| **5** | [Research papers using "kidney disappointment" instead of "kidney failure"](https://scholar.google.com/scholar?q=%22kidney+disappointment%22) | ⭐ 77 | 💬 33 | [HN Thread](https://news.ycombinator.com/item?id=49319389) |
-| **6** | [Asus Bike Booster](https://www.asus.com/accessories/bike-booster/asus-oxiis/oxiis-intelligent-bike-booster/) | ⭐ 509 | 💬 354 | [HN Thread](https://news.ycombinator.com/item?id=49268580) |
-| **7** | [Chestnut – eGPU dock with open-source firmware](https://hwbusters.com/news/comma-ai-egpu-dock-runs-open-source-firmware-249-bare-799-with-an-rx-9060/) | ⭐ 63 | 💬 16 | [HN Thread](https://news.ycombinator.com/item?id=49292385) |
-| **8** | [Tasklet (YC P26) Is Hiring a Head of Design Engineering](https://tasklet.ai/careers/head-of-design-engineering) | ⭐ 1 | 💬 0 | [HN Thread](https://news.ycombinator.com/item?id=49319892) |
-| **9** | [Asynchronous I/O in DuckDB: Work, Thread, Work](https://duckdb.org/2026/07/31/asynchronous-io) | ⭐ 215 | 💬 26 | [HN Thread](https://news.ycombinator.com/item?id=49243061) |
-| **10** | [Superconducting monolayer cuprate with a single CuO2 plane](https://www.nature.com/articles/s41586-026-10857-1) | ⭐ 35 | 💬 11 | [HN Thread](https://news.ycombinator.com/item?id=49277153) |
+| **1** | [GPT-6 Astra](https://openai.com/index/gpt-6-astra/) | ⭐ 941 | 💬 670 | [HN Thread](https://news.ycombinator.com/item?id=49554643) |
+| **2** | [Qwen 3.8 27B available on Cerebras at 1500 tokens/s](https://inference-docs.cerebras.ai/models/overview) | ⭐ 348 | 💬 112 | [HN Thread](https://news.ycombinator.com/item?id=49554520) |
+| **3** | [.name Termination](https://neil.fraser.name/news/2026/09/03/) | ⭐ 1138 | 💬 335 | [HN Thread](https://news.ycombinator.com/item?id=49550772) |
+| **4** | [The largest electric aircraft just flew [video]](https://www.youtube.com/watch?v=nM86DBOqgPM) | ⭐ 87 | 💬 59 | [HN Thread](https://news.ycombinator.com/item?id=49526453) |
+| **5** | [K2 Horizon: A connected fleet of six open models](https://ifm.ai/blog/k2/) | ⭐ 225 | 💬 72 | [HN Thread](https://news.ycombinator.com/item?id=49551760) |
+| **6** | [Any Human Ever – One life, drawn at random from all who have ever lived](https://anyhumanever.com/) | ⭐ 387 | 💬 185 | [HN Thread](https://news.ycombinator.com/item?id=49550698) |
+| **7** | [Porting my 1993 Amiga game to Godot, with an LLM reading the 68000 assembly](https://babyloniantwins.com/blog/porting-a-1993-amiga-game-to-godot/) | ⭐ 133 | 💬 46 | [HN Thread](https://news.ycombinator.com/item?id=49550375) |
+| **8** | [Tasklet (YC P26) Is Hiring a Customer Success Engineer](https://tasklet.ai/careers/customer-success-engineer) | ⭐ 1 | 💬 0 | [HN Thread](https://news.ycombinator.com/item?id=49556922) |
+| **9** | [Artificial beaver dams saw juvenile coho salmon survival rates go from 8% to 60%](https://www.discoverwildlife.com/animal-facts/artificial-beaver-dams-california) | ⭐ 97 | 💬 26 | [HN Thread](https://news.ycombinator.com/item?id=49552572) |
+| **10** | [OpenAI's GPT-6 Astra on ARC-AGI-3](https://arcprize.org/blog/astra) | ⭐ 108 | 💬 53 | [HN Thread](https://news.ycombinator.com/item?id=49555691) |
 
 ---
 
 ## 🗄️ News Archive
 
+- 📅 [2026-09-03](archive/2026-09-03.md)
 - 📅 [2026-08-16](archive/2026-08-16.md)
 - 📅 [2026-08-15](archive/2026-08-15.md)
 - 📅 [2026-08-14](archive/2026-08-14.md)
@@ -68,7 +69,7 @@ git clone https://github.com/RMNO21/daily-tech-digest.git
 cd daily-tech-digest
 
 # 2. Run scraper (Zero dependencies, pure Python standard library)
-python scraper.py
+python scraper.py --force
 ```
 
 ---
