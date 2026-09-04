@@ -12,16 +12,16 @@ An automated **Tech & AI News Digest** that aggregates top trending discussions 
 
 | # | Story | Points | Comments | Discussion |
 |:---:|:---|:---:|:---:|:---:|
-| **1** | [GPT-6 Astra](https://openai.com/index/gpt-6-astra/) | ⭐ 1488 | 💬 1257 | [HN Thread](https://news.ycombinator.com/item?id=49554643) |
-| **2** | [.name Termination](https://neil.fraser.name/news/2026/09/03/) | ⭐ 1514 | 💬 405 | [HN Thread](https://news.ycombinator.com/item?id=49550772) |
-| **3** | [Qwen 3.8 27B available on Cerebras at 1500 tokens/s](https://inference-docs.cerebras.ai/models/overview) | ⭐ 496 | 💬 148 | [HN Thread](https://news.ycombinator.com/item?id=49554520) |
-| **4** | [Project Xanadu: Even More Hindsight](https://gwern.net/xanadu) | ⭐ 33 | 💬 5 | [HN Thread](https://news.ycombinator.com/item?id=49559522) |
-| **5** | [A Mysterious Kidney Disease Has Arrived in Texas](https://www.texasmonthly.com/news-politics/ckdu-kidney-disease-immigration/) | ⭐ 27 | 💬 25 | [HN Thread](https://news.ycombinator.com/item?id=49559992) |
-| **6** | [How an MIT research project became the Julia programming language](https://news.mit.edu/2026/how-mit-research-project-became-global-programming-language-0831) | ⭐ 42 | 💬 8 | [HN Thread](https://news.ycombinator.com/item?id=49507072) |
-| **7** | [The largest electric aircraft just flew [video]](https://www.youtube.com/watch?v=nM86DBOqgPM) | ⭐ 239 | 💬 160 | [HN Thread](https://news.ycombinator.com/item?id=49526453) |
-| **8** | [Grep beats LSP? Why coding agents ignore your fancier tools](https://www.agentconnect.md/blog/grep-beat-lsp-harness/) | ⭐ 19 | 💬 5 | [HN Thread](https://news.ycombinator.com/item?id=49560260) |
-| **9** | [From Hookswitch to Grave](https://computer.rip/2026-06-14-hookswitch-to-grave.html) | ⭐ 12 | 💬 0 | [HN Thread](https://news.ycombinator.com/item?id=49559901) |
-| **10** | [Artificial beaver dams saw juvenile coho salmon survival rates go from 8% to 60%](https://www.discoverwildlife.com/animal-facts/artificial-beaver-dams-california) | ⭐ 195 | 💬 60 | [HN Thread](https://news.ycombinator.com/item?id=49552572) |
+| **1** | [Formalizing Fermat's Last Theorem](https://www.anthropic.com/research/formalizing-fermats-last-theorem) | ⭐ 295 | 💬 178 | [HN Thread](https://news.ycombinator.com/item?id=49568506) |
+| **2** | [Discovery of a new OpenAI agent message board](https://collusion.wiki/) | ⭐ 1326 | 💬 1076 | [HN Thread](https://news.ycombinator.com/item?id=49563355) |
+| **3** | [Shutting down our public encrypted DNS](https://mullvad.net/en/blog/shutting-down-our-public-encrypted-dns-servers-and-sponsoring-quad9-instead) | ⭐ 154 | 💬 53 | [HN Thread](https://news.ycombinator.com/item?id=49568579) |
+| **4** | [Statichost.eu – 100% European static site hosting](https://www.statichost.eu/) | ⭐ 33 | 💬 6 | [HN Thread](https://news.ycombinator.com/item?id=49569896) |
+| **5** | [Can AI design circuit boards yet?](https://eebench.org/blog/can-ai-design-circuit-boards-yet/) | ⭐ 64 | 💬 49 | [HN Thread](https://news.ycombinator.com/item?id=49569366) |
+| **6** | [Show HN: Open-Source eInk Bike Computer](https://opentrailpaper.com) | ⭐ 175 | 💬 57 | [HN Thread](https://news.ycombinator.com/item?id=49567437) |
+| **7** | [Government Rails Site Hit Hours After CVE Patch](https://rietta.com/blog/ruby-on-rails-cve-exploited-hours-after-patch/) | ⭐ 43 | 💬 12 | [HN Thread](https://news.ycombinator.com/item?id=49568828) |
+| **8** | [An open DNS recursive service for free security and high privacy](https://quad9.net/) | ⭐ 17 | 💬 4 | [HN Thread](https://news.ycombinator.com/item?id=49569663) |
+| **9** | [The Rust React Compiler is now native in Vite](https://blog.master.dev/react-now-rusted-all-the-way-out/) | ⭐ 75 | 💬 14 | [HN Thread](https://news.ycombinator.com/item?id=49567873) |
+| **10** | [IBM Bob](https://bob.ibm.com/) | ⭐ 193 | 💬 231 | [HN Thread](https://news.ycombinator.com/item?id=49563851) |
 
 ---
 
