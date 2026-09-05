@@ -12,21 +12,22 @@ An automated **Tech & AI News Digest** that aggregates top trending discussions 
 
 | # | Story | Points | Comments | Discussion |
 |:---:|:---|:---:|:---:|:---:|
-| **1** | [Formalizing Fermat's Last Theorem](https://www.anthropic.com/research/formalizing-fermats-last-theorem) | ⭐ 295 | 💬 178 | [HN Thread](https://news.ycombinator.com/item?id=49568506) |
-| **2** | [Discovery of a new OpenAI agent message board](https://collusion.wiki/) | ⭐ 1326 | 💬 1076 | [HN Thread](https://news.ycombinator.com/item?id=49563355) |
-| **3** | [Shutting down our public encrypted DNS](https://mullvad.net/en/blog/shutting-down-our-public-encrypted-dns-servers-and-sponsoring-quad9-instead) | ⭐ 154 | 💬 53 | [HN Thread](https://news.ycombinator.com/item?id=49568579) |
-| **4** | [Statichost.eu – 100% European static site hosting](https://www.statichost.eu/) | ⭐ 33 | 💬 6 | [HN Thread](https://news.ycombinator.com/item?id=49569896) |
-| **5** | [Can AI design circuit boards yet?](https://eebench.org/blog/can-ai-design-circuit-boards-yet/) | ⭐ 64 | 💬 49 | [HN Thread](https://news.ycombinator.com/item?id=49569366) |
-| **6** | [Show HN: Open-Source eInk Bike Computer](https://opentrailpaper.com) | ⭐ 175 | 💬 57 | [HN Thread](https://news.ycombinator.com/item?id=49567437) |
-| **7** | [Government Rails Site Hit Hours After CVE Patch](https://rietta.com/blog/ruby-on-rails-cve-exploited-hours-after-patch/) | ⭐ 43 | 💬 12 | [HN Thread](https://news.ycombinator.com/item?id=49568828) |
-| **8** | [An open DNS recursive service for free security and high privacy](https://quad9.net/) | ⭐ 17 | 💬 4 | [HN Thread](https://news.ycombinator.com/item?id=49569663) |
-| **9** | [The Rust React Compiler is now native in Vite](https://blog.master.dev/react-now-rusted-all-the-way-out/) | ⭐ 75 | 💬 14 | [HN Thread](https://news.ycombinator.com/item?id=49567873) |
-| **10** | [IBM Bob](https://bob.ibm.com/) | ⭐ 193 | 💬 231 | [HN Thread](https://news.ycombinator.com/item?id=49563851) |
+| **1** | [Actively exploited sandbox RCE in all Chromium versions](https://nvd.nist.gov/vuln/detail/cve-2026-85046) | ⭐ 574 | 💬 302 | [HN Thread](https://news.ycombinator.com/item?id=49570669) |
+| **2** | [Discovery of a new OpenAI agent message board](https://collusion.wiki/) | ⭐ 1794 | 💬 1371 | [HN Thread](https://news.ycombinator.com/item?id=49563355) |
+| **3** | [Nitter has more working instances than before the takedowns](https://codeberg.org/mv12star/shitter/wiki/Instances) | ⭐ 320 | 💬 121 | [HN Thread](https://news.ycombinator.com/item?id=49571634) |
+| **4** | [Formalizing Fermat's Last Theorem](https://www.anthropic.com/research/formalizing-fermats-last-theorem) | ⭐ 642 | 💬 408 | [HN Thread](https://news.ycombinator.com/item?id=49568506) |
+| **5** | [AI handles incidents, engineers lose touch with their systems](https://www.sylvainkalache.com/blog/ai-handles-incidents-engineers-lose-touch-with-their-systems) | ⭐ 205 | 💬 181 | [HN Thread](https://news.ycombinator.com/item?id=49574167) |
+| **6** | [Statichost.eu – European static site hosting](https://www.statichost.eu/) | ⭐ 333 | 💬 143 | [HN Thread](https://news.ycombinator.com/item?id=49569896) |
+| **7** | [Sky Map 2000 – Star Atlas and Planetarium](https://skymap2000.com/) | ⭐ 21 | 💬 3 | [HN Thread](https://news.ycombinator.com/item?id=49548596) |
+| **8** | [Kale: A Transformation-Safe Spreadsheet System](https://arxiv.org/abs/2608.26345) | ⭐ 25 | 💬 10 | [HN Thread](https://news.ycombinator.com/item?id=49516962) |
+| **9** | [Can AI design circuit boards yet?](https://eebench.org/blog/can-ai-design-circuit-boards-yet/) | ⭐ 282 | 💬 168 | [HN Thread](https://news.ycombinator.com/item?id=49569366) |
+| **10** | [GPT-6 Astra on OpenRouter](https://openrouter.ai/openai/gpt-6-astra) | ⭐ 244 | 💬 156 | [HN Thread](https://news.ycombinator.com/item?id=49570545) |
 
 ---
 
 ## 🗄️ News Archive
 
+- 📅 [2026-09-05](archive/2026-09-05.md)
 - 📅 [2026-09-04](archive/2026-09-04.md)
 - 📅 [2026-09-03](archive/2026-09-03.md)
 - 📅 [2026-09-02](archive/2026-09-02.md)
@@ -40,9 +41,8 @@ An automated **Tech & AI News Digest** that aggregates top trending discussions 
 - 📅 [2026-08-25](archive/2026-08-25.md)
 - 📅 [2026-08-24](archive/2026-08-24.md)
 - 📅 [2026-08-23](archive/2026-08-23.md)
-- 📅 [2026-08-22](archive/2026-08-22.md)
 
-*... and [8 older editions in the archive folder](archive/)*
+*... and [9 older editions in the archive folder](archive/)*
 
 ---
 
