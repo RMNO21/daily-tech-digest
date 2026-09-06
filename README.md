@@ -12,21 +12,22 @@ An automated **Tech & AI News Digest** that aggregates top trending discussions 
 
 | # | Story | Points | Comments | Discussion |
 |:---:|:---|:---:|:---:|:---:|
-| **1** | [Private German rocket makes history, reaches orbit from European soil](https://www.space.com/space-exploration/launches-spacecraft/isar-aerospace-second-launch-norway-andoya-spaceport-spectrum-rocket) | ⭐ 293 | 💬 147 | [HN Thread](https://news.ycombinator.com/item?id=49580369) |
-| **2** | [Falsehoods Programmers Believe About LANs](https://dreamstation.systems/personal/lanfalsehoods.html) | ⭐ 42 | 💬 34 | [HN Thread](https://news.ycombinator.com/item?id=49581179) |
-| **3** | [Finite time blowup for an averaged three-dimensional Navier-Stokes equation (2014)](https://terrytao.wordpress.com/2014/02/04/finite-time-blowup-for-an-averaged-three-dimensional-navier-stokes-equation/) | ⭐ 51 | 💬 20 | [HN Thread](https://news.ycombinator.com/item?id=49580329) |
-| **4** | [Learn Programming with OCaml](https://usr.lmf.cnrs.fr/lpo/) | ⭐ 148 | 💬 67 | [HN Thread](https://news.ycombinator.com/item?id=49578280) |
-| **5** | [OKF Agent Memory – Git-native persistent memory for AI coding agents](https://github.com/okf-memory/okf-agent-memory) | ⭐ 10 | 💬 2 | [HN Thread](https://news.ycombinator.com/item?id=49581240) |
-| **6** | [The "$60 Gaming PC" – AMD BC-250 (2025)](https://devquasar.com/hardware/the-60-gaming-pc-amd-bc-250/) | ⭐ 261 | 💬 78 | [HN Thread](https://news.ycombinator.com/item?id=49576386) |
-| **7** | [Show HN: Fly By – retro biplane flying game](https://michaelteter.com/flyby.html) | ⭐ 28 | 💬 23 | [HN Thread](https://news.ycombinator.com/item?id=49519101) |
-| **8** | [How Swiss tables work in Go built-in map](https://victoriametrics.com/blog/go-swiss-table-map/index.html) | ⭐ 27 | 💬 1 | [HN Thread](https://news.ycombinator.com/item?id=49548852) |
-| **9** | [Visualizing Rust's Vtables: How dyn Trait Works In Memory](https://sofiabelen.github.io/projects/visualizing-rusts-vtables-how-dyn-trait-works-in-memory/) | ⭐ 121 | 💬 14 | [HN Thread](https://news.ycombinator.com/item?id=49576343) |
-| **10** | [Balrogg: Demonically compacting (up to 15%) lossless Vorbis/Opus recompressor](https://github.com/iczelia/balrogg) | ⭐ 49 | 💬 8 | [HN Thread](https://news.ycombinator.com/item?id=49549778) |
+| **1** | [Cloud in a Bottle: making self-hosting accessible to everyone](https://cloudinabottle.org/blog/launch-post) | ⭐ 240 | 💬 100 | [HN Thread](https://news.ycombinator.com/item?id=49582000) |
+| **2** | [GPT-6 Astra on robot arms](https://openai.robocurve.org/gpt-6-astra/) | ⭐ 98 | 💬 54 | [HN Thread](https://news.ycombinator.com/item?id=49582582) |
+| **3** | [The revolt of the reader](https://bcantrill.dtrace.org/2026/09/05/the-revolt-of-the-reader/) | ⭐ 202 | 💬 74 | [HN Thread](https://news.ycombinator.com/item?id=49580939) |
+| **4** | [OpenBSD Stories: Strange Medieval Devices](http://miod.online.fr/software/openbsd/stories/smd.html) | ⭐ 19 | 💬 2 | [HN Thread](https://news.ycombinator.com/item?id=49539759) |
+| **5** | [Chrome again exempts Google from user site data settings](https://lapcatsoftware.com/articles/2026/9/1.html) | ⭐ 189 | 💬 28 | [HN Thread](https://news.ycombinator.com/item?id=49581870) |
+| **6** | [Learn Programming with OCaml](https://usr.lmf.cnrs.fr/lpo/) | ⭐ 205 | 💬 81 | [HN Thread](https://news.ycombinator.com/item?id=49578280) |
+| **7** | [Private German rocket makes history, reaches orbit from European soil](https://www.space.com/space-exploration/launches-spacecraft/isar-aerospace-second-launch-norway-andoya-spaceport-spectrum-rocket) | ⭐ 430 | 💬 236 | [HN Thread](https://news.ycombinator.com/item?id=49580369) |
+| **8** | [The "$60 Gaming PC" – AMD BC-250 (2025)](https://devquasar.com/hardware/the-60-gaming-pc-amd-bc-250/) | ⭐ 313 | 💬 93 | [HN Thread](https://news.ycombinator.com/item?id=49576386) |
+| **9** | [Discovery of a new OpenAI agent message board](https://collusion.wiki/) | ⭐ 2149 | 💬 1528 | [HN Thread](https://news.ycombinator.com/item?id=49563355) |
+| **10** | [The ColorChecker, photography's most important 24 squares, turns 50](https://www.dpreview.com/news/the-colorchecker-photographys-most-important-24-squares-turns-50/) | ⭐ 5 | 💬 0 | [HN Thread](https://news.ycombinator.com/item?id=49529398) |
 
 ---
 
 ## 🗄️ News Archive
 
+- 📅 [2026-09-06](archive/2026-09-06.md)
 - 📅 [2026-09-05](archive/2026-09-05.md)
 - 📅 [2026-09-04](archive/2026-09-04.md)
 - 📅 [2026-09-03](archive/2026-09-03.md)
@@ -40,9 +41,8 @@ An automated **Tech & AI News Digest** that aggregates top trending discussions 
 - 📅 [2026-08-26](archive/2026-08-26.md)
 - 📅 [2026-08-25](archive/2026-08-25.md)
 - 📅 [2026-08-24](archive/2026-08-24.md)
-- 📅 [2026-08-23](archive/2026-08-23.md)
 
-*... and [9 older editions in the archive folder](archive/)*
+*... and [10 older editions in the archive folder](archive/)*
 
 ---
 
