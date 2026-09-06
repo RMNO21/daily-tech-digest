@@ -12,16 +12,16 @@ An automated **Tech & AI News Digest** that aggregates top trending discussions 
 
 | # | Story | Points | Comments | Discussion |
 |:---:|:---|:---:|:---:|:---:|
-| **1** | [Cloud in a Bottle: making self-hosting accessible to everyone](https://cloudinabottle.org/blog/launch-post) | ⭐ 240 | 💬 100 | [HN Thread](https://news.ycombinator.com/item?id=49582000) |
-| **2** | [GPT-6 Astra on robot arms](https://openai.robocurve.org/gpt-6-astra/) | ⭐ 98 | 💬 54 | [HN Thread](https://news.ycombinator.com/item?id=49582582) |
-| **3** | [The revolt of the reader](https://bcantrill.dtrace.org/2026/09/05/the-revolt-of-the-reader/) | ⭐ 202 | 💬 74 | [HN Thread](https://news.ycombinator.com/item?id=49580939) |
-| **4** | [OpenBSD Stories: Strange Medieval Devices](http://miod.online.fr/software/openbsd/stories/smd.html) | ⭐ 19 | 💬 2 | [HN Thread](https://news.ycombinator.com/item?id=49539759) |
-| **5** | [Chrome again exempts Google from user site data settings](https://lapcatsoftware.com/articles/2026/9/1.html) | ⭐ 189 | 💬 28 | [HN Thread](https://news.ycombinator.com/item?id=49581870) |
-| **6** | [Learn Programming with OCaml](https://usr.lmf.cnrs.fr/lpo/) | ⭐ 205 | 💬 81 | [HN Thread](https://news.ycombinator.com/item?id=49578280) |
-| **7** | [Private German rocket makes history, reaches orbit from European soil](https://www.space.com/space-exploration/launches-spacecraft/isar-aerospace-second-launch-norway-andoya-spaceport-spectrum-rocket) | ⭐ 430 | 💬 236 | [HN Thread](https://news.ycombinator.com/item?id=49580369) |
-| **8** | [The "$60 Gaming PC" – AMD BC-250 (2025)](https://devquasar.com/hardware/the-60-gaming-pc-amd-bc-250/) | ⭐ 313 | 💬 93 | [HN Thread](https://news.ycombinator.com/item?id=49576386) |
-| **9** | [Discovery of a new OpenAI agent message board](https://collusion.wiki/) | ⭐ 2149 | 💬 1528 | [HN Thread](https://news.ycombinator.com/item?id=49563355) |
-| **10** | [The ColorChecker, photography's most important 24 squares, turns 50](https://www.dpreview.com/news/the-colorchecker-photographys-most-important-24-squares-turns-50/) | ⭐ 5 | 💬 0 | [HN Thread](https://news.ycombinator.com/item?id=49529398) |
+| **1** | [Isar Aerospace reaches orbit and deploys payloads on second flight](https://isaraerospace.com/press/history-for-european-spaceflight-isar-aerospace-reaches-orbit-and-deploys-payloads-on-second-flight) | ⭐ 69 | 💬 3 | [HN Thread](https://news.ycombinator.com/item?id=49584083) |
+| **2** | [Cloud in a Bottle: making self-hosting accessible to everyone](https://cloudinabottle.org/blog/launch-post) | ⭐ 386 | 💬 173 | [HN Thread](https://news.ycombinator.com/item?id=49582000) |
+| **3** | [Play GTA Vice City in the Browser](https://quenq.com/apps/vice-city-online/) | ⭐ 26 | 💬 8 | [HN Thread](https://news.ycombinator.com/item?id=49584123) |
+| **4** | [Music Theory for Programmers](https://runjs.app/blog/music-theory-for-programmers) | ⭐ 116 | 💬 49 | [HN Thread](https://news.ycombinator.com/item?id=49541888) |
+| **5** | [The revolt of the reader](https://bcantrill.dtrace.org/2026/09/05/the-revolt-of-the-reader/) | ⭐ 348 | 💬 138 | [HN Thread](https://news.ycombinator.com/item?id=49580939) |
+| **6** | [The ColorChecker, photography's most important 24 squares, turns 50](https://www.dpreview.com/news/the-colorchecker-photographys-most-important-24-squares-turns-50/) | ⭐ 60 | 💬 9 | [HN Thread](https://news.ycombinator.com/item?id=49529398) |
+| **7** | [OpenBSD Stories: Strange Medieval Devices](http://miod.online.fr/software/openbsd/stories/smd.html) | ⭐ 60 | 💬 11 | [HN Thread](https://news.ycombinator.com/item?id=49539759) |
+| **8** | [AI, Tools and Transformation](https://www.ben-evans.com/benedictevans/2026/9/3/ai-tools-and-transformation) | ⭐ 54 | 💬 19 | [HN Thread](https://news.ycombinator.com/item?id=49582656) |
+| **9** | [Watch the 'Eclipse of the Century' Next Year When Spain, Egypt and More Go Dark](https://www.nytimes.com/2026/08/13/travel/solar-eclipse-2027-morocco-egypt.html) | ⭐ 24 | 💬 24 | [HN Thread](https://news.ycombinator.com/item?id=49535634) |
+| **10** | [AMD Based FreeBSD Desktop Reloaded](https://vermaden.wordpress.com/2026/09/06/amd-based-freebsd-desktop-reloaded/) | ⭐ 47 | 💬 3 | [HN Thread](https://news.ycombinator.com/item?id=49582719) |
 
 ---
 
