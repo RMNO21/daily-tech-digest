@@ -12,21 +12,22 @@ An automated **Tech & AI News Digest** that aggregates top trending discussions 
 
 | # | Story | Points | Comments | Discussion |
 |:---:|:---|:---:|:---:|:---:|
-| **1** | [Intellectual Fly Is Open](https://bcantrill.dtrace.org/2025/12/05/your-intellectual-fly-is-open/) | ⭐ 120 | 💬 71 | [HN Thread](https://news.ycombinator.com/item?id=49585644) |
-| **2** | [Isar Aerospace reaches orbit and deploys payloads on second flight](https://isaraerospace.com/press/history-for-european-spaceflight-isar-aerospace-reaches-orbit-and-deploys-payloads-on-second-flight) | ⭐ 324 | 💬 87 | [HN Thread](https://news.ycombinator.com/item?id=49584083) |
-| **3** | [Doomscrolling Ourselves to Death](https://www.edwest.co.uk/p/doomscrolling-ourselves-to-death) | ⭐ 70 | 💬 40 | [HN Thread](https://news.ycombinator.com/item?id=49585627) |
-| **4** | [M-DISC – DVD/Blu-ray compatible discs that may last up to 1000 years](https://en.wikipedia.org/wiki/M-DISC) | ⭐ 70 | 💬 20 | [HN Thread](https://news.ycombinator.com/item?id=49531619) |
-| **5** | [Cloud in a Bottle: making self-hosting accessible to everyone](https://cloudinabottle.org/blog/launch-post) | ⭐ 489 | 💬 242 | [HN Thread](https://news.ycombinator.com/item?id=49582000) |
-| **6** | [The revolt of the reader](https://bcantrill.dtrace.org/2026/09/05/the-revolt-of-the-reader/) | ⭐ 441 | 💬 200 | [HN Thread](https://news.ycombinator.com/item?id=49580939) |
-| **7** | [I Changed My License](https://bergie.iki.fi/blog/eupl/) | ⭐ 98 | 💬 93 | [HN Thread](https://news.ycombinator.com/item?id=49585161) |
-| **8** | [The pencil case model of creativity](https://dub.uu.nl/en/column/pencil-case-model-creativity) | ⭐ 16 | 💬 0 | [HN Thread](https://news.ycombinator.com/item?id=49585703) |
-| **9** | [Music Theory for Programmers](https://runjs.app/blog/music-theory-for-programmers) | ⭐ 212 | 💬 114 | [HN Thread](https://news.ycombinator.com/item?id=49541888) |
-| **10** | [IBM Quantum Nighthawk R2](https://www.ibm.com/quantum/blog/nighthawk-r2) | ⭐ 38 | 💬 19 | [HN Thread](https://news.ycombinator.com/item?id=49546198) |
+| **1** | [Keep Our Servers Running](https://blog.archive.org/2026/09/01/keep-our-servers-running-your-recurring-donation-goes-3x-this-september/) | ⭐ 479 | 💬 100 | [HN Thread](https://news.ycombinator.com/item?id=49593563) |
+| **2** | [Live map of public transport in Belgium](https://openbaarvervoerbelgie.be/) | ⭐ 25 | 💬 10 | [HN Thread](https://news.ycombinator.com/item?id=49595865) |
+| **3** | [Caltech Mathathon – first hackathon ever devoted to research level mathematics](https://mathathonchallenge.com/index.html) | ⭐ 7 | 💬 0 | [HN Thread](https://news.ycombinator.com/item?id=49596055) |
+| **4** | [Programming is Art](https://orchidfiles.com/programming-is-art/) | ⭐ 58 | 💬 54 | [HN Thread](https://news.ycombinator.com/item?id=49595360) |
+| **5** | [LG smart TVs caught logging audio with screen off and snooping on local devices](https://www.notebookcheck.net/LG-smart-TVs-caught-logging-audio-with-screen-off-and-snooping-on-local-devices.1391214.0.html) | ⭐ 136 | 💬 64 | [HN Thread](https://news.ycombinator.com/item?id=49594878) |
+| **6** | [Making a Python interpreter in 1024 bytes](https://austinhenley.com/blog/python1024.html) | ⭐ 236 | 💬 84 | [HN Thread](https://news.ycombinator.com/item?id=49591876) |
+| **7** | [Speculative Decoding in vLLM on AMD GPUs](https://vllm.ai/blog/2026-08-23-speculative-decoding-amd-gpus) | ⭐ 6 | 💬 0 | [HN Thread](https://news.ycombinator.com/item?id=49596054) |
+| **8** | ['You Can See Everything' Review: Nathan Fielder's Doc About Elizabeth Holmes](https://variety.com/2026/film/reviews/nathan-fielder-surprise-film-telluride-elizabeth-holmes-1236853513/) | ⭐ 24 | 💬 5 | [HN Thread](https://news.ycombinator.com/item?id=49596119) |
+| **9** | [Ask HN: How do you manage skills files?](https://news.ycombinator.com/item?id=49589914) | ⭐ 141 | 💬 118 | [HN Thread](https://news.ycombinator.com/item?id=49589914) |
+| **10** | [It took a year to ship WebAssembly in Anubis](https://anubis.techaro.lol/blog/2026/anubis-wasm/) | ⭐ 277 | 💬 136 | [HN Thread](https://news.ycombinator.com/item?id=49590611) |
 
 ---
 
 ## 🗄️ News Archive
 
+- 📅 [2026-09-07](archive/2026-09-07.md)
 - 📅 [2026-09-06](archive/2026-09-06.md)
 - 📅 [2026-09-05](archive/2026-09-05.md)
 - 📅 [2026-09-04](archive/2026-09-04.md)
@@ -40,9 +41,8 @@ An automated **Tech & AI News Digest** that aggregates top trending discussions 
 - 📅 [2026-08-27](archive/2026-08-27.md)
 - 📅 [2026-08-26](archive/2026-08-26.md)
 - 📅 [2026-08-25](archive/2026-08-25.md)
-- 📅 [2026-08-24](archive/2026-08-24.md)
 
-*... and [10 older editions in the archive folder](archive/)*
+*... and [11 older editions in the archive folder](archive/)*
 
 ---
 
