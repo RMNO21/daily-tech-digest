@@ -12,16 +12,16 @@ An automated **Tech & AI News Digest** that aggregates top trending discussions 
 
 | # | Story | Points | Comments | Discussion |
 |:---:|:---|:---:|:---:|:---:|
-| **1** | [DaVinci Resolve 21.1](https://www.blackmagicdesign.com/media/release/20260908-03) | ⭐ 69 | 💬 18 | [HN Thread](https://news.ycombinator.com/item?id=49610181) |
-| **2** | [Show HN: Copperhead – Hardware as Fast as Software](https://copperhead.sh/) | ⭐ 53 | 💬 20 | [HN Thread](https://news.ycombinator.com/item?id=49610059) |
-| **3** | [LibreOffice breaks download records after declaring it has no AI features](https://manualdousuario.net/en/libreoffice-download-record-no-ai/) | ⭐ 90 | 💬 18 | [HN Thread](https://news.ycombinator.com/item?id=49610538) |
-| **4** | [Among European Companies That Use a CDN, Nearly 9 in 10 Use Cloudflare](https://ciphercue.com/blog/european-cdn-concentration-cloudflare-nine-in-ten) | ⭐ 305 | 💬 250 | [HN Thread](https://news.ycombinator.com/item?id=49607443) |
-| **5** | [Antiquated HTML Snippets and Artefacts](https://vale.rocks/posts/html-relics) | ⭐ 139 | 💬 47 | [HN Thread](https://news.ycombinator.com/item?id=49607991) |
-| **6** | [Extracting Steering Vectors from J space](https://darshanmakwana412.github.io/2026/09/extracting-steering-vectors-from-j-space/) | ⭐ 16 | 💬 5 | [HN Thread](https://news.ycombinator.com/item?id=49586667) |
-| **7** | [I've factored the RSA keys of a Certificate Authority from the 90s](https://mcpherrin.ca/2026/09/07/rsa.html) | ⭐ 423 | 💬 88 | [HN Thread](https://news.ycombinator.com/item?id=49604637) |
-| **8** | [There's a new "Google Jail" for independent wikis](https://weirdgloop.org/blog/google-jail) | ⭐ 344 | 💬 124 | [HN Thread](https://news.ycombinator.com/item?id=49604870) |
-| **9** | [Why getting your hands dirty is good for you](https://www.bbc.com/future/article/20260904-how-getting-your-hands-dirty-boosts-your-health-within-weeks) | ⭐ 128 | 💬 100 | [HN Thread](https://news.ycombinator.com/item?id=49608023) |
-| **10** | [Picolibrary: A Small Press](https://novalis.org/blog/2026-08-31-picolibrary-a-very-small-press.html) | ⭐ 25 | 💬 3 | [HN Thread](https://news.ycombinator.com/item?id=49574941) |
+| **1** | [Google DeepMind Releases AlphaGenome Atlas](https://blog.google/innovation-and-ai/models-and-research/google-deepmind/alphagenome-atlas/) | ⭐ 311 | 💬 76 | [HN Thread](https://news.ycombinator.com/item?id=49611251) |
+| **2** | [DaVinci Resolve 21.1](https://www.blackmagicdesign.com/media/release/20260908-03) | ⭐ 266 | 💬 111 | [HN Thread](https://news.ycombinator.com/item?id=49610181) |
+| **3** | [On the Navier–Stokes Millennium Prize Problem](https://openai.com/index/navier-stokes-solution/) | ⭐ 485 | 💬 335 | [HN Thread](https://news.ycombinator.com/item?id=49613262) |
+| **4** | [Benchmarking Qwen3.8 27B quantizations: 4-bit holds up, 1-bit collapses](https://quesma.com/blog/qwen38-27b-quantizations-benchmarked/) | ⭐ 113 | 💬 72 | [HN Thread](https://news.ycombinator.com/item?id=49611128) |
+| **5** | [OUI-1: world's first model for Generative UI](https://www.openui.com/blog/oui-1) | ⭐ 36 | 💬 30 | [HN Thread](https://news.ycombinator.com/item?id=49613182) |
+| **6** | [The Helicopter with Radioactive Blades](https://hackaday.com/2026/09/07/the-helicopter-with-radioactive-blades/) | ⭐ 86 | 💬 18 | [HN Thread](https://news.ycombinator.com/item?id=49600901) |
+| **7** | [Show HN: LLM Attention Visualization](https://ishamf.dev/p/llm-attention-visualizer/) | ⭐ 31 | 💬 5 | [HN Thread](https://news.ycombinator.com/item?id=49613068) |
+| **8** | [Connecting the Machines](https://herdr.dev/blog/connecting-the-machines/) | ⭐ 34 | 💬 13 | [HN Thread](https://news.ycombinator.com/item?id=49612818) |
+| **9** | [LG TVs caught spying even when offline or on standby](https://www.theverge.com/tech/991190/lg-tv-spying-standby-recording-wi-fi-scanning-gamers-nexus) | ⭐ 246 | 💬 124 | [HN Thread](https://news.ycombinator.com/item?id=49612329) |
+| **10** | [I-have-ADHD: A skill to stop coding agents from burying the answer](https://github.com/ayghri/i-have-adhd) | ⭐ 139 | 💬 107 | [HN Thread](https://news.ycombinator.com/item?id=49610631) |
 
 ---
 
