@@ -12,21 +12,22 @@ An automated **Tech & AI News Digest** that aggregates top trending discussions 
 
 | # | Story | Points | Comments | Discussion |
 |:---:|:---|:---:|:---:|:---:|
-| **1** | [De-Brainrot Vacations](https://devz.cl/posts/i-spent-my-vacations-de-brainrotting/) | ⭐ 312 | 💬 134 | [HN Thread](https://news.ycombinator.com/item?id=49597907) |
-| **2** | [bzip3](https://github.com/iczelia/bzip3) | ⭐ 144 | 💬 45 | [HN Thread](https://news.ycombinator.com/item?id=49598291) |
-| **3** | [Keep Our Servers Running](https://blog.archive.org/2026/09/01/keep-our-servers-running-your-recurring-donation-goes-3x-this-september/) | ⭐ 769 | 💬 195 | [HN Thread](https://news.ycombinator.com/item?id=49593563) |
-| **4** | [Caltech Mathathon – first hackathon ever devoted to research level mathematics](https://mathathonchallenge.com/index.html) | ⭐ 133 | 💬 29 | [HN Thread](https://news.ycombinator.com/item?id=49596055) |
-| **5** | [Simple Is Not Small](https://jyn.dev/simple-is-not-the-same-as-small/) | ⭐ 54 | 💬 16 | [HN Thread](https://news.ycombinator.com/item?id=49558685) |
-| **6** | [Live map of public transport in Belgium](https://openbaarvervoerbelgie.be/) | ⭐ 133 | 💬 57 | [HN Thread](https://news.ycombinator.com/item?id=49595865) |
-| **7** | [LG smart TVs caught logging audio with screen off and snooping on local devices](https://www.notebookcheck.net/LG-smart-TVs-caught-logging-audio-with-screen-off-and-snooping-on-local-devices.1391214.0.html) | ⭐ 793 | 💬 394 | [HN Thread](https://news.ycombinator.com/item?id=49594878) |
-| **8** | [Speculative Decoding in vLLM on AMD GPUs](https://vllm.ai/blog/2026-08-23-speculative-decoding-amd-gpus) | ⭐ 88 | 💬 31 | [HN Thread](https://news.ycombinator.com/item?id=49596054) |
-| **9** | [Splash-free urinals (2025)](https://academic.oup.com/pnasnexus/article/4/4/pgaf087/8098745?login=false) | ⭐ 151 | 💬 84 | [HN Thread](https://news.ycombinator.com/item?id=49597895) |
-| **10** | [Smartphone makers don't bother to comply with EU repairability requirements](https://www.theregister.com/personal-tech/2026/09/07/smartphone-makers-dont-bother-to-comply-with-eu-repairability-requirements/5294532) | ⭐ 182 | 💬 102 | [HN Thread](https://news.ycombinator.com/item?id=49597189) |
+| **1** | [I've factored the RSA keys of a Certificate Authority from the 90s](https://mcpherrin.ca/2026/09/07/rsa.html) | ⭐ 180 | 💬 33 | [HN Thread](https://news.ycombinator.com/item?id=49604637) |
+| **2** | [TALA Is Open-Source](https://d2lang.com/blog/tala-is-open-source/) | ⭐ 136 | 💬 10 | [HN Thread](https://news.ycombinator.com/item?id=49604150) |
+| **3** | [Arm Mali G2-Ultra NX GPU: desktop-class mobile gameplay with AI-native graphics](https://newsroom.arm.com/blog/arm-mali-g2-ultra-nx-ai-native-mobile-graphics) | ⭐ 7 | 💬 0 | [HN Thread](https://news.ycombinator.com/item?id=49605511) |
+| **4** | [How well do agents use test/verification techniques?](https://danluu.com/agentic-testing/) | ⭐ 15 | 💬 0 | [HN Thread](https://news.ycombinator.com/item?id=49605246) |
+| **5** | [Jellyfin 12.0](https://jellyfin.org/posts/jellyfin-release-12.0/) | ⭐ 179 | 💬 72 | [HN Thread](https://news.ycombinator.com/item?id=49604861) |
+| **6** | [Watch Los Angeles get built, one building at a time (1880–2026)](https://lax-skyline.parcelscope.net/) | ⭐ 252 | 💬 131 | [HN Thread](https://news.ycombinator.com/item?id=49601655) |
+| **7** | [John Margolies' photographs of roadside America](https://publicdomainreview.org/collection/john-margolies-photographs-of-roadside-america/) | ⭐ 53 | 💬 14 | [HN Thread](https://news.ycombinator.com/item?id=49560682) |
+| **8** | [Leaving VMware just got harder after Broadcom pulled VDDK downloads](https://www.virtualizationhowto.com/2026/09/leaving-vmware-just-got-harder-after-broadcom-pulled-vddk-downloads/) | ⭐ 141 | 💬 59 | [HN Thread](https://news.ycombinator.com/item?id=49602699) |
+| **9** | [WeatherNext 3](https://deepmind.google/science/weathernext/) | ⭐ 278 | 💬 65 | [HN Thread](https://news.ycombinator.com/item?id=49552299) |
+| **10** | [Scientists observe Einstein's gravity in the quantum world](https://www.ox.ac.uk/news/2026-08-28-scientists-observe-einsteins-gravity-in-the-quantum-world) | ⭐ 181 | 💬 44 | [HN Thread](https://news.ycombinator.com/item?id=49569838) |
 
 ---
 
 ## 🗄️ News Archive
 
+- 📅 [2026-09-08](archive/2026-09-08.md)
 - 📅 [2026-09-07](archive/2026-09-07.md)
 - 📅 [2026-09-06](archive/2026-09-06.md)
 - 📅 [2026-09-05](archive/2026-09-05.md)
@@ -40,9 +41,8 @@ An automated **Tech & AI News Digest** that aggregates top trending discussions 
 - 📅 [2026-08-28](archive/2026-08-28.md)
 - 📅 [2026-08-27](archive/2026-08-27.md)
 - 📅 [2026-08-26](archive/2026-08-26.md)
-- 📅 [2026-08-25](archive/2026-08-25.md)
 
-*... and [11 older editions in the archive folder](archive/)*
+*... and [12 older editions in the archive folder](archive/)*
 
 ---
 
