@@ -12,16 +12,16 @@ An automated **Tech & AI News Digest** that aggregates top trending discussions 
 
 | # | Story | Points | Comments | Discussion |
 |:---:|:---|:---:|:---:|:---:|
-| **1** | [Among European Companies That Use a CDN, Nearly 9 in 10 Use Cloudflare](https://ciphercue.com/blog/european-cdn-concentration-cloudflare-nine-in-ten) | ⭐ 48 | 💬 50 | [HN Thread](https://news.ycombinator.com/item?id=49607443) |
-| **2** | [I've factored the RSA keys of a Certificate Authority from the 90s](https://mcpherrin.ca/2026/09/07/rsa.html) | ⭐ 328 | 💬 56 | [HN Thread](https://news.ycombinator.com/item?id=49604637) |
-| **3** | [We built our house for LAN parties](https://lanparty.house/) | ⭐ 75 | 💬 29 | [HN Thread](https://news.ycombinator.com/item?id=49579443) |
-| **4** | [Mistral raises €3B](https://mistral.ai/news/mistral-makes-sovereign-open-weight-ai-to-frontier/) | ⭐ 442 | 💬 307 | [HN Thread](https://news.ycombinator.com/item?id=49605767) |
-| **5** | [There's a new "Google Jail" for independent wikis](https://weirdgloop.org/blog/google-jail) | ⭐ 137 | 💬 47 | [HN Thread](https://news.ycombinator.com/item?id=49604870) |
-| **6** | [Multi-Agents LLM Financial Trading Framework](https://github.com/TauricResearch/TradingAgents) | ⭐ 47 | 💬 32 | [HN Thread](https://news.ycombinator.com/item?id=49605822) |
-| **7** | [TALA Is Open-Source](https://d2lang.com/blog/tala-is-open-source/) | ⭐ 222 | 💬 15 | [HN Thread](https://news.ycombinator.com/item?id=49604150) |
-| **8** | [How well do agents use test/verification techniques?](https://danluu.com/agentic-testing/) | ⭐ 84 | 💬 25 | [HN Thread](https://news.ycombinator.com/item?id=49605246) |
-| **9** | [Arm Mali G2-Ultra NX GPU: desktop-class mobile gameplay with AI-native graphics](https://newsroom.arm.com/blog/arm-mali-g2-ultra-nx-ai-native-mobile-graphics) | ⭐ 41 | 💬 23 | [HN Thread](https://news.ycombinator.com/item?id=49605511) |
-| **10** | [We have a year to fix security everywhere](https://jyn.dev/a-year-to-fix-security/) | ⭐ 225 | 💬 190 | [HN Thread](https://news.ycombinator.com/item?id=49605691) |
+| **1** | [DaVinci Resolve 21.1](https://www.blackmagicdesign.com/media/release/20260908-03) | ⭐ 69 | 💬 18 | [HN Thread](https://news.ycombinator.com/item?id=49610181) |
+| **2** | [Show HN: Copperhead – Hardware as Fast as Software](https://copperhead.sh/) | ⭐ 53 | 💬 20 | [HN Thread](https://news.ycombinator.com/item?id=49610059) |
+| **3** | [LibreOffice breaks download records after declaring it has no AI features](https://manualdousuario.net/en/libreoffice-download-record-no-ai/) | ⭐ 90 | 💬 18 | [HN Thread](https://news.ycombinator.com/item?id=49610538) |
+| **4** | [Among European Companies That Use a CDN, Nearly 9 in 10 Use Cloudflare](https://ciphercue.com/blog/european-cdn-concentration-cloudflare-nine-in-ten) | ⭐ 305 | 💬 250 | [HN Thread](https://news.ycombinator.com/item?id=49607443) |
+| **5** | [Antiquated HTML Snippets and Artefacts](https://vale.rocks/posts/html-relics) | ⭐ 139 | 💬 47 | [HN Thread](https://news.ycombinator.com/item?id=49607991) |
+| **6** | [Extracting Steering Vectors from J space](https://darshanmakwana412.github.io/2026/09/extracting-steering-vectors-from-j-space/) | ⭐ 16 | 💬 5 | [HN Thread](https://news.ycombinator.com/item?id=49586667) |
+| **7** | [I've factored the RSA keys of a Certificate Authority from the 90s](https://mcpherrin.ca/2026/09/07/rsa.html) | ⭐ 423 | 💬 88 | [HN Thread](https://news.ycombinator.com/item?id=49604637) |
+| **8** | [There's a new "Google Jail" for independent wikis](https://weirdgloop.org/blog/google-jail) | ⭐ 344 | 💬 124 | [HN Thread](https://news.ycombinator.com/item?id=49604870) |
+| **9** | [Why getting your hands dirty is good for you](https://www.bbc.com/future/article/20260904-how-getting-your-hands-dirty-boosts-your-health-within-weeks) | ⭐ 128 | 💬 100 | [HN Thread](https://news.ycombinator.com/item?id=49608023) |
+| **10** | [Picolibrary: A Small Press](https://novalis.org/blog/2026-08-31-picolibrary-a-very-small-press.html) | ⭐ 25 | 💬 3 | [HN Thread](https://news.ycombinator.com/item?id=49574941) |
 
 ---
 
