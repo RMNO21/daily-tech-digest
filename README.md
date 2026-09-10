@@ -12,21 +12,22 @@ An automated **Tech & AI News Digest** that aggregates top trending discussions 
 
 | # | Story | Points | Comments | Discussion |
 |:---:|:---|:---:|:---:|:---:|
-| **1** | [iPhone Duo](https://www.apple.com/iphone-duo/) | ⭐ 325 | 💬 777 | [HN Thread](https://news.ycombinator.com/item?id=49630931) |
-| **2** | [AirPods 5](https://www.apple.com/newsroom/2026/09/apple-introduces-airpods-5-with-best-in-class-open-ear-active-noise-cancellation/) | ⭐ 177 | 💬 138 | [HN Thread](https://news.ycombinator.com/item?id=49630253) |
-| **3** | [Tailwind Labs is joining Shopify](https://tailwindcss.com/blog/tailwind-is-joining-shopify) | ⭐ 675 | 💬 285 | [HN Thread](https://news.ycombinator.com/item?id=49626190) |
-| **4** | [What do Visa and Mastercard do? An intro to card networks](https://tautology.town/2026/06/01/card-networks.html) | ⭐ 153 | 💬 76 | [HN Thread](https://news.ycombinator.com/item?id=49614280) |
-| **5** | [Apple Watch Series 12](https://www.apple.com/newsroom/2026/09/introducing-apple-watch-series-12-with-the-all-new-health-sensing-system/) | ⭐ 108 | 💬 94 | [HN Thread](https://news.ycombinator.com/item?id=49630566) |
-| **6** | [iPhone 18 Pro and iPhone 18 Pro Max](https://www.apple.com/newsroom/2026/09/apple-debuts-iphone-18-pro-and-iphone-18-pro-max/) | ⭐ 99 | 💬 73 | [HN Thread](https://news.ycombinator.com/item?id=49630151) |
-| **7** | [Qwen 3.8 follows GPT-5.5 Pro reasoning prefills](https://gist.github.com/wsxiaoys/e0286dc6bb624ff5fdf49e7f4c528ba3) | ⭐ 86 | 💬 30 | [HN Thread](https://news.ycombinator.com/item?id=49630026) |
-| **8** | [GPT-6 Astra, looped transformers, and hidden reasoning](https://magazine.sebastianraschka.com/p/gpt-6-astra-looped-transformers-and) | ⭐ 234 | 💬 91 | [HN Thread](https://news.ycombinator.com/item?id=49627370) |
-| **9** | [GNU Radio in the browser](https://gnuradioworld.com/) | ⭐ 123 | 💬 16 | [HN Thread](https://news.ycombinator.com/item?id=49628576) |
-| **10** | [Understanding the recent DDoS attack against Read the Docs](https://about.readthedocs.com/blog/2026/09/2026-ddos-attack/) | ⭐ 95 | 💬 30 | [HN Thread](https://news.ycombinator.com/item?id=49628614) |
+| **1** | [iPhone Duo](https://www.apple.com/iphone-duo/) | ⭐ 1079 | 💬 1914 | [HN Thread](https://news.ycombinator.com/item?id=49630931) |
+| **2** | [Show HN: What if the speed of light was 5 km/h?](https://rivendell.dmitrybrant.com/relativity/) | ⭐ 168 | 💬 75 | [HN Thread](https://news.ycombinator.com/item?id=49637385) |
+| **3** | [Version Control Second Coming](https://psantosl.github.io/posts/version-control-second-coming/) | ⭐ 34 | 💬 2 | [HN Thread](https://news.ycombinator.com/item?id=49603265) |
+| **4** | [ESP32 Bit Pirate Hardware Hacking Kit with Web Tools That Speaks Every Protocol](https://geo-tp.github.io/ESP32-Bit-Pirate/) | ⭐ 52 | 💬 4 | [HN Thread](https://news.ycombinator.com/item?id=49587465) |
+| **5** | [Shopify acquires Tailwind](https://tailwindcss.com/blog/tailwind-is-joining-shopify) | ⭐ 974 | 💬 382 | [HN Thread](https://news.ycombinator.com/item?id=49626190) |
+| **6** | [All grown-ups were once children… but only few of them remember it](https://mathstodon.xyz/@tao/117244102901892965) | ⭐ 16 | 💬 0 | [HN Thread](https://news.ycombinator.com/item?id=49638280) |
+| **7** | [What do Visa and Mastercard do? An intro to card networks](https://tautology.town/2026/06/01/card-networks.html) | ⭐ 465 | 💬 255 | [HN Thread](https://news.ycombinator.com/item?id=49614280) |
+| **8** | [Growing proof that autonomous cars save lives](https://spectrum.ieee.org/are-self-driving-cars-safe) | ⭐ 305 | 💬 500 | [HN Thread](https://news.ycombinator.com/item?id=49629886) |
+| **9** | [Training a 3.8B LLM to 0.384 CORE for $998 – Hugo Vergnes](https://hugovergnes.github.io/little-lm-3-8b/) | ⭐ 39 | 💬 6 | [HN Thread](https://news.ycombinator.com/item?id=49637435) |
+| **10** | [AirPods 5](https://www.apple.com/newsroom/2026/09/apple-introduces-airpods-5-with-best-in-class-open-ear-active-noise-cancellation/) | ⭐ 426 | 💬 334 | [HN Thread](https://news.ycombinator.com/item?id=49630253) |
 
 ---
 
 ## 🗄️ News Archive
 
+- 📅 [2026-09-10](archive/2026-09-10.md)
 - 📅 [2026-09-09](archive/2026-09-09.md)
 - 📅 [2026-09-08](archive/2026-09-08.md)
 - 📅 [2026-09-07](archive/2026-09-07.md)
@@ -40,9 +41,8 @@ An automated **Tech & AI News Digest** that aggregates top trending discussions 
 - 📅 [2026-08-30](archive/2026-08-30.md)
 - 📅 [2026-08-29](archive/2026-08-29.md)
 - 📅 [2026-08-28](archive/2026-08-28.md)
-- 📅 [2026-08-27](archive/2026-08-27.md)
 
-*... and [13 older editions in the archive folder](archive/)*
+*... and [14 older editions in the archive folder](archive/)*
 
 ---
 
