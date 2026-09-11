@@ -12,21 +12,22 @@ An automated **Tech & AI News Digest** that aggregates top trending discussions 
 
 | # | Story | Points | Comments | Discussion |
 |:---:|:---|:---:|:---:|:---:|
-| **1** | [More questions about whether researchers can trust OpenAI with unpublished math](https://mathstodon.xyz/@andreasthom/117240535270608201) | ⭐ 522 | 💬 534 | [HN Thread](https://news.ycombinator.com/item?id=49639408) |
-| **2** | [NTSB Issues Investigative Update on B-767 Runway Excursion Accident in Miami](https://www.ntsb.gov:443/news/press-releases/Pages/NR20260909.aspx) | ⭐ 29 | 💬 20 | [HN Thread](https://news.ycombinator.com/item?id=49650418) |
-| **3** | [Cognition launches new SWE-2 model, Rivaling Fable 5.1 and GPT-Astra](https://cognition.com/blog/swe-2) | ⭐ 326 | 💬 133 | [HN Thread](https://news.ycombinator.com/item?id=49645443) |
-| **4** | [NASA Color Trick Was Meant for Mars. Now It's Unveiling Rock Art on Earth](https://gizmodo.com/this-nasa-color-trick-was-meant-for-mars-now-its-unveiling-rock-art-on-earth-2000809844) | ⭐ 233 | 💬 36 | [HN Thread](https://news.ycombinator.com/item?id=49645437) |
-| **5** | [Don't let anyone take away your big box of cables](https://blog.jim-nielsen.com/2026/hands-off-my-cables/) | ⭐ 227 | 💬 177 | [HN Thread](https://news.ycombinator.com/item?id=49645393) |
-| **6** | [OpenAI Agents API](https://developers.openai.com/api/docs/guides/agents-api/overview) | ⭐ 49 | 💬 44 | [HN Thread](https://news.ycombinator.com/item?id=49649213) |
-| **7** | [The part of Navier-Stokes no one is talking about](https://www.johndcook.com/blog/2026/09/09/formal-method-revolution/) | ⭐ 95 | 💬 75 | [HN Thread](https://news.ycombinator.com/item?id=49650326) |
-| **8** | [Music Theory for the 21st-Century Classroom](https://musictheory.pugetsound.edu/mt21c/MusicTheory.html) | ⭐ 122 | 💬 60 | [HN Thread](https://news.ycombinator.com/item?id=49647134) |
-| **9** | [Forgejo <=16.0.3 Critical RCE](https://codeberg.org/forgejo/forgejo/src/branch/forgejo/release-notes-published/16.0.4.md) | ⭐ 127 | 💬 48 | [HN Thread](https://news.ycombinator.com/item?id=49645907) |
-| **10** | [Proof of Capture: Apple Reference Image, but open source and using steganography](https://merybenavente.me/blog/proof-of-capture) | ⭐ 33 | 💬 28 | [HN Thread](https://news.ycombinator.com/item?id=49649222) |
+| **1** | [Global Glacier Extinction Explorer](https://glacierextinction.com) | ⭐ 21 | 💬 3 | [HN Thread](https://news.ycombinator.com/item?id=49660576) |
+| **2** | [Godot and Rust based multiplexer (terminal panes and more)](https://github.com/godot-pty/gpty) | ⭐ 11 | 💬 4 | [HN Thread](https://news.ycombinator.com/item?id=49660676) |
+| **3** | [Logo Programming Language](https://el.media.mit.edu/logo-foundation/what_is_logo/logo_programming.html) | ⭐ 100 | 💬 51 | [HN Thread](https://news.ycombinator.com/item?id=49622406) |
+| **4** | [I've operated petabyte-scale ClickHouse clusters for 5 years](https://www.tinybird.co/blog/what-i-learned-operating-clickhouse) | ⭐ 48 | 💬 15 | [HN Thread](https://news.ycombinator.com/item?id=49601138) |
+| **5** | [Copying login keychains between Macs fails on Secure Enclave Macs with Tahoe](https://derflounder.wordpress.com/2026/09/08/manually-copying-login-keychain-files-from-one-mac-to-another-no-longer-works-on-secure-enclave-equipped-macs-running-macos-tahoe/) | ⭐ 22 | 💬 6 | [HN Thread](https://news.ycombinator.com/item?id=49651046) |
+| **6** | [So you want to use OpenRouter?](https://mmoustafa.com/blog/so-you-want-to-use-openrouter/) | ⭐ 484 | 💬 125 | [HN Thread](https://news.ycombinator.com/item?id=49621546) |
+| **7** | [Matt Mullenweg tells Automattic staff in Slack he's back in control after ouster](https://techcrunch.com/2026/09/11/matt-mullenweg-tells-automattic-staff-in-slack-hes-back-in-control-after-ceo-ouster/) | ⭐ 62 | 💬 30 | [HN Thread](https://news.ycombinator.com/item?id=49660104) |
+| **8** | [HuggingFace: Security.txt](https://huggingface.co/security.txt) | ⭐ 112 | 💬 17 | [HN Thread](https://news.ycombinator.com/item?id=49659245) |
+| **9** | [The AI Takeover Checklist: A Devil's Advocate Audit](https://nochan.net/b/Internet-Crap/20260910-Asked-Claude-For-A-Checklist/) | ⭐ 3 | 💬 2 | [HN Thread](https://news.ycombinator.com/item?id=49660923) |
+| **10** | [RTK reports token savings, but our cost benchmarks disagree](https://quesma.com/blog/does-rtk-make-ai-coding-cheaper/) | ⭐ 97 | 💬 54 | [HN Thread](https://news.ycombinator.com/item?id=49656471) |
 
 ---
 
 ## 🗄️ News Archive
 
+- 📅 [2026-09-11](archive/2026-09-11.md)
 - 📅 [2026-09-10](archive/2026-09-10.md)
 - 📅 [2026-09-09](archive/2026-09-09.md)
 - 📅 [2026-09-08](archive/2026-09-08.md)
@@ -40,9 +41,8 @@ An automated **Tech & AI News Digest** that aggregates top trending discussions 
 - 📅 [2026-08-31](archive/2026-08-31.md)
 - 📅 [2026-08-30](archive/2026-08-30.md)
 - 📅 [2026-08-29](archive/2026-08-29.md)
-- 📅 [2026-08-28](archive/2026-08-28.md)
 
-*... and [14 older editions in the archive folder](archive/)*
+*... and [15 older editions in the archive folder](archive/)*
 
 ---
 
