@@ -12,16 +12,16 @@ An automated **Tech & AI News Digest** that aggregates top trending discussions 
 
 | # | Story | Points | Comments | Discussion |
 |:---:|:---|:---:|:---:|:---:|
-| **1** | [Retrospectively Reverse-Engineering Apple's Neural Engine](https://eiln.github.io/posts/ane.html) | ⭐ 93 | 💬 11 | [HN Thread](https://news.ycombinator.com/item?id=49670032) |
-| **2** | [IKEA made a mod for Skyrim [video]](https://www.youtube.com/watch?v=iZODN0QUgjI) | ⭐ 153 | 💬 26 | [HN Thread](https://news.ycombinator.com/item?id=49639647) |
-| **3** | [A misalignment of AI in mathematics](https://mathandai.org/) | ⭐ 948 | 💬 909 | [HN Thread](https://news.ycombinator.com/item?id=49662371) |
-| **4** | [I spent $220 on Google app ads and 60% of the installs were robots](https://dayzlegame.com/blog/google-ads-bot-farm/) | ⭐ 557 | 💬 294 | [HN Thread](https://news.ycombinator.com/item?id=49662990) |
-| **5** | [Navier-Stokes Announcement](https://www.claymath.org/news/navier-stokes-announcement/) | ⭐ 179 | 💬 118 | [HN Thread](https://news.ycombinator.com/item?id=49668706) |
-| **6** | [A Design Space Exploration of Async/Await](https://cel.cs.brown.edu/blog/design-space-async-await/) | ⭐ 297 | 💬 79 | [HN Thread](https://news.ycombinator.com/item?id=49626718) |
-| **7** | [Great Lakes sturgeon may be 400 years old:Scientists rethinking how to save them](https://www.cbc.ca/news/canada/ontario-great-lakes-sturgeon-lifespan-study-9.7329250) | ⭐ 72 | 💬 7 | [HN Thread](https://news.ycombinator.com/item?id=49624456) |
-| **8** | [google.com/goto: Google's anti-scraping update](https://www.autom.dev/blog/google-search-goto-links) | ⭐ 449 | 💬 351 | [HN Thread](https://news.ycombinator.com/item?id=49668386) |
-| **9** | [Usenet rewind archive search engine](https://www.usenet-rewind.com/) | ⭐ 66 | 💬 14 | [HN Thread](https://news.ycombinator.com/item?id=49668777) |
-| **10** | [Inverse Kinematics and Foot Locking](https://theorangeduck.com/page/inverse-kinematics-foot-locking) | ⭐ 50 | 💬 6 | [HN Thread](https://news.ycombinator.com/item?id=49595505) |
+| **1** | [Nvidia is the central bank of AI](https://www.economist.com/interactive/briefing/2026/09/03/nvidia-is-the-central-bank-of-ai) | ⭐ 132 | 💬 102 | [HN Thread](https://news.ycombinator.com/item?id=49673098) |
+| **2** | [Make Your First Edit to OpenStreetMap in the Next 15 Minutes](https://high5apps.github.io/josm-plugin-website-wizard/) | ⭐ 22 | 💬 11 | [HN Thread](https://news.ycombinator.com/item?id=49674050) |
+| **3** | [A Mathematical Framework for Transformer Circuits (2021)](https://transformer-circuits.pub/2021/framework/index.html) | ⭐ 47 | 💬 4 | [HN Thread](https://news.ycombinator.com/item?id=49672365) |
+| **4** | [IKEA made a mod for Skyrim [video]](https://www.youtube.com/watch?v=iZODN0QUgjI) | ⭐ 436 | 💬 105 | [HN Thread](https://news.ycombinator.com/item?id=49639647) |
+| **5** | [Microcode in Intel's 8087 floating-point chip: the scale instruction](https://www.righto.com/2026/09/8087-microcode-reverse-engineering-fscale.html) | ⭐ 17 | 💬 2 | [HN Thread](https://news.ycombinator.com/item?id=49673580) |
+| **6** | [Retrospectively Reverse-Engineering Apple's Neural Engine](https://eiln.github.io/posts/ane.html) | ⭐ 184 | 💬 20 | [HN Thread](https://news.ycombinator.com/item?id=49670032) |
+| **7** | [A misalignment of AI in mathematics](https://mathandai.org/) | ⭐ 1133 | 💬 1063 | [HN Thread](https://news.ycombinator.com/item?id=49662371) |
+| **8** | [I refuse to let SPICE die](https://github.com/nefarius/vd_agent/) | ⭐ 21 | 💬 7 | [HN Thread](https://news.ycombinator.com/item?id=49672641) |
+| **9** | [I spent $220 on Google app ads and 60% of the installs were robots](https://dayzlegame.com/blog/google-ads-bot-farm/) | ⭐ 693 | 💬 374 | [HN Thread](https://news.ycombinator.com/item?id=49662990) |
+| **10** | [Fuck it, make it anyway](https://www.joelotter.com/posts/2026/09/make-it-anyway/) | ⭐ 432 | 💬 392 | [HN Thread](https://news.ycombinator.com/item?id=49671329) |
 
 ---
 
