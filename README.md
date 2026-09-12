@@ -12,21 +12,22 @@ An automated **Tech & AI News Digest** that aggregates top trending discussions 
 
 | # | Story | Points | Comments | Discussion |
 |:---:|:---|:---:|:---:|:---:|
-| **1** | [A misalignment of AI in mathematics](https://mathandai.org/) | ⭐ 151 | 💬 236 | [HN Thread](https://news.ycombinator.com/item?id=49662371) |
-| **2** | [Λ Snap – An inviting programming language for kids and adults for CS study](https://snap.berkeley.edu/) | ⭐ 51 | 💬 27 | [HN Thread](https://news.ycombinator.com/item?id=49662214) |
-| **3** | [Claude is only available to people over 18 years](https://support.claude.com/en/articles/15171100-age-assurance-on-claude) | ⭐ 445 | 💬 498 | [HN Thread](https://news.ycombinator.com/item?id=49656225) |
-| **4** | [The EPA Is Planning to Scrap Public Review Rules for Data Center Pollution](https://capitalbnews.org/data-centers-permit-rules-epa/) | ⭐ 131 | 💬 83 | [HN Thread](https://news.ycombinator.com/item?id=49662672) |
-| **5** | [I've operated petabyte-scale ClickHouse clusters for 5 years](https://www.tinybird.co/blog/what-i-learned-operating-clickhouse) | ⭐ 123 | 💬 45 | [HN Thread](https://news.ycombinator.com/item?id=49601138) |
-| **6** | [Show HN: Hacker News, Without AI](https://www.unslop.news/) | ⭐ 119 | 💬 53 | [HN Thread](https://news.ycombinator.com/item?id=49660783) |
-| **7** | [118M Queries per Second on Neki](https://planetscale.com/blog/118-million-queries-per-second-on-neki) | ⭐ 64 | 💬 31 | [HN Thread](https://news.ycombinator.com/item?id=49660555) |
-| **8** | [Rune is now open source](https://rune.build/blog/rune-is-now-open-source) | ⭐ 70 | 💬 19 | [HN Thread](https://news.ycombinator.com/item?id=49660149) |
-| **9** | [GrapheneOS' rewritten Messages app is released](https://github.com/GrapheneOS/Messaging/releases/tag/13) | ⭐ 15 | 💬 2 | [HN Thread](https://news.ycombinator.com/item?id=49663373) |
-| **10** | [Show HN: Godot and Rust based multiplexer (terminal panes and more)](https://github.com/godot-pty/gpty) | ⭐ 61 | 💬 34 | [HN Thread](https://news.ycombinator.com/item?id=49660676) |
+| **1** | [Retrospectively Reverse-Engineering Apple's Neural Engine](https://eiln.github.io/posts/ane.html) | ⭐ 93 | 💬 11 | [HN Thread](https://news.ycombinator.com/item?id=49670032) |
+| **2** | [IKEA made a mod for Skyrim [video]](https://www.youtube.com/watch?v=iZODN0QUgjI) | ⭐ 153 | 💬 26 | [HN Thread](https://news.ycombinator.com/item?id=49639647) |
+| **3** | [A misalignment of AI in mathematics](https://mathandai.org/) | ⭐ 948 | 💬 909 | [HN Thread](https://news.ycombinator.com/item?id=49662371) |
+| **4** | [I spent $220 on Google app ads and 60% of the installs were robots](https://dayzlegame.com/blog/google-ads-bot-farm/) | ⭐ 557 | 💬 294 | [HN Thread](https://news.ycombinator.com/item?id=49662990) |
+| **5** | [Navier-Stokes Announcement](https://www.claymath.org/news/navier-stokes-announcement/) | ⭐ 179 | 💬 118 | [HN Thread](https://news.ycombinator.com/item?id=49668706) |
+| **6** | [A Design Space Exploration of Async/Await](https://cel.cs.brown.edu/blog/design-space-async-await/) | ⭐ 297 | 💬 79 | [HN Thread](https://news.ycombinator.com/item?id=49626718) |
+| **7** | [Great Lakes sturgeon may be 400 years old:Scientists rethinking how to save them](https://www.cbc.ca/news/canada/ontario-great-lakes-sturgeon-lifespan-study-9.7329250) | ⭐ 72 | 💬 7 | [HN Thread](https://news.ycombinator.com/item?id=49624456) |
+| **8** | [google.com/goto: Google's anti-scraping update](https://www.autom.dev/blog/google-search-goto-links) | ⭐ 449 | 💬 351 | [HN Thread](https://news.ycombinator.com/item?id=49668386) |
+| **9** | [Usenet rewind archive search engine](https://www.usenet-rewind.com/) | ⭐ 66 | 💬 14 | [HN Thread](https://news.ycombinator.com/item?id=49668777) |
+| **10** | [Inverse Kinematics and Foot Locking](https://theorangeduck.com/page/inverse-kinematics-foot-locking) | ⭐ 50 | 💬 6 | [HN Thread](https://news.ycombinator.com/item?id=49595505) |
 
 ---
 
 ## 🗄️ News Archive
 
+- 📅 [2026-09-12](archive/2026-09-12.md)
 - 📅 [2026-09-11](archive/2026-09-11.md)
 - 📅 [2026-09-10](archive/2026-09-10.md)
 - 📅 [2026-09-09](archive/2026-09-09.md)
@@ -40,9 +41,8 @@ An automated **Tech & AI News Digest** that aggregates top trending discussions 
 - 📅 [2026-09-01](archive/2026-09-01.md)
 - 📅 [2026-08-31](archive/2026-08-31.md)
 - 📅 [2026-08-30](archive/2026-08-30.md)
-- 📅 [2026-08-29](archive/2026-08-29.md)
 
-*... and [15 older editions in the archive folder](archive/)*
+*... and [16 older editions in the archive folder](archive/)*
 
 ---
 
