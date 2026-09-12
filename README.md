@@ -12,16 +12,16 @@ An automated **Tech & AI News Digest** that aggregates top trending discussions 
 
 | # | Story | Points | Comments | Discussion |
 |:---:|:---|:---:|:---:|:---:|
-| **1** | [Nvidia is the central bank of AI](https://www.economist.com/interactive/briefing/2026/09/03/nvidia-is-the-central-bank-of-ai) | ⭐ 132 | 💬 102 | [HN Thread](https://news.ycombinator.com/item?id=49673098) |
-| **2** | [Make Your First Edit to OpenStreetMap in the Next 15 Minutes](https://high5apps.github.io/josm-plugin-website-wizard/) | ⭐ 22 | 💬 11 | [HN Thread](https://news.ycombinator.com/item?id=49674050) |
-| **3** | [A Mathematical Framework for Transformer Circuits (2021)](https://transformer-circuits.pub/2021/framework/index.html) | ⭐ 47 | 💬 4 | [HN Thread](https://news.ycombinator.com/item?id=49672365) |
-| **4** | [IKEA made a mod for Skyrim [video]](https://www.youtube.com/watch?v=iZODN0QUgjI) | ⭐ 436 | 💬 105 | [HN Thread](https://news.ycombinator.com/item?id=49639647) |
-| **5** | [Microcode in Intel's 8087 floating-point chip: the scale instruction](https://www.righto.com/2026/09/8087-microcode-reverse-engineering-fscale.html) | ⭐ 17 | 💬 2 | [HN Thread](https://news.ycombinator.com/item?id=49673580) |
-| **6** | [Retrospectively Reverse-Engineering Apple's Neural Engine](https://eiln.github.io/posts/ane.html) | ⭐ 184 | 💬 20 | [HN Thread](https://news.ycombinator.com/item?id=49670032) |
-| **7** | [A misalignment of AI in mathematics](https://mathandai.org/) | ⭐ 1133 | 💬 1063 | [HN Thread](https://news.ycombinator.com/item?id=49662371) |
-| **8** | [I refuse to let SPICE die](https://github.com/nefarius/vd_agent/) | ⭐ 21 | 💬 7 | [HN Thread](https://news.ycombinator.com/item?id=49672641) |
-| **9** | [I spent $220 on Google app ads and 60% of the installs were robots](https://dayzlegame.com/blog/google-ads-bot-farm/) | ⭐ 693 | 💬 374 | [HN Thread](https://news.ycombinator.com/item?id=49662990) |
-| **10** | [Fuck it, make it anyway](https://www.joelotter.com/posts/2026/09/make-it-anyway/) | ⭐ 432 | 💬 392 | [HN Thread](https://news.ycombinator.com/item?id=49671329) |
+| **1** | [LG denies TV spying claims, says tracking and snooping concerns 'not true'](https://www.tomshardware.com/tech-industry/big-tech/lg-strongly-denies-tv-security-claims-says-tracking-and-snooping-concerns-not-true-online-investigation-claims-216-000-000-spy-tvs-record-audio) | ⭐ 170 | 💬 182 | [HN Thread](https://news.ycombinator.com/item?id=49645480) |
+| **2** | [Make your first edit to OpenStreetMap](https://high5apps.github.io/josm-plugin-website-wizard/) | ⭐ 116 | 💬 39 | [HN Thread](https://news.ycombinator.com/item?id=49674050) |
+| **3** | [Nvidia is the central bank of AI](https://www.economist.com/interactive/briefing/2026/09/03/nvidia-is-the-central-bank-of-ai) | ⭐ 219 | 💬 166 | [HN Thread](https://news.ycombinator.com/item?id=49673098) |
+| **4** | [Will There Be a 7G?](https://arxiv.org/abs/2609.01877) | ⭐ 38 | 💬 61 | [HN Thread](https://news.ycombinator.com/item?id=49674498) |
+| **5** | [We must pace the frontier](https://darioamodei.com/post/we-must-pace-the-frontier) | ⭐ 314 | 💬 410 | [HN Thread](https://news.ycombinator.com/item?id=49672510) |
+| **6** | [IKEA made a mod for Skyrim [video]](https://www.youtube.com/watch?v=iZODN0QUgjI) | ⭐ 479 | 💬 122 | [HN Thread](https://news.ycombinator.com/item?id=49639647) |
+| **7** | [Microcode in Intel's 8087 floating-point chip: the scale instruction](https://www.righto.com/2026/09/8087-microcode-reverse-engineering-fscale.html) | ⭐ 50 | 💬 17 | [HN Thread](https://news.ycombinator.com/item?id=49673580) |
+| **8** | [I made a build visualizer to understand Bun's compile times](https://lalitm.com/post/buildprof/) | ⭐ 23 | 💬 8 | [HN Thread](https://news.ycombinator.com/item?id=49672842) |
+| **9** | [google.com/goto: Google's anti-scraping update](https://www.autom.dev/blog/google-search-goto-links) | ⭐ 576 | 💬 455 | [HN Thread](https://news.ycombinator.com/item?id=49668386) |
+| **10** | [A Mathematical Framework for Transformer Circuits (2021)](https://transformer-circuits.pub/2021/framework/index.html) | ⭐ 58 | 💬 12 | [HN Thread](https://news.ycombinator.com/item?id=49672365) |
 
 ---
 
