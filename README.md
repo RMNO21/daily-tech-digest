@@ -12,16 +12,16 @@ An automated **Tech & AI News Digest** that aggregates top trending discussions 
 
 | # | Story | Points | Comments | Discussion |
 |:---:|:---|:---:|:---:|:---:|
-| **1** | [LG denies TV spying claims, says tracking and snooping concerns 'not true'](https://www.tomshardware.com/tech-industry/big-tech/lg-strongly-denies-tv-security-claims-says-tracking-and-snooping-concerns-not-true-online-investigation-claims-216-000-000-spy-tvs-record-audio) | ⭐ 170 | 💬 182 | [HN Thread](https://news.ycombinator.com/item?id=49645480) |
-| **2** | [Make your first edit to OpenStreetMap](https://high5apps.github.io/josm-plugin-website-wizard/) | ⭐ 116 | 💬 39 | [HN Thread](https://news.ycombinator.com/item?id=49674050) |
-| **3** | [Nvidia is the central bank of AI](https://www.economist.com/interactive/briefing/2026/09/03/nvidia-is-the-central-bank-of-ai) | ⭐ 219 | 💬 166 | [HN Thread](https://news.ycombinator.com/item?id=49673098) |
-| **4** | [Will There Be a 7G?](https://arxiv.org/abs/2609.01877) | ⭐ 38 | 💬 61 | [HN Thread](https://news.ycombinator.com/item?id=49674498) |
-| **5** | [We must pace the frontier](https://darioamodei.com/post/we-must-pace-the-frontier) | ⭐ 314 | 💬 410 | [HN Thread](https://news.ycombinator.com/item?id=49672510) |
-| **6** | [IKEA made a mod for Skyrim [video]](https://www.youtube.com/watch?v=iZODN0QUgjI) | ⭐ 479 | 💬 122 | [HN Thread](https://news.ycombinator.com/item?id=49639647) |
-| **7** | [Microcode in Intel's 8087 floating-point chip: the scale instruction](https://www.righto.com/2026/09/8087-microcode-reverse-engineering-fscale.html) | ⭐ 50 | 💬 17 | [HN Thread](https://news.ycombinator.com/item?id=49673580) |
-| **8** | [I made a build visualizer to understand Bun's compile times](https://lalitm.com/post/buildprof/) | ⭐ 23 | 💬 8 | [HN Thread](https://news.ycombinator.com/item?id=49672842) |
-| **9** | [google.com/goto: Google's anti-scraping update](https://www.autom.dev/blog/google-search-goto-links) | ⭐ 576 | 💬 455 | [HN Thread](https://news.ycombinator.com/item?id=49668386) |
-| **10** | [A Mathematical Framework for Transformer Circuits (2021)](https://transformer-circuits.pub/2021/framework/index.html) | ⭐ 58 | 💬 12 | [HN Thread](https://news.ycombinator.com/item?id=49672365) |
+| **1** | [Make your first edit to OpenStreetMap](https://high5apps.github.io/josm-plugin-website-wizard/) | ⭐ 238 | 💬 66 | [HN Thread](https://news.ycombinator.com/item?id=49674050) |
+| **2** | [Nvidia is the central bank of AI](https://www.economist.com/interactive/briefing/2026/09/03/nvidia-is-the-central-bank-of-ai) | ⭐ 319 | 💬 215 | [HN Thread](https://news.ycombinator.com/item?id=49673098) |
+| **3** | [Real-SWE: Benchmarking AI models on private, real-world, enterprise codebases](https://withspecific.com/benchmarks/real-swe) | ⭐ 35 | 💬 26 | [HN Thread](https://news.ycombinator.com/item?id=49676820) |
+| **4** | [Apple iPod Engraver (2019)](https://dunstanorchard.com/apple-ipod-engraver/) | ⭐ 43 | 💬 4 | [HN Thread](https://news.ycombinator.com/item?id=49619848) |
+| **5** | [Stabilizing Rust's Never Type](https://lwn.net/SubscriberLink/1091015/d9e48318ed242b41/) | ⭐ 99 | 💬 12 | [HN Thread](https://news.ycombinator.com/item?id=49625056) |
+| **6** | [Benchmark: CadQuery vs. OpenSCAD for agentic CAD work](https://modelrift.com/blog/cadquery-vs-openscad/) | ⭐ 22 | 💬 27 | [HN Thread](https://news.ycombinator.com/item?id=49676577) |
+| **7** | [LG denies TV spying claims, says tracking and snooping concerns 'not true'](https://www.tomshardware.com/tech-industry/big-tech/lg-strongly-denies-tv-security-claims-says-tracking-and-snooping-concerns-not-true-online-investigation-claims-216-000-000-spy-tvs-record-audio) | ⭐ 339 | 💬 295 | [HN Thread](https://news.ycombinator.com/item?id=49645480) |
+| **8** | [Will There Be a 7G?](https://arxiv.org/abs/2609.01877) | ⭐ 64 | 💬 110 | [HN Thread](https://news.ycombinator.com/item?id=49674498) |
+| **9** | [IKEA made a mod for Skyrim [video]](https://www.youtube.com/watch?v=iZODN0QUgjI) | ⭐ 528 | 💬 136 | [HN Thread](https://news.ycombinator.com/item?id=49639647) |
+| **10** | [I made a build visualizer to understand Bun's compile times](https://lalitm.com/post/buildprof/) | ⭐ 70 | 💬 14 | [HN Thread](https://news.ycombinator.com/item?id=49672842) |
 
 ---
 
