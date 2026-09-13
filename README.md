@@ -12,21 +12,22 @@ An automated **Tech & AI News Digest** that aggregates top trending discussions 
 
 | # | Story | Points | Comments | Discussion |
 |:---:|:---|:---:|:---:|:---:|
-| **1** | [Make your first edit to OpenStreetMap](https://high5apps.github.io/josm-plugin-website-wizard/) | ⭐ 238 | 💬 66 | [HN Thread](https://news.ycombinator.com/item?id=49674050) |
-| **2** | [Nvidia is the central bank of AI](https://www.economist.com/interactive/briefing/2026/09/03/nvidia-is-the-central-bank-of-ai) | ⭐ 319 | 💬 215 | [HN Thread](https://news.ycombinator.com/item?id=49673098) |
-| **3** | [Real-SWE: Benchmarking AI models on private, real-world, enterprise codebases](https://withspecific.com/benchmarks/real-swe) | ⭐ 35 | 💬 26 | [HN Thread](https://news.ycombinator.com/item?id=49676820) |
-| **4** | [Apple iPod Engraver (2019)](https://dunstanorchard.com/apple-ipod-engraver/) | ⭐ 43 | 💬 4 | [HN Thread](https://news.ycombinator.com/item?id=49619848) |
-| **5** | [Stabilizing Rust's Never Type](https://lwn.net/SubscriberLink/1091015/d9e48318ed242b41/) | ⭐ 99 | 💬 12 | [HN Thread](https://news.ycombinator.com/item?id=49625056) |
-| **6** | [Benchmark: CadQuery vs. OpenSCAD for agentic CAD work](https://modelrift.com/blog/cadquery-vs-openscad/) | ⭐ 22 | 💬 27 | [HN Thread](https://news.ycombinator.com/item?id=49676577) |
-| **7** | [LG denies TV spying claims, says tracking and snooping concerns 'not true'](https://www.tomshardware.com/tech-industry/big-tech/lg-strongly-denies-tv-security-claims-says-tracking-and-snooping-concerns-not-true-online-investigation-claims-216-000-000-spy-tvs-record-audio) | ⭐ 339 | 💬 295 | [HN Thread](https://news.ycombinator.com/item?id=49645480) |
-| **8** | [Will There Be a 7G?](https://arxiv.org/abs/2609.01877) | ⭐ 64 | 💬 110 | [HN Thread](https://news.ycombinator.com/item?id=49674498) |
-| **9** | [IKEA made a mod for Skyrim [video]](https://www.youtube.com/watch?v=iZODN0QUgjI) | ⭐ 528 | 💬 136 | [HN Thread](https://news.ycombinator.com/item?id=49639647) |
-| **10** | [I made a build visualizer to understand Bun's compile times](https://lalitm.com/post/buildprof/) | ⭐ 70 | 💬 14 | [HN Thread](https://news.ycombinator.com/item?id=49672842) |
+| **1** | [JetKVM Mini](https://jetkvm.com/blog/introducing-jetkvm-mini) | ⭐ 181 | 💬 79 | [HN Thread](https://news.ycombinator.com/item?id=49681152) |
+| **2** | [Nvidia dismisses "circular financing", says every $1 it invests brings back $100](https://invezz.com/news/2026/09/11/nvidia-says-every-1-it-invests-brings-back-100-so-why-does-the-stock-keep-falling/) | ⭐ 56 | 💬 43 | [HN Thread](https://news.ycombinator.com/item?id=49682319) |
+| **3** | [Why are AI agents lying, cheating and coordinating?](https://yoshuabengio.org/en/publication/why-are-ai-agents-lying-cheating-and-coordinating) | ⭐ 291 | 💬 345 | [HN Thread](https://news.ycombinator.com/item?id=49678969) |
+| **4** | [Make your first edit to OpenStreetMap](https://high5apps.github.io/josm-plugin-website-wizard/) | ⭐ 490 | 💬 126 | [HN Thread](https://news.ycombinator.com/item?id=49674050) |
+| **5** | [The Interim Computer Museum](https://icm.museum/) | ⭐ 126 | 💬 13 | [HN Thread](https://news.ycombinator.com/item?id=49679459) |
+| **6** | [I Added a Non-Wi-Fi Mitsubishi AC to Home Assistant](https://medium.com/@ivangomezarnedo/how-i-added-a-non-wi-fi-mitsubishi-ac-to-home-assistant-22770661dd77) | ⭐ 104 | 💬 50 | [HN Thread](https://news.ycombinator.com/item?id=49640913) |
+| **7** | [How to Use Three.js's New Native Gaussian Splats](https://ben3d.ca/blog/how-to-use-threejs-native-gaussian-splats) | ⭐ 18 | 💬 1 | [HN Thread](https://news.ycombinator.com/item?id=49624366) |
+| **8** | [Homebrew 7.0.0](https://brew.sh/2026/09/13/homebrew-7.0.0/) | ⭐ 88 | 💬 33 | [HN Thread](https://news.ycombinator.com/item?id=49681545) |
+| **9** | [Apple iPod Engraver (2019)](https://dunstanorchard.com/apple-ipod-engraver/) | ⭐ 237 | 💬 61 | [HN Thread](https://news.ycombinator.com/item?id=49619848) |
+| **10** | [Revolut confirms customer data breach through fake government requests](https://techcrunch.com/2026/09/12/revolut-confirms-customer-data-breach-through-fake-government-requests/) | ⭐ 32 | 💬 20 | [HN Thread](https://news.ycombinator.com/item?id=49682087) |
 
 ---
 
 ## 🗄️ News Archive
 
+- 📅 [2026-09-13](archive/2026-09-13.md)
 - 📅 [2026-09-12](archive/2026-09-12.md)
 - 📅 [2026-09-11](archive/2026-09-11.md)
 - 📅 [2026-09-10](archive/2026-09-10.md)
@@ -40,9 +41,8 @@ An automated **Tech & AI News Digest** that aggregates top trending discussions 
 - 📅 [2026-09-02](archive/2026-09-02.md)
 - 📅 [2026-09-01](archive/2026-09-01.md)
 - 📅 [2026-08-31](archive/2026-08-31.md)
-- 📅 [2026-08-30](archive/2026-08-30.md)
 
-*... and [16 older editions in the archive folder](archive/)*
+*... and [17 older editions in the archive folder](archive/)*
 
 ---
 
