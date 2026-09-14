@@ -12,16 +12,16 @@ An automated **Tech & AI News Digest** that aggregates top trending discussions 
 
 | # | Story | Points | Comments | Discussion |
 |:---:|:---|:---:|:---:|:---:|
-| **1** | [EuroBirdPortal – Live bird movements across Europe](https://www.eurobirdportal.org/ebp/en/) | ⭐ 155 | 💬 52 | [HN Thread](https://news.ycombinator.com/item?id=49693610) |
-| **2** | [A 386 PC for Your RP2350](https://github.com/rh1tech/frank-386) | ⭐ 122 | 💬 29 | [HN Thread](https://news.ycombinator.com/item?id=49693613) |
-| **3** | [An atlas of periodic solutions to the three-body problem](https://www.threebodyorbits.com/) | ⭐ 138 | 💬 32 | [HN Thread](https://news.ycombinator.com/item?id=49670852) |
-| **4** | [Apple's Siri AI Can Be Swapped Out for Claude, ChatGPT, Code Shows](https://www.macrumors.com/2026/09/14/siri-can-be-swapped-out-for-chatgpt-claude/) | ⭐ 103 | 💬 39 | [HN Thread](https://news.ycombinator.com/item?id=49695409) |
-| **5** | [Show HN: Kinesis – Control your Mac with the Meta Neural Band](https://github.com/callbacked/kinesis) | ⭐ 69 | 💬 22 | [HN Thread](https://news.ycombinator.com/item?id=49695408) |
-| **6** | [Devil's Arrows: Ancient builders hauled 55k-lb stones 11 miles for UK stone row](https://www.sciencedaily.com/releases/2026/09/260909005152.htm) | ⭐ 11 | 💬 7 | [HN Thread](https://news.ycombinator.com/item?id=49659557) |
-| **7** | [Texas judge rules TikTok misled users on child safety feature](https://www.reuters.com/legal/litigation/texas-judge-rules-tiktok-misled-users-child-safety-feature-2026-09-11/) | ⭐ 54 | 💬 9 | [HN Thread](https://news.ycombinator.com/item?id=49695829) |
-| **8** | [Drawably: Hand-Drawn UI Controls](https://github.com/Danilaa1/drawably) | ⭐ 29 | 💬 16 | [HN Thread](https://news.ycombinator.com/item?id=49630353) |
-| **9** | [OpenArch – PyTorch implementations of modern LLM architectures](https://github.com/anuj0456/OpenArch) | ⭐ 92 | 💬 18 | [HN Thread](https://news.ycombinator.com/item?id=49693384) |
-| **10** | [Registration without a phone number on Signal will use zero-knowledge proofs](https://community.signalusers.org/t/registration-without-a-phone-number/2222?page=10) | ⭐ 337 | 💬 169 | [HN Thread](https://news.ycombinator.com/item?id=49689048) |
+| **1** | [Pion, an agent designed to run any company autonomously](https://andonlabs.com/blog/why-we-built-pion) | ⭐ 237 | 💬 249 | [HN Thread](https://news.ycombinator.com/item?id=49700477) |
+| **2** | [Amazon vs. Perplexity – U.S. Court of Appeals for the Ninth Circuit](https://law.justia.com/cases/federal/appellate-courts/ca9/26-1444/26-1444-2026-08-04.html) | ⭐ 138 | 💬 142 | [HN Thread](https://news.ycombinator.com/item?id=49704008) |
+| **3** | [Distributed Systems Classics (2017)](https://nvartolomei.com/dist-sys-classics/) | ⭐ 212 | 💬 42 | [HN Thread](https://news.ycombinator.com/item?id=49699158) |
+| **4** | [Compressing a Flag to 11 Bits](https://read.vantezzen.io/miniflags) | ⭐ 24 | 💬 8 | [HN Thread](https://news.ycombinator.com/item?id=49673689) |
+| **5** | [OpenAI bots knew about the RubyGems caching vulnerability](https://tenderlovemaking.com/2026/09/11/what-a-time-to-be-alive/) | ⭐ 338 | 💬 289 | [HN Thread](https://news.ycombinator.com/item?id=49695876) |
+| **6** | [A Beginning for Mathematics](https://www.daniellitt.com/blog/2026/9/13/a-beginning-for-mathematics/) | ⭐ 151 | 💬 87 | [HN Thread](https://news.ycombinator.com/item?id=49698699) |
+| **7** | [Charts built for Chat](https://dbtcharts.com/blog/charts-built-for-chat/) | ⭐ 29 | 💬 9 | [HN Thread](https://news.ycombinator.com/item?id=49704246) |
+| **8** | [Show HN: Macros with a Behringer FCB1010 MIDI Pedalboard in macOS](https://github.com/JamesRyanATX/fcbnerd) | ⭐ 3 | 💬 0 | [HN Thread](https://news.ycombinator.com/item?id=49705442) |
+| **9** | [How my e-reader lost its stripes](https://www.serpentine.com/posts/2026/x3-stripes/) | ⭐ 128 | 💬 17 | [HN Thread](https://news.ycombinator.com/item?id=49699489) |
+| **10** | [US coal 'biggest contributor by far' to rise in global emissions](https://www.thechemicalengineer.com/news/us-coal-biggest-contributor-by-far-to-rise-in-global-emissions/) | ⭐ 12 | 💬 1 | [HN Thread](https://news.ycombinator.com/item?id=49704001) |
 
 ---
 
