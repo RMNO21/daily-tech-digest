@@ -12,21 +12,22 @@ An automated **Tech & AI News Digest** that aggregates top trending discussions 
 
 | # | Story | Points | Comments | Discussion |
 |:---:|:---|:---:|:---:|:---:|
-| **1** | [Why is Google still serving dodgy ads?](https://www.atomic14.com/2026/09/13/why-is-google-still-serving-dodgy-ads) | ⭐ 182 | 💬 81 | [HN Thread](https://news.ycombinator.com/item?id=49686445) |
-| **2** | [Astra and Fable still hack on simple variants of alignment evals from 2025](https://www.lesswrong.com/posts/munJKF7iWMsWJLAH2/astra-and-fable-still-hack-on-simple-variants-of-alignment) | ⭐ 262 | 💬 109 | [HN Thread](https://news.ycombinator.com/item?id=49684393) |
-| **3** | [Data collected by cars and sold to third parties](https://www.theverge.com/column/994172/your-car-is-selling-your-data) | ⭐ 136 | 💬 85 | [HN Thread](https://news.ycombinator.com/item?id=49683953) |
-| **4** | [JetKVM Mini](https://jetkvm.com/blog/introducing-jetkvm-mini) | ⭐ 441 | 💬 171 | [HN Thread](https://news.ycombinator.com/item?id=49681152) |
-| **5** | [I'm being cyberattacked by Tesla, Inc](https://dreamstation.systems/personal/tesla.html) | ⭐ 251 | 💬 68 | [HN Thread](https://news.ycombinator.com/item?id=49686766) |
-| **6** | [CUDA for AMD on Windows](https://github.com/Speedstu/CUDA-for-AMD-Windows) | ⭐ 98 | 💬 51 | [HN Thread](https://news.ycombinator.com/item?id=49684356) |
-| **7** | [Why is the x86 undefined instruction called ud2? Why 2?](https://devblogs.microsoft.com/oldnewthing/20260910-00/?p=112689) | ⭐ 128 | 💬 34 | [HN Thread](https://news.ycombinator.com/item?id=49683262) |
-| **8** | [Sean Carroll explains the biggest ideas in the universe – Full Interview [video]](https://www.youtube.com/watch?v=_TBNJyztai0) | ⭐ 29 | 💬 4 | [HN Thread](https://news.ycombinator.com/item?id=49651567) |
-| **9** | [Global Shortage Has Led to Motor Oil Rationing at Costco](https://guessingheadlights.com/global-shortage-has-led-to-motor-oil-rationing-at-costco/) | ⭐ 14 | 💬 2 | [HN Thread](https://news.ycombinator.com/item?id=49686697) |
-| **10** | [Flock cameras used to arrest a child for playing on a swing](https://www.youtube.com/watch?v=koclOnlde0E) | ⭐ 44 | 💬 17 | [HN Thread](https://news.ycombinator.com/item?id=49687312) |
+| **1** | [Fable 5.1 Solves the Cyphral Distich, a 370-year-old cipher](https://www.vals.ai/blogs/fable-solves-cyphral-distich) | ⭐ 734 | 💬 311 | [HN Thread](https://news.ycombinator.com/item?id=49688695) |
+| **2** | [Spaceships (Reverse Asteroid)](https://spaceships.treybastian.com/) | ⭐ 141 | 💬 28 | [HN Thread](https://news.ycombinator.com/item?id=49638510) |
+| **3** | [Registration without a phone number on Signal will use zero-knowledge proofs](https://community.signalusers.org/t/registration-without-a-phone-number/2222?page=10) | ⭐ 193 | 💬 86 | [HN Thread](https://news.ycombinator.com/item?id=49689048) |
+| **4** | [The case against JPEG XL](https://giannirosato.com/blog/post/case-against-jxl/) | ⭐ 100 | 💬 121 | [HN Thread](https://news.ycombinator.com/item?id=49690554) |
+| **5** | [Apple's Dimensional Drawings](https://developer.apple.com/accessories/dimensional-drawings/) | ⭐ 121 | 💬 37 | [HN Thread](https://news.ycombinator.com/item?id=49690174) |
+| **6** | [Astra and Fable still hack on simple variants of alignment evals from 2025](https://www.lesswrong.com/posts/munJKF7iWMsWJLAH2/astra-and-fable-still-hack-on-simple-variants-of-alignment) | ⭐ 416 | 💬 188 | [HN Thread](https://news.ycombinator.com/item?id=49684393) |
+| **7** | [Rope, twine and thread: Invisible technologies of the Stone Age](https://knowablemagazine.org/content/article/society/2026/prehistory-lost-threads) | ⭐ 31 | 💬 1 | [HN Thread](https://news.ycombinator.com/item?id=49662246) |
+| **8** | [Data collected by cars and sold to third parties](https://www.theverge.com/column/994172/your-car-is-selling-your-data) | ⭐ 377 | 💬 199 | [HN Thread](https://news.ycombinator.com/item?id=49683953) |
+| **9** | [Julia 1.13 highlights](https://julialang.org/blog/2026/09/julia-1.13-highlights/) | ⭐ 196 | 💬 18 | [HN Thread](https://news.ycombinator.com/item?id=49642645) |
+| **10** | [The Malicious Use of Artificial Intelligence](https://arxiv.org/abs/1802.07228) | ⭐ 40 | 💬 9 | [HN Thread](https://news.ycombinator.com/item?id=49690678) |
 
 ---
 
 ## 🗄️ News Archive
 
+- 📅 [2026-09-14](archive/2026-09-14.md)
 - 📅 [2026-09-13](archive/2026-09-13.md)
 - 📅 [2026-09-12](archive/2026-09-12.md)
 - 📅 [2026-09-11](archive/2026-09-11.md)
@@ -40,9 +41,8 @@ An automated **Tech & AI News Digest** that aggregates top trending discussions 
 - 📅 [2026-09-03](archive/2026-09-03.md)
 - 📅 [2026-09-02](archive/2026-09-02.md)
 - 📅 [2026-09-01](archive/2026-09-01.md)
-- 📅 [2026-08-31](archive/2026-08-31.md)
 
-*... and [17 older editions in the archive folder](archive/)*
+*... and [18 older editions in the archive folder](archive/)*
 
 ---
 
