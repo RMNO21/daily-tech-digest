@@ -12,16 +12,16 @@ An automated **Tech & AI News Digest** that aggregates top trending discussions 
 
 | # | Story | Points | Comments | Discussion |
 |:---:|:---|:---:|:---:|:---:|
-| **1** | [Show HN: An e-ink frame that hears birds and draws them as 1800s illustrations](https://github.com/arnegiacomo/fugleramme) | ⭐ 79 | 💬 22 | [HN Thread](https://news.ycombinator.com/item?id=49711544) |
-| **2** | [Java 27 Released](https://mail.openjdk.org/archives/list/announce@openjdk.org/thread/ORGGLMN75HFEWP7YL3ZLGHLYHVIBJDYT/) | ⭐ 34 | 💬 8 | [HN Thread](https://news.ycombinator.com/item?id=49712041) |
-| **3** | [I can't stop thinking about Papua New Guinea](https://notnottalmud.substack.com/p/why-i-cant-stop-thinking-about-papua) | ⭐ 502 | 💬 204 | [HN Thread](https://news.ycombinator.com/item?id=49708431) |
-| **4** | [25 Years of Mass Surveillance Is Enough](https://www.schneier.com/blog/archives/2026/09/25-years-of-mass-surveillance-is-enough.html) | ⭐ 139 | 💬 17 | [HN Thread](https://news.ycombinator.com/item?id=49710883) |
-| **5** | [Alternatives to MinIO for single-node local S3](https://rmoff.net/2026/01/14/alternatives-to-minio-for-single-node-local-s3/) | ⭐ 103 | 💬 54 | [HN Thread](https://news.ycombinator.com/item?id=49709381) |
-| **6** | [CSS-Tricks in Limbo](https://vale.rocks/micros/20260915-0135) | ⭐ 118 | 💬 37 | [HN Thread](https://news.ycombinator.com/item?id=49708993) |
-| **7** | [A rough guide for going back to the Moon](https://research.ibm.com/blog/nasa-ibm-lunar-foundation-model) | ⭐ 27 | 💬 13 | [HN Thread](https://news.ycombinator.com/item?id=49697549) |
-| **8** | [iOS 27, iPadOS 27, and macOS 27](https://www.apple.com/newsroom/2026/09/major-updates-for-apples-software-platforms-are-now-available/) | ⭐ 661 | 💬 763 | [HN Thread](https://news.ycombinator.com/item?id=49701004) |
-| **9** | [The k-server conjecture is true](https://arxiv.org/abs/2609.15979) | ⭐ 56 | 💬 19 | [HN Thread](https://news.ycombinator.com/item?id=49709129) |
-| **10** | [OpenArm: An open-source 7DOF humanoid arm](https://github.com/enactic/OpenArm) | ⭐ 145 | 💬 29 | [HN Thread](https://news.ycombinator.com/item?id=49684289) |
+| **1** | [Show HN: An e-ink frame that hears birds and draws them as 1800s illustrations](https://github.com/arnegiacomo/fugleramme) | ⭐ 800 | 💬 114 | [HN Thread](https://news.ycombinator.com/item?id=49711544) |
+| **2** | [Show HN: Capsule – Single-file web apps that save their data into SQLite](https://withcapsule.app/) | ⭐ 189 | 💬 93 | [HN Thread](https://news.ycombinator.com/item?id=49712278) |
+| **3** | [GEFS on OpenBSD: A Early Preview](https://marc.info/?l=openbsd-tech&m=178948744271633&w=2) | ⭐ 29 | 💬 10 | [HN Thread](https://news.ycombinator.com/item?id=49715590) |
+| **4** | [I can't stop thinking about Papua New Guinea](https://notnottalmud.substack.com/p/why-i-cant-stop-thinking-about-papua) | ⭐ 791 | 💬 337 | [HN Thread](https://news.ycombinator.com/item?id=49708431) |
+| **5** | [Show HN: Hacking a $20 4G wireless hotspot into a texting device](https://bkovac.github.io/modem-thing/) | ⭐ 127 | 💬 18 | [HN Thread](https://news.ycombinator.com/item?id=49712102) |
+| **6** | [The CSS Zen Garden dream, finally shipped](https://josprague.com/blog/the-css-zen-garden-dream-finally-shipped/) | ⭐ 56 | 💬 22 | [HN Thread](https://news.ycombinator.com/item?id=49713262) |
+| **7** | [Cartesian – AI 3D Modeling for Design](https://www.formas.ai/cartesian) | ⭐ 51 | 💬 47 | [HN Thread](https://news.ycombinator.com/item?id=49713999) |
+| **8** | [Jiga (YC W21) Is Hiring Product Engineer (Remote/US)](https://jiga.io/about-us/?ashby_jid=0b75d72d-c92b-4dca-8062-09d298ada0bd) | ⭐ 1 | 💬 0 | [HN Thread](https://news.ycombinator.com/item?id=49715446) |
+| **9** | [Giving up on smart rings](https://notesbylex.com/giving-up-on-smart-rings) | ⭐ 33 | 💬 48 | [HN Thread](https://news.ycombinator.com/item?id=49677648) |
+| **10** | [Let's make quality the norm again](https://www.forbrukerradet.no/short-life/) | ⭐ 171 | 💬 159 | [HN Thread](https://news.ycombinator.com/item?id=49710109) |
 
 ---
 
