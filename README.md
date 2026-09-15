@@ -12,21 +12,22 @@ An automated **Tech & AI News Digest** that aggregates top trending discussions 
 
 | # | Story | Points | Comments | Discussion |
 |:---:|:---|:---:|:---:|:---:|
-| **1** | [Pion, an agent designed to run any company autonomously](https://andonlabs.com/blog/why-we-built-pion) | ⭐ 237 | 💬 249 | [HN Thread](https://news.ycombinator.com/item?id=49700477) |
-| **2** | [Amazon vs. Perplexity – U.S. Court of Appeals for the Ninth Circuit](https://law.justia.com/cases/federal/appellate-courts/ca9/26-1444/26-1444-2026-08-04.html) | ⭐ 138 | 💬 142 | [HN Thread](https://news.ycombinator.com/item?id=49704008) |
-| **3** | [Distributed Systems Classics (2017)](https://nvartolomei.com/dist-sys-classics/) | ⭐ 212 | 💬 42 | [HN Thread](https://news.ycombinator.com/item?id=49699158) |
-| **4** | [Compressing a Flag to 11 Bits](https://read.vantezzen.io/miniflags) | ⭐ 24 | 💬 8 | [HN Thread](https://news.ycombinator.com/item?id=49673689) |
-| **5** | [OpenAI bots knew about the RubyGems caching vulnerability](https://tenderlovemaking.com/2026/09/11/what-a-time-to-be-alive/) | ⭐ 338 | 💬 289 | [HN Thread](https://news.ycombinator.com/item?id=49695876) |
-| **6** | [A Beginning for Mathematics](https://www.daniellitt.com/blog/2026/9/13/a-beginning-for-mathematics/) | ⭐ 151 | 💬 87 | [HN Thread](https://news.ycombinator.com/item?id=49698699) |
-| **7** | [Charts built for Chat](https://dbtcharts.com/blog/charts-built-for-chat/) | ⭐ 29 | 💬 9 | [HN Thread](https://news.ycombinator.com/item?id=49704246) |
-| **8** | [Show HN: Macros with a Behringer FCB1010 MIDI Pedalboard in macOS](https://github.com/JamesRyanATX/fcbnerd) | ⭐ 3 | 💬 0 | [HN Thread](https://news.ycombinator.com/item?id=49705442) |
-| **9** | [How my e-reader lost its stripes](https://www.serpentine.com/posts/2026/x3-stripes/) | ⭐ 128 | 💬 17 | [HN Thread](https://news.ycombinator.com/item?id=49699489) |
-| **10** | [US coal 'biggest contributor by far' to rise in global emissions](https://www.thechemicalengineer.com/news/us-coal-biggest-contributor-by-far-to-rise-in-global-emissions/) | ⭐ 12 | 💬 1 | [HN Thread](https://news.ycombinator.com/item?id=49704001) |
+| **1** | [iOS 27, iPadOS 27, and macOS 27](https://www.apple.com/newsroom/2026/09/major-updates-for-apples-software-platforms-are-now-available/) | ⭐ 559 | 💬 623 | [HN Thread](https://news.ycombinator.com/item?id=49701004) |
+| **2** | [Linux from Scratch](https://www.linuxfromscratch.org/) | ⭐ 116 | 💬 39 | [HN Thread](https://news.ycombinator.com/item?id=49707627) |
+| **3** | [OpenArm: An open-source 7DOF humanoid arm](https://github.com/enactic/OpenArm) | ⭐ 56 | 💬 11 | [HN Thread](https://news.ycombinator.com/item?id=49684289) |
+| **4** | [4,400-Year-Old Tomb of Egyptian Judge Found at Saqqara with Colors on Walls](https://arkeonews.net/4400-year-old-tomb-of-an-egyptian-judge-found-at-saqqara-with-colors-still-on-the-walls/) | ⭐ 113 | 💬 29 | [HN Thread](https://news.ycombinator.com/item?id=49675817) |
+| **5** | [Pion, an agent designed to run any company autonomously](https://andonlabs.com/blog/why-we-built-pion) | ⭐ 380 | 💬 444 | [HN Thread](https://news.ycombinator.com/item?id=49700477) |
+| **6** | [When code is a maze, smart developers make maps (2025)](https://medium.com/@simonsmartiom/when-code-is-a-maze-smart-developers-make-maps-fbc452a48c1b) | ⭐ 20 | 💬 25 | [HN Thread](https://news.ycombinator.com/item?id=49693690) |
+| **7** | [Charts built for Chat](https://dbtcharts.com/blog/charts-built-for-chat/) | ⭐ 205 | 💬 64 | [HN Thread](https://news.ycombinator.com/item?id=49704246) |
+| **8** | [Lingo.dev (YC F24) is hiring a senior content engineer (Remote, worldwide)](https://lingo.dev/en/careers/ff88132a-cb79-4d35-a6a0-a6230de7a013) | ⭐ 1 | 💬 0 | [HN Thread](https://news.ycombinator.com/item?id=49708774) |
+| **9** | [XCancel service is suspended until further notice](https://xcancel.com/#) | ⭐ 590 | 💬 882 | [HN Thread](https://news.ycombinator.com/item?id=49694296) |
+| **10** | [Dropping eBPF CPU Cost by About 90% with Memoization (Not AI Gen)](https://nathannaveen.dev/posts/dropping-ebpf-cpu-cost-by-90/) | ⭐ 95 | 💬 25 | [HN Thread](https://news.ycombinator.com/item?id=49697477) |
 
 ---
 
 ## 🗄️ News Archive
 
+- 📅 [2026-09-15](archive/2026-09-15.md)
 - 📅 [2026-09-14](archive/2026-09-14.md)
 - 📅 [2026-09-13](archive/2026-09-13.md)
 - 📅 [2026-09-12](archive/2026-09-12.md)
@@ -40,9 +41,8 @@ An automated **Tech & AI News Digest** that aggregates top trending discussions 
 - 📅 [2026-09-04](archive/2026-09-04.md)
 - 📅 [2026-09-03](archive/2026-09-03.md)
 - 📅 [2026-09-02](archive/2026-09-02.md)
-- 📅 [2026-09-01](archive/2026-09-01.md)
 
-*... and [18 older editions in the archive folder](archive/)*
+*... and [19 older editions in the archive folder](archive/)*
 
 ---
 
