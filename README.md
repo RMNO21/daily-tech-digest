@@ -12,16 +12,16 @@ An automated **Tech & AI News Digest** that aggregates top trending discussions 
 
 | # | Story | Points | Comments | Discussion |
 |:---:|:---|:---:|:---:|:---:|
-| **1** | [Show HN: An e-ink frame that hears birds and draws them as 1800s illustrations](https://github.com/arnegiacomo/fugleramme) | ⭐ 800 | 💬 114 | [HN Thread](https://news.ycombinator.com/item?id=49711544) |
-| **2** | [Show HN: Capsule – Single-file web apps that save their data into SQLite](https://withcapsule.app/) | ⭐ 189 | 💬 93 | [HN Thread](https://news.ycombinator.com/item?id=49712278) |
-| **3** | [GEFS on OpenBSD: A Early Preview](https://marc.info/?l=openbsd-tech&m=178948744271633&w=2) | ⭐ 29 | 💬 10 | [HN Thread](https://news.ycombinator.com/item?id=49715590) |
-| **4** | [I can't stop thinking about Papua New Guinea](https://notnottalmud.substack.com/p/why-i-cant-stop-thinking-about-papua) | ⭐ 791 | 💬 337 | [HN Thread](https://news.ycombinator.com/item?id=49708431) |
-| **5** | [Show HN: Hacking a $20 4G wireless hotspot into a texting device](https://bkovac.github.io/modem-thing/) | ⭐ 127 | 💬 18 | [HN Thread](https://news.ycombinator.com/item?id=49712102) |
-| **6** | [The CSS Zen Garden dream, finally shipped](https://josprague.com/blog/the-css-zen-garden-dream-finally-shipped/) | ⭐ 56 | 💬 22 | [HN Thread](https://news.ycombinator.com/item?id=49713262) |
-| **7** | [Cartesian – AI 3D Modeling for Design](https://www.formas.ai/cartesian) | ⭐ 51 | 💬 47 | [HN Thread](https://news.ycombinator.com/item?id=49713999) |
-| **8** | [Jiga (YC W21) Is Hiring Product Engineer (Remote/US)](https://jiga.io/about-us/?ashby_jid=0b75d72d-c92b-4dca-8062-09d298ada0bd) | ⭐ 1 | 💬 0 | [HN Thread](https://news.ycombinator.com/item?id=49715446) |
-| **9** | [Giving up on smart rings](https://notesbylex.com/giving-up-on-smart-rings) | ⭐ 33 | 💬 48 | [HN Thread](https://news.ycombinator.com/item?id=49677648) |
-| **10** | [Let's make quality the norm again](https://www.forbrukerradet.no/short-life/) | ⭐ 171 | 💬 159 | [HN Thread](https://news.ycombinator.com/item?id=49710109) |
+| **1** | [Introducing System One Models and Jev](https://typesafe.ai/blog/introducing-system-one-models-and-jev) | ⭐ 361 | 💬 141 | [HN Thread](https://news.ycombinator.com/item?id=49717558) |
+| **2** | [Show HN: An e-ink frame that hears birds and draws them as 1800s illustrations](https://github.com/arnegiacomo/fugleramme) | ⭐ 1113 | 💬 153 | [HN Thread](https://news.ycombinator.com/item?id=49711544) |
+| **3** | [An Update on Wayback Machine Access](https://blog.archive.org/2026/09/15/an-update-on-wayback-machine-access/) | ⭐ 254 | 💬 126 | [HN Thread](https://news.ycombinator.com/item?id=49716176) |
+| **4** | [Gemini 3.8 Live and 3.8 Live Extended Thinking](https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-8-live-gemini-3-8-live-extended-thinking/) | ⭐ 182 | 💬 117 | [HN Thread](https://news.ycombinator.com/item?id=49715947) |
+| **5** | [Jean-Pierre Serre is 100 years old today](https://mathshistory.st-andrews.ac.uk/Biographies/Serre/) | ⭐ 20 | 💬 0 | [HN Thread](https://news.ycombinator.com/item?id=49718822) |
+| **6** | [We got admin access to Baseten's production GitHub in 25 minutes](https://www.strix.ai/blog/baseten-harbor-github-pat-takeover) | ⭐ 152 | 💬 61 | [HN Thread](https://news.ycombinator.com/item?id=49716476) |
+| **7** | [German Rheinmetall open-sources its Battlesuite connected weapon system protcol](https://rheinmetall.github.io/onboardapi-documentation/9.10.0/index.html) | ⭐ 15 | 💬 0 | [HN Thread](https://news.ycombinator.com/item?id=49718928) |
+| **8** | [WangNet – 1.8 MB, zero-dependency Numberwang adjudication in 11 languages](https://github.com/GraafHenk/numberwang) | ⭐ 53 | 💬 19 | [HN Thread](https://news.ycombinator.com/item?id=49717605) |
+| **9** | [Chopping up books when they're physically too big](https://attainablefelicity.mattkirkland.com/20260915/cut-up-your-books.html) | ⭐ 63 | 💬 53 | [HN Thread](https://news.ycombinator.com/item?id=49716953) |
+| **10** | [Building a Linux GPU Driver for the M4 Mac Mini in One Month](https://codyho.dev/blog/gpu-driver/) | ⭐ 35 | 💬 2 | [HN Thread](https://news.ycombinator.com/item?id=49717638) |
 
 ---
 
