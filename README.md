@@ -12,21 +12,22 @@ An automated **Tech & AI News Digest** that aggregates top trending discussions 
 
 | # | Story | Points | Comments | Discussion |
 |:---:|:---|:---:|:---:|:---:|
-| **1** | [Introducing System One Models and Jev](https://typesafe.ai/blog/introducing-system-one-models-and-jev) | ⭐ 361 | 💬 141 | [HN Thread](https://news.ycombinator.com/item?id=49717558) |
-| **2** | [Show HN: An e-ink frame that hears birds and draws them as 1800s illustrations](https://github.com/arnegiacomo/fugleramme) | ⭐ 1113 | 💬 153 | [HN Thread](https://news.ycombinator.com/item?id=49711544) |
-| **3** | [An Update on Wayback Machine Access](https://blog.archive.org/2026/09/15/an-update-on-wayback-machine-access/) | ⭐ 254 | 💬 126 | [HN Thread](https://news.ycombinator.com/item?id=49716176) |
-| **4** | [Gemini 3.8 Live and 3.8 Live Extended Thinking](https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-8-live-gemini-3-8-live-extended-thinking/) | ⭐ 182 | 💬 117 | [HN Thread](https://news.ycombinator.com/item?id=49715947) |
-| **5** | [Jean-Pierre Serre is 100 years old today](https://mathshistory.st-andrews.ac.uk/Biographies/Serre/) | ⭐ 20 | 💬 0 | [HN Thread](https://news.ycombinator.com/item?id=49718822) |
-| **6** | [We got admin access to Baseten's production GitHub in 25 minutes](https://www.strix.ai/blog/baseten-harbor-github-pat-takeover) | ⭐ 152 | 💬 61 | [HN Thread](https://news.ycombinator.com/item?id=49716476) |
-| **7** | [German Rheinmetall open-sources its Battlesuite connected weapon system protcol](https://rheinmetall.github.io/onboardapi-documentation/9.10.0/index.html) | ⭐ 15 | 💬 0 | [HN Thread](https://news.ycombinator.com/item?id=49718928) |
-| **8** | [WangNet – 1.8 MB, zero-dependency Numberwang adjudication in 11 languages](https://github.com/GraafHenk/numberwang) | ⭐ 53 | 💬 19 | [HN Thread](https://news.ycombinator.com/item?id=49717605) |
-| **9** | [Chopping up books when they're physically too big](https://attainablefelicity.mattkirkland.com/20260915/cut-up-your-books.html) | ⭐ 63 | 💬 53 | [HN Thread](https://news.ycombinator.com/item?id=49716953) |
-| **10** | [Building a Linux GPU Driver for the M4 Mac Mini in One Month](https://codyho.dev/blog/gpu-driver/) | ⭐ 35 | 💬 2 | [HN Thread](https://news.ycombinator.com/item?id=49717638) |
+| **1** | [Introducing System One Models and Jev](https://typesafe.ai/blog/introducing-system-one-models-and-jev) | ⭐ 1088 | 💬 329 | [HN Thread](https://news.ycombinator.com/item?id=49717558) |
+| **2** | [Apple Reference Image: A New Approach for Verified Photography](https://security.apple.com/blog/apple-reference-image/) | ⭐ 137 | 💬 75 | [HN Thread](https://news.ycombinator.com/item?id=49721322) |
+| **3** | [Show HN: An e-ink frame that hears birds and draws them as 1800s illustrations](https://github.com/arnegiacomo/fugleramme) | ⭐ 1481 | 💬 191 | [HN Thread](https://news.ycombinator.com/item?id=49711544) |
+| **4** | [Show HN: I made a flight simulator, except you're just a passenger](https://inflightsimulator.com) | ⭐ 91 | 💬 46 | [HN Thread](https://news.ycombinator.com/item?id=49693971) |
+| **5** | [Negativland, Culture Jamming, and the Art of Making Something New](https://blog.archive.org/2026/09/11/negativland-culture-jamming-and-the-art-of-making-something-new/) | ⭐ 62 | 💬 17 | [HN Thread](https://news.ycombinator.com/item?id=49721548) |
+| **6** | [An update on Wayback Machine access](https://blog.archive.org/2026/09/15/an-update-on-wayback-machine-access/) | ⭐ 482 | 💬 249 | [HN Thread](https://news.ycombinator.com/item?id=49716176) |
+| **7** | [Gemini 3.8 Live and 3.8 Live Extended Thinking](https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-8-live-gemini-3-8-live-extended-thinking/) | ⭐ 371 | 💬 235 | [HN Thread](https://news.ycombinator.com/item?id=49715947) |
+| **8** | [Recreating Voodoo Graphics and a Late-1990s Gaming PC on an FPGA](https://nand2mario.github.io/posts/2026/zsst-voodoo/) | ⭐ 89 | 💬 17 | [HN Thread](https://news.ycombinator.com/item?id=49719938) |
+| **9** | [German Rheinmetall open-sources its Battlesuite connected weapon system protcol](https://rheinmetall.github.io/onboardapi-documentation/9.10.0/index.html) | ⭐ 175 | 💬 55 | [HN Thread](https://news.ycombinator.com/item?id=49718928) |
+| **10** | [Datamimic – don't let your coding agent invent its own test world](https://github.com/rapiddweller/datamimic) | ⭐ 9 | 💬 2 | [HN Thread](https://news.ycombinator.com/item?id=49722276) |
 
 ---
 
 ## 🗄️ News Archive
 
+- 📅 [2026-09-16](archive/2026-09-16.md)
 - 📅 [2026-09-15](archive/2026-09-15.md)
 - 📅 [2026-09-14](archive/2026-09-14.md)
 - 📅 [2026-09-13](archive/2026-09-13.md)
@@ -40,9 +41,8 @@ An automated **Tech & AI News Digest** that aggregates top trending discussions 
 - 📅 [2026-09-05](archive/2026-09-05.md)
 - 📅 [2026-09-04](archive/2026-09-04.md)
 - 📅 [2026-09-03](archive/2026-09-03.md)
-- 📅 [2026-09-02](archive/2026-09-02.md)
 
-*... and [19 older editions in the archive folder](archive/)*
+*... and [20 older editions in the archive folder](archive/)*
 
 ---
 
