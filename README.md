@@ -12,16 +12,16 @@ An automated **Tech & AI News Digest** that aggregates top trending discussions 
 
 | # | Story | Points | Comments | Discussion |
 |:---:|:---|:---:|:---:|:---:|
-| **1** | [Introducing System One Models and Jev](https://typesafe.ai/blog/introducing-system-one-models-and-jev) | ⭐ 1088 | 💬 329 | [HN Thread](https://news.ycombinator.com/item?id=49717558) |
-| **2** | [Apple Reference Image: A New Approach for Verified Photography](https://security.apple.com/blog/apple-reference-image/) | ⭐ 137 | 💬 75 | [HN Thread](https://news.ycombinator.com/item?id=49721322) |
-| **3** | [Show HN: An e-ink frame that hears birds and draws them as 1800s illustrations](https://github.com/arnegiacomo/fugleramme) | ⭐ 1481 | 💬 191 | [HN Thread](https://news.ycombinator.com/item?id=49711544) |
-| **4** | [Show HN: I made a flight simulator, except you're just a passenger](https://inflightsimulator.com) | ⭐ 91 | 💬 46 | [HN Thread](https://news.ycombinator.com/item?id=49693971) |
-| **5** | [Negativland, Culture Jamming, and the Art of Making Something New](https://blog.archive.org/2026/09/11/negativland-culture-jamming-and-the-art-of-making-something-new/) | ⭐ 62 | 💬 17 | [HN Thread](https://news.ycombinator.com/item?id=49721548) |
-| **6** | [An update on Wayback Machine access](https://blog.archive.org/2026/09/15/an-update-on-wayback-machine-access/) | ⭐ 482 | 💬 249 | [HN Thread](https://news.ycombinator.com/item?id=49716176) |
-| **7** | [Gemini 3.8 Live and 3.8 Live Extended Thinking](https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-8-live-gemini-3-8-live-extended-thinking/) | ⭐ 371 | 💬 235 | [HN Thread](https://news.ycombinator.com/item?id=49715947) |
-| **8** | [Recreating Voodoo Graphics and a Late-1990s Gaming PC on an FPGA](https://nand2mario.github.io/posts/2026/zsst-voodoo/) | ⭐ 89 | 💬 17 | [HN Thread](https://news.ycombinator.com/item?id=49719938) |
-| **9** | [German Rheinmetall open-sources its Battlesuite connected weapon system protcol](https://rheinmetall.github.io/onboardapi-documentation/9.10.0/index.html) | ⭐ 175 | 💬 55 | [HN Thread](https://news.ycombinator.com/item?id=49718928) |
-| **10** | [Datamimic – don't let your coding agent invent its own test world](https://github.com/rapiddweller/datamimic) | ⭐ 9 | 💬 2 | [HN Thread](https://news.ycombinator.com/item?id=49722276) |
+| **1** | [Code Is CRAP [2011]](https://testing.googleblog.com/2011/02/this-code-is-crap.html) | ⭐ 40 | 💬 29 | [HN Thread](https://news.ycombinator.com/item?id=49729228) |
+| **2** | [Claude Cowork and chat are now one Claude](https://claude.com/blog/cowork-is-now-claude) | ⭐ 21 | 💬 5 | [HN Thread](https://news.ycombinator.com/item?id=49729412) |
+| **3** | [Dream-RSI: Recursive Self-Improvement through Evolving Worlds](https://arxiv.org/abs/2609.14858) | ⭐ 97 | 💬 24 | [HN Thread](https://news.ycombinator.com/item?id=49726955) |
+| **4** | [Small Programming Tricks](https://will-keleher.com/posts/small-programming-tricks-matter/) | ⭐ 64 | 💬 45 | [HN Thread](https://news.ycombinator.com/item?id=49729000) |
+| **5** | [Mistral X Mozilla: Private, Multilingual AI Browsing](https://mistral.ai/news/mistral-x-mozilla/) | ⭐ 360 | 💬 118 | [HN Thread](https://news.ycombinator.com/item?id=49723408) |
+| **6** | [Introducing System One Models and Jev](https://typesafe.ai/blog/introducing-system-one-models-and-jev) | ⭐ 1701 | 💬 459 | [HN Thread](https://news.ycombinator.com/item?id=49717558) |
+| **7** | [Measuring Gauss-Seidel loop-carried dependency and fixing it via loop unrolling](https://loiseaujc.github.io/posts/blog-title/make_gauss_seidel_great_again.html) | ⭐ 12 | 💬 0 | [HN Thread](https://news.ycombinator.com/item?id=49710201) |
+| **8** | [Show HN: An e-ink frame that hears birds and draws them as 1800s illustrations](https://github.com/arnegiacomo/fugleramme) | ⭐ 1869 | 💬 222 | [HN Thread](https://news.ycombinator.com/item?id=49711544) |
+| **9** | [Tell the speakers that you liked their talks](https://ohhelloana.blog/tell-the-speakers/) | ⭐ 90 | 💬 26 | [HN Thread](https://news.ycombinator.com/item?id=49710903) |
+| **10** | [How Big Are Factorials?](https://eli.thegreenplace.net/2026/how-big-are-factorials/) | ⭐ 30 | 💬 13 | [HN Thread](https://news.ycombinator.com/item?id=49712185) |
 
 ---
 
