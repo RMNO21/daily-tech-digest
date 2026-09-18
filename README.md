@@ -12,16 +12,16 @@ An automated **Tech & AI News Digest** that aggregates top trending discussions 
 
 | # | Story | Points | Comments | Discussion |
 |:---:|:---|:---:|:---:|:---:|
-| **1** | [Cloudflare Quick Tunnels](https://try.cloudflare.com/) | ⭐ 121 | 💬 70 | [HN Thread](https://news.ycombinator.com/item?id=49754785) |
-| **2** | [An Empirical Study of Harness Design for Coding Agents](https://arxiv.org/abs/2609.20804) | ⭐ 144 | 💬 31 | [HN Thread](https://news.ycombinator.com/item?id=49753878) |
-| **3** | [North Korean nuclear test sets off years of earthquakes](https://www.science.org/content/article/north-korean-nuclear-test-sets-years-earthquakes) | ⭐ 54 | 💬 41 | [HN Thread](https://news.ycombinator.com/item?id=49755160) |
-| **4** | [OpenJev](https://openjev.com/) | ⭐ 354 | 💬 194 | [HN Thread](https://news.ycombinator.com/item?id=49752041) |
-| **5** | [GrassLobster: AI Agentic Generation of Parametric Geometry Workflows](https://www.miro.vision/index.php/2026/09/17/grasslobbster/) | ⭐ 12 | 💬 0 | [HN Thread](https://news.ycombinator.com/item?id=49755431) |
-| **6** | [Show HN: Microsoft Office running with Wine on Linux with no virtualization](https://github.com/Tombert/office365_flake) | ⭐ 9 | 💬 5 | [HN Thread](https://news.ycombinator.com/item?id=49746401) |
-| **7** | [I don't like passkeys](https://hawksley.dev/blog/i-dont-like-passkeys) | ⭐ 459 | 💬 431 | [HN Thread](https://news.ycombinator.com/item?id=49753211) |
-| **8** | [Mathematicians Build Long-Awaited Graph Sandwich](https://www.quantamagazine.org/mathematicians-build-long-awaited-graph-sandwich-20260918/) | ⭐ 16 | 💬 0 | [HN Thread](https://news.ycombinator.com/item?id=49755095) |
-| **9** | [The Shadows Lurking in the Equations – Underwater Islands](https://gods.art/articles/equation_shadows) | ⭐ 42 | 💬 8 | [HN Thread](https://news.ycombinator.com/item?id=49721507) |
-| **10** | [US Treasuries Have Become Unappetizing for Foreign Central Banks and Governments](https://wolfstreet.com/2026/09/17/treasuries-have-become-badly-unappetizing-for-foreign-central-banks-governments/) | ⭐ 30 | 💬 6 | [HN Thread](https://news.ycombinator.com/item?id=49756171) |
+| **1** | [Cloudflare Quick Tunnels](https://try.cloudflare.com/) | ⭐ 374 | 💬 178 | [HN Thread](https://news.ycombinator.com/item?id=49754785) |
+| **2** | [Saving another 100TB of RAM with math (and Rust)](https://blog.cloudflare.com/saving-100-tb-of-ram-with-math/) | ⭐ 18 | 💬 1 | [HN Thread](https://news.ycombinator.com/item?id=49758580) |
+| **3** | [Photon-Emission-Guided Laser Fault Injection Enables RP2350 Secure Debug](https://donjon.ledger.com/blog/rp2350-secure-debug-laser-fault-injection/) | ⭐ 95 | 💬 24 | [HN Thread](https://news.ycombinator.com/item?id=49757050) |
+| **4** | [Show HN: Cactus Needle 3: 8-29MB automation models can match DeepSeek V4 Flash](https://cactuscompute.com/needle) | ⭐ 99 | 💬 50 | [HN Thread](https://news.ycombinator.com/item?id=49748553) |
+| **5** | [Android 17 is the first since 3.x to add new APIs without releasing to the AOSP](https://grapheneos.social/@GrapheneOS/117282080803799576) | ⭐ 9 | 💬 1 | [HN Thread](https://news.ycombinator.com/item?id=49758736) |
+| **6** | [US Military had close call after using AI for hallucinated intelligence report](https://www.cnn.com/2026/09/18/politics/us-military-ai-false-intelligence-china-ship) | ⭐ 206 | 💬 125 | [HN Thread](https://news.ycombinator.com/item?id=49757520) |
+| **7** | [North Korean nuclear test sets off years of earthquakes](https://www.science.org/content/article/north-korean-nuclear-test-sets-years-earthquakes) | ⭐ 139 | 💬 110 | [HN Thread](https://news.ycombinator.com/item?id=49755160) |
+| **8** | [OpenJev](https://openjev.com/) | ⭐ 457 | 💬 227 | [HN Thread](https://news.ycombinator.com/item?id=49752041) |
+| **9** | [Cache-to-Cache: Direct Semantic Communication Between Large Language Models](https://arxiv.org/abs/2510.03215) | ⭐ 7 | 💬 0 | [HN Thread](https://news.ycombinator.com/item?id=49758615) |
+| **10** | [Systemd is a suite of basic building blocks](https://brand.systemd.io/) | ⭐ 26 | 💬 33 | [HN Thread](https://news.ycombinator.com/item?id=49756762) |
 
 ---
 
