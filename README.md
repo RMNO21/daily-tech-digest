@@ -12,21 +12,22 @@ An automated **Tech & AI News Digest** that aggregates top trending discussions 
 
 | # | Story | Points | Comments | Discussion |
 |:---:|:---|:---:|:---:|:---:|
-| **1** | [Training a 4B model to produce 81% faster query plans than Postgres](https://rohanbansal.com/qorl) | ⭐ 308 | 💬 58 | [HN Thread](https://news.ycombinator.com/item?id=49731285) |
-| **2** | [Breaking the 1.58-bit Barrier for Ternary LLMs](https://arxiv.org/abs/2609.16338) | ⭐ 82 | 💬 5 | [HN Thread](https://news.ycombinator.com/item?id=49732931) |
-| **3** | [Xiaomi Mimo 2.6 live post-training dashboard](https://mimo.xiaomi.com/rl/) | ⭐ 168 | 💬 45 | [HN Thread](https://news.ycombinator.com/item?id=49732270) |
-| **4** | [Nvidia announces native GPU programming in Rust](https://developer.nvidia.com/blog/introducing-cuda-rust-two-tracks-for-writing-gpu-kernels/) | ⭐ 61 | 💬 10 | [HN Thread](https://news.ycombinator.com/item?id=49724881) |
-| **5** | [Small programming tricks](https://will-keleher.com/posts/small-programming-tricks-matter/) | ⭐ 336 | 💬 166 | [HN Thread](https://news.ycombinator.com/item?id=49729000) |
-| **6** | [Reversing Factorio's RNG](https://gegell.github.io/posts/factorio-rng/) | ⭐ 91 | 💬 11 | [HN Thread](https://news.ycombinator.com/item?id=49674451) |
-| **7** | [Performance Improvements in .NET 11](https://devblogs.microsoft.com/dotnet/performance-improvements-in-net-11/) | ⭐ 105 | 💬 11 | [HN Thread](https://news.ycombinator.com/item?id=49711424) |
-| **8** | [AWS says it can't restore some data from mideast facilities struck by Iran](https://www.wsj.com/world/middle-east/aws-says-it-cant-restore-some-data-from-mideast-facilities-struck-by-iran-ddcb7e5d) | ⭐ 142 | 💬 107 | [HN Thread](https://news.ycombinator.com/item?id=49719249) |
-| **9** | [Backups Aren't Simple](https://filipovski.net/2026/09/16/backups-arent-simple.html) | ⭐ 11 | 💬 0 | [HN Thread](https://news.ycombinator.com/item?id=49732513) |
-| **10** | [The engineering behind the US Strategic Petroleum Reserve](https://johnjwang.com/post/2026/09/15/engineering-behind-us-strategic-petroleum-reserve) | ⭐ 16 | 💬 0 | [HN Thread](https://news.ycombinator.com/item?id=49719596) |
+| **1** | [Hacking OpenAI](https://www.hacktron.ai/blog/hacking-openai) | ⭐ 199 | 💬 54 | [HN Thread](https://news.ycombinator.com/item?id=49749656) |
+| **2** | [Waymo in Singapore](https://waymo.com/waymo-in-singapore/) | ⭐ 66 | 💬 33 | [HN Thread](https://news.ycombinator.com/item?id=49749981) |
+| **3** | [Astra for Law](https://openai.com/index/astra-for-law/) | ⭐ 423 | 💬 454 | [HN Thread](https://news.ycombinator.com/item?id=49745940) |
+| **4** | [Bonsai 2 27B: Near-Lossless Compression in a 9x Smaller Footprint](https://prismml.com/news/bonsai-2-27b) | ⭐ 344 | 💬 113 | [HN Thread](https://news.ycombinator.com/item?id=49746618) |
+| **5** | [Bend – A language that blocks AI mistakes via proof, on CPU and GPU](https://bend-lang.com/) | ⭐ 392 | 💬 192 | [HN Thread](https://news.ycombinator.com/item?id=49746163) |
+| **6** | [Jemalloc 5.4.0](https://github.com/jemalloc/jemalloc/releases/tag/5.4.0) | ⭐ 13 | 💬 0 | [HN Thread](https://news.ycombinator.com/item?id=49750152) |
+| **7** | [Pre-Greek: The lost language hidden within Ancient Greek](https://linguisticdiscovery.com/posts/pre-greek/) | ⭐ 34 | 💬 8 | [HN Thread](https://news.ycombinator.com/item?id=49749771) |
+| **8** | [The Scourge of x86 Emulation](https://fex-emu.com/Scourge-of-emulation/) | ⭐ 18 | 💬 0 | [HN Thread](https://news.ycombinator.com/item?id=49750094) |
+| **9** | [Hister: A private search engine for the pages you visit and the files you keep](https://github.com/asciimoo/hister) | ⭐ 545 | 💬 143 | [HN Thread](https://news.ycombinator.com/item?id=49743097) |
+| **10** | [Qwen 3.8 Omni Flash](https://qwen.ai/blog?id=qwen3.8-omni-flash) | ⭐ 136 | 💬 29 | [HN Thread](https://news.ycombinator.com/item?id=49747925) |
 
 ---
 
 ## 🗄️ News Archive
 
+- 📅 [2026-09-18](archive/2026-09-18.md)
 - 📅 [2026-09-16](archive/2026-09-16.md)
 - 📅 [2026-09-15](archive/2026-09-15.md)
 - 📅 [2026-09-14](archive/2026-09-14.md)
@@ -40,9 +41,8 @@ An automated **Tech & AI News Digest** that aggregates top trending discussions 
 - 📅 [2026-09-06](archive/2026-09-06.md)
 - 📅 [2026-09-05](archive/2026-09-05.md)
 - 📅 [2026-09-04](archive/2026-09-04.md)
-- 📅 [2026-09-03](archive/2026-09-03.md)
 
-*... and [20 older editions in the archive folder](archive/)*
+*... and [21 older editions in the archive folder](archive/)*
 
 ---
 
