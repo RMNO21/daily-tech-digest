@@ -12,16 +12,16 @@ An automated **Tech & AI News Digest** that aggregates top trending discussions 
 
 | # | Story | Points | Comments | Discussion |
 |:---:|:---|:---:|:---:|:---:|
-| **1** | [San Francisco Onion Futures Company](https://onionfutures.com/) | ⭐ 106 | 💬 32 | [HN Thread](https://news.ycombinator.com/item?id=49763296) |
-| **2** | [Android 17 is the first since 3.x to add new APIs without releasing to the AOSP](https://grapheneos.social/@GrapheneOS/117282080803799576) | ⭐ 721 | 💬 353 | [HN Thread](https://news.ycombinator.com/item?id=49758736) |
-| **3** | [Typesafe-computer-use drives a Mac toward a goal for 1/50th of a cent per step](https://github.com/awlevin/typesafe-computer-use) | ⭐ 36 | 💬 9 | [HN Thread](https://news.ycombinator.com/item?id=49733647) |
-| **4** | [SDCC – Small Device C Compiler](https://sdcc.sourceforge.net/) | ⭐ 44 | 💬 9 | [HN Thread](https://news.ycombinator.com/item?id=49762744) |
-| **5** | [Science Is Open Software](https://jepedersen.dk/blog/202505_research/) | ⭐ 50 | 💬 20 | [HN Thread](https://news.ycombinator.com/item?id=49762687) |
-| **6** | [How OpenAI Used Its Own LLMs to Design Its Jalapeño Chip](https://spectrum.ieee.org/llms-for-chip-design) | ⭐ 98 | 💬 73 | [HN Thread](https://news.ycombinator.com/item?id=49761432) |
-| **7** | [Cloudflare Quick Tunnels](https://try.cloudflare.com/) | ⭐ 657 | 💬 272 | [HN Thread](https://news.ycombinator.com/item?id=49754785) |
-| **8** | [Saving another 100TB of RAM](https://blog.cloudflare.com/saving-100-tb-of-ram-with-math/) | ⭐ 304 | 💬 58 | [HN Thread](https://news.ycombinator.com/item?id=49758580) |
-| **9** | [Why building a Rust LSP is hard](https://rust-glancer.github.io/blog/why-lsp-is-hard/) | ⭐ 36 | 💬 18 | [HN Thread](https://news.ycombinator.com/item?id=49734131) |
-| **10** | [How to Write with an LLM](https://sockpuppet.org/blog/2026/09/17/how-to-write-with-an-llm/) | ⭐ 457 | 💬 307 | [HN Thread](https://news.ycombinator.com/item?id=49747070) |
+| **1** | [Human brain is two separate organs, Stanford Medicine-led research finds](https://med.stanford.edu/news/all-news/2026/09/two-separate-brains.html) | ⭐ 260 | 💬 107 | [HN Thread](https://news.ycombinator.com/item?id=49763697) |
+| **2** | [AI-generated posters don’t have to be horrible](https://john.hartnup.uk/2026/06/07/ai-event-posters.html) | ⭐ 147 | 💬 98 | [HN Thread](https://news.ycombinator.com/item?id=49764791) |
+| **3** | [If math is more than proof, we need to better celebrate the rest of it](https://terrytao.wordpress.com/2026/09/18/if-math-is-more-than-proof-we-need-to-better-celebrate-the-rest-of-it/) | ⭐ 115 | 💬 82 | [HN Thread](https://news.ycombinator.com/item?id=49763928) |
+| **4** | [GPT-6 Astra Solves a WWI German Radio Cipher](https://www.prinzai.com/p/gpt-6-astra-solves-a-wwi-german-radio) | ⭐ 131 | 💬 64 | [HN Thread](https://news.ycombinator.com/item?id=49763987) |
+| **5** | [Android 17 is the first since 3.x to add new APIs without releasing to the AOSP](https://grapheneos.social/@GrapheneOS/117282080803799576) | ⭐ 861 | 💬 433 | [HN Thread](https://news.ycombinator.com/item?id=49758736) |
+| **6** | [San Francisco Onion Futures Company](https://onionfutures.com/) | ⭐ 202 | 💬 72 | [HN Thread](https://news.ycombinator.com/item?id=49763296) |
+| **7** | [“The Secret Life of Circuits” is here](https://blog.coredump.cx/p/the-secret-life-of-circuits-is-here) | ⭐ 40 | 💬 17 | [HN Thread](https://news.ycombinator.com/item?id=49720143) |
+| **8** | [Apple M6 Pro Achieves the Highest Single-Core CPU Score in Geekbench 7](https://browser.geekbench.com/v7/cpu/389219) | ⭐ 69 | 💬 49 | [HN Thread](https://news.ycombinator.com/item?id=49763883) |
+| **9** | [Cloudflare Quick Tunnels](https://try.cloudflare.com/) | ⭐ 714 | 💬 285 | [HN Thread](https://news.ycombinator.com/item?id=49754785) |
+| **10** | [SDCC – Small Device C Compiler](https://sdcc.sourceforge.net/) | ⭐ 89 | 💬 18 | [HN Thread](https://news.ycombinator.com/item?id=49762744) |
 
 ---
 
