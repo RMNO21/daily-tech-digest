@@ -12,21 +12,22 @@ An automated **Tech & AI News Digest** that aggregates top trending discussions 
 
 | # | Story | Points | Comments | Discussion |
 |:---:|:---|:---:|:---:|:---:|
-| **1** | [Claude Code now reads AGENTS.md if there is no Claude.md](https://code.claude.com/docs/en/changelog) | ⭐ 242 | 💬 97 | [HN Thread](https://news.ycombinator.com/item?id=49760187) |
-| **2** | [Android 17 is the first since 3.x to add new APIs without releasing to the AOSP](https://grapheneos.social/@GrapheneOS/117282080803799576) | ⭐ 374 | 💬 171 | [HN Thread](https://news.ycombinator.com/item?id=49758736) |
-| **3** | [Saving another 100TB of RAM](https://blog.cloudflare.com/saving-100-tb-of-ram-with-math/) | ⭐ 148 | 💬 32 | [HN Thread](https://news.ycombinator.com/item?id=49758580) |
-| **4** | [Cloudflare Quick Tunnels](https://try.cloudflare.com/) | ⭐ 495 | 💬 216 | [HN Thread](https://news.ycombinator.com/item?id=49754785) |
-| **5** | [Xcode 27.1 Beta Release Notes](https://developer.apple.com/documentation/xcode-release-notes/xcode-27_1-release-notes) | ⭐ 98 | 💬 55 | [HN Thread](https://news.ycombinator.com/item?id=49758419) |
-| **6** | [Cache-to-Cache: Direct Semantic Communication Between LLMs (2025)](https://arxiv.org/abs/2510.03215) | ⭐ 52 | 💬 10 | [HN Thread](https://news.ycombinator.com/item?id=49758615) |
-| **7** | [Photon-Emission-Guided Laser Fault Injection Enables RP2350 Secure Debug](https://donjon.ledger.com/blog/rp2350-secure-debug-laser-fault-injection/) | ⭐ 135 | 💬 41 | [HN Thread](https://news.ycombinator.com/item?id=49757050) |
-| **8** | [Show HN: Cactus Needle 3: 8-29MB automation models can match DeepSeek V4 Flash](https://cactuscompute.com/needle) | ⭐ 144 | 💬 71 | [HN Thread](https://news.ycombinator.com/item?id=49748553) |
-| **9** | [How to Write with an LLM](https://sockpuppet.org/blog/2026/09/17/how-to-write-with-an-llm/) | ⭐ 341 | 💬 236 | [HN Thread](https://news.ycombinator.com/item?id=49747070) |
-| **10** | [OpenJev](https://openjev.com/) | ⭐ 513 | 💬 234 | [HN Thread](https://news.ycombinator.com/item?id=49752041) |
+| **1** | [San Francisco Onion Futures Company](https://onionfutures.com/) | ⭐ 106 | 💬 32 | [HN Thread](https://news.ycombinator.com/item?id=49763296) |
+| **2** | [Android 17 is the first since 3.x to add new APIs without releasing to the AOSP](https://grapheneos.social/@GrapheneOS/117282080803799576) | ⭐ 721 | 💬 353 | [HN Thread](https://news.ycombinator.com/item?id=49758736) |
+| **3** | [Typesafe-computer-use drives a Mac toward a goal for 1/50th of a cent per step](https://github.com/awlevin/typesafe-computer-use) | ⭐ 36 | 💬 9 | [HN Thread](https://news.ycombinator.com/item?id=49733647) |
+| **4** | [SDCC – Small Device C Compiler](https://sdcc.sourceforge.net/) | ⭐ 44 | 💬 9 | [HN Thread](https://news.ycombinator.com/item?id=49762744) |
+| **5** | [Science Is Open Software](https://jepedersen.dk/blog/202505_research/) | ⭐ 50 | 💬 20 | [HN Thread](https://news.ycombinator.com/item?id=49762687) |
+| **6** | [How OpenAI Used Its Own LLMs to Design Its Jalapeño Chip](https://spectrum.ieee.org/llms-for-chip-design) | ⭐ 98 | 💬 73 | [HN Thread](https://news.ycombinator.com/item?id=49761432) |
+| **7** | [Cloudflare Quick Tunnels](https://try.cloudflare.com/) | ⭐ 657 | 💬 272 | [HN Thread](https://news.ycombinator.com/item?id=49754785) |
+| **8** | [Saving another 100TB of RAM](https://blog.cloudflare.com/saving-100-tb-of-ram-with-math/) | ⭐ 304 | 💬 58 | [HN Thread](https://news.ycombinator.com/item?id=49758580) |
+| **9** | [Why building a Rust LSP is hard](https://rust-glancer.github.io/blog/why-lsp-is-hard/) | ⭐ 36 | 💬 18 | [HN Thread](https://news.ycombinator.com/item?id=49734131) |
+| **10** | [How to Write with an LLM](https://sockpuppet.org/blog/2026/09/17/how-to-write-with-an-llm/) | ⭐ 457 | 💬 307 | [HN Thread](https://news.ycombinator.com/item?id=49747070) |
 
 ---
 
 ## 🗄️ News Archive
 
+- 📅 [2026-09-19](archive/2026-09-19.md)
 - 📅 [2026-09-18](archive/2026-09-18.md)
 - 📅 [2026-09-16](archive/2026-09-16.md)
 - 📅 [2026-09-15](archive/2026-09-15.md)
@@ -40,9 +41,8 @@ An automated **Tech & AI News Digest** that aggregates top trending discussions 
 - 📅 [2026-09-07](archive/2026-09-07.md)
 - 📅 [2026-09-06](archive/2026-09-06.md)
 - 📅 [2026-09-05](archive/2026-09-05.md)
-- 📅 [2026-09-04](archive/2026-09-04.md)
 
-*... and [21 older editions in the archive folder](archive/)*
+*... and [22 older editions in the archive folder](archive/)*
 
 ---
 
