@@ -12,16 +12,16 @@ An automated **Tech & AI News Digest** that aggregates top trending discussions 
 
 | # | Story | Points | Comments | Discussion |
 |:---:|:---|:---:|:---:|:---:|
-| **1** | [ZuckOff Know when a camera is in the room](https://zuckoff.app/) | ⭐ 500 | 💬 209 | [HN Thread](https://news.ycombinator.com/item?id=49785429) |
-| **2** | [Disney+: New user agreement allows ads before movies in all subscriptions](https://consumerrights.wiki/w/Disney%2B_ad_policy_change) | ⭐ 263 | 💬 184 | [HN Thread](https://news.ycombinator.com/item?id=49784336) |
-| **3** | [Kev: Tiny Jev-like family of decision models built on top of Qwen3.5](https://github.com/jaredpalmer/kev/tree/main) | ⭐ 225 | 💬 97 | [HN Thread](https://news.ycombinator.com/item?id=49783999) |
-| **4** | [Jev-Leftpad](https://github.com/f/jev-leftpad) | ⭐ 163 | 💬 61 | [HN Thread](https://news.ycombinator.com/item?id=49784706) |
-| **5** | [What Sun Got Wrong](https://bcantrill.dtrace.org/2026/09/20/what-sun-got-wrong/) | ⭐ 4 | 💬 0 | [HN Thread](https://news.ycombinator.com/item?id=49787436) |
-| **6** | [Grim Fandango Puzzle Document (1996) [pdf]](http://gameshelf.jmac.org/2008/11/13/GrimPuzzleDoc_small.pdf) | ⭐ 273 | 💬 60 | [HN Thread](https://news.ycombinator.com/item?id=49783495) |
-| **7** | [AX – Google’s Open Agentic Orchestrator](https://agentexecutor.io) | ⭐ 567 | 💬 259 | [HN Thread](https://news.ycombinator.com/item?id=49780797) |
-| **8** | [Show HN: Lossless-memory – a personal AI memory that never summarizes](https://github.com/aru-labs/lossless-memory) | ⭐ 16 | 💬 7 | [HN Thread](https://news.ycombinator.com/item?id=49786419) |
-| **9** | [ZuckOff Is a Free App That Sees Meta Glasses Before They See You](https://www.wired.me/story/meta-smart-glasses-detector-app-zuckoff) | ⭐ 250 | 💬 30 | [HN Thread](https://news.ycombinator.com/item?id=49785397) |
-| **10** | [Samsung is expected to more than double output of its HBM4 and HBM4E DRAM](https://en.sedaily.com/finance/2026/09/20/samsung-to-double-hbm4-output-next-year-sources-say) | ⭐ 514 | 💬 370 | [HN Thread](https://news.ycombinator.com/item?id=49778029) |
+| **1** | [What Sun got wrong](https://bcantrill.dtrace.org/2026/09/20/what-sun-got-wrong/) | ⭐ 375 | 💬 199 | [HN Thread](https://news.ycombinator.com/item?id=49787436) |
+| **2** | [Attention is all you have](https://alicegg.tech/2026/09/21/attention) | ⭐ 356 | 💬 101 | [HN Thread](https://news.ycombinator.com/item?id=49787726) |
+| **3** | [Turn off and restrict access to Apple Intelligence features on Mac](https://support.apple.com/guide/mac-help/turn-restrict-access-apple-intelligence-mchlb2e44f94/mac) | ⭐ 105 | 💬 72 | [HN Thread](https://news.ycombinator.com/item?id=49790409) |
+| **4** | [Why Does an NPM Math Library Need an Encrypted Loader?](https://safedep.io/mathmain-encrypted-loader/) | ⭐ 34 | 💬 2 | [HN Thread](https://news.ycombinator.com/item?id=49791378) |
+| **5** | [Grok 4.7](https://x.ai/news/grok-4-7) | ⭐ 341 | 💬 285 | [HN Thread](https://news.ycombinator.com/item?id=49788838) |
+| **6** | [In Search of a Compositional Theory of Self-Stabilization](http://muratbuffalo.blogspot.com/2026/09/in-search-of-compositional-theory-of.html) | ⭐ 9 | 💬 0 | [HN Thread](https://news.ycombinator.com/item?id=49791797) |
+| **7** | [US halts flights at busy East Coast airports, says fiber line cut](https://www.reuters.com/world/us/faa-halts-some-us-east-coast-flights-due-communication-issues-2026-09-21/) | ⭐ 63 | 💬 23 | [HN Thread](https://news.ycombinator.com/item?id=49791509) |
+| **8** | [Avoiding the babbling-idiot failure in a time-triggered communication system](https://ieeexplore.ieee.org/document/689473) | ⭐ 13 | 💬 2 | [HN Thread](https://news.ycombinator.com/item?id=49791117) |
+| **9** | [Python Workers are now generally available](https://blog.cloudflare.com/python-workers-ga/) | ⭐ 121 | 💬 15 | [HN Thread](https://news.ycombinator.com/item?id=49787142) |
+| **10** | [This Digital Radio Gets Messages to the World’s Remotest Locations](https://spectrum.ieee.org/hermes-shortwave-radio-digital-data) | ⭐ 49 | 💬 26 | [HN Thread](https://news.ycombinator.com/item?id=49789228) |
 
 ---
 
