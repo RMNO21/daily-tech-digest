@@ -12,21 +12,22 @@ An automated **Tech & AI News Digest** that aggregates top trending discussions 
 
 | # | Story | Points | Comments | Discussion |
 |:---:|:---|:---:|:---:|:---:|
-| **1** | [Xiaomi MiMo v2.6](https://mimo.xiaomi.com/mimo-v2-6) | ⭐ 391 | 💬 197 | [HN Thread](https://news.ycombinator.com/item?id=49792730) |
-| **2** | [NASA’s Mars Sample Return mission is dead](https://www.science.org/content/article/nasa-s-mars-sample-return-mission-dead) | ⭐ 251 | 💬 183 | [HN Thread](https://news.ycombinator.com/item?id=49791939) |
-| **3** | [Suspension of the de minimis administrative exemption for imports $800 or less](https://www.personalimportation.org/advocacy) | ⭐ 93 | 💬 48 | [HN Thread](https://news.ycombinator.com/item?id=49793322) |
-| **4** | [Data Protection Commission fines Google €403M over processing of location data](https://www.dataprotection.ie/en/news-media/latest-news/data-protection-commission-fines-google-eu403-million-following-inquiry-googles-processing-location) | ⭐ 22 | 💬 3 | [HN Thread](https://news.ycombinator.com/item?id=49794354) |
-| **5** | [Transformers Explained Visually](https://poloclub.github.io/transformer-explainer/) | ⭐ 134 | 💬 19 | [HN Thread](https://news.ycombinator.com/item?id=49792342) |
-| **6** | [What Sun got wrong](https://bcantrill.dtrace.org/2026/09/20/what-sun-got-wrong/) | ⭐ 471 | 💬 260 | [HN Thread](https://news.ycombinator.com/item?id=49787436) |
-| **7** | [Attention is all you have](https://alicegg.tech/2026/09/21/attention) | ⭐ 531 | 💬 152 | [HN Thread](https://news.ycombinator.com/item?id=49787726) |
-| **8** | [AI coding has made CI a bottleneck, so we reworked ours to keep up](https://linear.app/now/ci-bottleneck-reworked) | ⭐ 108 | 💬 93 | [HN Thread](https://news.ycombinator.com/item?id=49792067) |
-| **9** | [I don't want to read what you didn't write](https://blog.colinbreck.com/i-dont-want-to-read-what-you-didnt-write/) | ⭐ 64 | 💬 22 | [HN Thread](https://news.ycombinator.com/item?id=49794330) |
-| **10** | [Divide by depth for instant 3D](https://gabrieloc.com/2026/09/15/perspective.html) | ⭐ 59 | 💬 5 | [HN Thread](https://news.ycombinator.com/item?id=49769561) |
+| **1** | [MiMo v2.6](https://mimo.xiaomi.com/mimo-v2-6) | ⭐ 689 | 💬 326 | [HN Thread](https://news.ycombinator.com/item?id=49792730) |
+| **2** | [Spymarks, Not Watermarks](https://brand.io/article/spymarks/) | ⭐ 244 | 💬 45 | [HN Thread](https://news.ycombinator.com/item?id=49794615) |
+| **3** | [Transformers Explained Visually](https://poloclub.github.io/transformer-explainer/) | ⭐ 275 | 💬 42 | [HN Thread](https://news.ycombinator.com/item?id=49792342) |
+| **4** | [What Sun got wrong](https://bcantrill.dtrace.org/2026/09/20/what-sun-got-wrong/) | ⭐ 541 | 💬 313 | [HN Thread](https://news.ycombinator.com/item?id=49787436) |
+| **5** | [Attention is all you have](https://alicegg.tech/2026/09/21/attention) | ⭐ 659 | 💬 198 | [HN Thread](https://news.ycombinator.com/item?id=49787726) |
+| **6** | [I don't want to read what you didn't write](https://blog.colinbreck.com/i-dont-want-to-read-what-you-didnt-write/) | ⭐ 461 | 💬 159 | [HN Thread](https://news.ycombinator.com/item?id=49794330) |
+| **7** | [PDF Forgeries Are Surprisingly Rare (2022)](https://gwern.net/blog/2022/pdf-forgery) | ⭐ 14 | 💬 12 | [HN Thread](https://news.ycombinator.com/item?id=49774269) |
+| **8** | [NASA’s Mars Sample Return mission is dead](https://www.science.org/content/article/nasa-s-mars-sample-return-mission-dead) | ⭐ 345 | 💬 283 | [HN Thread](https://news.ycombinator.com/item?id=49791939) |
+| **9** | [Claude Status – Elevated errors for multiple models](https://status.claude.com/incidents/7g1qpkyz5gxh) | ⭐ 83 | 💬 62 | [HN Thread](https://news.ycombinator.com/item?id=49795579) |
+| **10** | [AI coding has made CI a bottleneck, so we reworked ours to keep up](https://linear.app/now/ci-bottleneck-reworked) | ⭐ 178 | 💬 184 | [HN Thread](https://news.ycombinator.com/item?id=49792067) |
 
 ---
 
 ## 🗄️ News Archive
 
+- 📅 [2026-09-22](archive/2026-09-22.md)
 - 📅 [2026-09-21](archive/2026-09-21.md)
 - 📅 [2026-09-20](archive/2026-09-20.md)
 - 📅 [2026-09-19](archive/2026-09-19.md)
@@ -40,9 +41,8 @@ An automated **Tech & AI News Digest** that aggregates top trending discussions 
 - 📅 [2026-09-10](archive/2026-09-10.md)
 - 📅 [2026-09-09](archive/2026-09-09.md)
 - 📅 [2026-09-08](archive/2026-09-08.md)
-- 📅 [2026-09-07](archive/2026-09-07.md)
 
-*... and [24 older editions in the archive folder](archive/)*
+*... and [25 older editions in the archive folder](archive/)*
 
 ---
 
