@@ -12,16 +12,16 @@ An automated **Tech & AI News Digest** that aggregates top trending discussions 
 
 | # | Story | Points | Comments | Discussion |
 |:---:|:---|:---:|:---:|:---:|
-| **1** | [MiMo v2.6](https://mimo.xiaomi.com/mimo-v2-6) | ⭐ 689 | 💬 326 | [HN Thread](https://news.ycombinator.com/item?id=49792730) |
-| **2** | [Spymarks, Not Watermarks](https://brand.io/article/spymarks/) | ⭐ 244 | 💬 45 | [HN Thread](https://news.ycombinator.com/item?id=49794615) |
-| **3** | [Transformers Explained Visually](https://poloclub.github.io/transformer-explainer/) | ⭐ 275 | 💬 42 | [HN Thread](https://news.ycombinator.com/item?id=49792342) |
-| **4** | [What Sun got wrong](https://bcantrill.dtrace.org/2026/09/20/what-sun-got-wrong/) | ⭐ 541 | 💬 313 | [HN Thread](https://news.ycombinator.com/item?id=49787436) |
-| **5** | [Attention is all you have](https://alicegg.tech/2026/09/21/attention) | ⭐ 659 | 💬 198 | [HN Thread](https://news.ycombinator.com/item?id=49787726) |
-| **6** | [I don't want to read what you didn't write](https://blog.colinbreck.com/i-dont-want-to-read-what-you-didnt-write/) | ⭐ 461 | 💬 159 | [HN Thread](https://news.ycombinator.com/item?id=49794330) |
-| **7** | [PDF Forgeries Are Surprisingly Rare (2022)](https://gwern.net/blog/2022/pdf-forgery) | ⭐ 14 | 💬 12 | [HN Thread](https://news.ycombinator.com/item?id=49774269) |
-| **8** | [NASA’s Mars Sample Return mission is dead](https://www.science.org/content/article/nasa-s-mars-sample-return-mission-dead) | ⭐ 345 | 💬 283 | [HN Thread](https://news.ycombinator.com/item?id=49791939) |
-| **9** | [Claude Status – Elevated errors for multiple models](https://status.claude.com/incidents/7g1qpkyz5gxh) | ⭐ 83 | 💬 62 | [HN Thread](https://news.ycombinator.com/item?id=49795579) |
-| **10** | [AI coding has made CI a bottleneck, so we reworked ours to keep up](https://linear.app/now/ci-bottleneck-reworked) | ⭐ 178 | 💬 184 | [HN Thread](https://news.ycombinator.com/item?id=49792067) |
+| **1** | [Can gzip be a language model?](https://nathan.rs/posts/gzip-lm/) | ⭐ 136 | 💬 55 | [HN Thread](https://news.ycombinator.com/item?id=49797323) |
+| **2** | [Study: Young users (9 to 18Y) ditch Google for AI, with unknown consequences](https://norwegianscitechnews.com/2026/09/young-users-ditch-google-for-ai-with-unknown-consequences/) | ⭐ 19 | 💬 19 | [HN Thread](https://news.ycombinator.com/item?id=49798451) |
+| **3** | [MiMo v2.6](https://mimo.xiaomi.com/mimo-v2-6) | ⭐ 906 | 💬 402 | [HN Thread](https://news.ycombinator.com/item?id=49792730) |
+| **4** | [Spymarks, Not Watermarks](https://brand.io/article/spymarks/) | ⭐ 444 | 💬 110 | [HN Thread](https://news.ycombinator.com/item?id=49794615) |
+| **5** | [I said no and Apple said yes](https://dbushell.com/2026/09/22/apple-intelligence/) | ⭐ 128 | 💬 70 | [HN Thread](https://news.ycombinator.com/item?id=49797982) |
+| **6** | [AMD's random number generator can't generate a 0?](https://board.flatassembler.net/topic.php?t=24261) | ⭐ 13 | 💬 0 | [HN Thread](https://news.ycombinator.com/item?id=49798204) |
+| **7** | [Transformers Explained Visually](https://poloclub.github.io/transformer-explainer/) | ⭐ 412 | 💬 64 | [HN Thread](https://news.ycombinator.com/item?id=49792342) |
+| **8** | [Attention is all you have](https://alicegg.tech/2026/09/21/attention) | ⭐ 812 | 💬 243 | [HN Thread](https://news.ycombinator.com/item?id=49787726) |
+| **9** | [What Sun got wrong](https://bcantrill.dtrace.org/2026/09/20/what-sun-got-wrong/) | ⭐ 592 | 💬 342 | [HN Thread](https://news.ycombinator.com/item?id=49787436) |
+| **10** | [MiMo-v2.6-Pro: Intelligence, Performance and Price Analysis](https://artificialanalysis.ai/models/mimo-v2-6-pro) | ⭐ 64 | 💬 18 | [HN Thread](https://news.ycombinator.com/item?id=49796660) |
 
 ---
 
