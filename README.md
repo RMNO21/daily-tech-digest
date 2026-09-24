@@ -12,21 +12,22 @@ An automated **Tech & AI News Digest** that aggregates top trending discussions 
 
 | # | Story | Points | Comments | Discussion |
 |:---:|:---|:---:|:---:|:---:|
-| **1** | [GPT-6 Sol and Luna](https://openai.com/index/introducing-gpt-6-sol-and-luna/) | ⭐ 931 | 💬 497 | [HN Thread](https://news.ycombinator.com/item?id=49805509) |
-| **2** | [Claude Opus 5.5](https://www.anthropic.com/claude-opus-5-5) | ⭐ 983 | 💬 718 | [HN Thread](https://news.ycombinator.com/item?id=49803892) |
-| **3** | [Microsoft killed FoxPro in 2007. Anyway, here's FoxPro revived](https://foxscript.org/) | ⭐ 70 | 💬 42 | [HN Thread](https://news.ycombinator.com/item?id=49808023) |
-| **4** | [LLM Ass Bench](https://www.assbench.com/) | ⭐ 108 | 💬 32 | [HN Thread](https://news.ycombinator.com/item?id=49807688) |
-| **5** | [OpenAI GPT–6 Astra breaks Enigma message that has resisted solution since 2005](https://www.cryptocellar.org/bgac/the-mvueh-break.html) | ⭐ 510 | 💬 346 | [HN Thread](https://news.ycombinator.com/item?id=49801324) |
-| **6** | ['We hacked the FBI:' Hackers say they have data on all FBI employees](https://www.404media.co/we-hacked-the-fbi-hackers-say-they-have-data-on-all-fbi-employees/) | ⭐ 205 | 💬 149 | [HN Thread](https://news.ycombinator.com/item?id=49805278) |
-| **7** | [The UV index is not the warm sensation of sunlight on bare skin](https://blog.asciitweezers.com/the-uv-index-is-not-the-warm-sensation-of-sunlight-on-bare-skin/) | ⭐ 30 | 💬 15 | [HN Thread](https://news.ycombinator.com/item?id=49808109) |
-| **8** | [SAML: A Fractal of Bad Design](https://blog.trailofbits.com/2026/09/21/saml-a-fractal-of-bad-design/) | ⭐ 99 | 💬 49 | [HN Thread](https://news.ycombinator.com/item?id=49806335) |
-| **9** | [Claude Opus 5.5 Intelligence, Performance and Price Analysis (Max)](https://artificialanalysis.ai/models/claude-opus-5-5) | ⭐ 193 | 💬 53 | [HN Thread](https://news.ycombinator.com/item?id=49804316) |
-| **10** | [WordPress: Unauthenticated path traversal leading to conditional RCE](https://github.com/WordPress/wordpress-develop/security/advisories/GHSA-7hp8-65ch-5whp) | ⭐ 130 | 💬 66 | [HN Thread](https://news.ycombinator.com/item?id=49803959) |
+| **1** | [Linux support is coming to Snapdragon X2 Series](https://www.qualcomm.com/news/onq/2026/09/snapdragon-summit-agentic-ai-pcs-linux) | ⭐ 251 | 💬 122 | [HN Thread](https://news.ycombinator.com/item?id=49823582) |
+| **2** | [Claude discovers a novel enzyme system with CRISPR-like repeats](https://www.anthropic.com/news/claude-discovers-novel-enzyme-system) | ⭐ 566 | 💬 588 | [HN Thread](https://news.ycombinator.com/item?id=49820134) |
+| **3** | [Show HN: How long do I need to work at my salary before I can coast, or retire?](https://github.com/karmanyaahm/budget-tools/tree/main/fire) | ⭐ 24 | 💬 12 | [HN Thread](https://news.ycombinator.com/item?id=49826059) |
+| **4** | [Feds Target AI Critics as "Foreign Agents"](https://www.kenklippenstein.com/p/feds-think-ai-critics-are-foreign) | ⭐ 159 | 💬 133 | [HN Thread](https://news.ycombinator.com/item?id=49824686) |
+| **5** | [ArXiv receives multiyear commitments to support it as an independent nonprofit](https://blog.arxiv.org/2026/09/23/arxiv-receives-multiyear-investment/) | ⭐ 102 | 💬 14 | [HN Thread](https://news.ycombinator.com/item?id=49823664) |
+| **6** | [Making portable my unportable transputer C compiler](https://nanochess.org/transputer_c_compiler.html) | ⭐ 14 | 💬 1 | [HN Thread](https://news.ycombinator.com/item?id=49795600) |
+| **7** | [VSCode's SSH Agent Is Bananas (2025)](https://fly.io/blog/vscode-ssh-wtf/) | ⭐ 161 | 💬 104 | [HN Thread](https://news.ycombinator.com/item?id=49822555) |
+| **8** | [Virtio-nvgpu: Near-native Nvidia GPU access inside a KVM guest](https://github.com/nestrilabs/virtio-nvgpu) | ⭐ 40 | 💬 16 | [HN Thread](https://news.ycombinator.com/item?id=49824864) |
+| **9** | [The "Windows XP Box" (2003)](https://www.mini-itx.com/projects/windowsxpbox/) | ⭐ 93 | 💬 12 | [HN Thread](https://news.ycombinator.com/item?id=49796372) |
+| **10** | [Meta VR Glasses](https://www.meta.com/vr-glasses/) | ⭐ 309 | 💬 272 | [HN Thread](https://news.ycombinator.com/item?id=49824268) |
 
 ---
 
 ## 🗄️ News Archive
 
+- 📅 [2026-09-24](archive/2026-09-24.md)
 - 📅 [2026-09-22](archive/2026-09-22.md)
 - 📅 [2026-09-21](archive/2026-09-21.md)
 - 📅 [2026-09-20](archive/2026-09-20.md)
@@ -40,9 +41,8 @@ An automated **Tech & AI News Digest** that aggregates top trending discussions 
 - 📅 [2026-09-11](archive/2026-09-11.md)
 - 📅 [2026-09-10](archive/2026-09-10.md)
 - 📅 [2026-09-09](archive/2026-09-09.md)
-- 📅 [2026-09-08](archive/2026-09-08.md)
 
-*... and [25 older editions in the archive folder](archive/)*
+*... and [26 older editions in the archive folder](archive/)*
 
 ---
 
