@@ -12,21 +12,22 @@ An automated **Tech & AI News Digest** that aggregates top trending discussions 
 
 | # | Story | Points | Comments | Discussion |
 |:---:|:---|:---:|:---:|:---:|
-| **1** | [Linux support is coming to Snapdragon X2 Series](https://www.qualcomm.com/news/onq/2026/09/snapdragon-summit-agentic-ai-pcs-linux) | ⭐ 251 | 💬 122 | [HN Thread](https://news.ycombinator.com/item?id=49823582) |
-| **2** | [Claude discovers a novel enzyme system with CRISPR-like repeats](https://www.anthropic.com/news/claude-discovers-novel-enzyme-system) | ⭐ 566 | 💬 588 | [HN Thread](https://news.ycombinator.com/item?id=49820134) |
-| **3** | [Show HN: How long do I need to work at my salary before I can coast, or retire?](https://github.com/karmanyaahm/budget-tools/tree/main/fire) | ⭐ 24 | 💬 12 | [HN Thread](https://news.ycombinator.com/item?id=49826059) |
-| **4** | [Feds Target AI Critics as "Foreign Agents"](https://www.kenklippenstein.com/p/feds-think-ai-critics-are-foreign) | ⭐ 159 | 💬 133 | [HN Thread](https://news.ycombinator.com/item?id=49824686) |
-| **5** | [ArXiv receives multiyear commitments to support it as an independent nonprofit](https://blog.arxiv.org/2026/09/23/arxiv-receives-multiyear-investment/) | ⭐ 102 | 💬 14 | [HN Thread](https://news.ycombinator.com/item?id=49823664) |
-| **6** | [Making portable my unportable transputer C compiler](https://nanochess.org/transputer_c_compiler.html) | ⭐ 14 | 💬 1 | [HN Thread](https://news.ycombinator.com/item?id=49795600) |
-| **7** | [VSCode's SSH Agent Is Bananas (2025)](https://fly.io/blog/vscode-ssh-wtf/) | ⭐ 161 | 💬 104 | [HN Thread](https://news.ycombinator.com/item?id=49822555) |
-| **8** | [Virtio-nvgpu: Near-native Nvidia GPU access inside a KVM guest](https://github.com/nestrilabs/virtio-nvgpu) | ⭐ 40 | 💬 16 | [HN Thread](https://news.ycombinator.com/item?id=49824864) |
-| **9** | [The "Windows XP Box" (2003)](https://www.mini-itx.com/projects/windowsxpbox/) | ⭐ 93 | 💬 12 | [HN Thread](https://news.ycombinator.com/item?id=49796372) |
-| **10** | [Meta VR Glasses](https://www.meta.com/vr-glasses/) | ⭐ 309 | 💬 272 | [HN Thread](https://news.ycombinator.com/item?id=49824268) |
+| **1** | [Dutch governments builds alternative for Microsoft based on NixOS](https://www.dawo.community/en/) | ⭐ 554 | 💬 289 | [HN Thread](https://news.ycombinator.com/item?id=49841563) |
+| **2** | [Platform-Independent SIMD in Go](https://go.dev/blog/simd-experiment) | ⭐ 73 | 💬 17 | [HN Thread](https://news.ycombinator.com/item?id=49843269) |
+| **3** | [Git-bug: Distributed, offline-first bug tracker embedded in Git](https://github.com/git-bug/git-bug) | ⭐ 70 | 💬 17 | [HN Thread](https://news.ycombinator.com/item?id=49843174) |
+| **4** | [Ink and Switch Interactive Homepage](https://www.inkandswitch.com/) | ⭐ 85 | 💬 14 | [HN Thread](https://news.ycombinator.com/item?id=49842270) |
+| **5** | [Pentium II at 600Mhz with Voodoo 3 Emulated on 86Box with M6 Mac Mini](https://nyaa.sh/reviews/mac-mini-m6-emulation) | ⭐ 137 | 💬 53 | [HN Thread](https://news.ycombinator.com/item?id=49841285) |
+| **6** | [Nobody Asked for a Crab Chair](https://newmobility.com/nobody-asked-for-a-crab-chair/) | ⭐ 15 | 💬 13 | [HN Thread](https://news.ycombinator.com/item?id=49843899) |
+| **7** | [Topcoat is pushing the boundary of server applications with Rust](https://tokio.rs/blog/2026-09-24-topcoat-server-applications) | ⭐ 48 | 💬 33 | [HN Thread](https://news.ycombinator.com/item?id=49842332) |
+| **8** | [F-Droid 2.0](https://f-droid.org/2026/09/24/f-droid-2.0-a-new-chapter-for-android-freedom.html) | ⭐ 1325 | 💬 380 | [HN Thread](https://news.ycombinator.com/item?id=49831968) |
+| **9** | [I'm Tired of Being on the Network](https://matduggan.com/im-tired-of-being-on-the-network/) | ⭐ 67 | 💬 55 | [HN Thread](https://news.ycombinator.com/item?id=49843547) |
+| **10** | [CVE-2025-13032: Entering and Breaking the Avast Antivirus Sandbox Part 2](https://www.safateam.com/intelligence-hub/research/technical-articles/cve-2025-13032-entering-and-breaking-the-avast-antivirus-sandbox-part-2) | ⭐ 77 | 💬 18 | [HN Thread](https://news.ycombinator.com/item?id=49841115) |
 
 ---
 
 ## 🗄️ News Archive
 
+- 📅 [2026-09-25](archive/2026-09-25.md)
 - 📅 [2026-09-24](archive/2026-09-24.md)
 - 📅 [2026-09-22](archive/2026-09-22.md)
 - 📅 [2026-09-21](archive/2026-09-21.md)
@@ -40,9 +41,8 @@ An automated **Tech & AI News Digest** that aggregates top trending discussions 
 - 📅 [2026-09-12](archive/2026-09-12.md)
 - 📅 [2026-09-11](archive/2026-09-11.md)
 - 📅 [2026-09-10](archive/2026-09-10.md)
-- 📅 [2026-09-09](archive/2026-09-09.md)
 
-*... and [26 older editions in the archive folder](archive/)*
+*... and [27 older editions in the archive folder](archive/)*
 
 ---
 
