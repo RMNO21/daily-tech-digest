@@ -12,21 +12,22 @@ An automated **Tech & AI News Digest** that aggregates top trending discussions 
 
 | # | Story | Points | Comments | Discussion |
 |:---:|:---|:---:|:---:|:---:|
-| **1** | [Platform-Independent SIMD in Go](https://go.dev/blog/simd-experiment) | ⭐ 276 | 💬 98 | [HN Thread](https://news.ycombinator.com/item?id=49843269) |
-| **2** | [Git-bug: Distributed, offline-first bug tracker embedded in Git](https://github.com/git-bug/git-bug) | ⭐ 226 | 💬 74 | [HN Thread](https://news.ycombinator.com/item?id=49843174) |
-| **3** | [Yes, Claude can do Nine Loops](https://www.anthropic.com/research/yes-claude-can-do-nine-loops) | ⭐ 8 | 💬 0 | [HN Thread](https://news.ycombinator.com/item?id=49848033) |
-| **4** | [First Principles Thinking](https://sunilsadasivan.com/writing/first-principles-thinking/) | ⭐ 120 | 💬 54 | [HN Thread](https://news.ycombinator.com/item?id=49844736) |
-| **5** | [Pentium II at 600Mhz with Voodoo 3 Emulated on 86Box with M6 Mac Mini](https://nyaa.sh/reviews/mac-mini-m6-emulation) | ⭐ 217 | 💬 96 | [HN Thread](https://news.ycombinator.com/item?id=49841285) |
-| **6** | [F-Droid 2.0](https://f-droid.org/2026/09/24/f-droid-2.0-a-new-chapter-for-android-freedom.html) | ⭐ 1408 | 💬 403 | [HN Thread](https://news.ycombinator.com/item?id=49831968) |
-| **7** | [Classified Estimates Show the NSA Is Paying Billions to Test AI Models](https://www.washingtonsun.com/technology/classified-estimates-nsa-paying-billions-to-test-ai-models) | ⭐ 138 | 💬 72 | [HN Thread](https://news.ycombinator.com/item?id=49845952) |
-| **8** | [U.S. appeals court upholds designation of Anthropic as supply chain risk](https://www.cnbc.com/2026/09/25/pentagon-anthropic-ai-risk-appeals-court.html) | ⭐ 229 | 💬 323 | [HN Thread](https://news.ycombinator.com/item?id=49845977) |
-| **9** | [Ink and Switch Interactive Homepage](https://www.inkandswitch.com/) | ⭐ 173 | 💬 24 | [HN Thread](https://news.ycombinator.com/item?id=49842270) |
-| **10** | [Show HN: Doom or Bloom, map your AI worldview with Jev](https://www.doom-or-bloom.com) | ⭐ 11 | 💬 3 | [HN Thread](https://news.ycombinator.com/item?id=49846953) |
+| **1** | [Revealing the details of how OpenAI agents hacked Hugging Face](https://swarmtraces.org/) | ⭐ 433 | 💬 263 | [HN Thread](https://news.ycombinator.com/item?id=49849985) |
+| **2** | [A single function Jev-like wrapper for LLMs, including vision models](http://allanrbo.blogspot.com/2026/09/a-jev-like-wrapper-for-llms-including.html) | ⭐ 49 | 💬 4 | [HN Thread](https://news.ycombinator.com/item?id=49853175) |
+| **3** | [Plan mode is dead](https://www.aymannadeem.com/artificial/intelligence,/developer/tools/2026/09/24/plan-mode-is-dead.html) | ⭐ 276 | 💬 248 | [HN Thread](https://news.ycombinator.com/item?id=49840054) |
+| **4** | [Ollaya – Ollama for open-source, Jev-style decision models](https://ollaya.dev/) | ⭐ 420 | 💬 114 | [HN Thread](https://news.ycombinator.com/item?id=49848269) |
+| **5** | [Show HN: Jev Plays Pokémon Red](https://jev-pokemon.vercel.app/) | ⭐ 188 | 💬 80 | [HN Thread](https://news.ycombinator.com/item?id=49845172) |
+| **6** | [What even is an OS now?](https://sockpuppet.org/blog/2026/09/25/what-even-is-an-os-now/) | ⭐ 173 | 💬 265 | [HN Thread](https://news.ycombinator.com/item?id=49850305) |
+| **7** | [The Murky History of Soviet-Born Tetris](https://thereader.mitpress.mit.edu/the-bizarre-murky-history-of-soviet-born-tetris/) | ⭐ 31 | 💬 8 | [HN Thread](https://news.ycombinator.com/item?id=49838040) |
+| **8** | [Postgres SELECT DISTINCT Does Not Scale](https://www.dbos.dev/blog/postgres-select-distinct-does-not-scale) | ⭐ 65 | 💬 20 | [HN Thread](https://news.ycombinator.com/item?id=49835096) |
+| **9** | [How I changed teaching after AI managed to do all my homework assignments](https://thelastsoftwareengineer.substack.com/p/how-i-changed-teaching-after-ai-managed) | ⭐ 52 | 💬 13 | [HN Thread](https://news.ycombinator.com/item?id=49836579) |
+| **10** | [Jury finds Facebook liable for deceiving users in Cambridge Analytica case](https://www.cbsnews.com/news/facebook-liable-deceiving-users-cambridge-analytica/) | ⭐ 196 | 💬 41 | [HN Thread](https://news.ycombinator.com/item?id=49852302) |
 
 ---
 
 ## 🗄️ News Archive
 
+- 📅 [2026-09-26](archive/2026-09-26.md)
 - 📅 [2026-09-25](archive/2026-09-25.md)
 - 📅 [2026-09-24](archive/2026-09-24.md)
 - 📅 [2026-09-22](archive/2026-09-22.md)
@@ -40,9 +41,8 @@ An automated **Tech & AI News Digest** that aggregates top trending discussions 
 - 📅 [2026-09-13](archive/2026-09-13.md)
 - 📅 [2026-09-12](archive/2026-09-12.md)
 - 📅 [2026-09-11](archive/2026-09-11.md)
-- 📅 [2026-09-10](archive/2026-09-10.md)
 
-*... and [27 older editions in the archive folder](archive/)*
+*... and [28 older editions in the archive folder](archive/)*
 
 ---
 
