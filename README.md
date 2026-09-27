@@ -12,21 +12,22 @@ An automated **Tech & AI News Digest** that aggregates top trending discussions 
 
 | # | Story | Points | Comments | Discussion |
 |:---:|:---|:---:|:---:|:---:|
-| **1** | [Breaking Up with Google Play: Why Conversations Is Now Free](https://gultsch.de/posts/breaking-up-with-google-play/) | ⭐ 454 | 💬 183 | [HN Thread](https://news.ycombinator.com/item?id=49855315) |
-| **2** | [PipePipe: NewPipe hard fork implementing SponsorBlock](https://github.com/InfinityLoop1308/PipePipe) | ⭐ 78 | 💬 42 | [HN Thread](https://news.ycombinator.com/item?id=49842764) |
-| **3** | [Fifteen years later, the Apple Cards origin story](https://lexontech.org/fifteen-years-later-the-apple-cards-origin-story) | ⭐ 229 | 💬 38 | [HN Thread](https://news.ycombinator.com/item?id=49854693) |
-| **4** | [Show HN: A Claude Code skill to analyze your chess games](https://github.com/brumar/chess-postmortem-skills) | ⭐ 26 | 💬 16 | [HN Thread](https://news.ycombinator.com/item?id=49857528) |
-| **5** | [The Lost Atomic Update on Loongson CPU](https://jia.je/hardware/2026/09/24/loongson-cpu-erratum-en/) | ⭐ 19 | 💬 0 | [HN Thread](https://news.ycombinator.com/item?id=49827900) |
-| **6** | [Modern Object Pascal Introduction for Programmers – Castle Game Engine](https://castle-engine.io/modern_pascal) | ⭐ 68 | 💬 29 | [HN Thread](https://news.ycombinator.com/item?id=49829202) |
-| **7** | [Revealing the details of how OpenAI agents hacked Hugging Face](https://swarmtraces.org/) | ⭐ 618 | 💬 398 | [HN Thread](https://news.ycombinator.com/item?id=49849985) |
-| **8** | [Reflections on 1,000 Days of Math](https://gmays.com/reflections-on-1000-days-of-math/) | ⭐ 32 | 💬 7 | [HN Thread](https://news.ycombinator.com/item?id=49816907) |
-| **9** | [Automattic has a new board after failed attempt to put CEO on leave](https://techcrunch.com/2026/09/25/automattic-has-a-new-board-after-failed-attempt-to-put-ceo-on-leave/) | ⭐ 43 | 💬 37 | [HN Thread](https://news.ycombinator.com/item?id=49857572) |
-| **10** | [Analyzing Frontier Model Progress with My Favourite Game: Prince of Persia](https://blog.priyan.in/2026/09/analyzing-frontier-model-progress-with.html) | ⭐ 22 | 💬 18 | [HN Thread](https://news.ycombinator.com/item?id=49849820) |
+| **1** | [Flip Fluid on Flip Dots](https://mitxela.com/projects/flipflip) | ⭐ 201 | 💬 12 | [HN Thread](https://news.ycombinator.com/item?id=49854219) |
+| **2** | [OpenAI Feared "Optics" of what might appear on Hacker News](https://authorsguild.org/news/ag-v-openai-top-execs-knew-mass-book-piracy-was-illegal/) | ⭐ 427 | 💬 349 | [HN Thread](https://news.ycombinator.com/item?id=49863864) |
+| **3** | ["As a Language Model": Chat Template Switches LLM Self-Referential Voice](https://arxiv.org/abs/2609.25021) | ⭐ 69 | 💬 67 | [HN Thread](https://news.ycombinator.com/item?id=49865343) |
+| **4** | [Does Georgism work? Five years later](https://www.astralcodexten.com/p/does-georgism-work-five-years-later) | ⭐ 413 | 💬 307 | [HN Thread](https://news.ycombinator.com/item?id=49844657) |
+| **5** | [Go Concurrency Distilled](https://antonz.org/go-concurrency-distilled/) | ⭐ 283 | 💬 117 | [HN Thread](https://news.ycombinator.com/item?id=49856988) |
+| **6** | [PipePipe: NewPipe hard fork implementing SponsorBlock](https://github.com/InfinityLoop1308/PipePipe) | ⭐ 455 | 💬 242 | [HN Thread](https://news.ycombinator.com/item?id=49842764) |
+| **7** | [Finally, A True Blue Rose Exists](https://www.sciencenews.org/article/true-blue-rose-pigment-copigment) | ⭐ 43 | 💬 12 | [HN Thread](https://news.ycombinator.com/item?id=49849723) |
+| **8** | [Fakecloud: Local AWS cloud emulator for integration tests](https://fakecloud.dev/) | ⭐ 10 | 💬 5 | [HN Thread](https://news.ycombinator.com/item?id=49856885) |
+| **9** | [DeepSeek Elastic Compute (DSec)](https://arxiv.org/abs/2609.22978) | ⭐ 282 | 💬 92 | [HN Thread](https://news.ycombinator.com/item?id=49859112) |
+| **10** | [The internet discovers TLA+. Now what?](https://reasonable.io/blog/tla-tutorial/) | ⭐ 55 | 💬 29 | [HN Thread](https://news.ycombinator.com/item?id=49863600) |
 
 ---
 
 ## 🗄️ News Archive
 
+- 📅 [2026-09-27](archive/2026-09-27.md)
 - 📅 [2026-09-26](archive/2026-09-26.md)
 - 📅 [2026-09-25](archive/2026-09-25.md)
 - 📅 [2026-09-24](archive/2026-09-24.md)
@@ -40,9 +41,8 @@ An automated **Tech & AI News Digest** that aggregates top trending discussions 
 - 📅 [2026-09-14](archive/2026-09-14.md)
 - 📅 [2026-09-13](archive/2026-09-13.md)
 - 📅 [2026-09-12](archive/2026-09-12.md)
-- 📅 [2026-09-11](archive/2026-09-11.md)
 
-*... and [28 older editions in the archive folder](archive/)*
+*... and [29 older editions in the archive folder](archive/)*
 
 ---
 
