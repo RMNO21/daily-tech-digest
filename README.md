@@ -12,21 +12,22 @@ An automated **Tech & AI News Digest** that aggregates top trending discussions 
 
 | # | Story | Points | Comments | Discussion |
 |:---:|:---|:---:|:---:|:---:|
-| **1** | [Flip Fluid on Flip Dots](https://mitxela.com/projects/flipflip) | ⭐ 201 | 💬 12 | [HN Thread](https://news.ycombinator.com/item?id=49854219) |
-| **2** | [OpenAI Feared "Optics" of what might appear on Hacker News](https://authorsguild.org/news/ag-v-openai-top-execs-knew-mass-book-piracy-was-illegal/) | ⭐ 427 | 💬 349 | [HN Thread](https://news.ycombinator.com/item?id=49863864) |
-| **3** | ["As a Language Model": Chat Template Switches LLM Self-Referential Voice](https://arxiv.org/abs/2609.25021) | ⭐ 69 | 💬 67 | [HN Thread](https://news.ycombinator.com/item?id=49865343) |
-| **4** | [Does Georgism work? Five years later](https://www.astralcodexten.com/p/does-georgism-work-five-years-later) | ⭐ 413 | 💬 307 | [HN Thread](https://news.ycombinator.com/item?id=49844657) |
-| **5** | [Go Concurrency Distilled](https://antonz.org/go-concurrency-distilled/) | ⭐ 283 | 💬 117 | [HN Thread](https://news.ycombinator.com/item?id=49856988) |
-| **6** | [PipePipe: NewPipe hard fork implementing SponsorBlock](https://github.com/InfinityLoop1308/PipePipe) | ⭐ 455 | 💬 242 | [HN Thread](https://news.ycombinator.com/item?id=49842764) |
-| **7** | [Finally, A True Blue Rose Exists](https://www.sciencenews.org/article/true-blue-rose-pigment-copigment) | ⭐ 43 | 💬 12 | [HN Thread](https://news.ycombinator.com/item?id=49849723) |
-| **8** | [Fakecloud: Local AWS cloud emulator for integration tests](https://fakecloud.dev/) | ⭐ 10 | 💬 5 | [HN Thread](https://news.ycombinator.com/item?id=49856885) |
-| **9** | [DeepSeek Elastic Compute (DSec)](https://arxiv.org/abs/2609.22978) | ⭐ 282 | 💬 92 | [HN Thread](https://news.ycombinator.com/item?id=49859112) |
-| **10** | [The internet discovers TLA+. Now what?](https://reasonable.io/blog/tla-tutorial/) | ⭐ 55 | 💬 29 | [HN Thread](https://news.ycombinator.com/item?id=49863600) |
+| **1** | [World Labs Is Joining AMD](https://www.worldlabs.ai/blog/amd-announcement) | ⭐ 103 | 💬 28 | [HN Thread](https://news.ycombinator.com/item?id=49883760) |
+| **2** | [Jeff – Jev-compatible 0.8B decision models, trained at home, ~30 ms](https://github.com/firelex/jeff) | ⭐ 103 | 💬 12 | [HN Thread](https://news.ycombinator.com/item?id=49883844) |
+| **3** | [Pirating the Pirates](https://mubi.com/en/notebook/posts/pirating-the-pirates) | ⭐ 348 | 💬 168 | [HN Thread](https://news.ycombinator.com/item?id=49880036) |
+| **4** | [MicroLLM Lab – Try 7 tiny LLM's in the browser](https://stateofutopia.com/experiments/microllmlab/) | ⭐ 90 | 💬 33 | [HN Thread](https://news.ycombinator.com/item?id=49882781) |
+| **5** | [Pacing the Frontier is not the actual goal for AI labs](https://www.lesswrong.com/posts/Nm4ewbYovtjq69dvH/pacing-the-frontier-is-not-the-actual-goal-for-ai-labs) | ⭐ 32 | 💬 24 | [HN Thread](https://news.ycombinator.com/item?id=49884119) |
+| **6** | [12,000-year-old Göbeklitepe burials explain scattered bones](https://archaeologymag.com/2026/09/gobeklitepe-burials-hundreds-of-scattered-bones/) | ⭐ 37 | 💬 5 | [HN Thread](https://news.ycombinator.com/item?id=49855059) |
+| **7** | [Scientists solve 1840s space weather mystery](https://arstechnica.com/science/2026/09/scientists-solve-1840s-space-weather-mystery/) | ⭐ 24 | 💬 13 | [HN Thread](https://news.ycombinator.com/item?id=49883536) |
+| **8** | [Hijacking the PS5's RTMP stream](https://yashgarg.dev/posts/hijacking-ps5-rtmp-stream/) | ⭐ 161 | 💬 51 | [HN Thread](https://news.ycombinator.com/item?id=49879702) |
+| **9** | [Joseph Szabo’s pictures of American adolescents](https://www.newyorker.com/culture/photo-booth/the-teen-portraits-that-captivated-sofia-coppola) | ⭐ 63 | 💬 29 | [HN Thread](https://news.ycombinator.com/item?id=49881606) |
+| **10** | [Palantir founder purchases large swath of forest in Sweden](https://www.arctictoday.com/palantir-founder-purchases-large-swath-of-forest-in-sweden/) | ⭐ 69 | 💬 59 | [HN Thread](https://news.ycombinator.com/item?id=49884169) |
 
 ---
 
 ## 🗄️ News Archive
 
+- 📅 [2026-09-28](archive/2026-09-28.md)
 - 📅 [2026-09-27](archive/2026-09-27.md)
 - 📅 [2026-09-26](archive/2026-09-26.md)
 - 📅 [2026-09-25](archive/2026-09-25.md)
@@ -40,9 +41,8 @@ An automated **Tech & AI News Digest** that aggregates top trending discussions 
 - 📅 [2026-09-15](archive/2026-09-15.md)
 - 📅 [2026-09-14](archive/2026-09-14.md)
 - 📅 [2026-09-13](archive/2026-09-13.md)
-- 📅 [2026-09-12](archive/2026-09-12.md)
 
-*... and [29 older editions in the archive folder](archive/)*
+*... and [30 older editions in the archive folder](archive/)*
 
 ---
 
