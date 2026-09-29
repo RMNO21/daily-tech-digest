@@ -12,21 +12,22 @@ An automated **Tech & AI News Digest** that aggregates top trending discussions 
 
 | # | Story | Points | Comments | Discussion |
 |:---:|:---|:---:|:---:|:---:|
-| **1** | [World Labs Is Joining AMD](https://www.worldlabs.ai/blog/amd-announcement) | ⭐ 103 | 💬 28 | [HN Thread](https://news.ycombinator.com/item?id=49883760) |
-| **2** | [Jeff – Jev-compatible 0.8B decision models, trained at home, ~30 ms](https://github.com/firelex/jeff) | ⭐ 103 | 💬 12 | [HN Thread](https://news.ycombinator.com/item?id=49883844) |
-| **3** | [Pirating the Pirates](https://mubi.com/en/notebook/posts/pirating-the-pirates) | ⭐ 348 | 💬 168 | [HN Thread](https://news.ycombinator.com/item?id=49880036) |
-| **4** | [MicroLLM Lab – Try 7 tiny LLM's in the browser](https://stateofutopia.com/experiments/microllmlab/) | ⭐ 90 | 💬 33 | [HN Thread](https://news.ycombinator.com/item?id=49882781) |
-| **5** | [Pacing the Frontier is not the actual goal for AI labs](https://www.lesswrong.com/posts/Nm4ewbYovtjq69dvH/pacing-the-frontier-is-not-the-actual-goal-for-ai-labs) | ⭐ 32 | 💬 24 | [HN Thread](https://news.ycombinator.com/item?id=49884119) |
-| **6** | [12,000-year-old Göbeklitepe burials explain scattered bones](https://archaeologymag.com/2026/09/gobeklitepe-burials-hundreds-of-scattered-bones/) | ⭐ 37 | 💬 5 | [HN Thread](https://news.ycombinator.com/item?id=49855059) |
-| **7** | [Scientists solve 1840s space weather mystery](https://arstechnica.com/science/2026/09/scientists-solve-1840s-space-weather-mystery/) | ⭐ 24 | 💬 13 | [HN Thread](https://news.ycombinator.com/item?id=49883536) |
-| **8** | [Hijacking the PS5's RTMP stream](https://yashgarg.dev/posts/hijacking-ps5-rtmp-stream/) | ⭐ 161 | 💬 51 | [HN Thread](https://news.ycombinator.com/item?id=49879702) |
-| **9** | [Joseph Szabo’s pictures of American adolescents](https://www.newyorker.com/culture/photo-booth/the-teen-portraits-that-captivated-sofia-coppola) | ⭐ 63 | 💬 29 | [HN Thread](https://news.ycombinator.com/item?id=49881606) |
-| **10** | [Palantir founder purchases large swath of forest in Sweden](https://www.arctictoday.com/palantir-founder-purchases-large-swath-of-forest-in-sweden/) | ⭐ 69 | 💬 59 | [HN Thread](https://news.ycombinator.com/item?id=49884169) |
+| **1** | [U.S. postal inspectors shut down website selling counterfeit postage labels](https://postalemployeenetwork.com/news/2026/09/26/u-s-postal-inspectors-shut-down-website-selling-millions-of-counterfeit-postage-labels/) | ⭐ 37 | 💬 24 | [HN Thread](https://news.ycombinator.com/item?id=49899090) |
+| **2** | [Tcl/Tk 9.1 Released](https://www.tcl-lang.org/software/tcltk/9.1.html) | ⭐ 173 | 💬 49 | [HN Thread](https://news.ycombinator.com/item?id=49896712) |
+| **3** | [GPT 6.1 Sol: Near-Astra intelligence for a fifth of the price](https://openai.com/index/introducing-gpt-6-1-sol/) | ⭐ 618 | 💬 541 | [HN Thread](https://news.ycombinator.com/item?id=49896586) |
+| **4** | [How Delhi cut electricity loss from 50 to 5 percent](https://spectrum.ieee.org/delhi-electricity-loss) | ⭐ 383 | 💬 213 | [HN Thread](https://news.ycombinator.com/item?id=49892245) |
+| **5** | [PS5 Relapse Exploit](https://github.com/ntfargo/Relapse-Exploit) | ⭐ 156 | 💬 79 | [HN Thread](https://news.ycombinator.com/item?id=49895304) |
+| **6** | [Nicholas Polson has authored 258 academic papers in 2026 (so far)](https://statmodeling.stat.columbia.edu/2026/08/27/258/) | ⭐ 82 | 💬 53 | [HN Thread](https://news.ycombinator.com/item?id=49898877) |
+| **7** | [DraftKings Is Using AI to Behaviorally Target Chronic Gamblers](https://www.eff.org/deeplinks/2026/09/draftkings-using-ai-supercharge-harms-online-behavioral-advertising) | ⭐ 442 | 💬 304 | [HN Thread](https://news.ycombinator.com/item?id=49896050) |
+| **8** | [AI needs $6T in annual revenue to justify data centre boom](https://www.thenationalnews.com/future/technology/2026/09/29/ai-industry-needs-to-earn-6-trillion-by-2031-to-justify-data-centres/) | ⭐ 129 | 💬 106 | [HN Thread](https://news.ycombinator.com/item?id=49898952) |
+| **9** | [NAND-16: a computer built from 277,248 NAND gates](https://somethingbig.ai/computer) | ⭐ 60 | 💬 29 | [HN Thread](https://news.ycombinator.com/item?id=49871018) |
+| **10** | [Dots: Always-on agents](https://openai.com/index/introducing-dots/) | ⭐ 375 | 💬 280 | [HN Thread](https://news.ycombinator.com/item?id=49896604) |
 
 ---
 
 ## 🗄️ News Archive
 
+- 📅 [2026-09-29](archive/2026-09-29.md)
 - 📅 [2026-09-28](archive/2026-09-28.md)
 - 📅 [2026-09-27](archive/2026-09-27.md)
 - 📅 [2026-09-26](archive/2026-09-26.md)
@@ -40,9 +41,8 @@ An automated **Tech & AI News Digest** that aggregates top trending discussions 
 - 📅 [2026-09-16](archive/2026-09-16.md)
 - 📅 [2026-09-15](archive/2026-09-15.md)
 - 📅 [2026-09-14](archive/2026-09-14.md)
-- 📅 [2026-09-13](archive/2026-09-13.md)
 
-*... and [30 older editions in the archive folder](archive/)*
+*... and [31 older editions in the archive folder](archive/)*
 
 ---
 
