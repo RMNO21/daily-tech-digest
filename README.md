@@ -12,21 +12,22 @@ An automated **Tech & AI News Digest** that aggregates top trending discussions 
 
 | # | Story | Points | Comments | Discussion |
 |:---:|:---|:---:|:---:|:---:|
-| **1** | [U.S. postal inspectors shut down website selling counterfeit postage labels](https://postalemployeenetwork.com/news/2026/09/26/u-s-postal-inspectors-shut-down-website-selling-millions-of-counterfeit-postage-labels/) | ⭐ 37 | 💬 24 | [HN Thread](https://news.ycombinator.com/item?id=49899090) |
-| **2** | [Tcl/Tk 9.1 Released](https://www.tcl-lang.org/software/tcltk/9.1.html) | ⭐ 173 | 💬 49 | [HN Thread](https://news.ycombinator.com/item?id=49896712) |
-| **3** | [GPT 6.1 Sol: Near-Astra intelligence for a fifth of the price](https://openai.com/index/introducing-gpt-6-1-sol/) | ⭐ 618 | 💬 541 | [HN Thread](https://news.ycombinator.com/item?id=49896586) |
-| **4** | [How Delhi cut electricity loss from 50 to 5 percent](https://spectrum.ieee.org/delhi-electricity-loss) | ⭐ 383 | 💬 213 | [HN Thread](https://news.ycombinator.com/item?id=49892245) |
-| **5** | [PS5 Relapse Exploit](https://github.com/ntfargo/Relapse-Exploit) | ⭐ 156 | 💬 79 | [HN Thread](https://news.ycombinator.com/item?id=49895304) |
-| **6** | [Nicholas Polson has authored 258 academic papers in 2026 (so far)](https://statmodeling.stat.columbia.edu/2026/08/27/258/) | ⭐ 82 | 💬 53 | [HN Thread](https://news.ycombinator.com/item?id=49898877) |
-| **7** | [DraftKings Is Using AI to Behaviorally Target Chronic Gamblers](https://www.eff.org/deeplinks/2026/09/draftkings-using-ai-supercharge-harms-online-behavioral-advertising) | ⭐ 442 | 💬 304 | [HN Thread](https://news.ycombinator.com/item?id=49896050) |
-| **8** | [AI needs $6T in annual revenue to justify data centre boom](https://www.thenationalnews.com/future/technology/2026/09/29/ai-industry-needs-to-earn-6-trillion-by-2031-to-justify-data-centres/) | ⭐ 129 | 💬 106 | [HN Thread](https://news.ycombinator.com/item?id=49898952) |
-| **9** | [NAND-16: a computer built from 277,248 NAND gates](https://somethingbig.ai/computer) | ⭐ 60 | 💬 29 | [HN Thread](https://news.ycombinator.com/item?id=49871018) |
-| **10** | [Dots: Always-on agents](https://openai.com/index/introducing-dots/) | ⭐ 375 | 💬 280 | [HN Thread](https://news.ycombinator.com/item?id=49896604) |
+| **1** | [Pi.dev: You Said No MCP](https://earendil.com/posts/you-said-no-mcp/) | ⭐ 255 | 💬 122 | [HN Thread](https://news.ycombinator.com/item?id=49906637) |
+| **2** | [The last time my family was replaced by technology](https://manuel.darcemont.fr/posts/the-last-time-my-family-was-replaced-by-technology/) | ⭐ 29 | 💬 24 | [HN Thread](https://news.ycombinator.com/item?id=49908394) |
+| **3** | [Show HN: JBR-001 – An open-source 3D printable desktop robot](https://projecthub.arduino.cc/syntheticaidata/jbr-001-a-desktop-companion-robot-powered-by-arduino-uno-q-b11c96) | ⭐ 60 | 💬 10 | [HN Thread](https://news.ycombinator.com/item?id=49890707) |
+| **4** | [Livenerf: Has Opus 5.5 been nerfed yet?](https://github.com/ninjahawk/livenerf) | ⭐ 738 | 💬 301 | [HN Thread](https://news.ycombinator.com/item?id=49901736) |
+| **5** | [Solving Factorio Quality](https://exyr.org/2026/solving-factorio-quality/) | ⭐ 154 | 💬 44 | [HN Thread](https://news.ycombinator.com/item?id=49887343) |
+| **6** | [Mathematical Origami](https://mathigon.org/origami) | ⭐ 23 | 💬 4 | [HN Thread](https://news.ycombinator.com/item?id=49889140) |
+| **7** | [Dots: Always-on agents](https://openai.com/index/introducing-dots/) | ⭐ 680 | 💬 534 | [HN Thread](https://news.ycombinator.com/item?id=49896604) |
+| **8** | [Vermont replacing power plants with home batteries](https://www.bbc.com/future/article/20260928-a-virtual-power-plant-hidden-in-vermont-homes-is-keeping-the-lights-on-during-storms) | ⭐ 266 | 💬 210 | [HN Thread](https://news.ycombinator.com/item?id=49897993) |
+| **9** | [America.gov](https://america.gov/) | ⭐ 655 | 💬 541 | [HN Thread](https://news.ycombinator.com/item?id=49893509) |
+| **10** | [NASA asked several former SR-71A staffers to help secret restart](https://aviationweek.com/defense/aircraft-propulsion/nasa-asked-several-former-sr-71a-staffers-help-secret-restart) | ⭐ 225 | 💬 219 | [HN Thread](https://news.ycombinator.com/item?id=49890733) |
 
 ---
 
 ## 🗄️ News Archive
 
+- 📅 [2026-09-30](archive/2026-09-30.md)
 - 📅 [2026-09-29](archive/2026-09-29.md)
 - 📅 [2026-09-28](archive/2026-09-28.md)
 - 📅 [2026-09-27](archive/2026-09-27.md)
@@ -40,9 +41,8 @@ An automated **Tech & AI News Digest** that aggregates top trending discussions 
 - 📅 [2026-09-18](archive/2026-09-18.md)
 - 📅 [2026-09-16](archive/2026-09-16.md)
 - 📅 [2026-09-15](archive/2026-09-15.md)
-- 📅 [2026-09-14](archive/2026-09-14.md)
 
-*... and [31 older editions in the archive folder](archive/)*
+*... and [32 older editions in the archive folder](archive/)*
 
 ---
 
