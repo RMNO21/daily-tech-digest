@@ -12,21 +12,22 @@ An automated **Tech & AI News Digest** that aggregates top trending discussions 
 
 | # | Story | Points | Comments | Discussion |
 |:---:|:---|:---:|:---:|:---:|
-| **1** | [Gemini 4 Argon](https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-4-argon/) | ⭐ 858 | 💬 569 | [HN Thread](https://news.ycombinator.com/item?id=49913571) |
-| **2** | [The top secret URSALA, RAQUEL, and FARRAH satellites](https://www.thespacereview.com/article/4951/1) | ⭐ 91 | 💬 18 | [HN Thread](https://news.ycombinator.com/item?id=49915082) |
-| **3** | [Surprisingly complex waves reveal the brain's inner workings](https://www.quantamagazine.org/surprisingly-complex-waves-reveal-the-brains-inner-workings-20260930/) | ⭐ 104 | 💬 38 | [HN Thread](https://news.ycombinator.com/item?id=49912955) |
-| **4** | [EDG C++ Compiler is open source](https://github.com/edgcpp/compiler) | ⭐ 12 | 💬 1 | [HN Thread](https://news.ycombinator.com/item?id=49915484) |
-| **5** | [EDG C++ front-end goes public](https://edgcpp.org/#transition) | ⭐ 127 | 💬 46 | [HN Thread](https://news.ycombinator.com/item?id=49913192) |
-| **6** | [Singapore govt dating app uses Gale-Shapley stable marriage algorithm](https://twitter.com/tuakdotsol/status/2105105417760391258) | ⭐ 142 | 💬 64 | [HN Thread](https://news.ycombinator.com/item?id=49906432) |
-| **7** | [Launch HN: Magnitude (YC S25) – Self-optimizing inference engine for agents](https://github.com/magnitudedev/magnitude) | ⭐ 118 | 💬 54 | [HN Thread](https://news.ycombinator.com/item?id=49911995) |
-| **8** | [Why the Bronze Age Collapsed](https://www.worksinprogress.news/p/why-really-caused-the-bronze-age) | ⭐ 51 | 💬 34 | [HN Thread](https://news.ycombinator.com/item?id=49890732) |
-| **9** | [Dear Software Makers](https://blog.jim-nielsen.com/2026/dear-software-makers/) | ⭐ 64 | 💬 37 | [HN Thread](https://news.ycombinator.com/item?id=49913364) |
-| **10** | [5x faster Edge Functions: V8 isolates to Firecracker MicroVMs](https://www.netlify.com/blog/edge-functions-firecracker-microvms/) | ⭐ 100 | 💬 38 | [HN Thread](https://news.ycombinator.com/item?id=49912444) |
+| **1** | [Clef: Open-source decision models, and new RL fine-tuning platform](https://blog.cloudflare.com/clef-decision-models/) | ⭐ 277 | 💬 105 | [HN Thread](https://news.ycombinator.com/item?id=49923692) |
+| **2** | [RIP, vector database](https://turbopuffer.com/blog/rip-vector-database) | ⭐ 184 | 💬 51 | [HN Thread](https://news.ycombinator.com/item?id=49923466) |
+| **3** | [Big Tech's Capex Is Half of Wall Street's Profit Growth](https://inlevel9.com/en/issues/half-the-growth-was-capex) | ⭐ 9 | 💬 3 | [HN Thread](https://news.ycombinator.com/item?id=49925836) |
+| **4** | [StreetComplete on iOS is now in public beta](https://github.com/streetcomplete/StreetComplete/issues/5421) | ⭐ 441 | 💬 101 | [HN Thread](https://news.ycombinator.com/item?id=49920160) |
+| **5** | [Bez: Generating a browser engine from specs and tests](https://tangled.org/burrito.space/bez) | ⭐ 28 | 💬 1 | [HN Thread](https://news.ycombinator.com/item?id=49925036) |
+| **6** | [Ask HN: Who is hiring? (October 2026)](https://news.ycombinator.com/item?id=49922569) | ⭐ 90 | 💬 93 | [HN Thread](https://news.ycombinator.com/item?id=49922569) |
+| **7** | [RacketCon Is Saturday](https://con.racket-lang.org/) | ⭐ 98 | 💬 25 | [HN Thread](https://news.ycombinator.com/item?id=49922515) |
+| **8** | [Oxygen-deprived underwater zones may not be "dead zones" but clue to early life](https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2026AV002570) | ⭐ 7 | 💬 1 | [HN Thread](https://news.ycombinator.com/item?id=49925742) |
+| **9** | [Show HN: Open-source model routing for coding agents at Astra-level performance](https://news.ycombinator.com/item?id=49911500) | ⭐ 36 | 💬 6 | [HN Thread](https://news.ycombinator.com/item?id=49911500) |
+| **10** | [Cloudflare K2: serverless event streams](https://blog.cloudflare.com/cloudflare-k2-streams/) | ⭐ 125 | 💬 44 | [HN Thread](https://news.ycombinator.com/item?id=49921923) |
 
 ---
 
 ## 🗄️ News Archive
 
+- 📅 [2026-10-01](archive/2026-10-01.md)
 - 📅 [2026-09-30](archive/2026-09-30.md)
 - 📅 [2026-09-29](archive/2026-09-29.md)
 - 📅 [2026-09-28](archive/2026-09-28.md)
@@ -40,9 +41,8 @@ An automated **Tech & AI News Digest** that aggregates top trending discussions 
 - 📅 [2026-09-19](archive/2026-09-19.md)
 - 📅 [2026-09-18](archive/2026-09-18.md)
 - 📅 [2026-09-16](archive/2026-09-16.md)
-- 📅 [2026-09-15](archive/2026-09-15.md)
 
-*... and [32 older editions in the archive folder](archive/)*
+*... and [33 older editions in the archive folder](archive/)*
 
 ---
 
