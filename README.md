@@ -12,16 +12,16 @@ An automated **Tech & AI News Digest** that aggregates top trending discussions 
 
 | # | Story | Points | Comments | Discussion |
 |:---:|:---|:---:|:---:|:---:|
-| **1** | [Pi 1.0](https://earendil.com/posts/pi-1-0/) | ⭐ 999 | 💬 317 | [HN Thread](https://news.ycombinator.com/item?id=49926069) |
-| **2** | [DeepSeek Harness](https://www.deepseek.com/en/harness/) | ⭐ 87 | 💬 26 | [HN Thread](https://news.ycombinator.com/item?id=49929489) |
-| **3** | [Meta's Muse is fantastic for web scraping](https://sigh.dev/posts/metas-muse-is-fantastic-for-web-scraping/) | ⭐ 17 | 💬 8 | [HN Thread](https://news.ycombinator.com/item?id=49929970) |
-| **4** | [How Singapore's government-run dating service works](https://www.singapore-samizdat.com/p/how-singapores-government-run-dating-service-firstdate-works) | ⭐ 64 | 💬 30 | [HN Thread](https://news.ycombinator.com/item?id=49929113) |
-| **5** | [Shimano Bicycle Museum Review](https://inrng.com/2026/10/shimano-bicycle-museum/) | ⭐ 6 | 💬 0 | [HN Thread](https://news.ycombinator.com/item?id=49930047) |
-| **6** | [Clef: Open-weight decision models, and new RL fine-tuning platform](https://blog.cloudflare.com/clef-decision-models/) | ⭐ 473 | 💬 170 | [HN Thread](https://news.ycombinator.com/item?id=49923692) |
-| **7** | [Several vulnerabilities have been discovered in the Linux kernel](https://lwn.net/Articles/1097401/) | ⭐ 213 | 💬 138 | [HN Thread](https://news.ycombinator.com/item?id=49928121) |
-| **8** | [SvelteKit 3](https://svelte.dev/blog/sveltekit-3-is-here) | ⭐ 193 | 💬 63 | [HN Thread](https://news.ycombinator.com/item?id=49926536) |
-| **9** | [Automatic Transmission – a data-privacy study of connected vehicles](https://automatictransmission.khoury.northeastern.edu/index.html) | ⭐ 160 | 💬 152 | [HN Thread](https://news.ycombinator.com/item?id=49926628) |
-| **10** | [Pi Durable](https://earendil.com/posts/pi-durable/) | ⭐ 301 | 💬 37 | [HN Thread](https://news.ycombinator.com/item?id=49925969) |
+| **1** | [Dutch computer museums (2022)](https://aresluna.org/dutch-computer-museums/) | ⭐ 64 | 💬 15 | [HN Thread](https://news.ycombinator.com/item?id=49935751) |
+| **2** | [Court agrees with EFF: Utah's VPN law demands a technical impossibility](https://www.eff.org/deeplinks/2026/10/court-agrees-eff-utahs-vpn-law-demands-technical-impossibility) | ⭐ 163 | 💬 67 | [HN Thread](https://news.ycombinator.com/item?id=49927754) |
+| **3** | [The Legend of von Neumann (1973) [pdf]](https://gwern.net/doc/math/1973-halmos.pdf) | ⭐ 185 | 💬 97 | [HN Thread](https://news.ycombinator.com/item?id=49933235) |
+| **4** | [FLUX 3 Image](https://bfl.ai/models/flux-3-image) | ⭐ 137 | 💬 23 | [HN Thread](https://news.ycombinator.com/item?id=49925974) |
+| **5** | [Sites in ChatGPT](https://chatgpt.com/features/sites/) | ⭐ 56 | 💬 63 | [HN Thread](https://news.ycombinator.com/item?id=49927747) |
+| **6** | [Show HN: Giving Opus 5.5 a simulated paint canvas](https://stillwet.art/) | ⭐ 105 | 💬 35 | [HN Thread](https://news.ycombinator.com/item?id=49928566) |
+| **7** | [Shimano Bicycle Museum Review](https://inrng.com/2026/10/shimano-bicycle-museum/) | ⭐ 271 | 💬 67 | [HN Thread](https://news.ycombinator.com/item?id=49930047) |
+| **8** | [Loss of cell identity drives human aging: Two new papers](https://erictopol.substack.com/p/loss-of-cell-identity-drives-human) | ⭐ 8 | 💬 0 | [HN Thread](https://news.ycombinator.com/item?id=49926411) |
+| **9** | [ICC judge on what U.S. sanctions mean for her and global courts](https://www.npr.org/2026/10/01/nx-s1-5977815/trump-icc-sanctions-kimberly-prost) | ⭐ 142 | 💬 53 | [HN Thread](https://news.ycombinator.com/item?id=49935867) |
+| **10** | [Giving friends custom text buzzes based on Morse code](https://liquidbrain.net/blog/giving-friends-custom-text-buzzes-based-on-morse-code/) | ⭐ 39 | 💬 17 | [HN Thread](https://news.ycombinator.com/item?id=49925653) |
 
 ---
 
