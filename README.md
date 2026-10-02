@@ -12,21 +12,22 @@ An automated **Tech & AI News Digest** that aggregates top trending discussions 
 
 | # | Story | Points | Comments | Discussion |
 |:---:|:---|:---:|:---:|:---:|
-| **1** | [Clef: Open-source decision models, and new RL fine-tuning platform](https://blog.cloudflare.com/clef-decision-models/) | ⭐ 277 | 💬 105 | [HN Thread](https://news.ycombinator.com/item?id=49923692) |
-| **2** | [RIP, vector database](https://turbopuffer.com/blog/rip-vector-database) | ⭐ 184 | 💬 51 | [HN Thread](https://news.ycombinator.com/item?id=49923466) |
-| **3** | [Big Tech's Capex Is Half of Wall Street's Profit Growth](https://inlevel9.com/en/issues/half-the-growth-was-capex) | ⭐ 9 | 💬 3 | [HN Thread](https://news.ycombinator.com/item?id=49925836) |
-| **4** | [StreetComplete on iOS is now in public beta](https://github.com/streetcomplete/StreetComplete/issues/5421) | ⭐ 441 | 💬 101 | [HN Thread](https://news.ycombinator.com/item?id=49920160) |
-| **5** | [Bez: Generating a browser engine from specs and tests](https://tangled.org/burrito.space/bez) | ⭐ 28 | 💬 1 | [HN Thread](https://news.ycombinator.com/item?id=49925036) |
-| **6** | [Ask HN: Who is hiring? (October 2026)](https://news.ycombinator.com/item?id=49922569) | ⭐ 90 | 💬 93 | [HN Thread](https://news.ycombinator.com/item?id=49922569) |
-| **7** | [RacketCon Is Saturday](https://con.racket-lang.org/) | ⭐ 98 | 💬 25 | [HN Thread](https://news.ycombinator.com/item?id=49922515) |
-| **8** | [Oxygen-deprived underwater zones may not be "dead zones" but clue to early life](https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2026AV002570) | ⭐ 7 | 💬 1 | [HN Thread](https://news.ycombinator.com/item?id=49925742) |
-| **9** | [Show HN: Open-source model routing for coding agents at Astra-level performance](https://news.ycombinator.com/item?id=49911500) | ⭐ 36 | 💬 6 | [HN Thread](https://news.ycombinator.com/item?id=49911500) |
-| **10** | [Cloudflare K2: serverless event streams](https://blog.cloudflare.com/cloudflare-k2-streams/) | ⭐ 125 | 💬 44 | [HN Thread](https://news.ycombinator.com/item?id=49921923) |
+| **1** | [Pi 1.0](https://earendil.com/posts/pi-1-0/) | ⭐ 999 | 💬 317 | [HN Thread](https://news.ycombinator.com/item?id=49926069) |
+| **2** | [DeepSeek Harness](https://www.deepseek.com/en/harness/) | ⭐ 87 | 💬 26 | [HN Thread](https://news.ycombinator.com/item?id=49929489) |
+| **3** | [Meta's Muse is fantastic for web scraping](https://sigh.dev/posts/metas-muse-is-fantastic-for-web-scraping/) | ⭐ 17 | 💬 8 | [HN Thread](https://news.ycombinator.com/item?id=49929970) |
+| **4** | [How Singapore's government-run dating service works](https://www.singapore-samizdat.com/p/how-singapores-government-run-dating-service-firstdate-works) | ⭐ 64 | 💬 30 | [HN Thread](https://news.ycombinator.com/item?id=49929113) |
+| **5** | [Shimano Bicycle Museum Review](https://inrng.com/2026/10/shimano-bicycle-museum/) | ⭐ 6 | 💬 0 | [HN Thread](https://news.ycombinator.com/item?id=49930047) |
+| **6** | [Clef: Open-weight decision models, and new RL fine-tuning platform](https://blog.cloudflare.com/clef-decision-models/) | ⭐ 473 | 💬 170 | [HN Thread](https://news.ycombinator.com/item?id=49923692) |
+| **7** | [Several vulnerabilities have been discovered in the Linux kernel](https://lwn.net/Articles/1097401/) | ⭐ 213 | 💬 138 | [HN Thread](https://news.ycombinator.com/item?id=49928121) |
+| **8** | [SvelteKit 3](https://svelte.dev/blog/sveltekit-3-is-here) | ⭐ 193 | 💬 63 | [HN Thread](https://news.ycombinator.com/item?id=49926536) |
+| **9** | [Automatic Transmission – a data-privacy study of connected vehicles](https://automatictransmission.khoury.northeastern.edu/index.html) | ⭐ 160 | 💬 152 | [HN Thread](https://news.ycombinator.com/item?id=49926628) |
+| **10** | [Pi Durable](https://earendil.com/posts/pi-durable/) | ⭐ 301 | 💬 37 | [HN Thread](https://news.ycombinator.com/item?id=49925969) |
 
 ---
 
 ## 🗄️ News Archive
 
+- 📅 [2026-10-02](archive/2026-10-02.md)
 - 📅 [2026-10-01](archive/2026-10-01.md)
 - 📅 [2026-09-30](archive/2026-09-30.md)
 - 📅 [2026-09-29](archive/2026-09-29.md)
@@ -40,9 +41,8 @@ An automated **Tech & AI News Digest** that aggregates top trending discussions 
 - 📅 [2026-09-20](archive/2026-09-20.md)
 - 📅 [2026-09-19](archive/2026-09-19.md)
 - 📅 [2026-09-18](archive/2026-09-18.md)
-- 📅 [2026-09-16](archive/2026-09-16.md)
 
-*... and [33 older editions in the archive folder](archive/)*
+*... and [34 older editions in the archive folder](archive/)*
 
 ---
 
