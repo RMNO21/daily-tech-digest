@@ -12,21 +12,22 @@ An automated **Tech & AI News Digest** that aggregates top trending discussions 
 
 | # | Story | Points | Comments | Discussion |
 |:---:|:---|:---:|:---:|:---:|
-| **1** | [Dutch computer museums (2022)](https://aresluna.org/dutch-computer-museums/) | ⭐ 64 | 💬 15 | [HN Thread](https://news.ycombinator.com/item?id=49935751) |
-| **2** | [Court agrees with EFF: Utah's VPN law demands a technical impossibility](https://www.eff.org/deeplinks/2026/10/court-agrees-eff-utahs-vpn-law-demands-technical-impossibility) | ⭐ 163 | 💬 67 | [HN Thread](https://news.ycombinator.com/item?id=49927754) |
-| **3** | [The Legend of von Neumann (1973) [pdf]](https://gwern.net/doc/math/1973-halmos.pdf) | ⭐ 185 | 💬 97 | [HN Thread](https://news.ycombinator.com/item?id=49933235) |
-| **4** | [FLUX 3 Image](https://bfl.ai/models/flux-3-image) | ⭐ 137 | 💬 23 | [HN Thread](https://news.ycombinator.com/item?id=49925974) |
-| **5** | [Sites in ChatGPT](https://chatgpt.com/features/sites/) | ⭐ 56 | 💬 63 | [HN Thread](https://news.ycombinator.com/item?id=49927747) |
-| **6** | [Show HN: Giving Opus 5.5 a simulated paint canvas](https://stillwet.art/) | ⭐ 105 | 💬 35 | [HN Thread](https://news.ycombinator.com/item?id=49928566) |
-| **7** | [Shimano Bicycle Museum Review](https://inrng.com/2026/10/shimano-bicycle-museum/) | ⭐ 271 | 💬 67 | [HN Thread](https://news.ycombinator.com/item?id=49930047) |
-| **8** | [Loss of cell identity drives human aging: Two new papers](https://erictopol.substack.com/p/loss-of-cell-identity-drives-human) | ⭐ 8 | 💬 0 | [HN Thread](https://news.ycombinator.com/item?id=49926411) |
-| **9** | [ICC judge on what U.S. sanctions mean for her and global courts](https://www.npr.org/2026/10/01/nx-s1-5977815/trump-icc-sanctions-kimberly-prost) | ⭐ 142 | 💬 53 | [HN Thread](https://news.ycombinator.com/item?id=49935867) |
-| **10** | [Giving friends custom text buzzes based on Morse code](https://liquidbrain.net/blog/giving-friends-custom-text-buzzes-based-on-morse-code/) | ⭐ 39 | 💬 17 | [HN Thread](https://news.ycombinator.com/item?id=49925653) |
+| **1** | [The Escalation of War in Ethiopia](https://www.africanistperspective.com/p/on-the-escalation-of-war-in-ethiopia) | ⭐ 15 | 💬 0 | [HN Thread](https://news.ycombinator.com/item?id=49943451) |
+| **2** | [Show HN: Germany's new sovereign AI model Kolibri](https://tej.as/blog/aleph-alpha-kolibri) | ⭐ 48 | 💬 17 | [HN Thread](https://news.ycombinator.com/item?id=49943034) |
+| **3** | [Newgrounds.com – A community of games, music, and art](https://www.newgrounds.com/) | ⭐ 304 | 💬 84 | [HN Thread](https://news.ycombinator.com/item?id=49940394) |
+| **4** | [C++ Insights – See your source code with the eyes of a Compiler](https://github.com/andreasfertig/cppinsights) | ⭐ 16 | 💬 1 | [HN Thread](https://news.ycombinator.com/item?id=49928361) |
+| **5** | [Court agrees with EFF: Utah's VPN law demands a technical impossibility](https://www.eff.org/deeplinks/2026/10/court-agrees-eff-utahs-vpn-law-demands-technical-impossibility) | ⭐ 687 | 💬 326 | [HN Thread](https://news.ycombinator.com/item?id=49927754) |
+| **6** | [Apple Pass Designer](https://developer.apple.com/pass-designer/) | ⭐ 466 | 💬 287 | [HN Thread](https://news.ycombinator.com/item?id=49937276) |
+| **7** | [Mike Tomlin spent 12 years building a Minecraft city](https://www.nytimes.com/athletic/7648198/2026/10/01/mike-tomlin-minecraft-nfl-coach/) | ⭐ 527 | 💬 121 | [HN Thread](https://news.ycombinator.com/item?id=49925184) |
+| **8** | [Show HN: Offrun – manage every coding agent from one workspace](https://offrun.dev/) | ⭐ 20 | 💬 9 | [HN Thread](https://news.ycombinator.com/item?id=49942434) |
+| **9** | [Great Question (YC W21) Is Hiring Product Engineers in Canada (Remote)](https://www.ycombinator.com/companies/great-question/jobs/agEqBYD-product-engineer-ai-full-stack) | ⭐ 1 | 💬 0 | [HN Thread](https://news.ycombinator.com/item?id=49943524) |
+| **10** | [Cloudflare OHTTP gateway](https://blog.cloudflare.com/announcing-cloudflare-ohttp-gateway/) | ⭐ 112 | 💬 39 | [HN Thread](https://news.ycombinator.com/item?id=49941091) |
 
 ---
 
 ## 🗄️ News Archive
 
+- 📅 [2026-10-03](archive/2026-10-03.md)
 - 📅 [2026-10-02](archive/2026-10-02.md)
 - 📅 [2026-10-01](archive/2026-10-01.md)
 - 📅 [2026-09-30](archive/2026-09-30.md)
@@ -40,9 +41,8 @@ An automated **Tech & AI News Digest** that aggregates top trending discussions 
 - 📅 [2026-09-21](archive/2026-09-21.md)
 - 📅 [2026-09-20](archive/2026-09-20.md)
 - 📅 [2026-09-19](archive/2026-09-19.md)
-- 📅 [2026-09-18](archive/2026-09-18.md)
 
-*... and [34 older editions in the archive folder](archive/)*
+*... and [35 older editions in the archive folder](archive/)*
 
 ---
 
