@@ -12,21 +12,22 @@ An automated **Tech & AI News Digest** that aggregates top trending discussions 
 
 | # | Story | Points | Comments | Discussion |
 |:---:|:---|:---:|:---:|:---:|
-| **1** | [FTL: A new operating system for clouds](https://ftl-os.org/) | ⭐ 64 | 💬 25 | [HN Thread](https://news.ycombinator.com/item?id=49944912) |
-| **2** | [Kolibri: A Sovereign Open-Weight Model](https://aleph-alpha.com/en/blog/kolibri-has-landed-a-sovereign-open-weight-model/) | ⭐ 253 | 💬 45 | [HN Thread](https://news.ycombinator.com/item?id=49942706) |
-| **3** | [Woking Electrical Control Room (2016)](http://www.darbiansphotography.com/woking-electrical-control-room-urbex) | ⭐ 88 | 💬 13 | [HN Thread](https://news.ycombinator.com/item?id=49938399) |
-| **4** | [City building games have a Soul Problem pt.2](https://www.radical-elements.com/minor-epiphanies/city-building-games-have-a-soul-problem-pt2) | ⭐ 77 | 💬 70 | [HN Thread](https://news.ycombinator.com/item?id=49945323) |
-| **5** | [Body Awareness in Goffin's Cockatoos](https://www.nature.com/articles/s41598-026-57500-7) | ⭐ 19 | 💬 3 | [HN Thread](https://news.ycombinator.com/item?id=49913106) |
-| **6** | [C++ Insights – See your source code with the eyes of a Compiler](https://github.com/andreasfertig/cppinsights) | ⭐ 96 | 💬 15 | [HN Thread](https://news.ycombinator.com/item?id=49928361) |
-| **7** | [Newgrounds.com – A community of games, music, and art](https://www.newgrounds.com/) | ⭐ 391 | 💬 110 | [HN Thread](https://news.ycombinator.com/item?id=49940394) |
-| **8** | [RetailReady (YC W24) Is Hiring](https://www.ycombinator.com/companies/retailready/jobs/bFcgIe4-implementations) | ⭐ 1 | 💬 0 | [HN Thread](https://news.ycombinator.com/item?id=49945904) |
-| **9** | [Court agrees with EFF: Utah's VPN law demands a technical impossibility](https://www.eff.org/deeplinks/2026/10/court-agrees-eff-utahs-vpn-law-demands-technical-impossibility) | ⭐ 744 | 💬 362 | [HN Thread](https://news.ycombinator.com/item?id=49927754) |
-| **10** | [Mike Tomlin spent 12 years building a Minecraft city](https://www.nytimes.com/athletic/7648198/2026/10/01/mike-tomlin-minecraft-nfl-coach/) | ⭐ 611 | 💬 139 | [HN Thread](https://news.ycombinator.com/item?id=49925184) |
+| **1** | [VGHF Digital Archive passes 5000 magazines. Here's what's next](https://gamehistory.org/5k-magazines/) | ⭐ 48 | 💬 5 | [HN Thread](https://news.ycombinator.com/item?id=49952029) |
+| **2** | [Tell HN: Bob Cringely has died](https://news.ycombinator.com/item?id=49949438) | ⭐ 561 | 💬 110 | [HN Thread](https://news.ycombinator.com/item?id=49949438) |
+| **3** | [Why don't more developers “use the platform”?](https://nolanlawson.com/2026/10/03/why-dont-more-developers-use-the-platform/) | ⭐ 181 | 💬 157 | [HN Thread](https://news.ycombinator.com/item?id=49950554) |
+| **4** | [Run Qwen 3.8 Flash Next (125B) on consumer hardware (RTX 4090) at 100T/s](https://github.com/Niko1221/Strata) | ⭐ 4 | 💬 2 | [HN Thread](https://news.ycombinator.com/item?id=49953495) |
+| **5** | [Glashütte Trash Clock – A 30-minute pendulum clock made from trash](https://niklasroy.com/gtc/) | ⭐ 5 | 💬 1 | [HN Thread](https://news.ycombinator.com/item?id=49930439) |
+| **6** | [The work by Valve's Timur Kristóf on improving old AMD GPUs on Linux](https://www.phoronix.com/news/XDC-2026-Valve-Timur-AMDGPU) | ⭐ 336 | 💬 57 | [HN Thread](https://news.ycombinator.com/item?id=49946895) |
+| **7** | [gpuvis: GPU Trace Visualizer](https://github.com/mikesart/gpuvis) | ⭐ 33 | 💬 3 | [HN Thread](https://news.ycombinator.com/item?id=49935097) |
+| **8** | [Rejection Sensitivity in Gifted and Twice-Exceptional Children](https://teachyourkids.substack.com/p/rejection-sensitivity-in-gifted-and) | ⭐ 24 | 💬 3 | [HN Thread](https://news.ycombinator.com/item?id=49953116) |
+| **9** | [Show HN: AI search for every photo and every frame of video on macOS](https://github.com/allenv0/SCM) | ⭐ 16 | 💬 7 | [HN Thread](https://news.ycombinator.com/item?id=49952111) |
+| **10** | [Treachery in the Rodin Museum 3D scan verdict](https://cosmowenman.substack.com/p/rodin-museum-3d-scan-verdict) | ⭐ 235 | 💬 108 | [HN Thread](https://news.ycombinator.com/item?id=49946355) |
 
 ---
 
 ## 🗄️ News Archive
 
+- 📅 [2026-10-04](archive/2026-10-04.md)
 - 📅 [2026-10-03](archive/2026-10-03.md)
 - 📅 [2026-10-02](archive/2026-10-02.md)
 - 📅 [2026-10-01](archive/2026-10-01.md)
@@ -40,9 +41,8 @@ An automated **Tech & AI News Digest** that aggregates top trending discussions 
 - 📅 [2026-09-22](archive/2026-09-22.md)
 - 📅 [2026-09-21](archive/2026-09-21.md)
 - 📅 [2026-09-20](archive/2026-09-20.md)
-- 📅 [2026-09-19](archive/2026-09-19.md)
 
-*... and [35 older editions in the archive folder](archive/)*
+*... and [36 older editions in the archive folder](archive/)*
 
 ---
 
