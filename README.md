@@ -12,21 +12,22 @@ An automated **Tech & AI News Digest** that aggregates top trending discussions 
 
 | # | Story | Points | Comments | Discussion |
 |:---:|:---|:---:|:---:|:---:|
-| **1** | [Beam: Reflection's 501B open-weight model](https://reflection.ai/blog/introducing-beam) | ⭐ 224 | 💬 62 | [HN Thread](https://news.ycombinator.com/item?id=49969183) |
-| **2** | [Dust: Pretraining Transformers Without Backpropagation](https://qlabs.sh/research/dust) | ⭐ 48 | 💬 3 | [HN Thread](https://news.ycombinator.com/item?id=49970871) |
-| **3** | [Find the flattest route between any two points in SF](https://flattensf.com/) | ⭐ 33 | 💬 7 | [HN Thread](https://news.ycombinator.com/item?id=49971230) |
-| **4** | [Opus 5.5 agents discover two room-temperature magnetic semiconductor candidates](https://www.vals.ai/blogs/room-temperature-magnetic-semiconductors) | ⭐ 126 | 💬 107 | [HN Thread](https://news.ycombinator.com/item?id=49970667) |
-| **5** | [Web Search API](https://developers.cloudflare.com/changelog/post/2026-10-02-introducing-web-search-api/) | ⭐ 456 | 💬 208 | [HN Thread](https://news.ycombinator.com/item?id=49963171) |
-| **6** | [Competitive Programmer's Handbook (2018) [pdf]](https://cses.fi/book/book.pdf) | ⭐ 78 | 💬 17 | [HN Thread](https://news.ycombinator.com/item?id=49944049) |
-| **7** | [Using Blu-ray M-Disk as Backup of Last Resort](https://smyck.net/2026/10/03/holocron-the-backup-of-last-resort/) | ⭐ 22 | 💬 19 | [HN Thread](https://news.ycombinator.com/item?id=49951693) |
-| **8** | [Making a GTK application in Haskell, part 1](https://floreal.tech/blog/2026/making-a-gtk-app-in-haskell-part-1/) | ⭐ 119 | 💬 27 | [HN Thread](https://news.ycombinator.com/item?id=49965308) |
-| **9** | [Anthropic reported diary entry to police, woman faces felony charge](https://www.techspot.com/news/114091-florida-woman-used-claude-diary-anthropic-reported-shoot.html) | ⭐ 434 | 💬 362 | [HN Thread](https://news.ycombinator.com/item?id=49961057) |
-| **10** | [A third way of using Linux](https://hisvirusness.com/third-is-the-way) | ⭐ 13 | 💬 23 | [HN Thread](https://news.ycombinator.com/item?id=49970073) |
+| **1** | [Sharing AI progress in mathematics](https://openai.com/index/sharing-ai-progress-in-mathematics/) | ⭐ 870 | 💬 784 | [HN Thread](https://news.ycombinator.com/item?id=49984923) |
+| **2** | [Strands Decider 2B: a small, open-source, decision model](https://strandsagents.com/blog/introducing-strands-decider/) | ⭐ 161 | 💬 38 | [HN Thread](https://news.ycombinator.com/item?id=49987076) |
+| **3** | [Decisions API is in public beta](https://developers.openai.com/api/docs/guides/decisions) | ⭐ 272 | 💬 130 | [HN Thread](https://news.ycombinator.com/item?id=49984025) |
+| **4** | [The art of defusing a second world war bomb](https://www.theguardian.com/news/ng-interactive/2026/oct/06/it-could-knock-a-whole-street-down-the-art-of-defusing-a-second-world-war-bomb) | ⭐ 50 | 💬 16 | [HN Thread](https://news.ycombinator.com/item?id=49987858) |
+| **5** | [Mistral Large 4](https://mistral.ai/news/mistral-large-4/\) | ⭐ 1782 | 💬 1055 | [HN Thread](https://news.ycombinator.com/item?id=49977979) |
+| **6** | [EmbeddingGemma 2: An open, lightweight multimodal embedding model](https://blog.google/innovation-and-ai/technology/developers-tools/embeddinggemma-2/) | ⭐ 311 | 💬 32 | [HN Thread](https://news.ycombinator.com/item?id=49980487) |
+| **7** | [The Legend of the Paper Crane](https://mazdastories.com/en_us/inspire/paper-cranes-into-the-fold/) | ⭐ 11 | 💬 1 | [HN Thread](https://news.ycombinator.com/item?id=49953939) |
+| **8** | [ESP32-C3 Adblock](https://github.com/M-Abozaid/esp32-c3-adblock) | ⭐ 86 | 💬 28 | [HN Thread](https://news.ycombinator.com/item?id=49986862) |
+| **9** | [What is Codemode](https://lucumr.pocoo.org/2026/10/6/codemode/) | ⭐ 74 | 💬 30 | [HN Thread](https://news.ycombinator.com/item?id=49978333) |
+| **10** | [Shaders, WebGPU Components for React, Vue, Svelte, Solid, JavaScript and Framer](https://github.com/shader-effects-inc/shaders) | ⭐ 18 | 💬 6 | [HN Thread](https://news.ycombinator.com/item?id=49988709) |
 
 ---
 
 ## 🗄️ News Archive
 
+- 📅 [2026-10-07](archive/2026-10-07.md)
 - 📅 [2026-10-05](archive/2026-10-05.md)
 - 📅 [2026-10-04](archive/2026-10-04.md)
 - 📅 [2026-10-03](archive/2026-10-03.md)
@@ -40,9 +41,8 @@ An automated **Tech & AI News Digest** that aggregates top trending discussions 
 - 📅 [2026-09-25](archive/2026-09-25.md)
 - 📅 [2026-09-24](archive/2026-09-24.md)
 - 📅 [2026-09-22](archive/2026-09-22.md)
-- 📅 [2026-09-21](archive/2026-09-21.md)
 
-*... and [37 older editions in the archive folder](archive/)*
+*... and [38 older editions in the archive folder](archive/)*
 
 ---
 
