@@ -12,21 +12,22 @@ An automated **Tech & AI News Digest** that aggregates top trending discussions 
 
 | # | Story | Points | Comments | Discussion |
 |:---:|:---|:---:|:---:|:---:|
-| **1** | [Sharing AI progress in mathematics](https://openai.com/index/sharing-ai-progress-in-mathematics/) | ⭐ 870 | 💬 784 | [HN Thread](https://news.ycombinator.com/item?id=49984923) |
-| **2** | [Strands Decider 2B: a small, open-source, decision model](https://strandsagents.com/blog/introducing-strands-decider/) | ⭐ 161 | 💬 38 | [HN Thread](https://news.ycombinator.com/item?id=49987076) |
-| **3** | [Decisions API is in public beta](https://developers.openai.com/api/docs/guides/decisions) | ⭐ 272 | 💬 130 | [HN Thread](https://news.ycombinator.com/item?id=49984025) |
-| **4** | [The art of defusing a second world war bomb](https://www.theguardian.com/news/ng-interactive/2026/oct/06/it-could-knock-a-whole-street-down-the-art-of-defusing-a-second-world-war-bomb) | ⭐ 50 | 💬 16 | [HN Thread](https://news.ycombinator.com/item?id=49987858) |
-| **5** | [Mistral Large 4](https://mistral.ai/news/mistral-large-4/\) | ⭐ 1782 | 💬 1055 | [HN Thread](https://news.ycombinator.com/item?id=49977979) |
-| **6** | [EmbeddingGemma 2: An open, lightweight multimodal embedding model](https://blog.google/innovation-and-ai/technology/developers-tools/embeddinggemma-2/) | ⭐ 311 | 💬 32 | [HN Thread](https://news.ycombinator.com/item?id=49980487) |
-| **7** | [The Legend of the Paper Crane](https://mazdastories.com/en_us/inspire/paper-cranes-into-the-fold/) | ⭐ 11 | 💬 1 | [HN Thread](https://news.ycombinator.com/item?id=49953939) |
-| **8** | [ESP32-C3 Adblock](https://github.com/M-Abozaid/esp32-c3-adblock) | ⭐ 86 | 💬 28 | [HN Thread](https://news.ycombinator.com/item?id=49986862) |
-| **9** | [What is Codemode](https://lucumr.pocoo.org/2026/10/6/codemode/) | ⭐ 74 | 💬 30 | [HN Thread](https://news.ycombinator.com/item?id=49978333) |
-| **10** | [Shaders, WebGPU Components for React, Vue, Svelte, Solid, JavaScript and Framer](https://github.com/shader-effects-inc/shaders) | ⭐ 18 | 💬 6 | [HN Thread](https://news.ycombinator.com/item?id=49988709) |
+| **1** | [Whistle: Speech to Text in 16.9 MB](https://cactuscompute.com/blog/whistle) | ⭐ 390 | 💬 98 | [HN Thread](https://news.ycombinator.com/item?id=50008427) |
+| **2** | [ADHD as a circadian rhythm disorder: evidence and implications for chronotherapy](https://www.frontiersin.org/journals/psychiatry/articles/10.3389/fpsyt.2025.1697900/full) | ⭐ 43 | 💬 22 | [HN Thread](https://news.ycombinator.com/item?id=50011928) |
+| **3** | [Why isn't the industry freaking out about DeepSeek 4.1 Flash?](https://www.dgt.is/blog/2026-10-07-deepseek-freek-out/) | ⭐ 237 | 💬 204 | [HN Thread](https://news.ycombinator.com/item?id=50000488) |
+| **4** | [Theranos.world](https://www.theranos.world/) | ⭐ 151 | 💬 78 | [HN Thread](https://news.ycombinator.com/item?id=50009295) |
+| **5** | [The value of not getting to the point (2015)](https://ken.arneson.name/2015/11/the-value-of-not-getting-to-the-point/) | ⭐ 75 | 💬 25 | [HN Thread](https://news.ycombinator.com/item?id=50010470) |
+| **6** | [AI-ready biological data: $1.8B global commitment](https://biohub.org/news/virtual-biology-initiative-expansion/) | ⭐ 27 | 💬 1 | [HN Thread](https://news.ycombinator.com/item?id=50011999) |
+| **7** | [I hired an illustrator to draw my house. Now it's my Home Assistant dashboard](https://antonfrolov.substack.com/p/i-hired-an-illustrator-to-draw-my) | ⭐ 232 | 💬 29 | [HN Thread](https://news.ycombinator.com/item?id=49986882) |
+| **8** | [Man discovers his parents' coffee machine used 1TB of data in 10 days](https://www.dexerto.com/entertainment/man-discovers-his-parents-coffee-machine-used-1tb-of-data-in-10-days-3416399/) | ⭐ 242 | 💬 141 | [HN Thread](https://news.ycombinator.com/item?id=49995495) |
+| **9** | [A Terminal Protocol for Program Status (OSC 7501)](https://mitchellh.com/writing/program-status-osc7501) | ⭐ 57 | 💬 16 | [HN Thread](https://news.ycombinator.com/item?id=49984159) |
+| **10** | [Show HN: Free open source Adobe Lightroom alternative, completely local with AI](https://github.com/thesnarkitecht/rembrandt) | ⭐ 18 | 💬 16 | [HN Thread](https://news.ycombinator.com/item?id=50012199) |
 
 ---
 
 ## 🗄️ News Archive
 
+- 📅 [2026-10-08](archive/2026-10-08.md)
 - 📅 [2026-10-07](archive/2026-10-07.md)
 - 📅 [2026-10-05](archive/2026-10-05.md)
 - 📅 [2026-10-04](archive/2026-10-04.md)
@@ -40,9 +41,8 @@ An automated **Tech & AI News Digest** that aggregates top trending discussions 
 - 📅 [2026-09-26](archive/2026-09-26.md)
 - 📅 [2026-09-25](archive/2026-09-25.md)
 - 📅 [2026-09-24](archive/2026-09-24.md)
-- 📅 [2026-09-22](archive/2026-09-22.md)
 
-*... and [38 older editions in the archive folder](archive/)*
+*... and [39 older editions in the archive folder](archive/)*
 
 ---
 
