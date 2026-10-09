@@ -12,21 +12,22 @@ An automated **Tech & AI News Digest** that aggregates top trending discussions 
 
 | # | Story | Points | Comments | Discussion |
 |:---:|:---|:---:|:---:|:---:|
-| **1** | [Whistle: Speech to Text in 16.9 MB](https://cactuscompute.com/blog/whistle) | ⭐ 390 | 💬 98 | [HN Thread](https://news.ycombinator.com/item?id=50008427) |
-| **2** | [ADHD as a circadian rhythm disorder: evidence and implications for chronotherapy](https://www.frontiersin.org/journals/psychiatry/articles/10.3389/fpsyt.2025.1697900/full) | ⭐ 43 | 💬 22 | [HN Thread](https://news.ycombinator.com/item?id=50011928) |
-| **3** | [Why isn't the industry freaking out about DeepSeek 4.1 Flash?](https://www.dgt.is/blog/2026-10-07-deepseek-freek-out/) | ⭐ 237 | 💬 204 | [HN Thread](https://news.ycombinator.com/item?id=50000488) |
-| **4** | [Theranos.world](https://www.theranos.world/) | ⭐ 151 | 💬 78 | [HN Thread](https://news.ycombinator.com/item?id=50009295) |
-| **5** | [The value of not getting to the point (2015)](https://ken.arneson.name/2015/11/the-value-of-not-getting-to-the-point/) | ⭐ 75 | 💬 25 | [HN Thread](https://news.ycombinator.com/item?id=50010470) |
-| **6** | [AI-ready biological data: $1.8B global commitment](https://biohub.org/news/virtual-biology-initiative-expansion/) | ⭐ 27 | 💬 1 | [HN Thread](https://news.ycombinator.com/item?id=50011999) |
-| **7** | [I hired an illustrator to draw my house. Now it's my Home Assistant dashboard](https://antonfrolov.substack.com/p/i-hired-an-illustrator-to-draw-my) | ⭐ 232 | 💬 29 | [HN Thread](https://news.ycombinator.com/item?id=49986882) |
-| **8** | [Man discovers his parents' coffee machine used 1TB of data in 10 days](https://www.dexerto.com/entertainment/man-discovers-his-parents-coffee-machine-used-1tb-of-data-in-10-days-3416399/) | ⭐ 242 | 💬 141 | [HN Thread](https://news.ycombinator.com/item?id=49995495) |
-| **9** | [A Terminal Protocol for Program Status (OSC 7501)](https://mitchellh.com/writing/program-status-osc7501) | ⭐ 57 | 💬 16 | [HN Thread](https://news.ycombinator.com/item?id=49984159) |
-| **10** | [Show HN: Free open source Adobe Lightroom alternative, completely local with AI](https://github.com/thesnarkitecht/rembrandt) | ⭐ 18 | 💬 16 | [HN Thread](https://news.ycombinator.com/item?id=50012199) |
+| **1** | [Cloudflare acquires Deno](https://deno.com/blog/cloudflare) | ⭐ 912 | 💬 488 | [HN Thread](https://news.ycombinator.com/item?id=50019911) |
+| **2** | [No Man Is an Island](https://borretti.me/article/no-man-is-an-island) | ⭐ 75 | 💬 27 | [HN Thread](https://news.ycombinator.com/item?id=50025935) |
+| **3** | [Triple-A Minesweeper](https://minesweeper.mikelacher.com/) | ⭐ 318 | 💬 71 | [HN Thread](https://news.ycombinator.com/item?id=50022292) |
+| **4** | [Show HN: Carrier-Explode: iPhone, Pixel and Galaxy carrier settings decoded](https://carrierexplode.com/) | ⭐ 114 | 💬 13 | [HN Thread](https://news.ycombinator.com/item?id=50024499) |
+| **5** | [Our $445M Series D](https://oxide.computer/blog/our-445m-series-d) | ⭐ 510 | 💬 210 | [HN Thread](https://news.ycombinator.com/item?id=50020014) |
+| **6** | [Ideas aren't getting harder to find, anyone who tells you otherwise is a coward](https://www.experimental-history.com/p/ideas-arent-getting-harder-to-find) | ⭐ 53 | 💬 17 | [HN Thread](https://news.ycombinator.com/item?id=50024571) |
+| **7** | [Typesafe AI raises $870M at $7.5B](https://typesafe.ai/blog/series-ai) | ⭐ 151 | 💬 124 | [HN Thread](https://news.ycombinator.com/item?id=50023450) |
+| **8** | [Pointing AI at archives found a forgotten meteorite, lost rhinos, and more](https://jessewaites.com/blog/post/i-pointed-ai-at-400-years-of-archives/) | ⭐ 65 | 💬 30 | [HN Thread](https://news.ycombinator.com/item?id=50019056) |
+| **9** | [Sorry, I'm in a meeting](https://iminafleeting.com/) | ⭐ 639 | 💬 211 | [HN Thread](https://news.ycombinator.com/item?id=50018088) |
+| **10** | [Show HN: Let your AI agents paint big arrows, boxes and text on your screen](https://github.com/franzenzenhofer/big-arrow-on-the-screen) | ⭐ 345 | 💬 145 | [HN Thread](https://news.ycombinator.com/item?id=50018817) |
 
 ---
 
 ## 🗄️ News Archive
 
+- 📅 [2026-10-09](archive/2026-10-09.md)
 - 📅 [2026-10-08](archive/2026-10-08.md)
 - 📅 [2026-10-07](archive/2026-10-07.md)
 - 📅 [2026-10-05](archive/2026-10-05.md)
@@ -40,9 +41,8 @@ An automated **Tech & AI News Digest** that aggregates top trending discussions 
 - 📅 [2026-09-27](archive/2026-09-27.md)
 - 📅 [2026-09-26](archive/2026-09-26.md)
 - 📅 [2026-09-25](archive/2026-09-25.md)
-- 📅 [2026-09-24](archive/2026-09-24.md)
 
-*... and [39 older editions in the archive folder](archive/)*
+*... and [40 older editions in the archive folder](archive/)*
 
 ---
 
