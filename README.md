@@ -12,16 +12,16 @@ An automated **Tech & AI News Digest** that aggregates top trending discussions 
 
 | # | Story | Points | Comments | Discussion |
 |:---:|:---|:---:|:---:|:---:|
-| **1** | [`123456' password used in Danish CPR data breach](https://cphpost.dk/2026-10-10/news/round-up/123456-password-used-in-massive-danish-cpr-data-breach/) | ⭐ 212 | 💬 134 | [HN Thread](https://news.ycombinator.com/item?id=50031269) |
-| **2** | [I Would Like the Value of My Home to Rise, While My Property Taxes Fall](https://conversableeconomist.com/2026/09/28/i-would-like-the-value-of-my-home-to-rise-while-my-property-taxes-fall/) | ⭐ 23 | 💬 5 | [HN Thread](https://news.ycombinator.com/item?id=50032758) |
-| **3** | [Talorys – A self-hosted personal AI agent on Cloudflare's free tier](https://github.com/rociiu/talorys) | ⭐ 73 | 💬 32 | [HN Thread](https://news.ycombinator.com/item?id=50031614) |
-| **4** | [Lobbying Is Corruption](https://carette.xyz/posts/lobbying_and_corruption/) | ⭐ 87 | 💬 30 | [HN Thread](https://news.ycombinator.com/item?id=50032556) |
-| **5** | [REA Reverse – Engineer Anything](https://rea.tools/) | ⭐ 511 | 💬 219 | [HN Thread](https://news.ycombinator.com/item?id=50028275) |
-| **6** | [Cloudflare acquires Deno](https://deno.com/blog/cloudflare) | ⭐ 1272 | 💬 654 | [HN Thread](https://news.ycombinator.com/item?id=50019911) |
-| **7** | [Telegram Desktop vulnerability allowed any user's file to be stolen](https://beaksec.github.io/posts/telegram-desktop-one-click-account-takeover/) | ⭐ 240 | 💬 127 | [HN Thread](https://news.ycombinator.com/item?id=50029123) |
-| **8** | [C for Rust Programmers](https://bd103.dev/blog/2026-10-07-c-for-rust-programmers/) | ⭐ 38 | 💬 16 | [HN Thread](https://news.ycombinator.com/item?id=50005743) |
-| **9** | [Triple-A Minesweeper](https://minesweeper.mikelacher.com/) | ⭐ 1111 | 💬 216 | [HN Thread](https://news.ycombinator.com/item?id=50022292) |
-| **10** | [Eye of Sauron: Long-Range Hidden Spy Camera Detection (2024)](https://www.usenix.org/conference/usenixsecurity24/presentation/zhang-qibo) | ⭐ 208 | 💬 43 | [HN Thread](https://news.ycombinator.com/item?id=49997481) |
+| **1** | [2D Vehicles](https://patkerr.co.uk/2d-vehicles/) | ⭐ 279 | 💬 66 | [HN Thread](https://news.ycombinator.com/item?id=49991852) |
+| **2** | [A city-building game in which the city would prefer you didn't](https://housing.over.pizza/) | ⭐ 59 | 💬 20 | [HN Thread](https://news.ycombinator.com/item?id=50036864) |
+| **3** | [Why DuckDB 2.0 is faster](https://motherduck.com/blog/why-duckdb-20-is-faster/) | ⭐ 101 | 💬 30 | [HN Thread](https://news.ycombinator.com/item?id=50035530) |
+| **4** | [Nix wrote half of my debugger](https://fzakaria.com/2026/10/07/nix-wrote-half-of-my-debugger) | ⭐ 77 | 💬 4 | [HN Thread](https://news.ycombinator.com/item?id=50017247) |
+| **5** | [Knuth reward check](https://www.thomas-huehn.com/knuth-reward-check/) | ⭐ 119 | 💬 47 | [HN Thread](https://news.ycombinator.com/item?id=50034081) |
+| **6** | [The Lightbulb Computer](https://lightbulbcomputer.com/) | ⭐ 134 | 💬 34 | [HN Thread](https://news.ycombinator.com/item?id=50029487) |
+| **7** | [Talorys – A self-hosted personal AI agent on Cloudflare's free tier](https://github.com/rociiu/talorys) | ⭐ 223 | 💬 113 | [HN Thread](https://news.ycombinator.com/item?id=50031614) |
+| **8** | [Mxc: Microsoft Execution Containers version 1.0.0](https://blogs.windows.com/windowsdeveloper/2026/10/07/microsoft-execution-containers-policy-driven-containment-for-ai-agents/) | ⭐ 141 | 💬 32 | [HN Thread](https://news.ycombinator.com/item?id=50016956) |
+| **9** | [Recent AI models struggled to match a human algorithmic innovation](https://epoch.ai/publications/innovationeval) | ⭐ 54 | 💬 48 | [HN Thread](https://news.ycombinator.com/item?id=50027257) |
+| **10** | [REA Reverse – Engineer Anything](https://rea.tools/) | ⭐ 662 | 💬 292 | [HN Thread](https://news.ycombinator.com/item?id=50028275) |
 
 ---
 
