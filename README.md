@@ -12,21 +12,22 @@ An automated **Tech & AI News Digest** that aggregates top trending discussions 
 
 | # | Story | Points | Comments | Discussion |
 |:---:|:---|:---:|:---:|:---:|
-| **1** | [Cloudflare acquires Deno](https://deno.com/blog/cloudflare) | ⭐ 912 | 💬 488 | [HN Thread](https://news.ycombinator.com/item?id=50019911) |
-| **2** | [No Man Is an Island](https://borretti.me/article/no-man-is-an-island) | ⭐ 75 | 💬 27 | [HN Thread](https://news.ycombinator.com/item?id=50025935) |
-| **3** | [Triple-A Minesweeper](https://minesweeper.mikelacher.com/) | ⭐ 318 | 💬 71 | [HN Thread](https://news.ycombinator.com/item?id=50022292) |
-| **4** | [Show HN: Carrier-Explode: iPhone, Pixel and Galaxy carrier settings decoded](https://carrierexplode.com/) | ⭐ 114 | 💬 13 | [HN Thread](https://news.ycombinator.com/item?id=50024499) |
-| **5** | [Our $445M Series D](https://oxide.computer/blog/our-445m-series-d) | ⭐ 510 | 💬 210 | [HN Thread](https://news.ycombinator.com/item?id=50020014) |
-| **6** | [Ideas aren't getting harder to find, anyone who tells you otherwise is a coward](https://www.experimental-history.com/p/ideas-arent-getting-harder-to-find) | ⭐ 53 | 💬 17 | [HN Thread](https://news.ycombinator.com/item?id=50024571) |
-| **7** | [Typesafe AI raises $870M at $7.5B](https://typesafe.ai/blog/series-ai) | ⭐ 151 | 💬 124 | [HN Thread](https://news.ycombinator.com/item?id=50023450) |
-| **8** | [Pointing AI at archives found a forgotten meteorite, lost rhinos, and more](https://jessewaites.com/blog/post/i-pointed-ai-at-400-years-of-archives/) | ⭐ 65 | 💬 30 | [HN Thread](https://news.ycombinator.com/item?id=50019056) |
-| **9** | [Sorry, I'm in a meeting](https://iminafleeting.com/) | ⭐ 639 | 💬 211 | [HN Thread](https://news.ycombinator.com/item?id=50018088) |
-| **10** | [Show HN: Let your AI agents paint big arrows, boxes and text on your screen](https://github.com/franzenzenhofer/big-arrow-on-the-screen) | ⭐ 345 | 💬 145 | [HN Thread](https://news.ycombinator.com/item?id=50018817) |
+| **1** | [REA Reverse – Engineer Anything](https://rea.tools/) | ⭐ 313 | 💬 103 | [HN Thread](https://news.ycombinator.com/item?id=50028275) |
+| **2** | [Telegram Desktop vulnerability allowed any user's file to be stolen](https://beaksec.github.io/posts/telegram-desktop-one-click-account-takeover/) | ⭐ 87 | 💬 36 | [HN Thread](https://news.ycombinator.com/item?id=50029123) |
+| **3** | [Cloudflare acquires Deno](https://deno.com/blog/cloudflare) | ⭐ 1167 | 💬 602 | [HN Thread](https://news.ycombinator.com/item?id=50019911) |
+| **4** | [Triple-A Minesweeper](https://minesweeper.mikelacher.com/) | ⭐ 869 | 💬 169 | [HN Thread](https://news.ycombinator.com/item?id=50022292) |
+| **5** | [Eye of Sauron: Long-Range Hidden Spy Camera Detection](https://www.usenix.org/conference/usenixsecurity24/presentation/zhang-qibo) | ⭐ 108 | 💬 22 | [HN Thread](https://news.ycombinator.com/item?id=49997481) |
+| **6** | [How to head into VR without wearing a headset](https://www.kyushu-u.ac.jp/en/researches/view/414/) | ⭐ 16 | 💬 3 | [HN Thread](https://news.ycombinator.com/item?id=49981264) |
+| **7** | [Typesafe AI raises $870M at $7.5B](https://typesafe.ai/blog/series-ai) | ⭐ 341 | 💬 246 | [HN Thread](https://news.ycombinator.com/item?id=50023450) |
+| **8** | [Show HN: Carrier-Explode: iPhone, Pixel and Galaxy carrier settings decoded](https://carrierexplode.com/) | ⭐ 286 | 💬 39 | [HN Thread](https://news.ycombinator.com/item?id=50024499) |
+| **9** | [Can you use autoregressive diffusion to generate market data?](https://blog.janestreet.com/can-you-use-autoregressive-diffusion-to-generate-market-data/) | ⭐ 63 | 💬 23 | [HN Thread](https://news.ycombinator.com/item?id=50021410) |
+| **10** | [Compiling Rust to readable C with Eurydice](https://lwn.net/Articles/1055211/) | ⭐ 60 | 💬 9 | [HN Thread](https://news.ycombinator.com/item?id=50027853) |
 
 ---
 
 ## 🗄️ News Archive
 
+- 📅 [2026-10-10](archive/2026-10-10.md)
 - 📅 [2026-10-09](archive/2026-10-09.md)
 - 📅 [2026-10-08](archive/2026-10-08.md)
 - 📅 [2026-10-07](archive/2026-10-07.md)
@@ -40,9 +41,8 @@ An automated **Tech & AI News Digest** that aggregates top trending discussions 
 - 📅 [2026-09-28](archive/2026-09-28.md)
 - 📅 [2026-09-27](archive/2026-09-27.md)
 - 📅 [2026-09-26](archive/2026-09-26.md)
-- 📅 [2026-09-25](archive/2026-09-25.md)
 
-*... and [40 older editions in the archive folder](archive/)*
+*... and [41 older editions in the archive folder](archive/)*
 
 ---
 
