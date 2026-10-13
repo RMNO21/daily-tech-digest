@@ -12,21 +12,22 @@ An automated **Tech & AI News Digest** that aggregates top trending discussions 
 
 | # | Story | Points | Comments | Discussion |
 |:---:|:---|:---:|:---:|:---:|
-| **1** | [2D Vehicles](https://patkerr.co.uk/2d-vehicles/) | ⭐ 279 | 💬 66 | [HN Thread](https://news.ycombinator.com/item?id=49991852) |
-| **2** | [A city-building game in which the city would prefer you didn't](https://housing.over.pizza/) | ⭐ 59 | 💬 20 | [HN Thread](https://news.ycombinator.com/item?id=50036864) |
-| **3** | [Why DuckDB 2.0 is faster](https://motherduck.com/blog/why-duckdb-20-is-faster/) | ⭐ 101 | 💬 30 | [HN Thread](https://news.ycombinator.com/item?id=50035530) |
-| **4** | [Nix wrote half of my debugger](https://fzakaria.com/2026/10/07/nix-wrote-half-of-my-debugger) | ⭐ 77 | 💬 4 | [HN Thread](https://news.ycombinator.com/item?id=50017247) |
-| **5** | [Knuth reward check](https://www.thomas-huehn.com/knuth-reward-check/) | ⭐ 119 | 💬 47 | [HN Thread](https://news.ycombinator.com/item?id=50034081) |
-| **6** | [The Lightbulb Computer](https://lightbulbcomputer.com/) | ⭐ 134 | 💬 34 | [HN Thread](https://news.ycombinator.com/item?id=50029487) |
-| **7** | [Talorys – A self-hosted personal AI agent on Cloudflare's free tier](https://github.com/rociiu/talorys) | ⭐ 223 | 💬 113 | [HN Thread](https://news.ycombinator.com/item?id=50031614) |
-| **8** | [Mxc: Microsoft Execution Containers version 1.0.0](https://blogs.windows.com/windowsdeveloper/2026/10/07/microsoft-execution-containers-policy-driven-containment-for-ai-agents/) | ⭐ 141 | 💬 32 | [HN Thread](https://news.ycombinator.com/item?id=50016956) |
-| **9** | [Recent AI models struggled to match a human algorithmic innovation](https://epoch.ai/publications/innovationeval) | ⭐ 54 | 💬 48 | [HN Thread](https://news.ycombinator.com/item?id=50027257) |
-| **10** | [REA Reverse – Engineer Anything](https://rea.tools/) | ⭐ 662 | 💬 292 | [HN Thread](https://news.ycombinator.com/item?id=50028275) |
+| **1** | [Gemini 4 Argon](https://deepmind.google/models/gemini/) | ⭐ 767 | 💬 607 | [HN Thread](https://news.ycombinator.com/item?id=50073879) |
+| **2** | [Show HN: Guitoro, a virtual guitar you strum with your keyboard](https://guitoro.com/) | ⭐ 114 | 💬 33 | [HN Thread](https://news.ycombinator.com/item?id=50077020) |
+| **3** | [Ledger confirms spy chip implant behind wallet crypto thefts](https://www.bleepingcomputer.com/news/security/ledger-confirms-hardware-wallet-spy-implant-behind-crypto-thefts/) | ⭐ 237 | 💬 232 | [HN Thread](https://news.ycombinator.com/item?id=50054092) |
+| **4** | [Apple HomeView](https://www.apple.com/apple-homeview/) | ⭐ 591 | 💬 725 | [HN Thread](https://news.ycombinator.com/item?id=50071017) |
+| **5** | [Redesigning source control at Anthropic](https://www.anthropic.com/engineering/redesigning-source-control) | ⭐ 365 | 💬 356 | [HN Thread](https://news.ycombinator.com/item?id=50073633) |
+| **6** | [Thunderbird for iOS](https://blog.thunderbird.net/2026/10/thunderbird-for-ios-a-first-look-at-the-native-iphone-email-app-in-development/) | ⭐ 260 | 💬 97 | [HN Thread](https://news.ycombinator.com/item?id=50072913) |
+| **7** | [PostEra (YC W20) Is Hiring AI Researchers for Drug Discovery](https://jobs.lever.co/postera/c7d50a36-db0a-4574-bfe4-8700b74a22c0) | ⭐ 1 | 💬 0 | [HN Thread](https://news.ycombinator.com/item?id=50078686) |
+| **8** | [11 year old unsoundness bugs found in Rust borrow checker](https://github.com/rust-lang/rust/issues/164250) | ⭐ 621 | 💬 352 | [HN Thread](https://news.ycombinator.com/item?id=50069499) |
+| **9** | [I posted to HN, and then my website was flooded with AI bot traffic](https://www.sammystraus.com/#i-posted-to-hn-and-then-my-website-was-flooded-with-ai-bot-traffic) | ⭐ 193 | 💬 118 | [HN Thread](https://news.ycombinator.com/item?id=50073221) |
+| **10** | [Firefox Enterprise](https://www.firefox.com/en-US/enterprise/) | ⭐ 536 | 💬 219 | [HN Thread](https://news.ycombinator.com/item?id=50070302) |
 
 ---
 
 ## 🗄️ News Archive
 
+- 📅 [2026-10-13](archive/2026-10-13.md)
 - 📅 [2026-10-10](archive/2026-10-10.md)
 - 📅 [2026-10-09](archive/2026-10-09.md)
 - 📅 [2026-10-08](archive/2026-10-08.md)
@@ -40,9 +41,8 @@ An automated **Tech & AI News Digest** that aggregates top trending discussions 
 - 📅 [2026-09-29](archive/2026-09-29.md)
 - 📅 [2026-09-28](archive/2026-09-28.md)
 - 📅 [2026-09-27](archive/2026-09-27.md)
-- 📅 [2026-09-26](archive/2026-09-26.md)
 
-*... and [41 older editions in the archive folder](archive/)*
+*... and [42 older editions in the archive folder](archive/)*
 
 ---
 
