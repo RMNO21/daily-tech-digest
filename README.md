@@ -12,21 +12,22 @@ An automated **Tech & AI News Digest** that aggregates top trending discussions 
 
 | # | Story | Points | Comments | Discussion |
 |:---:|:---|:---:|:---:|:---:|
-| **1** | [Gemini 4 Argon](https://deepmind.google/models/gemini/) | ⭐ 767 | 💬 607 | [HN Thread](https://news.ycombinator.com/item?id=50073879) |
-| **2** | [Show HN: Guitoro, a virtual guitar you strum with your keyboard](https://guitoro.com/) | ⭐ 114 | 💬 33 | [HN Thread](https://news.ycombinator.com/item?id=50077020) |
-| **3** | [Ledger confirms spy chip implant behind wallet crypto thefts](https://www.bleepingcomputer.com/news/security/ledger-confirms-hardware-wallet-spy-implant-behind-crypto-thefts/) | ⭐ 237 | 💬 232 | [HN Thread](https://news.ycombinator.com/item?id=50054092) |
-| **4** | [Apple HomeView](https://www.apple.com/apple-homeview/) | ⭐ 591 | 💬 725 | [HN Thread](https://news.ycombinator.com/item?id=50071017) |
-| **5** | [Redesigning source control at Anthropic](https://www.anthropic.com/engineering/redesigning-source-control) | ⭐ 365 | 💬 356 | [HN Thread](https://news.ycombinator.com/item?id=50073633) |
-| **6** | [Thunderbird for iOS](https://blog.thunderbird.net/2026/10/thunderbird-for-ios-a-first-look-at-the-native-iphone-email-app-in-development/) | ⭐ 260 | 💬 97 | [HN Thread](https://news.ycombinator.com/item?id=50072913) |
-| **7** | [PostEra (YC W20) Is Hiring AI Researchers for Drug Discovery](https://jobs.lever.co/postera/c7d50a36-db0a-4574-bfe4-8700b74a22c0) | ⭐ 1 | 💬 0 | [HN Thread](https://news.ycombinator.com/item?id=50078686) |
-| **8** | [11 year old unsoundness bugs found in Rust borrow checker](https://github.com/rust-lang/rust/issues/164250) | ⭐ 621 | 💬 352 | [HN Thread](https://news.ycombinator.com/item?id=50069499) |
-| **9** | [I posted to HN, and then my website was flooded with AI bot traffic](https://www.sammystraus.com/#i-posted-to-hn-and-then-my-website-was-flooded-with-ai-bot-traffic) | ⭐ 193 | 💬 118 | [HN Thread](https://news.ycombinator.com/item?id=50073221) |
-| **10** | [Firefox Enterprise](https://www.firefox.com/en-US/enterprise/) | ⭐ 536 | 💬 219 | [HN Thread](https://news.ycombinator.com/item?id=50070302) |
+| **1** | [Felix Rieseberg Homepage](https://felixrieseberg.com/) | ⭐ 80 | 💬 26 | [HN Thread](https://news.ycombinator.com/item?id=50082470) |
+| **2** | [Gemini 4 Argon](https://deepmind.google/models/gemini/) | ⭐ 1179 | 💬 838 | [HN Thread](https://news.ycombinator.com/item?id=50073879) |
+| **3** | [Sound – Bartosz Ciechanowski (2022)](https://ciechanow.ski/sound/) | ⭐ 58 | 💬 8 | [HN Thread](https://news.ycombinator.com/item?id=50045147) |
+| **4** | [Ledger confirms spy chip implant behind wallet crypto thefts](https://www.bleepingcomputer.com/news/security/ledger-confirms-hardware-wallet-spy-implant-behind-crypto-thefts/) | ⭐ 597 | 💬 392 | [HN Thread](https://news.ycombinator.com/item?id=50054092) |
+| **5** | [Is 'Attention' the Essence of Intelligence?](https://www.quantamagazine.org/is-attention-the-essence-of-intelligence-20261012/) | ⭐ 49 | 💬 37 | [HN Thread](https://news.ycombinator.com/item?id=50081930) |
+| **6** | [Show HN: Guitoro, a virtual guitar you strum with your keyboard](https://guitoro.com/) | ⭐ 375 | 💬 99 | [HN Thread](https://news.ycombinator.com/item?id=50077020) |
+| **7** | [Redesigning source control at Anthropic](https://www.anthropic.com/engineering/redesigning-source-control) | ⭐ 677 | 💬 648 | [HN Thread](https://news.ycombinator.com/item?id=50073633) |
+| **8** | [900-Page Pre-Pantone Guide to Color from 1692 (With Complete High-Res Scan)](https://www.openculture.com/2026/10/a-900-page-pre-pantone-guide-to-color-from-1692.html) | ⭐ 119 | 💬 12 | [HN Thread](https://news.ycombinator.com/item?id=50053487) |
+| **9** | [Grace Hopper Celebration Cancelled](https://anitab.org/press-release) | ⭐ 101 | 💬 26 | [HN Thread](https://news.ycombinator.com/item?id=50080007) |
+| **10** | [I built a tool to track what AI leaders say and how their views change on video](https://blumify.io/people) | ⭐ 67 | 💬 47 | [HN Thread](https://news.ycombinator.com/item?id=50081151) |
 
 ---
 
 ## 🗄️ News Archive
 
+- 📅 [2026-10-14](archive/2026-10-14.md)
 - 📅 [2026-10-13](archive/2026-10-13.md)
 - 📅 [2026-10-10](archive/2026-10-10.md)
 - 📅 [2026-10-09](archive/2026-10-09.md)
@@ -40,9 +41,8 @@ An automated **Tech & AI News Digest** that aggregates top trending discussions 
 - 📅 [2026-09-30](archive/2026-09-30.md)
 - 📅 [2026-09-29](archive/2026-09-29.md)
 - 📅 [2026-09-28](archive/2026-09-28.md)
-- 📅 [2026-09-27](archive/2026-09-27.md)
 
-*... and [42 older editions in the archive folder](archive/)*
+*... and [43 older editions in the archive folder](archive/)*
 
 ---
 
