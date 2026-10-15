@@ -12,21 +12,22 @@ An automated **Tech & AI News Digest** that aggregates top trending discussions 
 
 | # | Story | Points | Comments | Discussion |
 |:---:|:---|:---:|:---:|:---:|
-| **1** | [The Emperor Pelican Has No Clothes](https://arcfu.com/post/the-emperor-pelican-has-no-clothes/) | ⭐ 37 | 💬 18 | [HN Thread](https://news.ycombinator.com/item?id=50090443) |
-| **2** | [Iosevka is an open-source, sans-serif and slab-serif monospace font](https://typeof.net/Iosevka/) | ⭐ 535 | 💬 218 | [HN Thread](https://news.ycombinator.com/item?id=50084240) |
-| **3** | [Americans' Social Activity Has Steeply Declined in the Past 30 Years](https://www.dataforprogress.org/blog/2026/9/29/americans-social-activity-has-steeply-declined-in-the-past-30-years) | ⭐ 22 | 💬 5 | [HN Thread](https://news.ycombinator.com/item?id=50089921) |
-| **4** | [Submarine cable resilience](https://blog.apnic.net/2026/10/14/submarine-cable-resilience/) | ⭐ 36 | 💬 4 | [HN Thread](https://news.ycombinator.com/item?id=50089229) |
-| **5** | [Amsterdam police confisquates server left-wing ISP A/I at American request](https://www.nrc.nl/nieuws/2026/10/14/politie-amsterdam-neemt-op-amerikaans-verzoek-server-in-beslag-van-italiaanse-internetdienstverlener-a-i-a4938960) | ⭐ 83 | 💬 15 | [HN Thread](https://news.ycombinator.com/item?id=50090084) |
-| **6** | [Pg_vectorsearch: An index that is faster than pgvector's IVFFlat and HNSW](https://github.com/timescale/pg_vectorsearch) | ⭐ 138 | 💬 40 | [HN Thread](https://news.ycombinator.com/item?id=50086165) |
-| **7** | [Show HN: Graphicle, a Rust port of Graphify with memory for coding agents](https://github.com/graphicle-ai/graphicle) | ⭐ 14 | 💬 1 | [HN Thread](https://news.ycombinator.com/item?id=50088713) |
-| **8** | [Running Windows desktop tests from Linux with disposable VMs](https://www.qawolf.com/blog/how-we-solved-windows-desktop-automation) | ⭐ 44 | 💬 19 | [HN Thread](https://news.ycombinator.com/item?id=50088643) |
-| **9** | [Amazon pushes up prices across the Internet](https://www.not-ship.com/how-amazon-pushes-up-prices-all-across-the-internet/) | ⭐ 496 | 💬 455 | [HN Thread](https://news.ycombinator.com/item?id=50084757) |
-| **10** | [ASML's strong orders ease fears AI spending boom is running out of steam](https://www.reuters.com/business/asml-forecasts-q4-sales-above-expectations-ai-chip-demand-2026-10-14/) | ⭐ 122 | 💬 112 | [HN Thread](https://news.ycombinator.com/item?id=50088430) |
+| **1** | [Muse Spark Open](https://research.meta.ai/blog/muse-spark-open) | ⭐ 519 | 💬 297 | [HN Thread](https://news.ycombinator.com/item?id=50107379) |
+| **2** | [What I Self-Host](https://viceconsole.fyi/blog/2026/10/10/what-i-self-host/) | ⭐ 104 | 💬 47 | [HN Thread](https://news.ycombinator.com/item?id=50109715) |
+| **3** | [Neural networks are clean](https://already-clean.goodfire.com/) | ⭐ 414 | 💬 146 | [HN Thread](https://news.ycombinator.com/item?id=50105647) |
+| **4** | [Call Center Jobs Are Declining, but 14,000 Calls Show Humans Still Outperform AI](https://boldagents.co/blog/call-center-jobs-declining-14000-calls-humans-outperform-ai) | ⭐ 20 | 💬 12 | [HN Thread](https://news.ycombinator.com/item?id=50111112) |
+| **5** | [Someone on Torrent Sites Kept Fucking with My Sonarr](https://thereallo.dev/blog/someone-on-torrent-sites-kept-fucking-with-my-sonarr-setup) | ⭐ 117 | 💬 56 | [HN Thread](https://news.ycombinator.com/item?id=50108872) |
+| **6** | [Wayland desktop for Linux with skeuomorphic design](https://github.com/fyzugx/DEsk) | ⭐ 449 | 💬 176 | [HN Thread](https://news.ycombinator.com/item?id=50103338) |
+| **7** | [Krea 3 – An image model built for editing at scale](https://www.krea.ai/krea-3) | ⭐ 217 | 💬 73 | [HN Thread](https://news.ycombinator.com/item?id=50105648) |
+| **8** | [Jev meets the Trolley Problem](https://zachlandes.com/trolley-problem/) | ⭐ 217 | 💬 103 | [HN Thread](https://news.ycombinator.com/item?id=50106023) |
+| **9** | [AdFection: Targeted ads turned into a pipeline for zero-click mercenary spyware](https://citizenlab.ca/research/how-discover-tech-turned-targeted-ads-into-a-pipeline-for-spyware/) | ⭐ 334 | 💬 494 | [HN Thread](https://news.ycombinator.com/item?id=50101813) |
+| **10** | [E Ink Kaleido 4](https://www.eink.com/news/detail/EInk-Launches-Latest-Version-of-Color-ePaper-Platform-E-Ink-Kaleido-4) | ⭐ 93 | 💬 59 | [HN Thread](https://news.ycombinator.com/item?id=50108229) |
 
 ---
 
 ## 🗄️ News Archive
 
+- 📅 [2026-10-15](archive/2026-10-15.md)
 - 📅 [2026-10-14](archive/2026-10-14.md)
 - 📅 [2026-10-13](archive/2026-10-13.md)
 - 📅 [2026-10-10](archive/2026-10-10.md)
@@ -40,9 +41,8 @@ An automated **Tech & AI News Digest** that aggregates top trending discussions 
 - 📅 [2026-10-01](archive/2026-10-01.md)
 - 📅 [2026-09-30](archive/2026-09-30.md)
 - 📅 [2026-09-29](archive/2026-09-29.md)
-- 📅 [2026-09-28](archive/2026-09-28.md)
 
-*... and [43 older editions in the archive folder](archive/)*
+*... and [44 older editions in the archive folder](archive/)*
 
 ---
 
