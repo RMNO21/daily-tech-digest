@@ -12,21 +12,22 @@ An automated **Tech & AI News Digest** that aggregates top trending discussions 
 
 | # | Story | Points | Comments | Discussion |
 |:---:|:---|:---:|:---:|:---:|
-| **1** | [Muse Spark Open](https://research.meta.ai/blog/muse-spark-open) | ⭐ 519 | 💬 297 | [HN Thread](https://news.ycombinator.com/item?id=50107379) |
-| **2** | [What I Self-Host](https://viceconsole.fyi/blog/2026/10/10/what-i-self-host/) | ⭐ 104 | 💬 47 | [HN Thread](https://news.ycombinator.com/item?id=50109715) |
-| **3** | [Neural networks are clean](https://already-clean.goodfire.com/) | ⭐ 414 | 💬 146 | [HN Thread](https://news.ycombinator.com/item?id=50105647) |
-| **4** | [Call Center Jobs Are Declining, but 14,000 Calls Show Humans Still Outperform AI](https://boldagents.co/blog/call-center-jobs-declining-14000-calls-humans-outperform-ai) | ⭐ 20 | 💬 12 | [HN Thread](https://news.ycombinator.com/item?id=50111112) |
-| **5** | [Someone on Torrent Sites Kept Fucking with My Sonarr](https://thereallo.dev/blog/someone-on-torrent-sites-kept-fucking-with-my-sonarr-setup) | ⭐ 117 | 💬 56 | [HN Thread](https://news.ycombinator.com/item?id=50108872) |
-| **6** | [Wayland desktop for Linux with skeuomorphic design](https://github.com/fyzugx/DEsk) | ⭐ 449 | 💬 176 | [HN Thread](https://news.ycombinator.com/item?id=50103338) |
-| **7** | [Krea 3 – An image model built for editing at scale](https://www.krea.ai/krea-3) | ⭐ 217 | 💬 73 | [HN Thread](https://news.ycombinator.com/item?id=50105648) |
-| **8** | [Jev meets the Trolley Problem](https://zachlandes.com/trolley-problem/) | ⭐ 217 | 💬 103 | [HN Thread](https://news.ycombinator.com/item?id=50106023) |
-| **9** | [AdFection: Targeted ads turned into a pipeline for zero-click mercenary spyware](https://citizenlab.ca/research/how-discover-tech-turned-targeted-ads-into-a-pipeline-for-spyware/) | ⭐ 334 | 💬 494 | [HN Thread](https://news.ycombinator.com/item?id=50101813) |
-| **10** | [E Ink Kaleido 4](https://www.eink.com/news/detail/EInk-Launches-Latest-Version-of-Color-ePaper-Platform-E-Ink-Kaleido-4) | ⭐ 93 | 💬 59 | [HN Thread](https://news.ycombinator.com/item?id=50108229) |
+| **1** | [Muse Spark Open](https://research.meta.ai/blog/muse-spark-open) | ⭐ 766 | 💬 389 | [HN Thread](https://news.ycombinator.com/item?id=50107379) |
+| **2** | [Meta’s new commercial terms will allow the scraping of news sites: experts](https://www.niemanlab.org/2026/10/metas-new-commercial-terms-will-allow-the-scraping-of-news-sites-legal-experts-say/) | ⭐ 199 | 💬 77 | [HN Thread](https://news.ycombinator.com/item?id=50111852) |
+| **3** | ['500-hour' Order of the Sinking Star is as complex and exhausting as it sounds](https://www.polygon.com/order-of-the-sinking-star-impressions/) | ⭐ 100 | 💬 48 | [HN Thread](https://news.ycombinator.com/item?id=50072119) |
+| **4** | [RPKI now protects 70% of internet routes](https://ipinfo.io/blog/rpki-protects-70-internet-routes) | ⭐ 118 | 💬 35 | [HN Thread](https://news.ycombinator.com/item?id=50112330) |
+| **5** | [Neural networks are clean](https://already-clean.goodfire.com/) | ⭐ 635 | 💬 232 | [HN Thread](https://news.ycombinator.com/item?id=50105647) |
+| **6** | [What I self-host](https://viceconsole.fyi/blog/2026/10/10/what-i-self-host/) | ⭐ 424 | 💬 265 | [HN Thread](https://news.ycombinator.com/item?id=50109715) |
+| **7** | [Woman who rescued injured crow keeps getting 'thank-you gifts' from birds [video]](https://www.youtube.com/watch?v=sjNpfz4UzqU) | ⭐ 145 | 💬 25 | [HN Thread](https://news.ycombinator.com/item?id=50065859) |
+| **8** | [Wayland desktop for Linux with skeuomorphic design](https://github.com/fyzugx/DEsk) | ⭐ 581 | 💬 229 | [HN Thread](https://news.ycombinator.com/item?id=50103338) |
+| **9** | [New Withings Users Must Pay $99/Year for Apple Health Syncing](https://support.withings.com/hc/en-us/community/posts/51887047154577-Unacceptable-Apple-Health-Sync-is-now-behind-a-99-year-paywall-for-new-accounts) | ⭐ 247 | 💬 164 | [HN Thread](https://news.ycombinator.com/item?id=50109375) |
+| **10** | [Any window from your Mac, on your iPhone and iPad](https://github.com/Saffsanity/sill) | ⭐ 126 | 💬 25 | [HN Thread](https://news.ycombinator.com/item?id=50112739) |
 
 ---
 
 ## 🗄️ News Archive
 
+- 📅 [2026-10-16](archive/2026-10-16.md)
 - 📅 [2026-10-15](archive/2026-10-15.md)
 - 📅 [2026-10-14](archive/2026-10-14.md)
 - 📅 [2026-10-13](archive/2026-10-13.md)
@@ -40,9 +41,8 @@ An automated **Tech & AI News Digest** that aggregates top trending discussions 
 - 📅 [2026-10-02](archive/2026-10-02.md)
 - 📅 [2026-10-01](archive/2026-10-01.md)
 - 📅 [2026-09-30](archive/2026-09-30.md)
-- 📅 [2026-09-29](archive/2026-09-29.md)
 
-*... and [44 older editions in the archive folder](archive/)*
+*... and [45 older editions in the archive folder](archive/)*
 
 ---
 
