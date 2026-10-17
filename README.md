@@ -12,16 +12,16 @@ An automated **Tech & AI News Digest** that aggregates top trending discussions 
 
 | # | Story | Points | Comments | Discussion |
 |:---:|:---|:---:|:---:|:---:|
-| **1** | [Ultramarine 1 Flash](https://www.paperinstruments.com/ultramarine) | ⭐ 72 | 💬 18 | [HN Thread](https://news.ycombinator.com/item?id=50106747) |
-| **2** | [Tesla Roadster](https://www.tesla.com/roadster) | ⭐ 1292 | 💬 2293 | [HN Thread](https://news.ycombinator.com/item?id=50112657) |
-| **3** | [Llama.cpp on a jailbroken PS5: run any GGUF model natively on the console](https://github.com/cobanov/PS5LM) | ⭐ 229 | 💬 62 | [HN Thread](https://news.ycombinator.com/item?id=50122431) |
-| **4** | [Claude reveals ECDSA curve origins](https://www.anthropic.com/research/ecdsa-curve-origins) | ⭐ 756 | 💬 293 | [HN Thread](https://news.ycombinator.com/item?id=50122800) |
-| **5** | [FLUX 3 Image Klein](https://bfl.ai/blog/flux-3-image-klein) | ⭐ 134 | 💬 39 | [HN Thread](https://news.ycombinator.com/item?id=50123580) |
-| **6** | [You could have invented transformers from memory](https://alexwang.ai/posts/associative-memory/) | ⭐ 186 | 💬 56 | [HN Thread](https://news.ycombinator.com/item?id=50122878) |
-| **7** | [Butlerian Jihad](https://dune.fandom.com/wiki/Butlerian_Jihad) | ⭐ 122 | 💬 61 | [HN Thread](https://news.ycombinator.com/item?id=50127274) |
-| **8** | [California is building a $400M shield for Yosemite's most dangerous highway](https://www.sfchronicle.com/california/article/yosemite-national-park-highway-140-22463847.php) | ⭐ 16 | 💬 1 | [HN Thread](https://news.ycombinator.com/item?id=50088937) |
-| **9** | [eBay Restricts Listings of Radio Equipment, but Exempts Ham-Band-Only Gear](https://www.arrl.org/arrlletterissue?issue=2026-10-15#eBay-Restricts-Listings-of-Radio-Equipment_-But-Exempts-Ham-Band-Only-Gear) | ⭐ 195 | 💬 152 | [HN Thread](https://news.ycombinator.com/item?id=50122034) |
-| **10** | [Apple ML Research: Muse Spark Open with MLX on Mac Studio](https://machinelearning.apple.com/research/mlx-distributed-inference) | ⭐ 285 | 💬 135 | [HN Thread](https://news.ycombinator.com/item?id=50118320) |
+| **1** | [DeepSeek: DeepSeek v4.1 Flash 1017](https://openrouter.ai/deepseek/deepseek-v4.1-flash-1017) | ⭐ 55 | 💬 3 | [HN Thread](https://news.ycombinator.com/item?id=50129121) |
+| **2** | [Ultramarine 1 Flash](https://www.paperinstruments.com/ultramarine) | ⭐ 239 | 💬 68 | [HN Thread](https://news.ycombinator.com/item?id=50106747) |
+| **3** | [Tesla Roadster](https://www.tesla.com/roadster) | ⭐ 1419 | 💬 2491 | [HN Thread](https://news.ycombinator.com/item?id=50112657) |
+| **4** | [Show HN: Llmspeed – feel how fast a local LLM runs before you buy the hardware](https://llmspeed.dev/) | ⭐ 68 | 💬 24 | [HN Thread](https://news.ycombinator.com/item?id=50127979) |
+| **5** | [DeepSeek-v4.1-Flash-1017](https://huggingface.co/deepseek-ai/DeepSeek-V4.1-Flash-1017) | ⭐ 82 | 💬 31 | [HN Thread](https://news.ycombinator.com/item?id=50129045) |
+| **6** | ["Tame" boar and deer are instinctively adapting to the wolf in the Netherlands](https://nos.nl/video/2635315-wildcamera-s-tonen-hoe-zwijnen-en-herten-zich-aanpassen-aan-de-wolf) | ⭐ 3 | 💬 0 | [HN Thread](https://news.ycombinator.com/item?id=50129274) |
+| **7** | [Intuitive concurrent programming in any language](https://www.lf-lang.org/) | ⭐ 35 | 💬 6 | [HN Thread](https://news.ycombinator.com/item?id=50103255) |
+| **8** | [Llama.cpp on a jailbroken PS5: run any GGUF model natively on the console](https://github.com/cobanov/PS5LM) | ⭐ 287 | 💬 72 | [HN Thread](https://news.ycombinator.com/item?id=50122431) |
+| **9** | [You could have invented transformers from memory](https://alexwang.ai/posts/associative-memory/) | ⭐ 298 | 💬 69 | [HN Thread](https://news.ycombinator.com/item?id=50122878) |
+| **10** | [Claude reveals ECDSA curve origins](https://www.anthropic.com/research/ecdsa-curve-origins) | ⭐ 865 | 💬 323 | [HN Thread](https://news.ycombinator.com/item?id=50122800) |
 
 ---
 
