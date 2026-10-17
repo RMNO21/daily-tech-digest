@@ -12,16 +12,16 @@ An automated **Tech & AI News Digest** that aggregates top trending discussions 
 
 | # | Story | Points | Comments | Discussion |
 |:---:|:---|:---:|:---:|:---:|
-| **1** | [DeepSeek: DeepSeek v4.1 Flash 1017](https://openrouter.ai/deepseek/deepseek-v4.1-flash-1017) | ⭐ 55 | 💬 3 | [HN Thread](https://news.ycombinator.com/item?id=50129121) |
-| **2** | [Ultramarine 1 Flash](https://www.paperinstruments.com/ultramarine) | ⭐ 239 | 💬 68 | [HN Thread](https://news.ycombinator.com/item?id=50106747) |
-| **3** | [Tesla Roadster](https://www.tesla.com/roadster) | ⭐ 1419 | 💬 2491 | [HN Thread](https://news.ycombinator.com/item?id=50112657) |
-| **4** | [Show HN: Llmspeed – feel how fast a local LLM runs before you buy the hardware](https://llmspeed.dev/) | ⭐ 68 | 💬 24 | [HN Thread](https://news.ycombinator.com/item?id=50127979) |
-| **5** | [DeepSeek-v4.1-Flash-1017](https://huggingface.co/deepseek-ai/DeepSeek-V4.1-Flash-1017) | ⭐ 82 | 💬 31 | [HN Thread](https://news.ycombinator.com/item?id=50129045) |
-| **6** | ["Tame" boar and deer are instinctively adapting to the wolf in the Netherlands](https://nos.nl/video/2635315-wildcamera-s-tonen-hoe-zwijnen-en-herten-zich-aanpassen-aan-de-wolf) | ⭐ 3 | 💬 0 | [HN Thread](https://news.ycombinator.com/item?id=50129274) |
-| **7** | [Intuitive concurrent programming in any language](https://www.lf-lang.org/) | ⭐ 35 | 💬 6 | [HN Thread](https://news.ycombinator.com/item?id=50103255) |
-| **8** | [Llama.cpp on a jailbroken PS5: run any GGUF model natively on the console](https://github.com/cobanov/PS5LM) | ⭐ 287 | 💬 72 | [HN Thread](https://news.ycombinator.com/item?id=50122431) |
-| **9** | [You could have invented transformers from memory](https://alexwang.ai/posts/associative-memory/) | ⭐ 298 | 💬 69 | [HN Thread](https://news.ycombinator.com/item?id=50122878) |
-| **10** | [Claude reveals ECDSA curve origins](https://www.anthropic.com/research/ecdsa-curve-origins) | ⭐ 865 | 💬 323 | [HN Thread](https://news.ycombinator.com/item?id=50122800) |
+| **1** | [GLP-1 may slow biological aging](https://www.universityofcalifornia.edu/news/new-study-shows-popular-glp-1-weight-loss-drug-may-slow-biological-aging) | ⭐ 61 | 💬 35 | [HN Thread](https://news.ycombinator.com/item?id=50132328) |
+| **2** | [Making Chicken Transparent Using Dorito Dust](https://chillphysicsenjoyer.substack.com/p/making-chicken-transparent-using) | ⭐ 118 | 💬 42 | [HN Thread](https://news.ycombinator.com/item?id=50131213) |
+| **3** | [DeepSeek-v4.1-Flash-1017](https://huggingface.co/deepseek-ai/DeepSeek-V4.1-Flash-1017) | ⭐ 407 | 💬 419 | [HN Thread](https://news.ycombinator.com/item?id=50129045) |
+| **4** | [Solar surpasses nuclear power globally for first time](https://www.pv-magazine.com/2026/09/29/solar-surpasses-nuclear-power-globally-for-first-time/) | ⭐ 226 | 💬 133 | [HN Thread](https://news.ycombinator.com/item?id=50131256) |
+| **5** | [Rendering pretty sky in Around The World game](https://frozenfractal.com/blog/2026/10/12/around-the-world-34-a-pretty-sky/) | ⭐ 72 | 💬 6 | [HN Thread](https://news.ycombinator.com/item?id=50119315) |
+| **6** | [Artie (YC S23) Is Hiring Enterprise AES and Senior Engineers](https://www.artie.com/careers) | ⭐ 1 | 💬 0 | [HN Thread](https://news.ycombinator.com/item?id=50132839) |
+| **7** | [A Tudor Life in the Time of Plague](https://www.historytoday.com/archive/history-matters/tudor-life-time-plague) | ⭐ 24 | 💬 0 | [HN Thread](https://news.ycombinator.com/item?id=50082358) |
+| **8** | [Tesla Roadster](https://www.tesla.com/roadster) | ⭐ 1574 | 💬 2859 | [HN Thread](https://news.ycombinator.com/item?id=50112657) |
+| **9** | [The First Candid](https://www.newyorker.com/magazine/2026/10/19/the-first-candid) | ⭐ 30 | 💬 7 | [HN Thread](https://news.ycombinator.com/item?id=50121506) |
+| **10** | [Ultramarine 1 Flash](https://www.paperinstruments.com/ultramarine) | ⭐ 348 | 💬 103 | [HN Thread](https://news.ycombinator.com/item?id=50106747) |
 
 ---
 
