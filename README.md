@@ -12,16 +12,16 @@ An automated **Tech & AI News Digest** that aggregates top trending discussions 
 
 | # | Story | Points | Comments | Discussion |
 |:---:|:---|:---:|:---:|:---:|
-| **1** | [Someone behind the software](https://karrisaarinen.com/posts/someone-behind-the-software/) | ⭐ 195 | 💬 72 | [HN Thread](https://news.ycombinator.com/item?id=50142573) |
-| **2** | [Free Pascal compiler now supports dynamic packages](https://www.getlazarus.org/dynamic/) | ⭐ 51 | 💬 12 | [HN Thread](https://news.ycombinator.com/item?id=50144066) |
-| **3** | [RepRapMicron](https://github.com/VikOlliver/RepRapMicron/wiki) | ⭐ 288 | 💬 44 | [HN Thread](https://news.ycombinator.com/item?id=50141076) |
-| **4** | [PalmOS Lemmings](https://github.com/ardiri/palmos-lemmings) | ⭐ 48 | 💬 9 | [HN Thread](https://news.ycombinator.com/item?id=50143536) |
-| **5** | [DeepSeek search and fetch – $0.75 per 1000 successful requests](https://api-docs.deepseek.com/guides/search/) | ⭐ 496 | 💬 241 | [HN Thread](https://news.ycombinator.com/item?id=50138531) |
-| **6** | [SIGSALY: Churchill's top secret hotline to the president](https://www.iwm.org.uk/history/iwm/cwr/telephone) | ⭐ 80 | 💬 19 | [HN Thread](https://news.ycombinator.com/item?id=50096110) |
-| **7** | [The Intel 8087 chip: floating-point addition and subtraction](https://www.righto.com/2026/10/8087-addition-subtraction-microcode.html) | ⭐ 68 | 💬 17 | [HN Thread](https://news.ycombinator.com/item?id=50142449) |
-| **8** | [Developing for Debugging (2025)](https://www.davepacheco.net/blog/2025/developing-for-debugging-dns-propagation/) | ⭐ 8 | 💬 0 | [HN Thread](https://news.ycombinator.com/item?id=50131053) |
-| **9** | [Show HN: The Zelda timeline to catch up before the Ocarina of Time remake](https://legendofhyrule.com/) | ⭐ 136 | 💬 75 | [HN Thread](https://news.ycombinator.com/item?id=50140769) |
-| **10** | [Dogs seem to agree with humans that 'bouba' is round and 'kiki' is spiky](https://www.sciencealert.com/dogs-seem-to-agree-with-humans-that-bouba-is-round-and-kiki-is-spiky) | ⭐ 28 | 💬 11 | [HN Thread](https://news.ycombinator.com/item?id=50136979) |
+| **1** | [Hybrid Reasoning Agents: LLM agents that think in latent space, act through text](https://arxiv.org/abs/2610.18861) | ⭐ 130 | 💬 72 | [HN Thread](https://news.ycombinator.com/item?id=50145337) |
+| **2** | [Someone behind the software](https://karrisaarinen.com/posts/someone-behind-the-software/) | ⭐ 266 | 💬 112 | [HN Thread](https://news.ycombinator.com/item?id=50142573) |
+| **3** | [Free Pascal compiler now supports dynamic packages](https://www.getlazarus.org/dynamic/) | ⭐ 94 | 💬 12 | [HN Thread](https://news.ycombinator.com/item?id=50144066) |
+| **4** | [There's never been a better time to go into math (by: 3blue1brown) [video]](https://www.youtube.com/watch?v=LKrwhjOI8Nc) | ⭐ 95 | 💬 32 | [HN Thread](https://news.ycombinator.com/item?id=50136150) |
+| **5** | [RepRapMicron](https://github.com/VikOlliver/RepRapMicron/wiki) | ⭐ 316 | 💬 50 | [HN Thread](https://news.ycombinator.com/item?id=50141076) |
+| **6** | [Dogs seem to agree with humans that 'bouba' is round and 'kiki' is spiky](https://www.sciencealert.com/dogs-seem-to-agree-with-humans-that-bouba-is-round-and-kiki-is-spiky) | ⭐ 85 | 💬 62 | [HN Thread](https://news.ycombinator.com/item?id=50136979) |
+| **7** | [PalmOS Lemmings](https://github.com/ardiri/palmos-lemmings) | ⭐ 77 | 💬 20 | [HN Thread](https://news.ycombinator.com/item?id=50143536) |
+| **8** | [Show HN: WhatsApp MCP running free on Cloudflare](https://github.com/finereli/whatsapp-mcp) | ⭐ 14 | 💬 4 | [HN Thread](https://news.ycombinator.com/item?id=50145715) |
+| **9** | [One parser, two bugs, many routers: Exploiting Broadcom WiFi across eCos, Linux](https://quentinkaiser.be/security/2026/10/16/one-parser-two-bugs/) | ⭐ 33 | 💬 8 | [HN Thread](https://news.ycombinator.com/item?id=50122058) |
+| **10** | [DeepSeek search and fetch – $0.75 per 1000 successful requests](https://api-docs.deepseek.com/guides/search/) | ⭐ 521 | 💬 251 | [HN Thread](https://news.ycombinator.com/item?id=50138531) |
 
 ---
 
