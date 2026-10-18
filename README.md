@@ -12,21 +12,22 @@ An automated **Tech & AI News Digest** that aggregates top trending discussions 
 
 | # | Story | Points | Comments | Discussion |
 |:---:|:---|:---:|:---:|:---:|
-| **1** | [GLP-1 may slow biological aging](https://www.universityofcalifornia.edu/news/new-study-shows-popular-glp-1-weight-loss-drug-may-slow-biological-aging) | ⭐ 61 | 💬 35 | [HN Thread](https://news.ycombinator.com/item?id=50132328) |
-| **2** | [Making Chicken Transparent Using Dorito Dust](https://chillphysicsenjoyer.substack.com/p/making-chicken-transparent-using) | ⭐ 118 | 💬 42 | [HN Thread](https://news.ycombinator.com/item?id=50131213) |
-| **3** | [DeepSeek-v4.1-Flash-1017](https://huggingface.co/deepseek-ai/DeepSeek-V4.1-Flash-1017) | ⭐ 407 | 💬 419 | [HN Thread](https://news.ycombinator.com/item?id=50129045) |
-| **4** | [Solar surpasses nuclear power globally for first time](https://www.pv-magazine.com/2026/09/29/solar-surpasses-nuclear-power-globally-for-first-time/) | ⭐ 226 | 💬 133 | [HN Thread](https://news.ycombinator.com/item?id=50131256) |
-| **5** | [Rendering pretty sky in Around The World game](https://frozenfractal.com/blog/2026/10/12/around-the-world-34-a-pretty-sky/) | ⭐ 72 | 💬 6 | [HN Thread](https://news.ycombinator.com/item?id=50119315) |
-| **6** | [Artie (YC S23) Is Hiring Enterprise AES and Senior Engineers](https://www.artie.com/careers) | ⭐ 1 | 💬 0 | [HN Thread](https://news.ycombinator.com/item?id=50132839) |
-| **7** | [A Tudor Life in the Time of Plague](https://www.historytoday.com/archive/history-matters/tudor-life-time-plague) | ⭐ 24 | 💬 0 | [HN Thread](https://news.ycombinator.com/item?id=50082358) |
-| **8** | [Tesla Roadster](https://www.tesla.com/roadster) | ⭐ 1574 | 💬 2859 | [HN Thread](https://news.ycombinator.com/item?id=50112657) |
-| **9** | [The First Candid](https://www.newyorker.com/magazine/2026/10/19/the-first-candid) | ⭐ 30 | 💬 7 | [HN Thread](https://news.ycombinator.com/item?id=50121506) |
-| **10** | [Ultramarine 1 Flash](https://www.paperinstruments.com/ultramarine) | ⭐ 348 | 💬 103 | [HN Thread](https://news.ycombinator.com/item?id=50106747) |
+| **1** | [RepRapMicron](https://github.com/VikOlliver/RepRapMicron/wiki) | ⭐ 38 | 💬 4 | [HN Thread](https://news.ycombinator.com/item?id=50141076) |
+| **2** | [DeepSeek search and fetch – $0.75 per 1000 successful requests](https://api-docs.deepseek.com/guides/search/) | ⭐ 357 | 💬 179 | [HN Thread](https://news.ycombinator.com/item?id=50138531) |
+| **3** | [Legal experts warn Meta's new terms still grant broad scraping permissions](https://www.niemanlab.org/2026/10/legal-experts-warn-metas-new-terms-still-grant-broad-scraping-permissions-despite-language-changes/) | ⭐ 89 | 💬 25 | [HN Thread](https://news.ycombinator.com/item?id=50139692) |
+| **4** | [Open MicroManipulator – A sub-micrometer 3D motion control plattform](https://github.com/0x23/MicroManipulatorStepper) | ⭐ 62 | 💬 5 | [HN Thread](https://news.ycombinator.com/item?id=50140001) |
+| **5** | [Parser Combinators](https://t3.at/blog/2026-10-17-parser-combinators/) | ⭐ 102 | 💬 48 | [HN Thread](https://news.ycombinator.com/item?id=50139067) |
+| **6** | [How the Elizabeth Holmes documentary “You Can See Everything” is deceiving](https://www.readtheprofile.com/p/elizabeth-holmes-documentary-you-can-see-everything) | ⭐ 227 | 💬 276 | [HN Thread](https://news.ycombinator.com/item?id=50137620) |
+| **7** | [Hatching (Heraldry)](https://en.wikipedia.org/wiki/Hatching_(heraldry)) | ⭐ 23 | 💬 1 | [HN Thread](https://news.ycombinator.com/item?id=50093081) |
+| **8** | [Show HN: Sphinx – A hook that quizzes you on your AI's code before shipping](https://sphinx-six-theta.vercel.app/) | ⭐ 188 | 💬 60 | [HN Thread](https://news.ycombinator.com/item?id=50137950) |
+| **9** | [Bleached corals thrive within days when touching healthy neighbour](https://www.nature.com/articles/d41586-026-03266-x) | ⭐ 504 | 💬 106 | [HN Thread](https://news.ycombinator.com/item?id=50126253) |
+| **10** | [Teal – A statically-typed dialect of Lua](https://teal-language.org/) | ⭐ 82 | 💬 34 | [HN Thread](https://news.ycombinator.com/item?id=50124730) |
 
 ---
 
 ## 🗄️ News Archive
 
+- 📅 [2026-10-18](archive/2026-10-18.md)
 - 📅 [2026-10-17](archive/2026-10-17.md)
 - 📅 [2026-10-16](archive/2026-10-16.md)
 - 📅 [2026-10-15](archive/2026-10-15.md)
@@ -40,9 +41,8 @@ An automated **Tech & AI News Digest** that aggregates top trending discussions 
 - 📅 [2026-10-04](archive/2026-10-04.md)
 - 📅 [2026-10-03](archive/2026-10-03.md)
 - 📅 [2026-10-02](archive/2026-10-02.md)
-- 📅 [2026-10-01](archive/2026-10-01.md)
 
-*... and [46 older editions in the archive folder](archive/)*
+*... and [47 older editions in the archive folder](archive/)*
 
 ---
 
