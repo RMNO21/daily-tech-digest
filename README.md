@@ -12,16 +12,16 @@ An automated **Tech & AI News Digest** that aggregates top trending discussions 
 
 | # | Story | Points | Comments | Discussion |
 |:---:|:---|:---:|:---:|:---:|
-| **1** | [Wine Ported to OpenBSD](https://marc.info/?l=openbsd-ports&m=179236125692175) | ⭐ 290 | 💬 76 | [HN Thread](https://news.ycombinator.com/item?id=50152307) |
-| **2** | [CERN and Mistral join forces to accelerate AI for science](https://home.cern/cern-and-mistral-join-forces-to-accelerate-ai-for-science/) | ⭐ 125 | 💬 18 | [HN Thread](https://news.ycombinator.com/item?id=50153630) |
-| **3** | [Ontology-Driven Observability: Building an End-to-End Knowledge Graph at Netflix](https://netflixtechblog.com/ontology-driven-observability-building-an-end-to-end-knowledge-graph-at-netflix-scale-421392cf5adf) | ⭐ 69 | 💬 16 | [HN Thread](https://news.ycombinator.com/item?id=50153431) |
-| **4** | [Timestral: Mistral release time-series foundation models](https://mistral.ai/news/timestral/) | ⭐ 379 | 💬 68 | [HN Thread](https://news.ycombinator.com/item?id=50150434) |
-| **5** | [Linux 7.3](https://lwn.net/Articles/1101143/) | ⭐ 538 | 💬 241 | [HN Thread](https://news.ycombinator.com/item?id=50149392) |
-| **6** | [Evidence (YC S21) Is Hiring Software Engineers](https://evidence.dev/jobs) | ⭐ 1 | 💬 0 | [HN Thread](https://news.ycombinator.com/item?id=50155172) |
-| **7** | [It's still OK to enjoy programming](https://chriskiehl.com/article/it-is-still-ok-to-enjoy-programming) | ⭐ 113 | 💬 121 | [HN Thread](https://news.ycombinator.com/item?id=50134472) |
-| **8** | [Alternatives to Animal Testing Are Finally Taking Off](https://spectrum.ieee.org/alternatives-to-animal-testing) | ⭐ 193 | 💬 49 | [HN Thread](https://news.ycombinator.com/item?id=50150927) |
-| **9** | [Launch HN: Laminar (YC S24) – We trained a model to catch silent agent failures](https://news.ycombinator.com/item?id=50154029) | ⭐ 18 | 💬 4 | [HN Thread](https://news.ycombinator.com/item?id=50154029) |
-| **10** | [Let's Encrypt is adding two additional remote perspectives for domain validation](https://community.letsencrypt.org/t/lets-encrypt-is-adding-two-additional-remote-perspectives-for-domain-validation/252166) | ⭐ 173 | 💬 57 | [HN Thread](https://news.ycombinator.com/item?id=50150809) |
+| **1** | [Putting Linux on my RTX spark laptop because I don't have a Microsoft account](https://josie.lol/blog/linux-rtx-spark) | ⭐ 96 | 💬 38 | [HN Thread](https://news.ycombinator.com/item?id=50158100) |
+| **2** | [MiniMax M3.1 Flash](https://www.minimax.io/blog/minimax-m31f) | ⭐ 310 | 💬 127 | [HN Thread](https://news.ycombinator.com/item?id=50154540) |
+| **3** | [I built a drone with only one motor [video]](https://www.youtube.com/watch?v=Ndftcft6XhU) | ⭐ 264 | 💬 48 | [HN Thread](https://news.ycombinator.com/item?id=50150089) |
+| **4** | [The reverts will continue until morale improves](http://peter.eisentraut.org/blog/2026/10/09/the-reverts-will-continue-until-morale-improves) | ⭐ 143 | 💬 22 | [HN Thread](https://news.ycombinator.com/item?id=50156206) |
+| **5** | [Wine ported to OpenBSD](https://marc.info/?l=openbsd-ports&m=179236125692175) | ⭐ 467 | 💬 152 | [HN Thread](https://news.ycombinator.com/item?id=50152307) |
+| **6** | [OpenBSD 8.0 release will have inteldrm/radeondrm/amdgpu drivers from Linux 6.18](https://bsd.network/@brynet/117407035545900963) | ⭐ 30 | 💬 3 | [HN Thread](https://news.ycombinator.com/item?id=50158138) |
+| **7** | [Android apps running native on macOS](https://github.com/kksimp/Mac.apk) | ⭐ 211 | 💬 92 | [HN Thread](https://news.ycombinator.com/item?id=50154624) |
+| **8** | [It's still ok to enjoy programming](https://chriskiehl.com/article/it-is-still-ok-to-enjoy-programming) | ⭐ 360 | 💬 352 | [HN Thread](https://news.ycombinator.com/item?id=50134472) |
+| **9** | [RuneScape Bench: MMOs for Agents [video]](https://www.youtube.com/watch?v=cNm4zyUtWj0) | ⭐ 121 | 💬 47 | [HN Thread](https://news.ycombinator.com/item?id=50136126) |
+| **10** | [The fire retardant in the seafood chain](https://insideclimatenews.org/news/14102026/ethoxyquin-fire-retardant-in-seafood-chain/) | ⭐ 83 | 💬 26 | [HN Thread](https://news.ycombinator.com/item?id=50134359) |
 
 ---
 
