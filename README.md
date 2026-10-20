@@ -12,21 +12,22 @@ An automated **Tech & AI News Digest** that aggregates top trending discussions 
 
 | # | Story | Points | Comments | Discussion |
 |:---:|:---|:---:|:---:|:---:|
-| **1** | [Putting Linux on my RTX spark laptop because I don't have a Microsoft account](https://josie.lol/blog/linux-rtx-spark) | ⭐ 96 | 💬 38 | [HN Thread](https://news.ycombinator.com/item?id=50158100) |
-| **2** | [MiniMax M3.1 Flash](https://www.minimax.io/blog/minimax-m31f) | ⭐ 310 | 💬 127 | [HN Thread](https://news.ycombinator.com/item?id=50154540) |
-| **3** | [I built a drone with only one motor [video]](https://www.youtube.com/watch?v=Ndftcft6XhU) | ⭐ 264 | 💬 48 | [HN Thread](https://news.ycombinator.com/item?id=50150089) |
-| **4** | [The reverts will continue until morale improves](http://peter.eisentraut.org/blog/2026/10/09/the-reverts-will-continue-until-morale-improves) | ⭐ 143 | 💬 22 | [HN Thread](https://news.ycombinator.com/item?id=50156206) |
-| **5** | [Wine ported to OpenBSD](https://marc.info/?l=openbsd-ports&m=179236125692175) | ⭐ 467 | 💬 152 | [HN Thread](https://news.ycombinator.com/item?id=50152307) |
-| **6** | [OpenBSD 8.0 release will have inteldrm/radeondrm/amdgpu drivers from Linux 6.18](https://bsd.network/@brynet/117407035545900963) | ⭐ 30 | 💬 3 | [HN Thread](https://news.ycombinator.com/item?id=50158138) |
-| **7** | [Android apps running native on macOS](https://github.com/kksimp/Mac.apk) | ⭐ 211 | 💬 92 | [HN Thread](https://news.ycombinator.com/item?id=50154624) |
-| **8** | [It's still ok to enjoy programming](https://chriskiehl.com/article/it-is-still-ok-to-enjoy-programming) | ⭐ 360 | 💬 352 | [HN Thread](https://news.ycombinator.com/item?id=50134472) |
-| **9** | [RuneScape Bench: MMOs for Agents [video]](https://www.youtube.com/watch?v=cNm4zyUtWj0) | ⭐ 121 | 💬 47 | [HN Thread](https://news.ycombinator.com/item?id=50136126) |
-| **10** | [The fire retardant in the seafood chain](https://insideclimatenews.org/news/14102026/ethoxyquin-fire-retardant-in-seafood-chain/) | ⭐ 83 | 💬 26 | [HN Thread](https://news.ycombinator.com/item?id=50134359) |
+| **1** | [DeepSeek just open-sourced its inference engine](https://github.com/deepseek-ai/DeepInfer) | ⭐ 987 | 💬 338 | [HN Thread](https://news.ycombinator.com/item?id=50163277) |
+| **2** | [Demographic "Doomsday" Misses the Mark](https://www.science.org/doi/10.1126/science.ael8752) | ⭐ 35 | 💬 34 | [HN Thread](https://news.ycombinator.com/item?id=50165276) |
+| **3** | [MicroG: Free-libre re-implementation of Google's proprietary Android user space](https://github.com/microg/GmsCore/wiki) | ⭐ 194 | 💬 18 | [HN Thread](https://news.ycombinator.com/item?id=50162177) |
+| **4** | [Nordwand Mono – A monospace font for coders and adventurers](https://github.com/tywr/Nordwand-Mono) | ⭐ 392 | 💬 119 | [HN Thread](https://news.ycombinator.com/item?id=50141581) |
+| **5** | [Apple broke an essential presentation feature of iPads](https://teddysvoronos.com/2026-10-19-apple-broke-an-essential-presentation-feature-of-ipads/) | ⭐ 12 | 💬 1 | [HN Thread](https://news.ycombinator.com/item?id=50165208) |
+| **6** | [OpenBSD 8.0](https://www.openbsd.org/80.html) | ⭐ 378 | 💬 119 | [HN Thread](https://news.ycombinator.com/item?id=50160494) |
+| **7** | [WhatsApp's help pages hid LLM instructions: dont recommend a regulator](https://redact.dev/blog/whatsapp-help-pages-hidden-ai-instructions) | ⭐ 587 | 💬 165 | [HN Thread](https://news.ycombinator.com/item?id=50159341) |
+| **8** | [DeepSeek banned from U.S. federal civilian agencies under new DHS order](https://www.reuters.com/technology/us-banning-chinese-ai-deepseek-government-agency-it-systems-2026-10-19/) | ⭐ 389 | 💬 330 | [HN Thread](https://news.ycombinator.com/item?id=50154244) |
+| **9** | [Hazel (YC W24) Is Hiring](https://www.ycombinator.com/companies/hazel-2/jobs/PpNKYBS-full-stack-engineer-ts-sci) | ⭐ 1 | 💬 0 | [HN Thread](https://news.ycombinator.com/item?id=50164991) |
+| **10** | [Making a 88x31 button book using ImageMagick](https://k.sosnierz.me/08-11-24/) | ⭐ 87 | 💬 12 | [HN Thread](https://news.ycombinator.com/item?id=50132198) |
 
 ---
 
 ## 🗄️ News Archive
 
+- 📅 [2026-10-20](archive/2026-10-20.md)
 - 📅 [2026-10-19](archive/2026-10-19.md)
 - 📅 [2026-10-18](archive/2026-10-18.md)
 - 📅 [2026-10-17](archive/2026-10-17.md)
@@ -40,9 +41,8 @@ An automated **Tech & AI News Digest** that aggregates top trending discussions 
 - 📅 [2026-10-07](archive/2026-10-07.md)
 - 📅 [2026-10-05](archive/2026-10-05.md)
 - 📅 [2026-10-04](archive/2026-10-04.md)
-- 📅 [2026-10-03](archive/2026-10-03.md)
 
-*... and [48 older editions in the archive folder](archive/)*
+*... and [49 older editions in the archive folder](archive/)*
 
 ---
 
