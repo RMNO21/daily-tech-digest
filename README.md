@@ -12,16 +12,16 @@ An automated **Tech & AI News Digest** that aggregates top trending discussions 
 
 | # | Story | Points | Comments | Discussion |
 |:---:|:---|:---:|:---:|:---:|
-| **1** | [Updated PHP version released to GitHub](https://github.com/php/php-src/releases/tag/php-8.2.35) | ⭐ 33 | 💬 5 | [HN Thread](https://news.ycombinator.com/item?id=50180873) |
-| **2** | [Eight Bits of Trust; eMudhra's CA keys cracked in milliseconds](https://scotthelme.co.uk/eight-bits-of-trust-emudhras-ca-keys-cracked-in-milliseconds/) | ⭐ 420 | 💬 182 | [HN Thread](https://news.ycombinator.com/item?id=50177916) |
-| **3** | [Qwen3-Coder writes less secure code when told it's for a US persona](https://www.hirundo.io/blog/qwen3-coder-vulnerabilities) | ⭐ 103 | 💬 44 | [HN Thread](https://news.ycombinator.com/item?id=50179706) |
-| **4** | [Most advice is right for the person giving it](https://coached.com/essays/most-advice-is-right-for-the-person-giving-it/) | ⭐ 26 | 💬 7 | [HN Thread](https://news.ycombinator.com/item?id=50180444) |
-| **5** | [LayerFS: The filesystem for AI coding agents](https://layerfs.ai/) | ⭐ 24 | 💬 8 | [HN Thread](https://news.ycombinator.com/item?id=50179857) |
-| **6** | [Whatever Happened to Fire Escapes](https://practical.engineering/blog/2026/10/20/whatever-happened-to-fire-escapes) | ⭐ 91 | 💬 49 | [HN Thread](https://news.ycombinator.com/item?id=50178455) |
-| **7** | [The Future of CSS](https://www.joshwcomeau.com/css/interop-2027/) | ⭐ 482 | 💬 200 | [HN Thread](https://news.ycombinator.com/item?id=50175070) |
-| **8** | [Upcoming critical PHP security release (CVE-2026-109618 / -109619)](https://news-web.php.net/php.announce/509) | ⭐ 1330 | 💬 549 | [HN Thread](https://news.ycombinator.com/item?id=50172041) |
-| **9** | [Dutch National Cyber Security Center is Offline because it uses PHP](https://www.ncsc.nl/actueel) | ⭐ 173 | 💬 60 | [HN Thread](https://news.ycombinator.com/item?id=50179828) |
-| **10** | [9 Mothers (YC P26) Is Hiring in Austin, TX](https://9mothers.com/careers) | ⭐ 1 | 💬 0 | [HN Thread](https://news.ycombinator.com/item?id=50179455) |
+| **1** | [PHP 8.2.35](https://github.com/php/php-src/releases/tag/php-8.2.35) | ⭐ 832 | 💬 469 | [HN Thread](https://news.ycombinator.com/item?id=50180873) |
+| **2** | [Today's PHP security release, and how we're strengthening security](https://thephp.foundation/blog/2026/10/21/todays-php-security-release-and-how-were-strengthening-php-security/) | ⭐ 294 | 💬 151 | [HN Thread](https://news.ycombinator.com/item?id=50182987) |
+| **3** | [Compromised LiteLLM 1.107.0 on PyPI Installs a Credential Stealer and Backdoor](https://safedep.io/litellm-pypi-compromise-credential-stealer-backdoor/) | ⭐ 231 | 💬 90 | [HN Thread](https://news.ycombinator.com/item?id=50181114) |
+| **4** | [Eight Bits of Trust; eMudhra's CA keys cracked in milliseconds](https://scotthelme.co.uk/eight-bits-of-trust-emudhras-ca-keys-cracked-in-milliseconds/) | ⭐ 685 | 💬 323 | [HN Thread](https://news.ycombinator.com/item?id=50177916) |
+| **5** | [DuckDB 2.0.0 LTS “Cinnamon Teal”](https://duckdb.org/2026/10/21/announcing-duckdb-200) | ⭐ 258 | 💬 29 | [HN Thread](https://news.ycombinator.com/item?id=50181136) |
+| **6** | [Patch the Planet: global response coordination as agents uncover vulnerabilities](https://openai.com/index/coordinated-disclosure-of-critical-vulnerabilities/) | ⭐ 170 | 💬 101 | [HN Thread](https://news.ycombinator.com/item?id=50181175) |
+| **7** | [Tiny possum and glider thought extinct for 6000 years found in remote West Papua](https://www.bbc.com/news/articles/cp814l80pw2o) | ⭐ 71 | 💬 7 | [HN Thread](https://news.ycombinator.com/item?id=50162044) |
+| **8** | [EA is shutting down BioWare](https://www.theverge.com/games/1015647/ea-is-shutting-down-bioware) | ⭐ 125 | 💬 56 | [HN Thread](https://news.ycombinator.com/item?id=50184586) |
+| **9** | [OpenAI models are coming to Google Cloud](https://openai.com/index/openai-models-google-cloud/) | ⭐ 119 | 💬 35 | [HN Thread](https://news.ycombinator.com/item?id=50180079) |
+| **10** | [Oregon lawmakers approve money to buy an iconic waterfall listed on Redfin](https://apnews.com/article/oregon-waterfall-for-sale-lawmakers-996de63462d49ec3ad9bee1629fb9488) | ⭐ 98 | 💬 61 | [HN Thread](https://news.ycombinator.com/item?id=50182526) |
 
 ---
 
