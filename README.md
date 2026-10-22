@@ -12,16 +12,16 @@ An automated **Tech & AI News Digest** that aggregates top trending discussions 
 
 | # | Story | Points | Comments | Discussion |
 |:---:|:---|:---:|:---:|:---:|
-| **1** | [OpenAI CLI](https://github.com/openai/openai-cli) | ⭐ 54 | 💬 29 | [HN Thread](https://news.ycombinator.com/item?id=50191507) |
-| **2** | [The recently proposed o(n log n) integer multiplication algorithm [pdf]](https://web.maths.unsw.edu.au/~davidharvey/research/subnlogn.pdf) | ⭐ 170 | 💬 95 | [HN Thread](https://news.ycombinator.com/item?id=50190455) |
-| **3** | [WorldTUI: I trained a 360M model to pretend to be a terminal](https://simedw.com/2026/10/21/world-model-terminal/) | ⭐ 104 | 💬 42 | [HN Thread](https://news.ycombinator.com/item?id=50190363) |
-| **4** | [There isn't an easy exploit for this PHP vulnerability](https://eliastaylor.com/noexploit/) | ⭐ 467 | 💬 248 | [HN Thread](https://news.ycombinator.com/item?id=50188948) |
-| **5** | [GitLab critical patch release](https://docs.gitlab.com/releases/patches/patch-release-gitlab-19-5-1-released/) | ⭐ 326 | 💬 75 | [HN Thread](https://news.ycombinator.com/item?id=50185869) |
-| **6** | [Compromised LiteLLM 1.107.0 on PyPI Installs a Credential Stealer and Backdoor](https://safedep.io/litellm-pypi-compromise-credential-stealer-backdoor/) | ⭐ 488 | 💬 167 | [HN Thread](https://news.ycombinator.com/item?id=50181114) |
-| **7** | [Using LLM for confidence scoring is a bad idea](https://rumple.github.io/blog/2026/10/20/asking-llm-for-confidence.html) | ⭐ 64 | 💬 39 | [HN Thread](https://news.ycombinator.com/item?id=50176082) |
-| **8** | [Security Disclosure](https://blog.railway.com/p/security-disclosure-wednesday-october-21st) | ⭐ 424 | 💬 249 | [HN Thread](https://news.ycombinator.com/item?id=50188228) |
-| **9** | [Rust Style Guide](https://google.github.io/styleguide/rustguide.html) | ⭐ 281 | 💬 166 | [HN Thread](https://news.ycombinator.com/item?id=50186010) |
-| **10** | [No more icons in every menu by default](https://blog.jim-nielsen.com/2026/icons-in-every-menu/) | ⭐ 278 | 💬 171 | [HN Thread](https://news.ycombinator.com/item?id=50161346) |
+| **1** | [Quad9 (DNS Resolver) to Exit France](https://quad9.net/news/blog/au-revoir-france/) | ⭐ 846 | 💬 318 | [HN Thread](https://news.ycombinator.com/item?id=50195959) |
+| **2** | [OpenShell – A safe, private runtime for fleets of autonomous AI agents](https://github.com/NVIDIA/OpenShell) | ⭐ 229 | 💬 124 | [HN Thread](https://news.ycombinator.com/item?id=50198675) |
+| **3** | [Getting ready to operate GNU Taler in Germany](https://www.taler.net/en/news/2026-13.html) | ⭐ 183 | 💬 62 | [HN Thread](https://news.ycombinator.com/item?id=50197404) |
+| **4** | [Show HN: Run full iOS 16.5 firmware on Android Devices](https://github.com/oosexgang/hackios-xnu-kernel) | ⭐ 274 | 💬 100 | [HN Thread](https://news.ycombinator.com/item?id=50196718) |
+| **5** | [Woman faces six years in prison over Cash App account she never opened](https://www.techspot.com/news/114296-woman-spends-three-nights-jail-faces-six-years.html) | ⭐ 360 | 💬 344 | [HN Thread](https://news.ycombinator.com/item?id=50194833) |
+| **6** | [Every AI model has the same "controversial" take on humans](https://www.modelcompare.ai/blog/ai-models-controversial-take-on-humans) | ⭐ 131 | 💬 158 | [HN Thread](https://news.ycombinator.com/item?id=50197313) |
+| **7** | [AI and the Enclosure of the Scientific Commons](https://arxiv.org/abs/2610.27251) | ⭐ 81 | 💬 44 | [HN Thread](https://news.ycombinator.com/item?id=50199230) |
+| **8** | [Hedra is a 3D open world game I wrote from scratch while in highschool](https://github.com/maxilevi/project-hedra/tree/pre-ai) | ⭐ 84 | 💬 18 | [HN Thread](https://news.ycombinator.com/item?id=50199389) |
+| **9** | [What Is Gridifcation](https://musicalform.substack.com/p/what-is-gridifcation) | ⭐ 371 | 💬 184 | [HN Thread](https://news.ycombinator.com/item?id=50150163) |
+| **10** | [Jailbreaking the Switch 2](https://pepsipu.com/blog/2026-10-switch2-jailbreak-ns2jb/) | ⭐ 661 | 💬 231 | [HN Thread](https://news.ycombinator.com/item?id=50192536) |
 
 ---
 
