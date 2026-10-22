@@ -12,21 +12,22 @@ An automated **Tech & AI News Digest** that aggregates top trending discussions 
 
 | # | Story | Points | Comments | Discussion |
 |:---:|:---|:---:|:---:|:---:|
-| **1** | [Railway Security Disclosure](https://blog.railway.com/p/security-disclosure-wednesday-october-21st) | ⭐ 51 | 💬 6 | [HN Thread](https://news.ycombinator.com/item?id=50188228) |
-| **2** | [Today's PHP security release, and how we're strengthening security](https://thephp.foundation/blog/2026/10/21/todays-php-security-release-and-how-were-strengthening-php-security/) | ⭐ 573 | 💬 289 | [HN Thread](https://news.ycombinator.com/item?id=50182987) |
-| **3** | [GitLab Critical Patch Release](https://docs.gitlab.com/releases/patches/patch-release-gitlab-19-5-1-released/) | ⭐ 166 | 💬 38 | [HN Thread](https://news.ycombinator.com/item?id=50185869) |
-| **4** | [AWS rates PHP RCE as Important so Amazon Linux 2023 patch may take 20 days](https://github.com/amazonlinux/amazon-linux-2023/issues/1148) | ⭐ 71 | 💬 17 | [HN Thread](https://news.ycombinator.com/item?id=50187708) |
-| **5** | [No More Icons in Every Menu by Default](https://blog.jim-nielsen.com/2026/icons-in-every-menu/) | ⭐ 57 | 💬 36 | [HN Thread](https://news.ycombinator.com/item?id=50161346) |
-| **6** | [Compromised LiteLLM 1.107.0 on PyPI Installs a Credential Stealer and Backdoor](https://safedep.io/litellm-pypi-compromise-credential-stealer-backdoor/) | ⭐ 370 | 💬 121 | [HN Thread](https://news.ycombinator.com/item?id=50181114) |
-| **7** | [Why Windows 11 still ships with Windows 95's memory manager hidden inside it](https://www.windowslatest.com/2026/10/19/why-windows-11-still-ships-with-windows-95s-memory-manager-hidden-inside-it/) | ⭐ 99 | 💬 66 | [HN Thread](https://news.ycombinator.com/item?id=50159726) |
-| **8** | [Eight Bits of Trust: eMudhra's CA keys cracked in milliseconds](https://scotthelme.co.uk/eight-bits-of-trust-emudhras-ca-keys-cracked-in-milliseconds/) | ⭐ 785 | 💬 385 | [HN Thread](https://news.ycombinator.com/item?id=50177916) |
-| **9** | [Claude Duet](https://claude.com/product/claude-duet) | ⭐ 236 | 💬 204 | [HN Thread](https://news.ycombinator.com/item?id=50186037) |
-| **10** | [Meta ordered to pay $25B penalty in New Mexico Cambridge Analytica case](https://www.cnbc.com/2026/10/21/meta-new-mexico-cambridge-analytica-penalty.html) | ⭐ 247 | 💬 147 | [HN Thread](https://news.ycombinator.com/item?id=50184820) |
+| **1** | [OpenAI CLI](https://github.com/openai/openai-cli) | ⭐ 54 | 💬 29 | [HN Thread](https://news.ycombinator.com/item?id=50191507) |
+| **2** | [The recently proposed o(n log n) integer multiplication algorithm [pdf]](https://web.maths.unsw.edu.au/~davidharvey/research/subnlogn.pdf) | ⭐ 170 | 💬 95 | [HN Thread](https://news.ycombinator.com/item?id=50190455) |
+| **3** | [WorldTUI: I trained a 360M model to pretend to be a terminal](https://simedw.com/2026/10/21/world-model-terminal/) | ⭐ 104 | 💬 42 | [HN Thread](https://news.ycombinator.com/item?id=50190363) |
+| **4** | [There isn't an easy exploit for this PHP vulnerability](https://eliastaylor.com/noexploit/) | ⭐ 467 | 💬 248 | [HN Thread](https://news.ycombinator.com/item?id=50188948) |
+| **5** | [GitLab critical patch release](https://docs.gitlab.com/releases/patches/patch-release-gitlab-19-5-1-released/) | ⭐ 326 | 💬 75 | [HN Thread](https://news.ycombinator.com/item?id=50185869) |
+| **6** | [Compromised LiteLLM 1.107.0 on PyPI Installs a Credential Stealer and Backdoor](https://safedep.io/litellm-pypi-compromise-credential-stealer-backdoor/) | ⭐ 488 | 💬 167 | [HN Thread](https://news.ycombinator.com/item?id=50181114) |
+| **7** | [Using LLM for confidence scoring is a bad idea](https://rumple.github.io/blog/2026/10/20/asking-llm-for-confidence.html) | ⭐ 64 | 💬 39 | [HN Thread](https://news.ycombinator.com/item?id=50176082) |
+| **8** | [Security Disclosure](https://blog.railway.com/p/security-disclosure-wednesday-october-21st) | ⭐ 424 | 💬 249 | [HN Thread](https://news.ycombinator.com/item?id=50188228) |
+| **9** | [Rust Style Guide](https://google.github.io/styleguide/rustguide.html) | ⭐ 281 | 💬 166 | [HN Thread](https://news.ycombinator.com/item?id=50186010) |
+| **10** | [No more icons in every menu by default](https://blog.jim-nielsen.com/2026/icons-in-every-menu/) | ⭐ 278 | 💬 171 | [HN Thread](https://news.ycombinator.com/item?id=50161346) |
 
 ---
 
 ## 🗄️ News Archive
 
+- 📅 [2026-10-22](archive/2026-10-22.md)
 - 📅 [2026-10-21](archive/2026-10-21.md)
 - 📅 [2026-10-20](archive/2026-10-20.md)
 - 📅 [2026-10-19](archive/2026-10-19.md)
@@ -40,9 +41,8 @@ An automated **Tech & AI News Digest** that aggregates top trending discussions 
 - 📅 [2026-10-09](archive/2026-10-09.md)
 - 📅 [2026-10-08](archive/2026-10-08.md)
 - 📅 [2026-10-07](archive/2026-10-07.md)
-- 📅 [2026-10-05](archive/2026-10-05.md)
 
-*... and [50 older editions in the archive folder](archive/)*
+*... and [51 older editions in the archive folder](archive/)*
 
 ---
 
