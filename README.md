@@ -12,16 +12,16 @@ An automated **Tech & AI News Digest** that aggregates top trending discussions 
 
 | # | Story | Points | Comments | Discussion |
 |:---:|:---|:---:|:---:|:---:|
-| **1** | [Local Wikipedia: Wikipedia, but only for things a half hour walk from you](https://edjefferson.com/localwiki/) | ⭐ 171 | 💬 35 | [HN Thread](https://news.ycombinator.com/item?id=50202285) |
-| **2** | [The same AI request emits 8.5 times more CO2 in Texas than in Sweden](https://berget.ai/en/blog/per-request-co2-press-release) | ⭐ 45 | 💬 16 | [HN Thread](https://news.ycombinator.com/item?id=50205229) |
-| **3** | [Docker is weird](https://codeandcake.dev/posts/2026-10-22-docker-is-weird) | ⭐ 385 | 💬 195 | [HN Thread](https://news.ycombinator.com/item?id=50202681) |
-| **4** | [LLMs are making formal software verification feasible at a much larger scale](https://www.anthropic.com/research/formal-verification) | ⭐ 306 | 💬 167 | [HN Thread](https://news.ycombinator.com/item?id=50202217) |
-| **5** | [How does Fable 5.1 hide messages in images?](https://www.lesswrong.com/posts/WHEQps5PK8LrrcTAb/how-does-fable-5-1-hide-messages-in-images) | ⭐ 32 | 💬 5 | [HN Thread](https://news.ycombinator.com/item?id=50201445) |
-| **6** | [The HTML-in-Canvas API origin trial](https://developer.chrome.com/blog/html-in-canvas-origin-trial) | ⭐ 22 | 💬 5 | [HN Thread](https://news.ycombinator.com/item?id=50200164) |
-| **7** | [The foolishness of "natural language programming" (1978)](https://www.cs.utexas.edu/~EWD/transcriptions/EWD06xx/EWD667.html) | ⭐ 122 | 💬 75 | [HN Thread](https://news.ycombinator.com/item?id=50203161) |
-| **8** | [This I Believe (1952)](https://www.awakin.org/v2/read/view.php?tid=468) | ⭐ 58 | 💬 19 | [HN Thread](https://news.ycombinator.com/item?id=50203759) |
-| **9** | [The alien space of science: Coherent but cognitively unavailable directions](https://arxiv.org/abs/2603.01092) | ⭐ 25 | 💬 2 | [HN Thread](https://news.ycombinator.com/item?id=50195002) |
-| **10** | [OpenShell – A safe, private runtime for fleets of autonomous AI agents](https://github.com/NVIDIA/OpenShell) | ⭐ 373 | 💬 187 | [HN Thread](https://news.ycombinator.com/item?id=50198675) |
+| **1** | [Kimi K3.1 Pro and K3.1 Pro Highspeed](https://www.kimi.ai/blog/kimi-k3-1-pro) | ⭐ 587 | 💬 356 | [HN Thread](https://news.ycombinator.com/item?id=50212065) |
+| **2** | [Apple Music 404 Not Found](https://music.apple.com/this-url-doesnt-exist) | ⭐ 413 | 💬 145 | [HN Thread](https://news.ycombinator.com/item?id=50207910) |
+| **3** | [Dessa: the most authentic full-duplex speech model ever built](https://block.xyz/dessa) | ⭐ 123 | 💬 37 | [HN Thread](https://news.ycombinator.com/item?id=50213925) |
+| **4** | [Today, we hacked what we'd set out to hack: the iPhone](https://blog.calif.io/p/iphone) | ⭐ 647 | 💬 424 | [HN Thread](https://news.ycombinator.com/item?id=50211474) |
+| **5** | [We are all living inside of an obscure sci-fi film from 1970](https://thanksforthatjim.bearblog.dev/we-are-all-living-inside-of-an-obscure-sci-fi-film-from-1970/) | ⭐ 63 | 💬 39 | [HN Thread](https://news.ycombinator.com/item?id=50214323) |
+| **6** | [OpenAI: Securing our frontier model training environment](https://openai.com/index/securing-our-frontier-model-training-environment/) | ⭐ 39 | 💬 32 | [HN Thread](https://news.ycombinator.com/item?id=50214416) |
+| **7** | [Local Wikipedia: Wikipedia, but only for things a half hour walk from you](https://edjefferson.com/localwiki/) | ⭐ 1153 | 💬 222 | [HN Thread](https://news.ycombinator.com/item?id=50202285) |
+| **8** | [The Real Kevin Bacon](https://pudding.cool/2026/10/kevin-bacon/) | ⭐ 196 | 💬 56 | [HN Thread](https://news.ycombinator.com/item?id=50169499) |
+| **9** | [CVE Tracker](https://cve.0xosprey.com/) | ⭐ 7 | 💬 0 | [HN Thread](https://news.ycombinator.com/item?id=50215530) |
+| **10** | [Canadians are running out of time to oppose Bill C-22](https://www.eff.org/deeplinks/2026/10/canadians-are-running-out-time-oppose-dangerous-c-22-surveillance-bill) | ⭐ 251 | 💬 116 | [HN Thread](https://news.ycombinator.com/item?id=50202114) |
 
 ---
 
