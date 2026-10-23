@@ -12,21 +12,22 @@ An automated **Tech & AI News Digest** that aggregates top trending discussions 
 
 | # | Story | Points | Comments | Discussion |
 |:---:|:---|:---:|:---:|:---:|
-| **1** | [Quad9 (DNS Resolver) to Exit France](https://quad9.net/news/blog/au-revoir-france/) | ⭐ 846 | 💬 318 | [HN Thread](https://news.ycombinator.com/item?id=50195959) |
-| **2** | [OpenShell – A safe, private runtime for fleets of autonomous AI agents](https://github.com/NVIDIA/OpenShell) | ⭐ 229 | 💬 124 | [HN Thread](https://news.ycombinator.com/item?id=50198675) |
-| **3** | [Getting ready to operate GNU Taler in Germany](https://www.taler.net/en/news/2026-13.html) | ⭐ 183 | 💬 62 | [HN Thread](https://news.ycombinator.com/item?id=50197404) |
-| **4** | [Show HN: Run full iOS 16.5 firmware on Android Devices](https://github.com/oosexgang/hackios-xnu-kernel) | ⭐ 274 | 💬 100 | [HN Thread](https://news.ycombinator.com/item?id=50196718) |
-| **5** | [Woman faces six years in prison over Cash App account she never opened](https://www.techspot.com/news/114296-woman-spends-three-nights-jail-faces-six-years.html) | ⭐ 360 | 💬 344 | [HN Thread](https://news.ycombinator.com/item?id=50194833) |
-| **6** | [Every AI model has the same "controversial" take on humans](https://www.modelcompare.ai/blog/ai-models-controversial-take-on-humans) | ⭐ 131 | 💬 158 | [HN Thread](https://news.ycombinator.com/item?id=50197313) |
-| **7** | [AI and the Enclosure of the Scientific Commons](https://arxiv.org/abs/2610.27251) | ⭐ 81 | 💬 44 | [HN Thread](https://news.ycombinator.com/item?id=50199230) |
-| **8** | [Hedra is a 3D open world game I wrote from scratch while in highschool](https://github.com/maxilevi/project-hedra/tree/pre-ai) | ⭐ 84 | 💬 18 | [HN Thread](https://news.ycombinator.com/item?id=50199389) |
-| **9** | [What Is Gridifcation](https://musicalform.substack.com/p/what-is-gridifcation) | ⭐ 371 | 💬 184 | [HN Thread](https://news.ycombinator.com/item?id=50150163) |
-| **10** | [Jailbreaking the Switch 2](https://pepsipu.com/blog/2026-10-switch2-jailbreak-ns2jb/) | ⭐ 661 | 💬 231 | [HN Thread](https://news.ycombinator.com/item?id=50192536) |
+| **1** | [Local Wikipedia: Wikipedia, but only for things a half hour walk from you](https://edjefferson.com/localwiki/) | ⭐ 171 | 💬 35 | [HN Thread](https://news.ycombinator.com/item?id=50202285) |
+| **2** | [The same AI request emits 8.5 times more CO2 in Texas than in Sweden](https://berget.ai/en/blog/per-request-co2-press-release) | ⭐ 45 | 💬 16 | [HN Thread](https://news.ycombinator.com/item?id=50205229) |
+| **3** | [Docker is weird](https://codeandcake.dev/posts/2026-10-22-docker-is-weird) | ⭐ 385 | 💬 195 | [HN Thread](https://news.ycombinator.com/item?id=50202681) |
+| **4** | [LLMs are making formal software verification feasible at a much larger scale](https://www.anthropic.com/research/formal-verification) | ⭐ 306 | 💬 167 | [HN Thread](https://news.ycombinator.com/item?id=50202217) |
+| **5** | [How does Fable 5.1 hide messages in images?](https://www.lesswrong.com/posts/WHEQps5PK8LrrcTAb/how-does-fable-5-1-hide-messages-in-images) | ⭐ 32 | 💬 5 | [HN Thread](https://news.ycombinator.com/item?id=50201445) |
+| **6** | [The HTML-in-Canvas API origin trial](https://developer.chrome.com/blog/html-in-canvas-origin-trial) | ⭐ 22 | 💬 5 | [HN Thread](https://news.ycombinator.com/item?id=50200164) |
+| **7** | [The foolishness of "natural language programming" (1978)](https://www.cs.utexas.edu/~EWD/transcriptions/EWD06xx/EWD667.html) | ⭐ 122 | 💬 75 | [HN Thread](https://news.ycombinator.com/item?id=50203161) |
+| **8** | [This I Believe (1952)](https://www.awakin.org/v2/read/view.php?tid=468) | ⭐ 58 | 💬 19 | [HN Thread](https://news.ycombinator.com/item?id=50203759) |
+| **9** | [The alien space of science: Coherent but cognitively unavailable directions](https://arxiv.org/abs/2603.01092) | ⭐ 25 | 💬 2 | [HN Thread](https://news.ycombinator.com/item?id=50195002) |
+| **10** | [OpenShell – A safe, private runtime for fleets of autonomous AI agents](https://github.com/NVIDIA/OpenShell) | ⭐ 373 | 💬 187 | [HN Thread](https://news.ycombinator.com/item?id=50198675) |
 
 ---
 
 ## 🗄️ News Archive
 
+- 📅 [2026-10-23](archive/2026-10-23.md)
 - 📅 [2026-10-22](archive/2026-10-22.md)
 - 📅 [2026-10-21](archive/2026-10-21.md)
 - 📅 [2026-10-20](archive/2026-10-20.md)
@@ -40,9 +41,8 @@ An automated **Tech & AI News Digest** that aggregates top trending discussions 
 - 📅 [2026-10-10](archive/2026-10-10.md)
 - 📅 [2026-10-09](archive/2026-10-09.md)
 - 📅 [2026-10-08](archive/2026-10-08.md)
-- 📅 [2026-10-07](archive/2026-10-07.md)
 
-*... and [51 older editions in the archive folder](archive/)*
+*... and [52 older editions in the archive folder](archive/)*
 
 ---
 
