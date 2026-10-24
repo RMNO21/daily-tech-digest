@@ -12,21 +12,22 @@ An automated **Tech & AI News Digest** that aggregates top trending discussions 
 
 | # | Story | Points | Comments | Discussion |
 |:---:|:---|:---:|:---:|:---:|
-| **1** | [Kimi K3.1 Pro and K3.1 Pro Highspeed](https://www.kimi.ai/blog/kimi-k3-1-pro) | ⭐ 587 | 💬 356 | [HN Thread](https://news.ycombinator.com/item?id=50212065) |
-| **2** | [Apple Music 404 Not Found](https://music.apple.com/this-url-doesnt-exist) | ⭐ 413 | 💬 145 | [HN Thread](https://news.ycombinator.com/item?id=50207910) |
-| **3** | [Dessa: the most authentic full-duplex speech model ever built](https://block.xyz/dessa) | ⭐ 123 | 💬 37 | [HN Thread](https://news.ycombinator.com/item?id=50213925) |
-| **4** | [Today, we hacked what we'd set out to hack: the iPhone](https://blog.calif.io/p/iphone) | ⭐ 647 | 💬 424 | [HN Thread](https://news.ycombinator.com/item?id=50211474) |
-| **5** | [We are all living inside of an obscure sci-fi film from 1970](https://thanksforthatjim.bearblog.dev/we-are-all-living-inside-of-an-obscure-sci-fi-film-from-1970/) | ⭐ 63 | 💬 39 | [HN Thread](https://news.ycombinator.com/item?id=50214323) |
-| **6** | [OpenAI: Securing our frontier model training environment](https://openai.com/index/securing-our-frontier-model-training-environment/) | ⭐ 39 | 💬 32 | [HN Thread](https://news.ycombinator.com/item?id=50214416) |
-| **7** | [Local Wikipedia: Wikipedia, but only for things a half hour walk from you](https://edjefferson.com/localwiki/) | ⭐ 1153 | 💬 222 | [HN Thread](https://news.ycombinator.com/item?id=50202285) |
-| **8** | [The Real Kevin Bacon](https://pudding.cool/2026/10/kevin-bacon/) | ⭐ 196 | 💬 56 | [HN Thread](https://news.ycombinator.com/item?id=50169499) |
-| **9** | [CVE Tracker](https://cve.0xosprey.com/) | ⭐ 7 | 💬 0 | [HN Thread](https://news.ycombinator.com/item?id=50215530) |
-| **10** | [Canadians are running out of time to oppose Bill C-22](https://www.eff.org/deeplinks/2026/10/canadians-are-running-out-time-oppose-dangerous-c-22-surveillance-bill) | ⭐ 251 | 💬 116 | [HN Thread](https://news.ycombinator.com/item?id=50202114) |
+| **1** | [Kimi K3.1 Pro and K3.1 Pro Highspeed](https://www.kimi.ai/blog/kimi-k3-1-pro) | ⭐ 828 | 💬 493 | [HN Thread](https://news.ycombinator.com/item?id=50212065) |
+| **2** | [Twelve years of distributed SQLite](https://philipotoole.com/twelve-years-of-distributed-sqlite/) | ⭐ 109 | 💬 13 | [HN Thread](https://news.ycombinator.com/item?id=50217500) |
+| **3** | [Apple Music 404 Not Found](https://music.apple.com/this-url-doesnt-exist) | ⭐ 694 | 💬 214 | [HN Thread](https://news.ycombinator.com/item?id=50207910) |
+| **4** | [How close can pure functional programming get to C?](https://rtfeldman.com/fp-vs-c) | ⭐ 35 | 💬 2 | [HN Thread](https://news.ycombinator.com/item?id=50218195) |
+| **5** | [Local Wikipedia: Wikipedia, but only for things a half hour walk from you](https://edjefferson.com/localwiki/) | ⭐ 1332 | 💬 229 | [HN Thread](https://news.ycombinator.com/item?id=50202285) |
+| **6** | [Dessa: Conversation Model trained only on speech](https://block.xyz/dessa) | ⭐ 325 | 💬 127 | [HN Thread](https://news.ycombinator.com/item?id=50213925) |
+| **7** | [A practical guide to AI image generation, from diffusion to agents](https://danielball.com/notes/ai_image_generation.html) | ⭐ 20 | 💬 4 | [HN Thread](https://news.ycombinator.com/item?id=50171379) |
+| **8** | [Today, we hacked what we'd set out to hack: the iPhone](https://blog.calif.io/p/iphone) | ⭐ 810 | 💬 537 | [HN Thread](https://news.ycombinator.com/item?id=50211474) |
+| **9** | [CVE Tracker](https://cve.0xosprey.com/) | ⭐ 143 | 💬 55 | [HN Thread](https://news.ycombinator.com/item?id=50215530) |
+| **10** | [Bringing uv and ty together](https://astral.sh/blog/uv-ty-integration) | ⭐ 90 | 💬 21 | [HN Thread](https://news.ycombinator.com/item?id=50172962) |
 
 ---
 
 ## 🗄️ News Archive
 
+- 📅 [2026-10-24](archive/2026-10-24.md)
 - 📅 [2026-10-23](archive/2026-10-23.md)
 - 📅 [2026-10-22](archive/2026-10-22.md)
 - 📅 [2026-10-21](archive/2026-10-21.md)
@@ -40,9 +41,8 @@ An automated **Tech & AI News Digest** that aggregates top trending discussions 
 - 📅 [2026-10-13](archive/2026-10-13.md)
 - 📅 [2026-10-10](archive/2026-10-10.md)
 - 📅 [2026-10-09](archive/2026-10-09.md)
-- 📅 [2026-10-08](archive/2026-10-08.md)
 
-*... and [52 older editions in the archive folder](archive/)*
+*... and [53 older editions in the archive folder](archive/)*
 
 ---
 
