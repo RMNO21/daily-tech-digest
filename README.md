@@ -12,16 +12,16 @@ An automated **Tech & AI News Digest** that aggregates top trending discussions 
 
 | # | Story | Points | Comments | Discussion |
 |:---:|:---|:---:|:---:|:---:|
-| **1** | [I Don't Understand Quantum Physics](https://www.southampton.ac.uk/~doug/quantum_physics/index.html) | ⭐ 69 | 💬 32 | [HN Thread](https://news.ycombinator.com/item?id=50219666) |
-| **2** | [OBS Studio 33](https://github.com/obsproject/obs-studio/releases/tag/33.0.0) | ⭐ 172 | 💬 53 | [HN Thread](https://news.ycombinator.com/item?id=50218430) |
-| **3** | [Kimi K3.1 Pro and K3.1 Pro Highspeed](https://www.kimi.ai/blog/kimi-k3-1-pro) | ⭐ 927 | 💬 550 | [HN Thread](https://news.ycombinator.com/item?id=50212065) |
-| **4** | [Today, we hacked what we'd set out to hack: the iPhone](https://blog.calif.io/p/iphone) | ⭐ 901 | 💬 589 | [HN Thread](https://news.ycombinator.com/item?id=50211474) |
-| **5** | [Physicists trap a single antimatter particle for a month](https://www.scientificamerican.com/article/physicists-trap-a-single-antimatter-particle-for-a-month/) | ⭐ 64 | 💬 23 | [HN Thread](https://news.ycombinator.com/item?id=50186450) |
-| **6** | [Twelve years of distributed SQLite](https://philipotoole.com/twelve-years-of-distributed-sqlite/) | ⭐ 218 | 💬 32 | [HN Thread](https://news.ycombinator.com/item?id=50217500) |
-| **7** | [How close can pure functional programming get to C?](https://rtfeldman.com/fp-vs-c) | ⭐ 133 | 💬 19 | [HN Thread](https://news.ycombinator.com/item?id=50218195) |
-| **8** | [Around a dozen banking apps began specifically permitting GrapheneOS](https://grapheneos.social/@GrapheneOS/117492375462459244) | ⭐ 128 | 💬 21 | [HN Thread](https://news.ycombinator.com/item?id=50217495) |
-| **9** | [Apple Music 404 Not Found](https://music.apple.com/this-url-doesnt-exist) | ⭐ 780 | 💬 237 | [HN Thread](https://news.ycombinator.com/item?id=50207910) |
-| **10** | [How to run a city builder on 16 MHz](https://larstofus.com/2025/11/16/how-to-run-a-city-builder-on-12-5-mhz/) | ⭐ 24 | 💬 7 | [HN Thread](https://news.ycombinator.com/item?id=50194536) |
+| **1** | [Show HN: Steal My Bitcoin](https://stealmybitcoin.com/) | ⭐ 320 | 💬 160 | [HN Thread](https://news.ycombinator.com/item?id=50224916) |
+| **2** | [We should be more ambitious with the software we build](https://danluu.com/ambitious/) | ⭐ 30 | 💬 20 | [HN Thread](https://news.ycombinator.com/item?id=50225695) |
+| **3** | [The Goose Programming Language](https://aardappel.github.io/goose/) | ⭐ 166 | 💬 129 | [HN Thread](https://news.ycombinator.com/item?id=50224100) |
+| **4** | [Listen and read USA nuclear forces Emergency Action Messages, heard on 11175 kHz](https://missileer.watch) | ⭐ 89 | 💬 56 | [HN Thread](https://news.ycombinator.com/item?id=50224422) |
+| **5** | [Roku developer repositories moved from GitHub to GitLab](https://blog.roku.com/developer/gitlab-move) | ⭐ 232 | 💬 155 | [HN Thread](https://news.ycombinator.com/item?id=50222622) |
+| **6** | [Free Software Is a Failure](http://www.paritybit.ca/blog/free-software-is-an-abject-failure/) | ⭐ 5 | 💬 0 | [HN Thread](https://news.ycombinator.com/item?id=50226261) |
+| **7** | [SpeedCrunch 1.1](https://www.speedcrunch.org/) | ⭐ 42 | 💬 8 | [HN Thread](https://news.ycombinator.com/item?id=50224210) |
+| **8** | [Small Programs and Languages](https://ratfactor.com/cards/pl-small) | ⭐ 9 | 💬 0 | [HN Thread](https://news.ycombinator.com/item?id=50225674) |
+| **9** | [The St. Helena 5 pence coin shows Jonathan, a roughly 190 year old tortoise](https://de.numista.com/9866) | ⭐ 82 | 💬 24 | [HN Thread](https://news.ycombinator.com/item?id=50222927) |
+| **10** | [Full Disk Encryption on Fedora with TPM2](https://www.apalrd.net/posts/2026/ent_luks/) | ⭐ 18 | 💬 17 | [HN Thread](https://news.ycombinator.com/item?id=50194602) |
 
 ---
 
