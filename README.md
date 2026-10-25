@@ -12,21 +12,22 @@ An automated **Tech & AI News Digest** that aggregates top trending discussions 
 
 | # | Story | Points | Comments | Discussion |
 |:---:|:---|:---:|:---:|:---:|
-| **1** | [Show HN: Steal My Bitcoin](https://stealmybitcoin.com/) | ⭐ 320 | 💬 160 | [HN Thread](https://news.ycombinator.com/item?id=50224916) |
-| **2** | [We should be more ambitious with the software we build](https://danluu.com/ambitious/) | ⭐ 30 | 💬 20 | [HN Thread](https://news.ycombinator.com/item?id=50225695) |
-| **3** | [The Goose Programming Language](https://aardappel.github.io/goose/) | ⭐ 166 | 💬 129 | [HN Thread](https://news.ycombinator.com/item?id=50224100) |
-| **4** | [Listen and read USA nuclear forces Emergency Action Messages, heard on 11175 kHz](https://missileer.watch) | ⭐ 89 | 💬 56 | [HN Thread](https://news.ycombinator.com/item?id=50224422) |
-| **5** | [Roku developer repositories moved from GitHub to GitLab](https://blog.roku.com/developer/gitlab-move) | ⭐ 232 | 💬 155 | [HN Thread](https://news.ycombinator.com/item?id=50222622) |
-| **6** | [Free Software Is a Failure](http://www.paritybit.ca/blog/free-software-is-an-abject-failure/) | ⭐ 5 | 💬 0 | [HN Thread](https://news.ycombinator.com/item?id=50226261) |
-| **7** | [SpeedCrunch 1.1](https://www.speedcrunch.org/) | ⭐ 42 | 💬 8 | [HN Thread](https://news.ycombinator.com/item?id=50224210) |
-| **8** | [Small Programs and Languages](https://ratfactor.com/cards/pl-small) | ⭐ 9 | 💬 0 | [HN Thread](https://news.ycombinator.com/item?id=50225674) |
-| **9** | [The St. Helena 5 pence coin shows Jonathan, a roughly 190 year old tortoise](https://de.numista.com/9866) | ⭐ 82 | 💬 24 | [HN Thread](https://news.ycombinator.com/item?id=50222927) |
-| **10** | [Full Disk Encryption on Fedora with TPM2](https://www.apalrd.net/posts/2026/ent_luks/) | ⭐ 18 | 💬 17 | [HN Thread](https://news.ycombinator.com/item?id=50194602) |
+| **1** | [Meta Ignores Brazilian Court Order to End Bolsonaro Favoritism](https://www.panamericandispatch.org/p/meta-ignores-brazilian-court-order) | ⭐ 67 | 💬 20 | [HN Thread](https://news.ycombinator.com/item?id=50229587) |
+| **2** | [We should be more ambitious with the software we build](https://danluu.com/ambitious/) | ⭐ 431 | 💬 367 | [HN Thread](https://news.ycombinator.com/item?id=50225695) |
+| **3** | [Cerebras Deploys Trillion-Parameter AI Models](https://www.cerebras.ai/blog/how-we-deploy-trillion-parameter-frontier-models-on-cerebras) | ⭐ 161 | 💬 57 | [HN Thread](https://news.ycombinator.com/item?id=50227356) |
+| **4** | [How Japanese Dried Bonito Is Made](https://kottke.org/26/10/how-japanese-dried-bonito-is-made) | ⭐ 38 | 💬 14 | [HN Thread](https://news.ycombinator.com/item?id=50193936) |
+| **5** | [The Goose Programming Language](https://aardappel.github.io/goose/) | ⭐ 395 | 💬 249 | [HN Thread](https://news.ycombinator.com/item?id=50224100) |
+| **6** | [Online censorship is crushing indie webcomics](https://xtramagazine.com/culture/online-censorship-indie-webcomics-284463) | ⭐ 22 | 💬 0 | [HN Thread](https://news.ycombinator.com/item?id=50229599) |
+| **7** | [Rewriting a Commercial Engine in Jai](https://polygonjs.com/blog/why-i-rewrote-polygon-from-scratch) | ⭐ 18 | 💬 7 | [HN Thread](https://news.ycombinator.com/item?id=50194645) |
+| **8** | [SpeedCrunch 1.1](https://www.speedcrunch.org/) | ⭐ 147 | 💬 24 | [HN Thread](https://news.ycombinator.com/item?id=50224210) |
+| **9** | [Small Programs and Languages](https://ratfactor.com/cards/pl-small) | ⭐ 109 | 💬 9 | [HN Thread](https://news.ycombinator.com/item?id=50225674) |
+| **10** | [Why Gopher in 2026?](https://gopher.muffinlabs.com/sdf.org/users/nervtoji/phlog/001.txt) | ⭐ 76 | 💬 24 | [HN Thread](https://news.ycombinator.com/item?id=50226577) |
 
 ---
 
 ## 🗄️ News Archive
 
+- 📅 [2026-10-25](archive/2026-10-25.md)
 - 📅 [2026-10-24](archive/2026-10-24.md)
 - 📅 [2026-10-23](archive/2026-10-23.md)
 - 📅 [2026-10-22](archive/2026-10-22.md)
@@ -40,9 +41,8 @@ An automated **Tech & AI News Digest** that aggregates top trending discussions 
 - 📅 [2026-10-14](archive/2026-10-14.md)
 - 📅 [2026-10-13](archive/2026-10-13.md)
 - 📅 [2026-10-10](archive/2026-10-10.md)
-- 📅 [2026-10-09](archive/2026-10-09.md)
 
-*... and [53 older editions in the archive folder](archive/)*
+*... and [54 older editions in the archive folder](archive/)*
 
 ---
 
