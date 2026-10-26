@@ -12,16 +12,16 @@ An automated **Tech & AI News Digest** that aggregates top trending discussions 
 
 | # | Story | Points | Comments | Discussion |
 |:---:|:---|:---:|:---:|:---:|
-| **1** | [Show HN: TitleArt – Make text like it's 1997](https://titleart.dvy.io/) | ⭐ 90 | 💬 15 | [HN Thread](https://news.ycombinator.com/item?id=50238708) |
-| **2** | [PaperPilot – Zero-Cloud, Pure-Rust PDF Engine with WASM and MCP](https://github.com/KrushnaVardhanReddy/PaperPilot) | ⭐ 62 | 💬 9 | [HN Thread](https://news.ycombinator.com/item?id=50238739) |
-| **3** | [Cognitive Mercantilism: AI panic resembles fears of early capitalism](https://contraptions.venkateshrao.com/p/cognitive-mercantilism) | ⭐ 27 | 💬 1 | [HN Thread](https://news.ycombinator.com/item?id=50239027) |
-| **4** | [Dolly Parton's Imagination Library](https://imaginationlibrary.com/) | ⭐ 489 | 💬 88 | [HN Thread](https://news.ycombinator.com/item?id=50234474) |
-| **5** | [Behind the scenes at the NeXT Computer office](https://exhibits.stanford.edu/menuez/browse/next-computer-inc?per_page=96&sort=pub_year_isi+asc%2C+title_sort+asc&view=masonry) | ⭐ 55 | 💬 21 | [HN Thread](https://news.ycombinator.com/item?id=50238763) |
-| **6** | [Show HN: A Truly Modular Keyboard](https://github.com/notaroomba/keybytes) | ⭐ 75 | 💬 19 | [HN Thread](https://news.ycombinator.com/item?id=50228115) |
-| **7** | [Overgrown, when plants invade your abandoned tabs](https://charliegerard.dev/blog/overgrown-extension/) | ⭐ 226 | 💬 73 | [HN Thread](https://news.ycombinator.com/item?id=50197108) |
-| **8** | [The Fall of Scientific American](https://www.thenation.com/article/society/scientific-american-springer-nature-trump/) | ⭐ 43 | 💬 21 | [HN Thread](https://news.ycombinator.com/item?id=50218693) |
-| **9** | [Lula wins election after final votes tallied](https://www.reuters.com/live/brazil-election-live-lula-bolsonaro-face-off-presidential-runoff-2026-10-25/) | ⭐ 306 | 💬 288 | [HN Thread](https://news.ycombinator.com/item?id=50237485) |
-| **10** | [Attention Is Not What You Need (2025)](https://arxiv.org/abs/2512.19428) | ⭐ 71 | 💬 25 | [HN Thread](https://news.ycombinator.com/item?id=50237224) |
+| **1** | [OLED iPad Mini](https://www.apple.com/shop/buy-ipad/ipad-mini) | ⭐ 46 | 💬 27 | [HN Thread](https://news.ycombinator.com/item?id=50243646) |
+| **2** | [The new iPad mini](https://www.apple.com/newsroom/2026/10/apple-gives-ipad-mini-its-biggest-update-ever/) | ⭐ 31 | 💬 10 | [HN Thread](https://news.ycombinator.com/item?id=50243061) |
+| **3** | [Fixing Tool-Call Accuracy in vLLM](https://www.ubicloud.com/blog/fixing-tool-call-accuracy-in-vllm) | ⭐ 39 | 💬 5 | [HN Thread](https://news.ycombinator.com/item?id=50242870) |
+| **4** | [Switzerland. Block by block. At 1:1 scale](https://blocks.manifold3d.ch/) | ⭐ 319 | 💬 140 | [HN Thread](https://news.ycombinator.com/item?id=50240922) |
+| **5** | [Birdwatching rewires the brain and slows cognitive decline](https://www.bbc.com/future/article/20261019-birdwatching-rewires-the-brain-and-slows-cognitive-decline) | ⭐ 225 | 💬 94 | [HN Thread](https://news.ycombinator.com/item?id=50215997) |
+| **6** | [Anthropic S-1](https://www.sec.gov/Archives/edgar/data/2130357/000162828026067168/anthropicpbc-sx1.htm) | ⭐ 425 | 💬 335 | [HN Thread](https://news.ycombinator.com/item?id=50242939) |
+| **7** | [One of the Greatest Inventions in the History of Human Transport](https://humantransit.org/2024/12/one-of-the-greatest-inventions-in-the-history-of-human-transport.html) | ⭐ 47 | 💬 13 | [HN Thread](https://news.ycombinator.com/item?id=50200152) |
+| **8** | [Show HN: TitleArt – Make text like it's 1997](https://titleart.dvy.io/) | ⭐ 315 | 💬 56 | [HN Thread](https://news.ycombinator.com/item?id=50238708) |
+| **9** | [Behind the scenes at the NeXT Computer office](https://exhibits.stanford.edu/menuez/browse/next-computer-inc?per_page=96&sort=pub_year_isi+asc%2C+title_sort+asc&view=masonry) | ⭐ 180 | 💬 100 | [HN Thread](https://news.ycombinator.com/item?id=50238763) |
+| **10** | [Tasks as Code: Move Your Tickets into the Repository](https://typemill.net/knowledge-hub/tasks-as-code) | ⭐ 37 | 💬 35 | [HN Thread](https://news.ycombinator.com/item?id=50241924) |
 
 ---
 
