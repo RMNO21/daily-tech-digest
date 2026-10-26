@@ -12,21 +12,22 @@ An automated **Tech & AI News Digest** that aggregates top trending discussions 
 
 | # | Story | Points | Comments | Discussion |
 |:---:|:---|:---:|:---:|:---:|
-| **1** | [A 10-year-old CNN outperforms frontier LLMs for skin cancer diagnosis](https://lynchlab.net/llm-skin-cancer) | ⭐ 96 | 💬 47 | [HN Thread](https://news.ycombinator.com/item?id=50233779) |
-| **2** | [I refuse to accept a censored Internet. Join Me at FOSDEM 27](https://talkweb.eu/openweb/4558/) | ⭐ 99 | 💬 22 | [HN Thread](https://news.ycombinator.com/item?id=50233929) |
-| **3** | [Oregon Police Are Charging a Local News Outlet $2.5M for Records About One Cop](https://theintercept.com/2026/10/01/oregon-police-misconduct-public-records-cost-fee/) | ⭐ 33 | 💬 3 | [HN Thread](https://news.ycombinator.com/item?id=50234232) |
-| **4** | [VCF Southwest 2026, but Edited on Silicon Graphics for '90s TV [video]](https://www.youtube.com/watch?v=46wxttvq9qY) | ⭐ 18 | 💬 2 | [HN Thread](https://news.ycombinator.com/item?id=50223435) |
-| **5** | [We should be more ambitious with the software we build](https://danluu.com/ambitious/) | ⭐ 652 | 💬 622 | [HN Thread](https://news.ycombinator.com/item?id=50225695) |
-| **6** | [AI use leads UC Berkeley math professor to see 'no point' in grading homework](https://www.dailycal.org/news/campus/academics/ai-use-leads-uc-berkeley-math-professor-to-see-no-point-in-grading-homework/article_bdf1eae2-c08b-491f-b9f1-81a7cea177de.html) | ⭐ 56 | 💬 78 | [HN Thread](https://news.ycombinator.com/item?id=50233304) |
-| **7** | [Active incident at Dreamhost forcing password reset](https://www.dreamhoststatus.com/) | ⭐ 37 | 💬 14 | [HN Thread](https://news.ycombinator.com/item?id=50231166) |
-| **8** | [Sabre Wulf Remastered](https://gp-64.com/swr/) | ⭐ 33 | 💬 4 | [HN Thread](https://news.ycombinator.com/item?id=50233775) |
-| **9** | [Show HN: I put employees inside S&P 500 market-cap bubbles](https://bigwhalehunting.com/workforce/) | ⭐ 133 | 💬 43 | [HN Thread](https://news.ycombinator.com/item?id=50232312) |
-| **10** | [Cerebras Deploys Trillion-Parameter AI Models](https://www.cerebras.ai/blog/how-we-deploy-trillion-parameter-frontier-models-on-cerebras) | ⭐ 315 | 💬 112 | [HN Thread](https://news.ycombinator.com/item?id=50227356) |
+| **1** | [Show HN: TitleArt – Make text like it's 1997](https://titleart.dvy.io/) | ⭐ 90 | 💬 15 | [HN Thread](https://news.ycombinator.com/item?id=50238708) |
+| **2** | [PaperPilot – Zero-Cloud, Pure-Rust PDF Engine with WASM and MCP](https://github.com/KrushnaVardhanReddy/PaperPilot) | ⭐ 62 | 💬 9 | [HN Thread](https://news.ycombinator.com/item?id=50238739) |
+| **3** | [Cognitive Mercantilism: AI panic resembles fears of early capitalism](https://contraptions.venkateshrao.com/p/cognitive-mercantilism) | ⭐ 27 | 💬 1 | [HN Thread](https://news.ycombinator.com/item?id=50239027) |
+| **4** | [Dolly Parton's Imagination Library](https://imaginationlibrary.com/) | ⭐ 489 | 💬 88 | [HN Thread](https://news.ycombinator.com/item?id=50234474) |
+| **5** | [Behind the scenes at the NeXT Computer office](https://exhibits.stanford.edu/menuez/browse/next-computer-inc?per_page=96&sort=pub_year_isi+asc%2C+title_sort+asc&view=masonry) | ⭐ 55 | 💬 21 | [HN Thread](https://news.ycombinator.com/item?id=50238763) |
+| **6** | [Show HN: A Truly Modular Keyboard](https://github.com/notaroomba/keybytes) | ⭐ 75 | 💬 19 | [HN Thread](https://news.ycombinator.com/item?id=50228115) |
+| **7** | [Overgrown, when plants invade your abandoned tabs](https://charliegerard.dev/blog/overgrown-extension/) | ⭐ 226 | 💬 73 | [HN Thread](https://news.ycombinator.com/item?id=50197108) |
+| **8** | [The Fall of Scientific American](https://www.thenation.com/article/society/scientific-american-springer-nature-trump/) | ⭐ 43 | 💬 21 | [HN Thread](https://news.ycombinator.com/item?id=50218693) |
+| **9** | [Lula wins election after final votes tallied](https://www.reuters.com/live/brazil-election-live-lula-bolsonaro-face-off-presidential-runoff-2026-10-25/) | ⭐ 306 | 💬 288 | [HN Thread](https://news.ycombinator.com/item?id=50237485) |
+| **10** | [Attention Is Not What You Need (2025)](https://arxiv.org/abs/2512.19428) | ⭐ 71 | 💬 25 | [HN Thread](https://news.ycombinator.com/item?id=50237224) |
 
 ---
 
 ## 🗄️ News Archive
 
+- 📅 [2026-10-26](archive/2026-10-26.md)
 - 📅 [2026-10-25](archive/2026-10-25.md)
 - 📅 [2026-10-24](archive/2026-10-24.md)
 - 📅 [2026-10-23](archive/2026-10-23.md)
@@ -40,9 +41,8 @@ An automated **Tech & AI News Digest** that aggregates top trending discussions 
 - 📅 [2026-10-15](archive/2026-10-15.md)
 - 📅 [2026-10-14](archive/2026-10-14.md)
 - 📅 [2026-10-13](archive/2026-10-13.md)
-- 📅 [2026-10-10](archive/2026-10-10.md)
 
-*... and [54 older editions in the archive folder](archive/)*
+*... and [55 older editions in the archive folder](archive/)*
 
 ---
 
