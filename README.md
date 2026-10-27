@@ -12,21 +12,22 @@ An automated **Tech & AI News Digest** that aggregates top trending discussions 
 
 | # | Story | Points | Comments | Discussion |
 |:---:|:---|:---:|:---:|:---:|
-| **1** | [OLED iPad Mini](https://www.apple.com/shop/buy-ipad/ipad-mini) | ⭐ 46 | 💬 27 | [HN Thread](https://news.ycombinator.com/item?id=50243646) |
-| **2** | [The new iPad mini](https://www.apple.com/newsroom/2026/10/apple-gives-ipad-mini-its-biggest-update-ever/) | ⭐ 31 | 💬 10 | [HN Thread](https://news.ycombinator.com/item?id=50243061) |
-| **3** | [Fixing Tool-Call Accuracy in vLLM](https://www.ubicloud.com/blog/fixing-tool-call-accuracy-in-vllm) | ⭐ 39 | 💬 5 | [HN Thread](https://news.ycombinator.com/item?id=50242870) |
-| **4** | [Switzerland. Block by block. At 1:1 scale](https://blocks.manifold3d.ch/) | ⭐ 319 | 💬 140 | [HN Thread](https://news.ycombinator.com/item?id=50240922) |
-| **5** | [Birdwatching rewires the brain and slows cognitive decline](https://www.bbc.com/future/article/20261019-birdwatching-rewires-the-brain-and-slows-cognitive-decline) | ⭐ 225 | 💬 94 | [HN Thread](https://news.ycombinator.com/item?id=50215997) |
-| **6** | [Anthropic S-1](https://www.sec.gov/Archives/edgar/data/2130357/000162828026067168/anthropicpbc-sx1.htm) | ⭐ 425 | 💬 335 | [HN Thread](https://news.ycombinator.com/item?id=50242939) |
-| **7** | [One of the Greatest Inventions in the History of Human Transport](https://humantransit.org/2024/12/one-of-the-greatest-inventions-in-the-history-of-human-transport.html) | ⭐ 47 | 💬 13 | [HN Thread](https://news.ycombinator.com/item?id=50200152) |
-| **8** | [Show HN: TitleArt – Make text like it's 1997](https://titleart.dvy.io/) | ⭐ 315 | 💬 56 | [HN Thread](https://news.ycombinator.com/item?id=50238708) |
-| **9** | [Behind the scenes at the NeXT Computer office](https://exhibits.stanford.edu/menuez/browse/next-computer-inc?per_page=96&sort=pub_year_isi+asc%2C+title_sort+asc&view=masonry) | ⭐ 180 | 💬 100 | [HN Thread](https://news.ycombinator.com/item?id=50238763) |
-| **10** | [Tasks as Code: Move Your Tickets into the Repository](https://typemill.net/knowledge-hub/tasks-as-code) | ⭐ 37 | 💬 35 | [HN Thread](https://news.ycombinator.com/item?id=50241924) |
+| **1** | [Three new discoveries in mathematics, computer science, and physics](https://openai.com/index/building-scientific-understanding-with-academic-communities/) | ⭐ 725 | 💬 316 | [HN Thread](https://news.ycombinator.com/item?id=50251344) |
+| **2** | [There are now 5 inference providers for abliterated DeepSeek](https://allmodels.io/llm/abliterated) | ⭐ 39 | 💬 27 | [HN Thread](https://news.ycombinator.com/item?id=50254836) |
+| **3** | [The Exponential Time Hypothesis Is False [pdf]](https://github.com/openai/math/blob/main/preprints/The-Exponential-Time-Hypothesis-is-False-October-25-2026/paper.pdf) | ⭐ 507 | 💬 186 | [HN Thread](https://news.ycombinator.com/item?id=50251661) |
+| **4** | [Sebastian Raschka's from-scratch video course on building reasoning models](https://magazine.sebastianraschka.com/p/building-reasoning-models) | ⭐ 648 | 💬 91 | [HN Thread](https://news.ycombinator.com/item?id=50245138) |
+| **5** | [Oldest GUI application that still runs on Windows 11](https://blog.enlyth.com/posts/oldest-windows-gui-app-win-11/) | ⭐ 372 | 💬 216 | [HN Thread](https://news.ycombinator.com/item?id=50248055) |
+| **6** | [16-bit Windows (Windows 1.x, 2.x, 3.0, 3.1, etc.) on 64-bit Windows](https://github.com/otya128/winevdm) | ⭐ 63 | 💬 5 | [HN Thread](https://news.ycombinator.com/item?id=50253529) |
+| **7** | [Type Server Protocol](https://github.com/microsoft/pylance-release/blob/main/docs/tsp/type-server-protocol.md) | ⭐ 223 | 💬 146 | [HN Thread](https://news.ycombinator.com/item?id=50248371) |
+| **8** | [Cross-request KV cache exposure in the GLM-5.3 Workers AI model (155 responses)](https://blog.cloudflare.com/kv-cache-exposure-remediation/) | ⭐ 114 | 💬 37 | [HN Thread](https://news.ycombinator.com/item?id=50252159) |
+| **9** | [APC says let there be light, with standards to speed up photonics manufacturing](https://www.nextplatform.com/connect/2026/10/23/apc-says-let-there-be-light-with-raft-of-standards-to-speed-up-photonics-manufacturing/5304950) | ⭐ 30 | 💬 4 | [HN Thread](https://news.ycombinator.com/item?id=50234707) |
+| **10** | [CSS-Tricks has a new owner](https://css-tricks.com/css-tricks-has-a-new-owner/) | ⭐ 424 | 💬 96 | [HN Thread](https://news.ycombinator.com/item?id=50245831) |
 
 ---
 
 ## 🗄️ News Archive
 
+- 📅 [2026-10-27](archive/2026-10-27.md)
 - 📅 [2026-10-26](archive/2026-10-26.md)
 - 📅 [2026-10-25](archive/2026-10-25.md)
 - 📅 [2026-10-24](archive/2026-10-24.md)
@@ -40,9 +41,8 @@ An automated **Tech & AI News Digest** that aggregates top trending discussions 
 - 📅 [2026-10-16](archive/2026-10-16.md)
 - 📅 [2026-10-15](archive/2026-10-15.md)
 - 📅 [2026-10-14](archive/2026-10-14.md)
-- 📅 [2026-10-13](archive/2026-10-13.md)
 
-*... and [55 older editions in the archive folder](archive/)*
+*... and [56 older editions in the archive folder](archive/)*
 
 ---
 
