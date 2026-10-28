@@ -12,21 +12,22 @@ An automated **Tech & AI News Digest** that aggregates top trending discussions 
 
 | # | Story | Points | Comments | Discussion |
 |:---:|:---|:---:|:---:|:---:|
-| **1** | [Three new discoveries in mathematics, computer science, and physics](https://openai.com/index/building-scientific-understanding-with-academic-communities/) | ⭐ 725 | 💬 316 | [HN Thread](https://news.ycombinator.com/item?id=50251344) |
-| **2** | [There are now 5 inference providers for abliterated DeepSeek](https://allmodels.io/llm/abliterated) | ⭐ 39 | 💬 27 | [HN Thread](https://news.ycombinator.com/item?id=50254836) |
-| **3** | [The Exponential Time Hypothesis Is False [pdf]](https://github.com/openai/math/blob/main/preprints/The-Exponential-Time-Hypothesis-is-False-October-25-2026/paper.pdf) | ⭐ 507 | 💬 186 | [HN Thread](https://news.ycombinator.com/item?id=50251661) |
-| **4** | [Sebastian Raschka's from-scratch video course on building reasoning models](https://magazine.sebastianraschka.com/p/building-reasoning-models) | ⭐ 648 | 💬 91 | [HN Thread](https://news.ycombinator.com/item?id=50245138) |
-| **5** | [Oldest GUI application that still runs on Windows 11](https://blog.enlyth.com/posts/oldest-windows-gui-app-win-11/) | ⭐ 372 | 💬 216 | [HN Thread](https://news.ycombinator.com/item?id=50248055) |
-| **6** | [16-bit Windows (Windows 1.x, 2.x, 3.0, 3.1, etc.) on 64-bit Windows](https://github.com/otya128/winevdm) | ⭐ 63 | 💬 5 | [HN Thread](https://news.ycombinator.com/item?id=50253529) |
-| **7** | [Type Server Protocol](https://github.com/microsoft/pylance-release/blob/main/docs/tsp/type-server-protocol.md) | ⭐ 223 | 💬 146 | [HN Thread](https://news.ycombinator.com/item?id=50248371) |
-| **8** | [Cross-request KV cache exposure in the GLM-5.3 Workers AI model (155 responses)](https://blog.cloudflare.com/kv-cache-exposure-remediation/) | ⭐ 114 | 💬 37 | [HN Thread](https://news.ycombinator.com/item?id=50252159) |
-| **9** | [APC says let there be light, with standards to speed up photonics manufacturing](https://www.nextplatform.com/connect/2026/10/23/apc-says-let-there-be-light-with-raft-of-standards-to-speed-up-photonics-manufacturing/5304950) | ⭐ 30 | 💬 4 | [HN Thread](https://news.ycombinator.com/item?id=50234707) |
-| **10** | [CSS-Tricks has a new owner](https://css-tricks.com/css-tricks-has-a-new-owner/) | ⭐ 424 | 💬 96 | [HN Thread](https://news.ycombinator.com/item?id=50245831) |
+| **1** | [Why is this fingerprinting script creating bioweapons?](https://nullpt.rs/fingerprinting-bioweapons) | ⭐ 473 | 💬 104 | [HN Thread](https://news.ycombinator.com/item?id=50276998) |
+| **2** | [Formlabs Studio 1 $699 Resin Printer](https://formlabs.com/products/form-studio-1-basic-founders-edition/) | ⭐ 22 | 💬 9 | [HN Thread](https://news.ycombinator.com/item?id=50281044) |
+| **3** | [Gemini 4 Carbon](https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-carbon/) | ⭐ 659 | 💬 536 | [HN Thread](https://news.ycombinator.com/item?id=50276792) |
+| **4** | [CNC Stone Carving](https://carmelitegothic.com/cnc-stone-carving/) | ⭐ 340 | 💬 107 | [HN Thread](https://news.ycombinator.com/item?id=50274409) |
+| **5** | [Dayjob: Tax – evaluating AI agents on 50 professional tax assignments](https://surgehq.ai/blog/dayjob-tax) | ⭐ 159 | 💬 87 | [HN Thread](https://news.ycombinator.com/item?id=50275626) |
+| **6** | [MacBook Pro with PROLED XDR Display and Touch](https://www.apple.com/macbook-pro/proled-xdr-display/) | ⭐ 420 | 💬 715 | [HN Thread](https://news.ycombinator.com/item?id=50276940) |
+| **7** | [Nango (YC W23) Is Hiring Across Eng, FDE, Marketing, DevRel](https://nango.dev/careers) | ⭐ 1 | 💬 0 | [HN Thread](https://news.ycombinator.com/item?id=50280824) |
+| **8** | [Leak Exposes 41,000 Homeland Security Workers–Including Undercover ICE Agents](https://www.wired.com/story/massive-leak-exposes-41000-homeland-security-workers-including-undercover-ice-agents/) | ⭐ 68 | 💬 14 | [HN Thread](https://news.ycombinator.com/item?id=50280864) |
+| **9** | [The case of the 9 bit AES key](https://v12.sh/blog/the-case-of-the-9bit-aes-key) | ⭐ 13 | 💬 1 | [HN Thread](https://news.ycombinator.com/item?id=50280722) |
+| **10** | [The Grid, a factory-scale robot in Massachusetts that builds PCBs on demand](https://www.circuithub.com/post/unveiling-the-grid) | ⭐ 363 | 💬 180 | [HN Thread](https://news.ycombinator.com/item?id=50243060) |
 
 ---
 
 ## 🗄️ News Archive
 
+- 📅 [2026-10-28](archive/2026-10-28.md)
 - 📅 [2026-10-27](archive/2026-10-27.md)
 - 📅 [2026-10-26](archive/2026-10-26.md)
 - 📅 [2026-10-25](archive/2026-10-25.md)
@@ -40,9 +41,8 @@ An automated **Tech & AI News Digest** that aggregates top trending discussions 
 - 📅 [2026-10-17](archive/2026-10-17.md)
 - 📅 [2026-10-16](archive/2026-10-16.md)
 - 📅 [2026-10-15](archive/2026-10-15.md)
-- 📅 [2026-10-14](archive/2026-10-14.md)
 
-*... and [56 older editions in the archive folder](archive/)*
+*... and [57 older editions in the archive folder](archive/)*
 
 ---
 
