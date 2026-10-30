@@ -12,21 +12,22 @@ An automated **Tech & AI News Digest** that aggregates top trending discussions 
 
 | # | Story | Points | Comments | Discussion |
 |:---:|:---|:---:|:---:|:---:|
-| **1** | [Why is this fingerprinting script creating bioweapons?](https://nullpt.rs/fingerprinting-bioweapons) | ⭐ 473 | 💬 104 | [HN Thread](https://news.ycombinator.com/item?id=50276998) |
-| **2** | [Formlabs Studio 1 $699 Resin Printer](https://formlabs.com/products/form-studio-1-basic-founders-edition/) | ⭐ 22 | 💬 9 | [HN Thread](https://news.ycombinator.com/item?id=50281044) |
-| **3** | [Gemini 4 Carbon](https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-carbon/) | ⭐ 659 | 💬 536 | [HN Thread](https://news.ycombinator.com/item?id=50276792) |
-| **4** | [CNC Stone Carving](https://carmelitegothic.com/cnc-stone-carving/) | ⭐ 340 | 💬 107 | [HN Thread](https://news.ycombinator.com/item?id=50274409) |
-| **5** | [Dayjob: Tax – evaluating AI agents on 50 professional tax assignments](https://surgehq.ai/blog/dayjob-tax) | ⭐ 159 | 💬 87 | [HN Thread](https://news.ycombinator.com/item?id=50275626) |
-| **6** | [MacBook Pro with PROLED XDR Display and Touch](https://www.apple.com/macbook-pro/proled-xdr-display/) | ⭐ 420 | 💬 715 | [HN Thread](https://news.ycombinator.com/item?id=50276940) |
-| **7** | [Nango (YC W23) Is Hiring Across Eng, FDE, Marketing, DevRel](https://nango.dev/careers) | ⭐ 1 | 💬 0 | [HN Thread](https://news.ycombinator.com/item?id=50280824) |
-| **8** | [Leak Exposes 41,000 Homeland Security Workers–Including Undercover ICE Agents](https://www.wired.com/story/massive-leak-exposes-41000-homeland-security-workers-including-undercover-ice-agents/) | ⭐ 68 | 💬 14 | [HN Thread](https://news.ycombinator.com/item?id=50280864) |
-| **9** | [The case of the 9 bit AES key](https://v12.sh/blog/the-case-of-the-9bit-aes-key) | ⭐ 13 | 💬 1 | [HN Thread](https://news.ycombinator.com/item?id=50280722) |
-| **10** | [The Grid, a factory-scale robot in Massachusetts that builds PCBs on demand](https://www.circuithub.com/post/unveiling-the-grid) | ⭐ 363 | 💬 180 | [HN Thread](https://news.ycombinator.com/item?id=50243060) |
+| **1** | [My favourite PowerMac is a Nintendo Wii](https://virtuallyfun.com/2026/10/29/my-favourite-powermac-is-a-nintendo-wii/) | ⭐ 100 | 💬 19 | [HN Thread](https://news.ycombinator.com/item?id=50307190) |
+| **2** | [GitHub Incident with Actions, Pages, and Webhooks](https://www.githubstatus.com/incidents/pwxsjgnvrk6b) | ⭐ 96 | 💬 35 | [HN Thread](https://news.ycombinator.com/item?id=50307723) |
+| **3** | [Northflank Breached](https://status.northflank.com) | ⭐ 226 | 💬 137 | [HN Thread](https://news.ycombinator.com/item?id=50305025) |
+| **4** | [A Working Nintendo in ~1GB of Qwen Weights](https://github.com/dbreunig/nesformer) | ⭐ 104 | 💬 83 | [HN Thread](https://news.ycombinator.com/item?id=50306442) |
+| **5** | [Backdoor in Claude Code for VS Code extension on the Cursor Marketplace](https://phorion.io/blog/offical-claude-code-vsx-compromise/) | ⭐ 547 | 💬 396 | [HN Thread](https://news.ycombinator.com/item?id=50300683) |
+| **6** | [Florilegium: Procedural Flowers in LaTeX](https://github.com/kevinraymond/florilegium) | ⭐ 106 | 💬 20 | [HN Thread](https://news.ycombinator.com/item?id=50305637) |
+| **7** | [Breaking the open web won't stop the bad bots](https://www.techpolicy.press/breaking-the-open-web-wont-stop-the-bad-bots/) | ⭐ 72 | 💬 26 | [HN Thread](https://news.ycombinator.com/item?id=50263837) |
+| **8** | [The federated code forge](https://tangled.org/blog/forge/) | ⭐ 129 | 💬 48 | [HN Thread](https://news.ycombinator.com/item?id=50305573) |
+| **9** | [Anthropic may not secure investment-grade rating after IPO, Blackstone says](https://www.ft.com/content/59383c7f-8d82-493f-bf01-d2e862a1018f) | ⭐ 112 | 💬 37 | [HN Thread](https://news.ycombinator.com/item?id=50307219) |
+| **10** | [AI isn't replacing SREs, it's deskilling them](https://newsletter.signoz.io/p/ai-isnt-replacing-sres-its-deskilling) | ⭐ 338 | 💬 259 | [HN Thread](https://news.ycombinator.com/item?id=50305693) |
 
 ---
 
 ## 🗄️ News Archive
 
+- 📅 [2026-10-30](archive/2026-10-30.md)
 - 📅 [2026-10-28](archive/2026-10-28.md)
 - 📅 [2026-10-27](archive/2026-10-27.md)
 - 📅 [2026-10-26](archive/2026-10-26.md)
@@ -40,9 +41,8 @@ An automated **Tech & AI News Digest** that aggregates top trending discussions 
 - 📅 [2026-10-18](archive/2026-10-18.md)
 - 📅 [2026-10-17](archive/2026-10-17.md)
 - 📅 [2026-10-16](archive/2026-10-16.md)
-- 📅 [2026-10-15](archive/2026-10-15.md)
 
-*... and [57 older editions in the archive folder](archive/)*
+*... and [58 older editions in the archive folder](archive/)*
 
 ---
 
