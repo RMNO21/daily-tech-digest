@@ -12,21 +12,22 @@ An automated **Tech & AI News Digest** that aggregates top trending discussions 
 
 | # | Story | Points | Comments | Discussion |
 |:---:|:---|:---:|:---:|:---:|
-| **1** | [Serbia just elected the world's brainiest parliament](https://www.science.org/content/article/serbia-just-elected-world-s-brainiest-parliament) | ⭐ 284 | 💬 174 | [HN Thread](https://news.ycombinator.com/item?id=50314654) |
-| **2** | [Molly(Signal fork) has not been updated since 3 months and is vulnerable](https://piefed.world/post/1503394) | ⭐ 57 | 💬 15 | [HN Thread](https://news.ycombinator.com/item?id=50314666) |
-| **3** | [Switch Lowering in GCC](https://xoranth.net/gcc-switch/) | ⭐ 93 | 💬 16 | [HN Thread](https://news.ycombinator.com/item?id=50314085) |
-| **4** | [We Took over ChatGPT Accounts](https://www.parameter.ai/labs/we-found-a-gap-at-openai) | ⭐ 36 | 💬 23 | [HN Thread](https://news.ycombinator.com/item?id=50314699) |
-| **5** | [Show HN: Marelleo, an open-source story box I built for my kids using ESP32](https://zebra.rodeo/en/blog/marelleo/) | ⭐ 90 | 💬 27 | [HN Thread](https://news.ycombinator.com/item?id=50260753) |
-| **6** | [Digital Minimalism](https://vitalik.eth.limo/general/2026/10/31/digital_minimalism.html) | ⭐ 94 | 💬 62 | [HN Thread](https://news.ycombinator.com/item?id=50313661) |
-| **7** | [AI, Lean, and the Future of Formal Verification, with Lean Creator Leo de Moura](https://thedataexchange.media/leo-de-moura-lean-aws/) | ⭐ 67 | 💬 14 | [HN Thread](https://news.ycombinator.com/item?id=50290652) |
-| **8** | [My favourite PowerMac is a Nintendo Wii](https://virtuallyfun.com/2026/10/29/my-favourite-powermac-is-a-nintendo-wii/) | ⭐ 324 | 💬 95 | [HN Thread](https://news.ycombinator.com/item?id=50307190) |
-| **9** | [The $6.3B Binance hack was pulled off in just 20 minutes](https://www.wired.com/story/the-dollar63-billion-binance-hack-was-pulled-off-in-just-20-minutes/) | ⭐ 484 | 💬 337 | [HN Thread](https://news.ycombinator.com/item?id=50303172) |
-| **10** | [Cloudflare Turnstile solver library (no headless browser required)](https://github.com/chris124567/cfsolve) | ⭐ 240 | 💬 68 | [HN Thread](https://news.ycombinator.com/item?id=50277379) |
+| **1** | [Postgres 19 is late because so many more bugs are being found now](http://rhaas.blogspot.com/2026/10/postgres-19-is-late-and-its-ais-fault.html) | ⭐ 721 | 💬 434 | [HN Thread](https://news.ycombinator.com/item?id=50312408) |
+| **2** | [Show HN: I've updated my Linux System Call website and API](https://syscall.sh/) | ⭐ 145 | 💬 42 | [HN Thread](https://news.ycombinator.com/item?id=50334704) |
+| **3** | [WTF Ubuntu?](https://chalmovsky.com/posts/wtf-ubuntu) | ⭐ 514 | 💬 232 | [HN Thread](https://news.ycombinator.com/item?id=50337608) |
+| **4** | [If you love a website, back it up](https://blog.mistys-internet.website/post/2026/10/29/if-you-love-a-website-back-it-up/) | ⭐ 17 | 💬 1 | [HN Thread](https://news.ycombinator.com/item?id=50336518) |
+| **5** | [LongCat-2.5: Native Multimodality for Agentic Tasks](https://longcat.ai/blog/longcat-2.5/) | ⭐ 13 | 💬 7 | [HN Thread](https://news.ycombinator.com/item?id=50337716) |
+| **6** | [Bones may release proteins that slow aging and extend life span](https://www.science.org/content/article/bones-may-release-proteins-slow-aging-and-extend-life-span) | ⭐ 240 | 💬 87 | [HN Thread](https://news.ycombinator.com/item?id=50331957) |
+| **7** | [Show HN: Aulico, my free tradingview alternative](https://www.aulico.com) | ⭐ 5 | 💬 2 | [HN Thread](https://news.ycombinator.com/item?id=50337410) |
+| **8** | [Ask HN: Which TV do you recommend for privacy?](https://news.ycombinator.com/item?id=50328896) | ⭐ 594 | 💬 700 | [HN Thread](https://news.ycombinator.com/item?id=50328896) |
+| **9** | [Anthropic reports $17B in Q3 revenue, commitments of $895B in revised S-1](https://www.cnbc.com/2026/11/02/anthropic-ant-s-1-quarter-financials.html) | ⭐ 117 | 💬 95 | [HN Thread](https://news.ycombinator.com/item?id=50337439) |
+| **10** | [Napping characteristics and incident dementia](https://academic.oup.com/biomedgerontology/article/81/10/glag208/8769491?login=false) | ⭐ 17 | 💬 8 | [HN Thread](https://news.ycombinator.com/item?id=50337635) |
 
 ---
 
 ## 🗄️ News Archive
 
+- 📅 [2026-11-02](archive/2026-11-02.md)
 - 📅 [2026-10-31](archive/2026-10-31.md)
 - 📅 [2026-10-30](archive/2026-10-30.md)
 - 📅 [2026-10-28](archive/2026-10-28.md)
@@ -40,9 +41,8 @@ An automated **Tech & AI News Digest** that aggregates top trending discussions 
 - 📅 [2026-10-20](archive/2026-10-20.md)
 - 📅 [2026-10-19](archive/2026-10-19.md)
 - 📅 [2026-10-18](archive/2026-10-18.md)
-- 📅 [2026-10-17](archive/2026-10-17.md)
 
-*... and [59 older editions in the archive folder](archive/)*
+*... and [60 older editions in the archive folder](archive/)*
 
 ---
 
