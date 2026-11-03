@@ -12,21 +12,22 @@ An automated **Tech & AI News Digest** that aggregates top trending discussions 
 
 | # | Story | Points | Comments | Discussion |
 |:---:|:---|:---:|:---:|:---:|
-| **1** | [Astra can read and write weights to improve Qwen](https://rikiyat.github.io/blog/weight-space-programming/) | ⭐ 1654 | 💬 527 | [HN Thread](https://news.ycombinator.com/item?id=50341174) |
-| **2** | [Anthropic's growth just flattened](https://www.regenerator1.com/p/anthropics-growth-just-flattened) | ⭐ 79 | 💬 59 | [HN Thread](https://news.ycombinator.com/item?id=50344958) |
-| **3** | [Show HN: Subvocal – Talk to your computer without making noise](https://news.ycombinator.com/item?id=50340088) | ⭐ 478 | 💬 263 | [HN Thread](https://news.ycombinator.com/item?id=50340088) |
-| **4** | [Apple reports fourth quarter results](https://www.apple.com/newsroom/2026/11/apple-reports-fourth-quarter-results/) | ⭐ 51 | 💬 29 | [HN Thread](https://news.ycombinator.com/item?id=50344670) |
-| **5** | [US boy names that became girl names and vice versa](https://namedaisy.com/blog/boy-names-that-became-girl-names) | ⭐ 248 | 💬 278 | [HN Thread](https://news.ycombinator.com/item?id=50339397) |
-| **6** | [Launch HN: Momentic (YC W24) – Agents that catch bugs by using your app](https://momentic.ai/) | ⭐ 109 | 💬 72 | [HN Thread](https://news.ycombinator.com/item?id=50339913) |
-| **7** | [If you love a website, back it up](https://blog.mistys-internet.website/post/2026/10/29/if-you-love-a-website-back-it-up/) | ⭐ 346 | 💬 85 | [HN Thread](https://news.ycombinator.com/item?id=50336518) |
-| **8** | [Show HN: Warsaw in voxels – An interactive 3D map of the city centre](https://p.migdal.pl/warsaw-vibe-voxel/) | ⭐ 192 | 💬 34 | [HN Thread](https://news.ycombinator.com/item?id=50339221) |
-| **9** | [The SEC Should Block Anthropic's IPO to Protect the Public](https://www.techpolicy.press/the-sec-should-block-anthropics-ipo-to-protect-the-public/) | ⭐ 77 | 💬 37 | [HN Thread](https://news.ycombinator.com/item?id=50344919) |
-| **10** | [Ask HN: Who is hiring? (November 2026)](https://news.ycombinator.com/item?id=50338728) | ⭐ 162 | 💬 133 | [HN Thread](https://news.ycombinator.com/item?id=50338728) |
+| **1** | [I Dumped Apple's Fucking Word List](https://helgesver.re/articles/macos-vulgar-word-flags) | ⭐ 58 | 💬 10 | [HN Thread](https://news.ycombinator.com/item?id=50357782) |
+| **2** | [Preparing for the Flipper One Kickstarter and opening pre-orders](https://flipper.net/pages/flipper-one) | ⭐ 98 | 💬 44 | [HN Thread](https://news.ycombinator.com/item?id=50356994) |
+| **3** | [Jailbreaking my car's navigation system just so I can change the time](https://blog.nns.ee/2026/11/02/renault-hack/) | ⭐ 438 | 💬 172 | [HN Thread](https://news.ycombinator.com/item?id=50339288) |
+| **4** | [Qwen 3.8 27B on my laptop can interpret model weights, too](https://simonwillison.net/2026/Nov/3/qwen-can-interpret-model-weights/) | ⭐ 341 | 💬 110 | [HN Thread](https://news.ycombinator.com/item?id=50355251) |
+| **5** | [Stringman, an $800 open-source room scale gripper robot](https://neufangled.com/) | ⭐ 163 | 💬 80 | [HN Thread](https://news.ycombinator.com/item?id=50354358) |
+| **6** | [Postman silently auto-installs AI plugins and attempts to share all API data](https://github.com/postmanlabs/postman-app-support/issues/14370) | ⭐ 753 | 💬 252 | [HN Thread](https://news.ycombinator.com/item?id=50354960) |
+| **7** | [Fujifilm to boost tape production 5x as AI fuels archiving demand](https://arstechnica.com/gadgets/2026/10/fujifilm-to-boost-tape-production-5x-as-ai-fuels-archiving-demand/) | ⭐ 309 | 💬 125 | [HN Thread](https://news.ycombinator.com/item?id=50336918) |
+| **8** | [Introduction to Programming in ATS](https://ats-lang.sourceforge.net/DOCUMENT/INT2PROGINATS/HTML/book1.html) | ⭐ 27 | 💬 4 | [HN Thread](https://news.ycombinator.com/item?id=50356913) |
+| **9** | [Mac at Any Scale](https://namespace.so/blog/mac-at-any-scale) | ⭐ 253 | 💬 135 | [HN Thread](https://news.ycombinator.com/item?id=50352758) |
+| **10** | [Show HN: HackerTV – HN's most-recommended Youtube videos as 24/7 TV channels](https://hackertv.org) | ⭐ 20 | 💬 5 | [HN Thread](https://news.ycombinator.com/item?id=50346755) |
 
 ---
 
 ## 🗄️ News Archive
 
+- 📅 [2026-11-03](archive/2026-11-03.md)
 - 📅 [2026-11-02](archive/2026-11-02.md)
 - 📅 [2026-10-31](archive/2026-10-31.md)
 - 📅 [2026-10-30](archive/2026-10-30.md)
@@ -40,9 +41,8 @@ An automated **Tech & AI News Digest** that aggregates top trending discussions 
 - 📅 [2026-10-21](archive/2026-10-21.md)
 - 📅 [2026-10-20](archive/2026-10-20.md)
 - 📅 [2026-10-19](archive/2026-10-19.md)
-- 📅 [2026-10-18](archive/2026-10-18.md)
 
-*... and [60 older editions in the archive folder](archive/)*
+*... and [61 older editions in the archive folder](archive/)*
 
 ---
 
