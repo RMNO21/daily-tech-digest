@@ -12,21 +12,22 @@ An automated **Tech & AI News Digest** that aggregates top trending discussions 
 
 | # | Story | Points | Comments | Discussion |
 |:---:|:---|:---:|:---:|:---:|
-| **1** | [I Dumped Apple's Fucking Word List](https://helgesver.re/articles/macos-vulgar-word-flags) | ⭐ 58 | 💬 10 | [HN Thread](https://news.ycombinator.com/item?id=50357782) |
-| **2** | [Preparing for the Flipper One Kickstarter and opening pre-orders](https://flipper.net/pages/flipper-one) | ⭐ 98 | 💬 44 | [HN Thread](https://news.ycombinator.com/item?id=50356994) |
-| **3** | [Jailbreaking my car's navigation system just so I can change the time](https://blog.nns.ee/2026/11/02/renault-hack/) | ⭐ 438 | 💬 172 | [HN Thread](https://news.ycombinator.com/item?id=50339288) |
-| **4** | [Qwen 3.8 27B on my laptop can interpret model weights, too](https://simonwillison.net/2026/Nov/3/qwen-can-interpret-model-weights/) | ⭐ 341 | 💬 110 | [HN Thread](https://news.ycombinator.com/item?id=50355251) |
-| **5** | [Stringman, an $800 open-source room scale gripper robot](https://neufangled.com/) | ⭐ 163 | 💬 80 | [HN Thread](https://news.ycombinator.com/item?id=50354358) |
-| **6** | [Postman silently auto-installs AI plugins and attempts to share all API data](https://github.com/postmanlabs/postman-app-support/issues/14370) | ⭐ 753 | 💬 252 | [HN Thread](https://news.ycombinator.com/item?id=50354960) |
-| **7** | [Fujifilm to boost tape production 5x as AI fuels archiving demand](https://arstechnica.com/gadgets/2026/10/fujifilm-to-boost-tape-production-5x-as-ai-fuels-archiving-demand/) | ⭐ 309 | 💬 125 | [HN Thread](https://news.ycombinator.com/item?id=50336918) |
-| **8** | [Introduction to Programming in ATS](https://ats-lang.sourceforge.net/DOCUMENT/INT2PROGINATS/HTML/book1.html) | ⭐ 27 | 💬 4 | [HN Thread](https://news.ycombinator.com/item?id=50356913) |
-| **9** | [Mac at Any Scale](https://namespace.so/blog/mac-at-any-scale) | ⭐ 253 | 💬 135 | [HN Thread](https://news.ycombinator.com/item?id=50352758) |
-| **10** | [Show HN: HackerTV – HN's most-recommended Youtube videos as 24/7 TV channels](https://hackertv.org) | ⭐ 20 | 💬 5 | [HN Thread](https://news.ycombinator.com/item?id=50346755) |
+| **1** | [Kitty 0.50](https://sw.kovidgoyal.net/kitty/changelog/#) | ⭐ 31 | 💬 7 | [HN Thread](https://news.ycombinator.com/item?id=50362980) |
+| **2** | [Jelly Sheet](https://mrdoob.github.io/codevember-2026/01/) | ⭐ 232 | 💬 60 | [HN Thread](https://news.ycombinator.com/item?id=50361268) |
+| **3** | [Verification Is Not Knowledge: Science needs more than answers](https://blog.cosmos-institute.org/p/verification-is-not-knowledge) | ⭐ 4 | 💬 0 | [HN Thread](https://news.ycombinator.com/item?id=50363019) |
+| **4** | [C++26 Disapproved](https://andreasfertig.com/blog/2026/11/cpp26-dis-failed-how-does-cpp-survive/) | ⭐ 287 | 💬 174 | [HN Thread](https://news.ycombinator.com/item?id=50360164) |
+| **5** | [The lost malloc()](https://napcakes.nekoweb.org/posts/malloc/) | ⭐ 29 | 💬 4 | [HN Thread](https://news.ycombinator.com/item?id=50362466) |
+| **6** | [Jailbreaking my car's navigation system just so I can change the time](https://blog.nns.ee/2026/11/02/renault-hack/) | ⭐ 795 | 💬 313 | [HN Thread](https://news.ycombinator.com/item?id=50339288) |
+| **7** | [Stringman, an $800 open-source room scale gripper robot](https://neufangled.com/) | ⭐ 586 | 💬 194 | [HN Thread](https://news.ycombinator.com/item?id=50354358) |
+| **8** | [The Internals of PostgreSQL](https://www.interdb.jp/pg/index.html) | ⭐ 268 | 💬 21 | [HN Thread](https://news.ycombinator.com/item?id=50358702) |
+| **9** | [Show HN: Uncracked City, detective game where you question LLM suspects that lie](https://uncracked.city) | ⭐ 57 | 💬 20 | [HN Thread](https://news.ycombinator.com/item?id=50358352) |
+| **10** | [Distinct cellular and genetic differences in colorectal cancer in young patients](https://www.dana-farber.org/newsroom/news-releases/2026/study-reveals-distinct-cellular-and-genetic-differences-in-colorectal-cancer-in-younger-patients) | ⭐ 66 | 💬 13 | [HN Thread](https://news.ycombinator.com/item?id=50361154) |
 
 ---
 
 ## 🗄️ News Archive
 
+- 📅 [2026-11-04](archive/2026-11-04.md)
 - 📅 [2026-11-03](archive/2026-11-03.md)
 - 📅 [2026-11-02](archive/2026-11-02.md)
 - 📅 [2026-10-31](archive/2026-10-31.md)
@@ -40,9 +41,8 @@ An automated **Tech & AI News Digest** that aggregates top trending discussions 
 - 📅 [2026-10-22](archive/2026-10-22.md)
 - 📅 [2026-10-21](archive/2026-10-21.md)
 - 📅 [2026-10-20](archive/2026-10-20.md)
-- 📅 [2026-10-19](archive/2026-10-19.md)
 
-*... and [61 older editions in the archive folder](archive/)*
+*... and [62 older editions in the archive folder](archive/)*
 
 ---
 
