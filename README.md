@@ -12,16 +12,16 @@ An automated **Tech & AI News Digest** that aggregates top trending discussions 
 
 | # | Story | Points | Comments | Discussion |
 |:---:|:---|:---:|:---:|:---:|
-| **1** | [Sshole](https://sshhole.com) | ⭐ 903 | 💬 248 | [HN Thread](https://news.ycombinator.com/item?id=50378228) |
-| **2** | [Alpine Linux Security advisory: OpenSSH-server password authentication bypass](https://alpinelinux.org/posts/2026-11-05-openssh-password-authentication-bypass/) | ⭐ 55 | 💬 2 | [HN Thread](https://news.ycombinator.com/item?id=50379704) |
-| **3** | [MCP Explained](https://mcp-explained.com/) | ⭐ 78 | 💬 29 | [HN Thread](https://news.ycombinator.com/item?id=50379249) |
-| **4** | [Image of Our Satellite-Choked Night Skies](https://kottke.org/26/11/stunning-image-of-our-satellite-choked-night-skies) | ⭐ 33 | 💬 24 | [HN Thread](https://news.ycombinator.com/item?id=50379773) |
-| **5** | [OpenSSH 10.6p2 Critical workaround for alpine without PAM](https://www.openssh.org/releasenotes.html#10.6p2) | ⭐ 110 | 💬 5 | [HN Thread](https://news.ycombinator.com/item?id=50377976) |
-| **6** | [September in Servo: <progress>, rounded rectangles, and more](https://servo.org/blog/2026/11/05/september-in-servo/) | ⭐ 17 | 💬 2 | [HN Thread](https://news.ycombinator.com/item?id=50379576) |
-| **7** | [Download your favourite YouTube videos](https://criminallyvulgar.dev/you-should-absolutely-download-your-favourite-youtube-videos/) | ⭐ 42 | 💬 22 | [HN Thread](https://news.ycombinator.com/item?id=50378571) |
-| **8** | [Baidu released ERNIE 5.5 Flash Base](https://ernie.baidu.com/release/ernie-5-5-flash-base/) | ⭐ 123 | 💬 71 | [HN Thread](https://news.ycombinator.com/item?id=50377078) |
-| **9** | [Obscure audio codec is a perfect fit for the N64](https://phoboslab.org/log/2026/11/n64-ulc-codec) | ⭐ 34 | 💬 0 | [HN Thread](https://news.ycombinator.com/item?id=50378508) |
-| **10** | [Vivaldi 8.3 for Desktop: make bad ads sad](https://vivaldi.com/blog/vivaldi-on-desktop-8-3/) | ⭐ 28 | 💬 27 | [HN Thread](https://news.ycombinator.com/item?id=50378398) |
+| **1** | [Kagi Search for Everyone](https://kagi.com/changelog) | ⭐ 176 | 💬 90 | [HN Thread](https://news.ycombinator.com/item?id=50383740) |
+| **2** | [MS Paint Remote Code Execution Vulnerability](https://www.cve.org/CVERecord?id=CVE-2026-83844) | ⭐ 87 | 💬 24 | [HN Thread](https://news.ycombinator.com/item?id=50384233) |
+| **3** | [sshole](https://sshhole.com) | ⭐ 2119 | 💬 530 | [HN Thread](https://news.ycombinator.com/item?id=50378228) |
+| **4** | [Alpine Linux Security Advisory: OpenSSH-server password authentication bypass](https://alpinelinux.org/posts/2026-11-05-openssh-password-authentication-bypass/) | ⭐ 509 | 💬 102 | [HN Thread](https://news.ycombinator.com/item?id=50379704) |
+| **5** | [The Hackintosh Reborn](https://www.naut.ca/blog/2026/11/05/the-hackintosh-reborn-with-ai/) | ⭐ 117 | 💬 38 | [HN Thread](https://news.ycombinator.com/item?id=50383057) |
+| **6** | [Tencent Launches Hy4, One of the Leading Open-Source AI Models](https://www.tencent.com/tencent-launches-hy4-joining-the-ranks-of-the-worlds-leading-open-source-ai-models/) | ⭐ 40 | 💬 1 | [HN Thread](https://news.ycombinator.com/item?id=50383963) |
+| **7** | [Window Sweaters](https://github.com/saragordic/window-sweaters) | ⭐ 173 | 💬 67 | [HN Thread](https://news.ycombinator.com/item?id=50381383) |
+| **8** | [Goodbye from Salon](https://www.salon.com/2026/11/05/goodbye-from-salon/) | ⭐ 238 | 💬 77 | [HN Thread](https://news.ycombinator.com/item?id=50383739) |
+| **9** | [The Cost of Blogging](https://onlinegoddess.net/2026/11/the-cost-of-blogging/) | ⭐ 24 | 💬 6 | [HN Thread](https://news.ycombinator.com/item?id=50383877) |
+| **10** | [Motorola Signature 27 with GrapheneOS support](https://motorolanews.com/motorola-signature-27-2/) | ⭐ 332 | 💬 226 | [HN Thread](https://news.ycombinator.com/item?id=50380810) |
 
 ---
 
