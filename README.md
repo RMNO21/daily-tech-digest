@@ -12,21 +12,22 @@ An automated **Tech & AI News Digest** that aggregates top trending discussions 
 
 | # | Story | Points | Comments | Discussion |
 |:---:|:---|:---:|:---:|:---:|
-| **1** | [US FAA says it will phase out floppy disks from air traffic control by 2028](https://www.reuters.com/world/us/us-faa-says-it-will-phase-out-floppy-disks-air-traffic-control-by-2028-2026-11-05/) | ⭐ 51 | 💬 71 | [HN Thread](https://news.ycombinator.com/item?id=50388001) |
-| **2** | [Tesla to wind down Cybertruck production](https://www.nbcnews.com/tech/tech-news/tesla-wind-cybertruck-production-years-poor-sales-markets-rcna607817) | ⭐ 315 | 💬 920 | [HN Thread](https://news.ycombinator.com/item?id=50391456) |
-| **3** | [First steps in bare-metal programming using UEFI](https://kevinboone.me/efitest_index.html) | ⭐ 41 | 💬 1 | [HN Thread](https://news.ycombinator.com/item?id=50394855) |
-| **4** | [Gemini Omni 1.2 Flash](https://blog.google/innovation-and-ai/technology/developers-tools/introducing-gemini-omni-1-2-flash/) | ⭐ 213 | 💬 164 | [HN Thread](https://news.ycombinator.com/item?id=50392118) |
-| **5** | [Blender's UI and Runtime: Much Faster Than GPUI](https://github.com/ppmpreetham/BUI) | ⭐ 548 | 💬 218 | [HN Thread](https://news.ycombinator.com/item?id=50389333) |
-| **6** | [Deus Ex](https://www.filfre.net/2026/11/deus-ex/) | ⭐ 209 | 💬 95 | [HN Thread](https://news.ycombinator.com/item?id=50393758) |
-| **7** | [Rune: A native GPU-rendered Rust UI framework for macOS, Windows, Linux and web](https://github.com/anomalyco/rune) | ⭐ 30 | 💬 12 | [HN Thread](https://news.ycombinator.com/item?id=50394569) |
-| **8** | [UpCodes (YC S17) is hiring SDR's to sell AI compliance software](https://up.codes/careers?utm_source=HN) | ⭐ 1 | 💬 0 | [HN Thread](https://news.ycombinator.com/item?id=50395043) |
-| **9** | [Claude Code sends your email address to websites](https://github.com/anthropics/claude-code/issues/107757) | ⭐ 1494 | 💬 468 | [HN Thread](https://news.ycombinator.com/item?id=50385272) |
-| **10** | [Lippitt-Knoster in Practice (Field Notes for Managing Complex Projects)](https://sharedphysics.com/lippitt-knoster-in-practice-field-notes-for-managing-complex-projects/) | ⭐ 29 | 💬 1 | [HN Thread](https://news.ycombinator.com/item?id=50393089) |
+| **1** | [Libghostty 1.0](https://mitchellh.com/writing/libghostty-1-0) | ⭐ 647 | 💬 100 | [HN Thread](https://news.ycombinator.com/item?id=50399933) |
+| **2** | [A barbarian tribe's mythic origin story is true, ancient DNA reveals](https://www.science.org/content/article/barbarian-tribe-s-mythic-origin-story-true-ancient-dna-reveals) | ⭐ 101 | 💬 62 | [HN Thread](https://news.ycombinator.com/item?id=50401740) |
+| **3** | [A Jev that can ask Opus for help gives Opus accuracy at 4x lower cost](https://hightouch.com/blog/llm-judges-identity-resolution) | ⭐ 480 | 💬 110 | [HN Thread](https://news.ycombinator.com/item?id=50397429) |
+| **4** | [The Components of Agent Memory](https://www.anthropic.com/research/components-of-agent-memory) | ⭐ 44 | 💬 23 | [HN Thread](https://news.ycombinator.com/item?id=50402212) |
+| **5** | [Tesla to wind down Cybertruck production](https://www.nbcnews.com/tech/tech-news/tesla-wind-cybertruck-production-years-poor-sales-markets-rcna607817) | ⭐ 1011 | 💬 1866 | [HN Thread](https://news.ycombinator.com/item?id=50391456) |
+| **6** | [PostgreSQL Internals [pdf]](https://edu.postgrespro.com/postgresql_internals-14_en.pdf) | ⭐ 23 | 💬 1 | [HN Thread](https://news.ycombinator.com/item?id=50361765) |
+| **7** | [RealPage rent-pricing case wraps with nearly $360M to renters](https://www.multifamilydive.com/news/realpage-rent-pricing-case-360m-renters/873553/) | ⭐ 127 | 💬 62 | [HN Thread](https://news.ycombinator.com/item?id=50399991) |
+| **8** | [Bong: DuckDuckGo bang alternative, open-source and self-hosted](https://bong.glendalab.com) | ⭐ 17 | 💬 4 | [HN Thread](https://news.ycombinator.com/item?id=50402535) |
+| **9** | [US FAA says it will phase out floppy disks from air traffic control by 2028](https://www.reuters.com/world/us/us-faa-says-it-will-phase-out-floppy-disks-air-traffic-control-by-2028-2026-11-05/) | ⭐ 339 | 💬 274 | [HN Thread](https://news.ycombinator.com/item?id=50388001) |
+| **10** | [Greece has its own Pompeii: Thera buried Akrotiri in ash 17th-16th century BCE](https://www.smithsonianmag.com/history/greece-has-its-own-pompeii-and-the-ruins-tell-a-captivating-story-of-a-sophisticated-seafaring-bronze-age-society-180989747/) | ⭐ 105 | 💬 8 | [HN Thread](https://news.ycombinator.com/item?id=50360810) |
 
 ---
 
 ## 🗄️ News Archive
 
+- 📅 [2026-11-07](archive/2026-11-07.md)
 - 📅 [2026-11-06](archive/2026-11-06.md)
 - 📅 [2026-11-05](archive/2026-11-05.md)
 - 📅 [2026-11-04](archive/2026-11-04.md)
@@ -40,9 +41,8 @@ An automated **Tech & AI News Digest** that aggregates top trending discussions 
 - 📅 [2026-10-25](archive/2026-10-25.md)
 - 📅 [2026-10-24](archive/2026-10-24.md)
 - 📅 [2026-10-23](archive/2026-10-23.md)
-- 📅 [2026-10-22](archive/2026-10-22.md)
 
-*... and [64 older editions in the archive folder](archive/)*
+*... and [65 older editions in the archive folder](archive/)*
 
 ---
 
