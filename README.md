@@ -12,21 +12,22 @@ An automated **Tech & AI News Digest** that aggregates top trending discussions 
 
 | # | Story | Points | Comments | Discussion |
 |:---:|:---|:---:|:---:|:---:|
-| **1** | [Libghostty 1.0](https://mitchellh.com/writing/libghostty-1-0) | ⭐ 647 | 💬 100 | [HN Thread](https://news.ycombinator.com/item?id=50399933) |
-| **2** | [A barbarian tribe's mythic origin story is true, ancient DNA reveals](https://www.science.org/content/article/barbarian-tribe-s-mythic-origin-story-true-ancient-dna-reveals) | ⭐ 101 | 💬 62 | [HN Thread](https://news.ycombinator.com/item?id=50401740) |
-| **3** | [A Jev that can ask Opus for help gives Opus accuracy at 4x lower cost](https://hightouch.com/blog/llm-judges-identity-resolution) | ⭐ 480 | 💬 110 | [HN Thread](https://news.ycombinator.com/item?id=50397429) |
-| **4** | [The Components of Agent Memory](https://www.anthropic.com/research/components-of-agent-memory) | ⭐ 44 | 💬 23 | [HN Thread](https://news.ycombinator.com/item?id=50402212) |
-| **5** | [Tesla to wind down Cybertruck production](https://www.nbcnews.com/tech/tech-news/tesla-wind-cybertruck-production-years-poor-sales-markets-rcna607817) | ⭐ 1011 | 💬 1866 | [HN Thread](https://news.ycombinator.com/item?id=50391456) |
-| **6** | [PostgreSQL Internals [pdf]](https://edu.postgrespro.com/postgresql_internals-14_en.pdf) | ⭐ 23 | 💬 1 | [HN Thread](https://news.ycombinator.com/item?id=50361765) |
-| **7** | [RealPage rent-pricing case wraps with nearly $360M to renters](https://www.multifamilydive.com/news/realpage-rent-pricing-case-360m-renters/873553/) | ⭐ 127 | 💬 62 | [HN Thread](https://news.ycombinator.com/item?id=50399991) |
-| **8** | [Bong: DuckDuckGo bang alternative, open-source and self-hosted](https://bong.glendalab.com) | ⭐ 17 | 💬 4 | [HN Thread](https://news.ycombinator.com/item?id=50402535) |
-| **9** | [US FAA says it will phase out floppy disks from air traffic control by 2028](https://www.reuters.com/world/us/us-faa-says-it-will-phase-out-floppy-disks-air-traffic-control-by-2028-2026-11-05/) | ⭐ 339 | 💬 274 | [HN Thread](https://news.ycombinator.com/item?id=50388001) |
-| **10** | [Greece has its own Pompeii: Thera buried Akrotiri in ash 17th-16th century BCE](https://www.smithsonianmag.com/history/greece-has-its-own-pompeii-and-the-ruins-tell-a-captivating-story-of-a-sophisticated-seafaring-bronze-age-society-180989747/) | ⭐ 105 | 💬 8 | [HN Thread](https://news.ycombinator.com/item?id=50360810) |
+| **1** | [Goodbye Claude, Hello Pi](https://caleb.software/posts/claude-to-pi.html) | ⭐ 165 | 💬 93 | [HN Thread](https://news.ycombinator.com/item?id=50410107) |
+| **2** | [What I run on my $10 USD OpenStick homelab](https://blog.bosscher.ch/posts/openstick/) | ⭐ 516 | 💬 99 | [HN Thread](https://news.ycombinator.com/item?id=50406670) |
+| **3** | [Claude Code's "Don't Ask Again" exposes passwords in 1,122 public GitHub files](https://apiiro.com/blog/coding-agents-leaking-secrets-github-dont-ask-again) | ⭐ 332 | 💬 226 | [HN Thread](https://news.ycombinator.com/item?id=50407882) |
+| **4** | [Making any integer with four 2s (2025)](https://eli.thegreenplace.net/2025/making-any-integer-with-four-2s/) | ⭐ 111 | 💬 28 | [HN Thread](https://news.ycombinator.com/item?id=50408713) |
+| **5** | [ZapFast: A fast, native WhatsApp client in Rust and egui](https://github.com/crmne/zapfast) | ⭐ 53 | 💬 34 | [HN Thread](https://news.ycombinator.com/item?id=50409855) |
+| **6** | [Kirlian Photography: Building Your Own Equipment](https://imagesco.com/articles/kirlian/kirlian-photography.html) | ⭐ 22 | 💬 2 | [HN Thread](https://news.ycombinator.com/item?id=50410359) |
+| **7** | [Need for Speed Underground 2 online in the browser](https://nfsu2.xyz/) | ⭐ 922 | 💬 242 | [HN Thread](https://news.ycombinator.com/item?id=50403052) |
+| **8** | [MaxxBench – "Nice DeepSWE score. But is it true?"](https://maxxbench.unlap.ai/research/why-maxxbench/) | ⭐ 276 | 💬 76 | [HN Thread](https://news.ycombinator.com/item?id=50406222) |
+| **9** | [Consumer brain wave headsets threaten privacy](https://www.science.org/content/article/wearable-device-makers-are-harvesting-brain-data-train-ai-without-telling-users?referrer=https%3A%2F%2Fwww.google.com%2F) | ⭐ 25 | 💬 7 | [HN Thread](https://news.ycombinator.com/item?id=50409856) |
+| **10** | [Every Mac comes with an (undocumented) family member classifier](https://8rank.ai/game/apple-intelligence-personal-knowledge-graph) | ⭐ 689 | 💬 372 | [HN Thread](https://news.ycombinator.com/item?id=50403097) |
 
 ---
 
 ## 🗄️ News Archive
 
+- 📅 [2026-11-08](archive/2026-11-08.md)
 - 📅 [2026-11-07](archive/2026-11-07.md)
 - 📅 [2026-11-06](archive/2026-11-06.md)
 - 📅 [2026-11-05](archive/2026-11-05.md)
@@ -40,9 +41,8 @@ An automated **Tech & AI News Digest** that aggregates top trending discussions 
 - 📅 [2026-10-26](archive/2026-10-26.md)
 - 📅 [2026-10-25](archive/2026-10-25.md)
 - 📅 [2026-10-24](archive/2026-10-24.md)
-- 📅 [2026-10-23](archive/2026-10-23.md)
 
-*... and [65 older editions in the archive folder](archive/)*
+*... and [66 older editions in the archive folder](archive/)*
 
 ---
 
