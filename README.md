@@ -12,21 +12,22 @@ An automated **Tech & AI News Digest** that aggregates top trending discussions 
 
 | # | Story | Points | Comments | Discussion |
 |:---:|:---|:---:|:---:|:---:|
-| **1** | [Goldman Sachs Is Pulling Claude Code from Its Bankers and Traders](https://www.thestateofai.com/news/goldman-sachs-claude-code-traders-bankers) | ⭐ 292 | 💬 176 | [HN Thread](https://news.ycombinator.com/item?id=50415628) |
-| **2** | [Dux: Free, open-source Wayland desktop shell with file manager and theming](https://duxlabs.dev/) | ⭐ 46 | 💬 14 | [HN Thread](https://news.ycombinator.com/item?id=50416053) |
-| **3** | [How I Fight AI Brain Fry](https://sergeykuhne.com/blog/fighting-ai-brain-fry) | ⭐ 24 | 💬 10 | [HN Thread](https://news.ycombinator.com/item?id=50416363) |
-| **4** | [Outlook.com Is Quietly Rejecting Email from Domains Without DMARC](https://mailroute.net/blog/outlook-rejecting-email-without-dmarc) | ⭐ 61 | 💬 42 | [HN Thread](https://news.ycombinator.com/item?id=50416158) |
-| **5** | [Declarative Dragging](https://declarative-dragging.github.io/) | ⭐ 92 | 💬 4 | [HN Thread](https://news.ycombinator.com/item?id=50368481) |
-| **6** | [Llama-modchip: 284B DeepSeek on 64GB RAM, no GPU](https://github.com/synchopate/llama-modchip) | ⭐ 292 | 💬 104 | [HN Thread](https://news.ycombinator.com/item?id=50411961) |
-| **7** | [RAM Altman: Linux Script Emails Sam Altman Daily How Much Unused RAM in Your PC](https://respawnfirst.com/linux-script-emails-sam-altman-unused-ram-ram-altman/) | ⭐ 66 | 💬 20 | [HN Thread](https://news.ycombinator.com/item?id=50415172) |
-| **8** | [Writing as a thinking tool](http://muratbuffalo.blogspot.com/2026/11/writing-as-thinking-tool.html) | ⭐ 205 | 💬 71 | [HN Thread](https://news.ycombinator.com/item?id=50412067) |
-| **9** | [A Little Snitch for Windows](https://packethound.app/) | ⭐ 50 | 💬 26 | [HN Thread](https://news.ycombinator.com/item?id=50415135) |
-| **10** | [The Reconstruction of Torn Documents](https://www.bundesarchiv.de/en/stasi-records-archive/the-reconstruction-of-torn-documents/) | ⭐ 68 | 💬 42 | [HN Thread](https://news.ycombinator.com/item?id=50389923) |
+| **1** | [KetchUp – Open-source SketchUp alternative built with Rust and WebGPU](https://ketchup3d.github.io/app/) | ⭐ 427 | 💬 117 | [HN Thread](https://news.ycombinator.com/item?id=50418176) |
+| **2** | [Unlocking any car from X brand in most of the world](https://shubs.io/unlocking-any-car-from-x-brand-in-most-of-the-world/) | ⭐ 278 | 💬 93 | [HN Thread](https://news.ycombinator.com/item?id=50419215) |
+| **3** | [Next-Concept Modeling: Fast, Parallel Coarse-to-Fine Text Generation](https://arxiv.org/abs/2610.14162) | ⭐ 8 | 💬 0 | [HN Thread](https://news.ycombinator.com/item?id=50422168) |
+| **4** | [I'm not convinced the AI bubble exists](https://matteoraso.github.io/im-not-convinced-the-ai-bubble-exists.html#im-not-convinced-the-ai-bubble-exists) | ⭐ 217 | 💬 304 | [HN Thread](https://news.ycombinator.com/item?id=50418975) |
+| **5** | [Chimera Vocal Synth](https://chimera-vocal-synth.vercel.app/) | ⭐ 183 | 💬 25 | [HN Thread](https://news.ycombinator.com/item?id=50418182) |
+| **6** | [Declarative Dragging](https://declarative-dragging.github.io/) | ⭐ 497 | 💬 63 | [HN Thread](https://news.ycombinator.com/item?id=50368481) |
+| **7** | [A Critique of GPUI](https://blog.zortax.de/posts/a-critique-of-gpui) | ⭐ 78 | 💬 43 | [HN Thread](https://news.ycombinator.com/item?id=50420857) |
+| **8** | [Outlook.com is rejecting email from domains without DMARC](https://mailroute.net/blog/outlook-rejecting-email-without-dmarc) | ⭐ 372 | 💬 264 | [HN Thread](https://news.ycombinator.com/item?id=50416158) |
+| **9** | [Dux: Free, open-source Wayland desktop shell with file manager and theming](https://duxlabs.dev/) | ⭐ 265 | 💬 86 | [HN Thread](https://news.ycombinator.com/item?id=50416053) |
+| **10** | [Ask HN: What are you working on? (November 2026)](https://news.ycombinator.com/item?id=50417407) | ⭐ 198 | 💬 665 | [HN Thread](https://news.ycombinator.com/item?id=50417407) |
 
 ---
 
 ## 🗄️ News Archive
 
+- 📅 [2026-11-09](archive/2026-11-09.md)
 - 📅 [2026-11-08](archive/2026-11-08.md)
 - 📅 [2026-11-07](archive/2026-11-07.md)
 - 📅 [2026-11-06](archive/2026-11-06.md)
@@ -40,9 +41,8 @@ An automated **Tech & AI News Digest** that aggregates top trending discussions 
 - 📅 [2026-10-27](archive/2026-10-27.md)
 - 📅 [2026-10-26](archive/2026-10-26.md)
 - 📅 [2026-10-25](archive/2026-10-25.md)
-- 📅 [2026-10-24](archive/2026-10-24.md)
 
-*... and [66 older editions in the archive folder](archive/)*
+*... and [67 older editions in the archive folder](archive/)*
 
 ---
 
