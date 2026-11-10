@@ -12,21 +12,22 @@ An automated **Tech & AI News Digest** that aggregates top trending discussions 
 
 | # | Story | Points | Comments | Discussion |
 |:---:|:---|:---:|:---:|:---:|
-| **1** | [Payments Canada announces launch of Canada's Real-Time Rail (RTR) payment system](https://www.payments.ca/canada-launches-real-time-rail-bringing-247-payment-infrastructure-national-economy) | ⭐ 251 | 💬 149 | [HN Thread](https://news.ycombinator.com/item?id=50427362) |
-| **2** | [Too many men suffering in silence, national health report finds (Canada)](https://www.westcentralonline.com/articles/too-many-men-suffering-in-silence-national-health-report-finds) | ⭐ 19 | 💬 9 | [HN Thread](https://news.ycombinator.com/item?id=50429475) |
-| **3** | [Our Smallest, Most Efficient Model: Muse Ember](https://research.meta.ai/blog/muse-ember) | ⭐ 31 | 💬 14 | [HN Thread](https://news.ycombinator.com/item?id=50429024) |
-| **4** | [Fold Epic Paper Airplanes](https://www.foldableflight.com) | ⭐ 603 | 💬 96 | [HN Thread](https://news.ycombinator.com/item?id=50424581) |
-| **5** | [Magenta solar panels may be agrivoltaics' cleverest trick yet](https://www.anthropocenemagazine.org/2026/10/magenta-solar-panels-may-be-agrivoltaics-cleverest-trick-yet/) | ⭐ 140 | 💬 54 | [HN Thread](https://news.ycombinator.com/item?id=50426175) |
-| **6** | [Infineon marks innovation milestone with 300mm power silicon carbide wafer](https://www.infineon.com/press-release/2026/infpr202611-028) | ⭐ 11 | 💬 0 | [HN Thread](https://news.ycombinator.com/item?id=50429430) |
-| **7** | [When will this stop? The Raspberry Pi 5 16GB SBC now sells for $385](https://www.cnx-software.com/2026/11/03/when-will-this-stop-the-raspberry-pi-5-16gb-sbc-now-sells-for-385/) | ⭐ 113 | 💬 82 | [HN Thread](https://news.ycombinator.com/item?id=50428801) |
-| **8** | [Show HN: DBDelve – Open-Source DB Client Made with Rust and GPUI](https://news.ycombinator.com/item?id=50427934) | ⭐ 39 | 💬 11 | [HN Thread](https://news.ycombinator.com/item?id=50427934) |
-| **9** | [Show HN: MeowDisplay Is iPhone Mirroring, but in Reverse](https://meowdisplay.app/) | ⭐ 5 | 💬 2 | [HN Thread](https://news.ycombinator.com/item?id=50429636) |
-| **10** | [Y/N (YC S23) is hiring a growth lead to distribute superhuman A.I. storytelling](https://www.ycombinator.com/companies/yn/jobs/TjDn3YZ-founding-growth-marketer) | ⭐ 1 | 💬 0 | [HN Thread](https://news.ycombinator.com/item?id=50428266) |
+| **1** | [Amazon saves millions by replacing Sonnet 4.6 with Strands Decider](https://strandsagents.com/blog/amazon-saves-millions-replacing-sonnet-with-strands-decider/) | ⭐ 273 | 💬 87 | [HN Thread](https://news.ycombinator.com/item?id=50436640) |
+| **2** | [Claude Fable 5.2 and Mythos 5.2](https://www.anthropic.com/claude-fable-and-mythos-5-2) | ⭐ 585 | 💬 800 | [HN Thread](https://news.ycombinator.com/item?id=50429068) |
+| **3** | [Queens Public library under ransomware attack e-borrowing suspended](https://connect.queenslibrary.org/) | ⭐ 15 | 💬 3 | [HN Thread](https://news.ycombinator.com/item?id=50437790) |
+| **4** | [USPS now offers official ZIP Code boundary polygons](https://postalpro.usps.com/zcb) | ⭐ 620 | 💬 317 | [HN Thread](https://news.ycombinator.com/item?id=50431058) |
+| **5** | [Your TV can see through walls](https://maurycyz.com/projects/fading/) | ⭐ 107 | 💬 39 | [HN Thread](https://news.ycombinator.com/item?id=50436410) |
+| **6** | [Fireworks AI security breach impacts Notion and their customers](https://www.notion.com/help/security-incident-involving-a-third-party-ai-vendor) | ⭐ 30 | 💬 6 | [HN Thread](https://news.ycombinator.com/item?id=50437106) |
+| **7** | [Locating the source of a mysterious beep](https://simonwillison.net/2026/Nov/9/mysterious-beeps/) | ⭐ 188 | 💬 84 | [HN Thread](https://news.ycombinator.com/item?id=50434310) |
+| **8** | [Payments Canada announces launch of Canada's Real-Time Rail (RTR) payment system](https://www.payments.ca/canada-launches-real-time-rail-bringing-247-payment-infrastructure-national-economy) | ⭐ 532 | 💬 286 | [HN Thread](https://news.ycombinator.com/item?id=50427362) |
+| **9** | [E-means: Outperforming k-means in one-tenth the epochs](https://e-means.github.io/) | ⭐ 402 | 💬 37 | [HN Thread](https://news.ycombinator.com/item?id=50429734) |
+| **10** | [Foldable Flight: The Best Paper Airplanes](https://www.foldableflight.com) | ⭐ 1021 | 💬 151 | [HN Thread](https://news.ycombinator.com/item?id=50424581) |
 
 ---
 
 ## 🗄️ News Archive
 
+- 📅 [2026-11-10](archive/2026-11-10.md)
 - 📅 [2026-11-09](archive/2026-11-09.md)
 - 📅 [2026-11-08](archive/2026-11-08.md)
 - 📅 [2026-11-07](archive/2026-11-07.md)
@@ -40,9 +41,8 @@ An automated **Tech & AI News Digest** that aggregates top trending discussions 
 - 📅 [2026-10-28](archive/2026-10-28.md)
 - 📅 [2026-10-27](archive/2026-10-27.md)
 - 📅 [2026-10-26](archive/2026-10-26.md)
-- 📅 [2026-10-25](archive/2026-10-25.md)
 
-*... and [67 older editions in the archive folder](archive/)*
+*... and [68 older editions in the archive folder](archive/)*
 
 ---
 
