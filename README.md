@@ -12,16 +12,16 @@ An automated **Tech & AI News Digest** that aggregates top trending discussions 
 
 | # | Story | Points | Comments | Discussion |
 |:---:|:---|:---:|:---:|:---:|
-| **1** | [Amazon saves millions by replacing Sonnet 4.6 with Strands Decider](https://strandsagents.com/blog/amazon-saves-millions-replacing-sonnet-with-strands-decider/) | ⭐ 273 | 💬 87 | [HN Thread](https://news.ycombinator.com/item?id=50436640) |
-| **2** | [Claude Fable 5.2 and Mythos 5.2](https://www.anthropic.com/claude-fable-and-mythos-5-2) | ⭐ 585 | 💬 800 | [HN Thread](https://news.ycombinator.com/item?id=50429068) |
-| **3** | [Queens Public library under ransomware attack e-borrowing suspended](https://connect.queenslibrary.org/) | ⭐ 15 | 💬 3 | [HN Thread](https://news.ycombinator.com/item?id=50437790) |
-| **4** | [USPS now offers official ZIP Code boundary polygons](https://postalpro.usps.com/zcb) | ⭐ 620 | 💬 317 | [HN Thread](https://news.ycombinator.com/item?id=50431058) |
-| **5** | [Your TV can see through walls](https://maurycyz.com/projects/fading/) | ⭐ 107 | 💬 39 | [HN Thread](https://news.ycombinator.com/item?id=50436410) |
-| **6** | [Fireworks AI security breach impacts Notion and their customers](https://www.notion.com/help/security-incident-involving-a-third-party-ai-vendor) | ⭐ 30 | 💬 6 | [HN Thread](https://news.ycombinator.com/item?id=50437106) |
-| **7** | [Locating the source of a mysterious beep](https://simonwillison.net/2026/Nov/9/mysterious-beeps/) | ⭐ 188 | 💬 84 | [HN Thread](https://news.ycombinator.com/item?id=50434310) |
-| **8** | [Payments Canada announces launch of Canada's Real-Time Rail (RTR) payment system](https://www.payments.ca/canada-launches-real-time-rail-bringing-247-payment-infrastructure-national-economy) | ⭐ 532 | 💬 286 | [HN Thread](https://news.ycombinator.com/item?id=50427362) |
-| **9** | [E-means: Outperforming k-means in one-tenth the epochs](https://e-means.github.io/) | ⭐ 402 | 💬 37 | [HN Thread](https://news.ycombinator.com/item?id=50429734) |
-| **10** | [Foldable Flight: The Best Paper Airplanes](https://www.foldableflight.com) | ⭐ 1021 | 💬 151 | [HN Thread](https://news.ycombinator.com/item?id=50424581) |
+| **1** | [Toyota brand Scion is back and it's going to sell a kei truck in America](https://www.theautopian.com/scion-is-back-and-its-going-to-sell-a-freaking-kei-truck-in-america/) | ⭐ 226 | 💬 146 | [HN Thread](https://news.ycombinator.com/item?id=50445401) |
+| **2** | [After 7 Months, Glasswing Overwelms Maintainers with Underwhelming Findings](https://www.vulncheck.com/blog/anthropic-glasswing-november-update) | ⭐ 61 | 💬 10 | [HN Thread](https://news.ycombinator.com/item?id=50447074) |
+| **3** | [.name Grandfathered](https://neil.fraser.name/news/2026/11/10/) | ⭐ 623 | 💬 139 | [HN Thread](https://news.ycombinator.com/item?id=50442736) |
+| **4** | [Smart home devices should work without the internet](https://docodethatmatters.com/home-automation-overnight-success/) | ⭐ 630 | 💬 225 | [HN Thread](https://news.ycombinator.com/item?id=50441707) |
+| **5** | [Six Math Essentials by Terence Tao](https://teorth.github.io/tao-web/six-math-essentials.html) | ⭐ 83 | 💬 12 | [HN Thread](https://news.ycombinator.com/item?id=50446246) |
+| **6** | [Synaptics patent claims stop work on DisplayLink drivers](https://lwn.net/SubscriberLink/1102549/acbc92e00cee3a3f/) | ⭐ 255 | 💬 114 | [HN Thread](https://news.ycombinator.com/item?id=50443824) |
+| **7** | [Val Town is winding down](https://blog.val.town/winding-down) | ⭐ 270 | 💬 69 | [HN Thread](https://news.ycombinator.com/item?id=50443427) |
+| **8** | [Show HN: Get your coding agent off ~2019 JavaScript, onto modern web primitives](https://github.com/GoogleChrome/modern-web-guidance) | ⭐ 220 | 💬 60 | [HN Thread](https://news.ycombinator.com/item?id=50443812) |
+| **9** | [AlphaProof Code](https://deepmind.google/blog/introducing-alphaproof-code/) | ⭐ 552 | 💬 173 | [HN Thread](https://news.ycombinator.com/item?id=50439193) |
+| **10** | [rVPN – stealth VPN with end-to-end encryption](https://rvpn.org/) | ⭐ 35 | 💬 33 | [HN Thread](https://news.ycombinator.com/item?id=50446714) |
 
 ---
 
