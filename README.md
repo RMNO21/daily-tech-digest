@@ -12,16 +12,16 @@ An automated **Tech & AI News Digest** that aggregates top trending discussions 
 
 | # | Story | Points | Comments | Discussion |
 |:---:|:---|:---:|:---:|:---:|
-| **1** | [Protecting SSH Keys with macOS Secure Enclave](https://gatezh.com/posts/macos-secure-enclave-ssh-keys/) | ⭐ 75 | 💬 24 | [HN Thread](https://news.ycombinator.com/item?id=50449748) |
-| **2** | [Greg Kurtzer's Ginux is now a userspace kernel](https://github.com/gmkurtzer/ginux) | ⭐ 28 | 💬 4 | [HN Thread](https://news.ycombinator.com/item?id=50450007) |
-| **3** | [Scion is back and is going to sell a kei truck in America](https://www.theautopian.com/scion-is-back-and-its-going-to-sell-a-freaking-kei-truck-in-america/) | ⭐ 431 | 💬 291 | [HN Thread](https://news.ycombinator.com/item?id=50445401) |
-| **4** | [.name Grandfathered](https://neil.fraser.name/news/2026/11/10/) | ⭐ 761 | 💬 169 | [HN Thread](https://news.ycombinator.com/item?id=50442736) |
-| **5** | [Smart home devices should work without the internet](https://docodethatmatters.com/home-automation-overnight-success/) | ⭐ 841 | 💬 300 | [HN Thread](https://news.ycombinator.com/item?id=50441707) |
-| **6** | [A great old-timey game-programming hack (2013)](https://blog.moertel.com/posts/2013-12-14-great-old-timey-game-programming-hack.html) | ⭐ 95 | 💬 14 | [HN Thread](https://news.ycombinator.com/item?id=50448921) |
-| **7** | [To deter bioterrorism, U.S. imposes new rules on ordering synthetic DNA](https://www.science.org/content/article/deter-bioterrorism-u-s-imposes-new-rules-ordering-synthetic-dna) | ⭐ 53 | 💬 28 | [HN Thread](https://news.ycombinator.com/item?id=50449275) |
-| **8** | [Six Math Essentials](https://teorth.github.io/tao-web/six-math-essentials.html) | ⭐ 203 | 💬 37 | [HN Thread](https://news.ycombinator.com/item?id=50446246) |
-| **9** | [A Compendium of Abandoned Greenhouses](https://www.messynessychic.com/2015/01/15/a-compendium-of-abandoned-greenhouses/) | ⭐ 7 | 💬 0 | [HN Thread](https://news.ycombinator.com/item?id=50414657) |
-| **10** | [Synaptics patent claims stop work on DisplayLink drivers](https://lwn.net/SubscriberLink/1102549/acbc92e00cee3a3f/) | ⭐ 358 | 💬 213 | [HN Thread](https://news.ycombinator.com/item?id=50443824) |
+| **1** | [Google SWE points 48 AI agents at NASA Lidar, finds unmapped Maya pyramid in 72h](https://pietromiotti.com/latest/maya-site/?maya) | ⭐ 462 | 💬 174 | [HN Thread](https://news.ycombinator.com/item?id=50452455) |
+| **2** | [Can a Linear Program Do Weight-Space Programming?](https://nathan.rs/posts/weight-space-lp/) | ⭐ 101 | 💬 15 | [HN Thread](https://news.ycombinator.com/item?id=50452655) |
+| **3** | [Pharo in the Browser with WebAssembly](https://massimo-nocentini.github.io/pharo-vm/world.html) | ⭐ 29 | 💬 6 | [HN Thread](https://news.ycombinator.com/item?id=50453763) |
+| **4** | [Atuin Threads: All your agent sessions on every machine](https://blog.atuin.sh/threads-agent-sessions/) | ⭐ 21 | 💬 11 | [HN Thread](https://news.ycombinator.com/item?id=50453637) |
+| **5** | [Using voltage glitching to unleash the A100 in my mining card](https://blog.kate.land/posts/using-voltage-glitching-to-unlock-the-a100/) | ⭐ 109 | 💬 44 | [HN Thread](https://news.ycombinator.com/item?id=50451903) |
+| **6** | [I asked every TV manufacturer 17 questions about how they spy on you](https://www.theverge.com/tech/1012372/tv-privacy-acr-questions) | ⭐ 78 | 💬 31 | [HN Thread](https://news.ycombinator.com/item?id=50453474) |
+| **7** | [Protecting SSH Keys with macOS Secure Enclave](https://gatezh.com/posts/macos-secure-enclave-ssh-keys/) | ⭐ 310 | 💬 111 | [HN Thread](https://news.ycombinator.com/item?id=50449748) |
+| **8** | [Next-Level Benchmarking Overfitting – Thomas Neumann](http://databasearchitects.blogspot.com/2026/11/next-level-benchmarking-overfitting.html) | ⭐ 36 | 💬 4 | [HN Thread](https://news.ycombinator.com/item?id=50452496) |
+| **9** | [Show HN: Godbolt-in-a-floating-window for Neovim (C, C++, Rust)](https://github.com/0xdeadf1sh/AssemblyForNeovim) | ⭐ 16 | 💬 1 | [HN Thread](https://news.ycombinator.com/item?id=50453229) |
+| **10** | [Apple is killing its Support Community forum next week](https://www.theverge.com/tech/1031507/apple-community-support-forum-shutting-down) | ⭐ 46 | 💬 20 | [HN Thread](https://news.ycombinator.com/item?id=50453555) |
 
 ---
 
