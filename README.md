@@ -12,21 +12,22 @@ An automated **Tech & AI News Digest** that aggregates top trending discussions 
 
 | # | Story | Points | Comments | Discussion |
 |:---:|:---|:---:|:---:|:---:|
-| **1** | [Google SWE points 48 AI agents at NASA Lidar, finds unmapped Maya pyramid in 72h](https://pietromiotti.com/latest/maya-site/?maya) | ⭐ 462 | 💬 174 | [HN Thread](https://news.ycombinator.com/item?id=50452455) |
-| **2** | [Can a Linear Program Do Weight-Space Programming?](https://nathan.rs/posts/weight-space-lp/) | ⭐ 101 | 💬 15 | [HN Thread](https://news.ycombinator.com/item?id=50452655) |
-| **3** | [Pharo in the Browser with WebAssembly](https://massimo-nocentini.github.io/pharo-vm/world.html) | ⭐ 29 | 💬 6 | [HN Thread](https://news.ycombinator.com/item?id=50453763) |
-| **4** | [Atuin Threads: All your agent sessions on every machine](https://blog.atuin.sh/threads-agent-sessions/) | ⭐ 21 | 💬 11 | [HN Thread](https://news.ycombinator.com/item?id=50453637) |
-| **5** | [Using voltage glitching to unleash the A100 in my mining card](https://blog.kate.land/posts/using-voltage-glitching-to-unlock-the-a100/) | ⭐ 109 | 💬 44 | [HN Thread](https://news.ycombinator.com/item?id=50451903) |
-| **6** | [I asked every TV manufacturer 17 questions about how they spy on you](https://www.theverge.com/tech/1012372/tv-privacy-acr-questions) | ⭐ 78 | 💬 31 | [HN Thread](https://news.ycombinator.com/item?id=50453474) |
-| **7** | [Protecting SSH Keys with macOS Secure Enclave](https://gatezh.com/posts/macos-secure-enclave-ssh-keys/) | ⭐ 310 | 💬 111 | [HN Thread](https://news.ycombinator.com/item?id=50449748) |
-| **8** | [Next-Level Benchmarking Overfitting – Thomas Neumann](http://databasearchitects.blogspot.com/2026/11/next-level-benchmarking-overfitting.html) | ⭐ 36 | 💬 4 | [HN Thread](https://news.ycombinator.com/item?id=50452496) |
-| **9** | [Show HN: Godbolt-in-a-floating-window for Neovim (C, C++, Rust)](https://github.com/0xdeadf1sh/AssemblyForNeovim) | ⭐ 16 | 💬 1 | [HN Thread](https://news.ycombinator.com/item?id=50453229) |
-| **10** | [Apple is killing its Support Community forum next week](https://www.theverge.com/tech/1031507/apple-community-support-forum-shutting-down) | ⭐ 46 | 💬 20 | [HN Thread](https://news.ycombinator.com/item?id=50453555) |
+| **1** | [Why get an expensive Pi when I have an old phone?](https://so.long.thanks.fish/why-pi-when-i-have-an-old-phone/) | ⭐ 223 | 💬 145 | [HN Thread](https://news.ycombinator.com/item?id=50440709) |
+| **2** | [Generative AI uses more energy on non-English text](https://news.umich.edu/generative-ai-uses-more-energy-on-non-english-text/) | ⭐ 24 | 💬 13 | [HN Thread](https://news.ycombinator.com/item?id=50441444) |
+| **3** | [Ggml v1.0.0](https://github.com/ggml-org/ggml/releases/tag/v1.0.0) | ⭐ 325 | 💬 51 | [HN Thread](https://news.ycombinator.com/item?id=50493062) |
+| **4** | [Monkey Island: all 13 versions side by side](https://monkeyisland.pages.dev/) | ⭐ 267 | 💬 83 | [HN Thread](https://news.ycombinator.com/item?id=50493904) |
+| **5** | [Tech Companies Are Trying to Shift the Concept of Privacy (Again)](https://www.eff.org/deeplinks/2026/11/tech-companies-are-trying-shift-entire-concept-privacy-again) | ⭐ 65 | 💬 8 | [HN Thread](https://news.ycombinator.com/item?id=50496602) |
+| **6** | [Let's Write a PostScript Interpreter](https://beyondloom.com/blog/postscript.html) | ⭐ 27 | 💬 6 | [HN Thread](https://news.ycombinator.com/item?id=50478632) |
+| **7** | [Nvidia allegedly engineered scarcity by funding AI startups to buy its GPUs](https://www.techpowerup.com/354814/nvidia-allegedly-engineered-scarcity-by-funding-ai-startups-to-buy-its-gpus) | ⭐ 795 | 💬 466 | [HN Thread](https://news.ycombinator.com/item?id=50493251) |
+| **8** | [Unsloth Qwen3.8-27B Quantizations – Dynamic v3.1 Update](https://unsloth.ai/docs/models/qwen3.8) | ⭐ 197 | 💬 55 | [HN Thread](https://news.ycombinator.com/item?id=50491980) |
+| **9** | [Terminal borders that don't cost a cell](https://www.joshka.net/cell-borders/) | ⭐ 328 | 💬 144 | [HN Thread](https://news.ycombinator.com/item?id=50491423) |
+| **10** | [FAA issues national ground stop – lifted 4.5 hours later](https://www.nbcnews.com/news/us-news/faa-orders-nationwide-ground-stop-departing-flights-reasons-safety-rcna609247) | ⭐ 1587 | 💬 1205 | [HN Thread](https://news.ycombinator.com/item?id=50489641) |
 
 ---
 
 ## 🗄️ News Archive
 
+- 📅 [2026-11-14](archive/2026-11-14.md)
 - 📅 [2026-11-11](archive/2026-11-11.md)
 - 📅 [2026-11-10](archive/2026-11-10.md)
 - 📅 [2026-11-09](archive/2026-11-09.md)
@@ -40,9 +41,8 @@ An automated **Tech & AI News Digest** that aggregates top trending discussions 
 - 📅 [2026-10-31](archive/2026-10-31.md)
 - 📅 [2026-10-30](archive/2026-10-30.md)
 - 📅 [2026-10-28](archive/2026-10-28.md)
-- 📅 [2026-10-27](archive/2026-10-27.md)
 
-*... and [69 older editions in the archive folder](archive/)*
+*... and [70 older editions in the archive folder](archive/)*
 
 ---
 
