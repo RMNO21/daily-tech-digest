@@ -12,21 +12,22 @@ An automated **Tech & AI News Digest** that aggregates top trending discussions 
 
 | # | Story | Points | Comments | Discussion |
 |:---:|:---|:---:|:---:|:---:|
-| **1** | [Why get an expensive Pi when I have an old phone?](https://so.long.thanks.fish/why-pi-when-i-have-an-old-phone/) | ⭐ 223 | 💬 145 | [HN Thread](https://news.ycombinator.com/item?id=50440709) |
-| **2** | [Generative AI uses more energy on non-English text](https://news.umich.edu/generative-ai-uses-more-energy-on-non-english-text/) | ⭐ 24 | 💬 13 | [HN Thread](https://news.ycombinator.com/item?id=50441444) |
-| **3** | [Ggml v1.0.0](https://github.com/ggml-org/ggml/releases/tag/v1.0.0) | ⭐ 325 | 💬 51 | [HN Thread](https://news.ycombinator.com/item?id=50493062) |
-| **4** | [Monkey Island: all 13 versions side by side](https://monkeyisland.pages.dev/) | ⭐ 267 | 💬 83 | [HN Thread](https://news.ycombinator.com/item?id=50493904) |
-| **5** | [Tech Companies Are Trying to Shift the Concept of Privacy (Again)](https://www.eff.org/deeplinks/2026/11/tech-companies-are-trying-shift-entire-concept-privacy-again) | ⭐ 65 | 💬 8 | [HN Thread](https://news.ycombinator.com/item?id=50496602) |
-| **6** | [Let's Write a PostScript Interpreter](https://beyondloom.com/blog/postscript.html) | ⭐ 27 | 💬 6 | [HN Thread](https://news.ycombinator.com/item?id=50478632) |
-| **7** | [Nvidia allegedly engineered scarcity by funding AI startups to buy its GPUs](https://www.techpowerup.com/354814/nvidia-allegedly-engineered-scarcity-by-funding-ai-startups-to-buy-its-gpus) | ⭐ 795 | 💬 466 | [HN Thread](https://news.ycombinator.com/item?id=50493251) |
-| **8** | [Unsloth Qwen3.8-27B Quantizations – Dynamic v3.1 Update](https://unsloth.ai/docs/models/qwen3.8) | ⭐ 197 | 💬 55 | [HN Thread](https://news.ycombinator.com/item?id=50491980) |
-| **9** | [Terminal borders that don't cost a cell](https://www.joshka.net/cell-borders/) | ⭐ 328 | 💬 144 | [HN Thread](https://news.ycombinator.com/item?id=50491423) |
-| **10** | [FAA issues national ground stop – lifted 4.5 hours later](https://www.nbcnews.com/news/us-news/faa-orders-nationwide-ground-stop-departing-flights-reasons-safety-rcna609247) | ⭐ 1587 | 💬 1205 | [HN Thread](https://news.ycombinator.com/item?id=50489641) |
+| **1** | [SpaceX catches the Starship to end Flight 15](https://www.spacex.com/launches/starship-flight-15) | ⭐ 1254 | 💬 851 | [HN Thread](https://news.ycombinator.com/item?id=50500963) |
+| **2** | [Why did some Apollo missions carry a grenade launcher?](https://space.stackexchange.com/questions/37775) | ⭐ 33 | 💬 15 | [HN Thread](https://news.ycombinator.com/item?id=50505271) |
+| **3** | [Lovable apps expose passport details and more than 200K private messages](https://www.crissyfield.de/research/lovable-en/) | ⭐ 843 | 💬 319 | [HN Thread](https://news.ycombinator.com/item?id=50499017) |
+| **4** | [Court denies motion to dismiss DRAM price fixing case](https://litnews.ai/articles/garciaguirre-samsung-sk-hynix-micron-dram-conspiracy-suit-survives-dismissal) | ⭐ 179 | 💬 49 | [HN Thread](https://news.ycombinator.com/item?id=50502988) |
+| **5** | [A rare glimpse inside the high-risk, high-reward Hormuz trade](https://www.lloydslist.com/LL1158922/A-rare-glimpse-inside-the-highrisk-highreward-Hormuz-trade) | ⭐ 76 | 💬 53 | [HN Thread](https://news.ycombinator.com/item?id=50443331) |
+| **6** | [Handwritten 200-year-old dismissal notice found on roof tile](https://www.bbc.co.uk/news/articles/c6jdmdzv25r9o) | ⭐ 19 | 💬 7 | [HN Thread](https://news.ycombinator.com/item?id=50474529) |
+| **7** | [How did Woz write the Apple 1 BASIC before building the computer?](https://retrocomputing.stackexchange.com/questions/17957) | ⭐ 226 | 💬 111 | [HN Thread](https://news.ycombinator.com/item?id=50501594) |
+| **8** | [Semicircle Packing](https://rorz.io/writing/semicircle-packing) | ⭐ 29 | 💬 3 | [HN Thread](https://news.ycombinator.com/item?id=50484234) |
+| **9** | [Disk encryption on NetBSD – achieving secrecy](https://netbsd.org/~nia/disk-encrypt/) | ⭐ 34 | 💬 3 | [HN Thread](https://news.ycombinator.com/item?id=50504277) |
+| **10** | [My favourite modern NES games](https://jordi.inversethought.com/blog/25-of-my-favourite-modern-nes-games/) | ⭐ 93 | 💬 9 | [HN Thread](https://news.ycombinator.com/item?id=50503465) |
 
 ---
 
 ## 🗄️ News Archive
 
+- 📅 [2026-11-15](archive/2026-11-15.md)
 - 📅 [2026-11-14](archive/2026-11-14.md)
 - 📅 [2026-11-11](archive/2026-11-11.md)
 - 📅 [2026-11-10](archive/2026-11-10.md)
@@ -40,9 +41,8 @@ An automated **Tech & AI News Digest** that aggregates top trending discussions 
 - 📅 [2026-11-02](archive/2026-11-02.md)
 - 📅 [2026-10-31](archive/2026-10-31.md)
 - 📅 [2026-10-30](archive/2026-10-30.md)
-- 📅 [2026-10-28](archive/2026-10-28.md)
 
-*... and [70 older editions in the archive folder](archive/)*
+*... and [71 older editions in the archive folder](archive/)*
 
 ---
 
