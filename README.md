@@ -12,21 +12,22 @@ An automated **Tech & AI News Digest** that aggregates top trending discussions 
 
 | # | Story | Points | Comments | Discussion |
 |:---:|:---|:---:|:---:|:---:|
-| **1** | [SpaceX catches the Starship to end Flight 15](https://www.spacex.com/launches/starship-flight-15) | ⭐ 1254 | 💬 851 | [HN Thread](https://news.ycombinator.com/item?id=50500963) |
-| **2** | [Why did some Apollo missions carry a grenade launcher?](https://space.stackexchange.com/questions/37775) | ⭐ 33 | 💬 15 | [HN Thread](https://news.ycombinator.com/item?id=50505271) |
-| **3** | [Lovable apps expose passport details and more than 200K private messages](https://www.crissyfield.de/research/lovable-en/) | ⭐ 843 | 💬 319 | [HN Thread](https://news.ycombinator.com/item?id=50499017) |
-| **4** | [Court denies motion to dismiss DRAM price fixing case](https://litnews.ai/articles/garciaguirre-samsung-sk-hynix-micron-dram-conspiracy-suit-survives-dismissal) | ⭐ 179 | 💬 49 | [HN Thread](https://news.ycombinator.com/item?id=50502988) |
-| **5** | [A rare glimpse inside the high-risk, high-reward Hormuz trade](https://www.lloydslist.com/LL1158922/A-rare-glimpse-inside-the-highrisk-highreward-Hormuz-trade) | ⭐ 76 | 💬 53 | [HN Thread](https://news.ycombinator.com/item?id=50443331) |
-| **6** | [Handwritten 200-year-old dismissal notice found on roof tile](https://www.bbc.co.uk/news/articles/c6jdmdzv25r9o) | ⭐ 19 | 💬 7 | [HN Thread](https://news.ycombinator.com/item?id=50474529) |
-| **7** | [How did Woz write the Apple 1 BASIC before building the computer?](https://retrocomputing.stackexchange.com/questions/17957) | ⭐ 226 | 💬 111 | [HN Thread](https://news.ycombinator.com/item?id=50501594) |
-| **8** | [Semicircle Packing](https://rorz.io/writing/semicircle-packing) | ⭐ 29 | 💬 3 | [HN Thread](https://news.ycombinator.com/item?id=50484234) |
-| **9** | [Disk encryption on NetBSD – achieving secrecy](https://netbsd.org/~nia/disk-encrypt/) | ⭐ 34 | 💬 3 | [HN Thread](https://news.ycombinator.com/item?id=50504277) |
-| **10** | [My favourite modern NES games](https://jordi.inversethought.com/blog/25-of-my-favourite-modern-nes-games/) | ⭐ 93 | 💬 9 | [HN Thread](https://news.ycombinator.com/item?id=50503465) |
+| **1** | [Outages reported at Bank of America, Chase, U.S. Bank, Wells Fargo and Zelle](https://apnews.com/article/bank-outage-chase-wells-fargo-truist-50fee2693c22f597fa6ca51a97ef2cda) | ⭐ 603 | 💬 466 | [HN Thread](https://news.ycombinator.com/item?id=50521045) |
+| **2** | [Carnegie Mellon is putting computer science courses on YouTube for free](https://www.cs.cmu.edu/learn/) | ⭐ 49 | 💬 9 | [HN Thread](https://news.ycombinator.com/item?id=50522980) |
+| **3** | [Rust changed me as a developer](https://blog.startifact.com/posts/how-rust-changed-me/) | ⭐ 71 | 💬 30 | [HN Thread](https://news.ycombinator.com/item?id=50522563) |
+| **4** | [Grazing sheep in fields with solar arrays](https://news.cornell.edu/stories/2026/10/sheep-grazing-solar-fields-offers-farmers-economic-ecological-gains) | ⭐ 170 | 💬 140 | [HN Thread](https://news.ycombinator.com/item?id=50520182) |
+| **5** | [Jiff 1.0: A datetime library for Rust](https://burntsushi.net/jiff/) | ⭐ 252 | 💬 54 | [HN Thread](https://news.ycombinator.com/item?id=50519744) |
+| **6** | [Frame – 31.5" color ePaper display](https://trmnl.com/blog/introducing-frame) | ⭐ 227 | 💬 145 | [HN Thread](https://news.ycombinator.com/item?id=50519354) |
+| **7** | [Spamhaus new email sender requirements in November](https://www.spamhaus.org/sender-guidelines/) | ⭐ 12 | 💬 6 | [HN Thread](https://news.ycombinator.com/item?id=50523784) |
+| **8** | [Squircles](https://linebender.org/wiki/curves/squircle/) | ⭐ 69 | 💬 25 | [HN Thread](https://news.ycombinator.com/item?id=50515151) |
+| **9** | [Launch HN: Axonnic (YC F26) – Sleeves that track fingers and estimate force](https://news.ycombinator.com/item?id=50522776) | ⭐ 21 | 💬 5 | [HN Thread](https://news.ycombinator.com/item?id=50522776) |
+| **10** | [My Quest to push native Three.js quality match AAA Game Engines](https://ben3d.ca/blog/building-the-aaa-lighting-pipeline-in-threejs) | ⭐ 39 | 💬 9 | [HN Thread](https://news.ycombinator.com/item?id=50523291) |
 
 ---
 
 ## 🗄️ News Archive
 
+- 📅 [2026-11-16](archive/2026-11-16.md)
 - 📅 [2026-11-15](archive/2026-11-15.md)
 - 📅 [2026-11-14](archive/2026-11-14.md)
 - 📅 [2026-11-11](archive/2026-11-11.md)
@@ -40,9 +41,8 @@ An automated **Tech & AI News Digest** that aggregates top trending discussions 
 - 📅 [2026-11-03](archive/2026-11-03.md)
 - 📅 [2026-11-02](archive/2026-11-02.md)
 - 📅 [2026-10-31](archive/2026-10-31.md)
-- 📅 [2026-10-30](archive/2026-10-30.md)
 
-*... and [71 older editions in the archive folder](archive/)*
+*... and [72 older editions in the archive folder](archive/)*
 
 ---
 
