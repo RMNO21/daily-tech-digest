@@ -12,21 +12,22 @@ An automated **Tech & AI News Digest** that aggregates top trending discussions 
 
 | # | Story | Points | Comments | Discussion |
 |:---:|:---|:---:|:---:|:---:|
-| **1** | [Java4Shell: RCE in OpenJDK when processing Base64](https://calif.io/java4shell/) | ⭐ 247 | 💬 74 | [HN Thread](https://news.ycombinator.com/item?id=50538240) |
-| **2** | [GPT‑6.2 Astra and Sol](https://openai.com/index/introducing-gpt-6-2-astra-sol/) | ⭐ 975 | 💬 602 | [HN Thread](https://news.ycombinator.com/item?id=50535230) |
-| **3** | [Quad9's withdrawal from France: A canary in the coal mine](https://blog.cloudflare.com/quad9-withdrawal-from-france/) | ⭐ 63 | 💬 2 | [HN Thread](https://news.ycombinator.com/item?id=50538994) |
-| **4** | [jQuery 4.1.0](https://github.com/jquery/jquery/releases/tag/4.1.0) | ⭐ 200 | 💬 103 | [HN Thread](https://news.ycombinator.com/item?id=50537156) |
-| **5** | [Nvidia stopped disclosing Singapore sales as revenues hit $104B](https://www.ft.com/content/dbde7a30-548c-4f9d-a4be-7898a0c24dcf) | ⭐ 282 | 💬 153 | [HN Thread](https://news.ycombinator.com/item?id=50534631) |
-| **6** | [MAI Code 2 and Code 2 Flash](https://microsoft.ai/news/introducing-mai-code-2-and-mai-code-2-flash/) | ⭐ 238 | 💬 111 | [HN Thread](https://news.ycombinator.com/item?id=50535885) |
-| **7** | [Phrack 73 Released](https://phrack.org/issues/73/introduction_md) | ⭐ 207 | 💬 20 | [HN Thread](https://news.ycombinator.com/item?id=50535992) |
-| **8** | [350 years ago, Ole Rømer discovered that light has a finite speed](https://www.sciencenorway.no/culture-history-history-of-science/350-years-ago-this-man-discovered-that-light-has-a-finite-speed/2737969) | ⭐ 189 | 💬 61 | [HN Thread](https://news.ycombinator.com/item?id=50536813) |
-| **9** | [Highly classified US national security communications network goes down](https://www.cnn.com/2026/11/17/politics/highly-classified-national-security-communications-network-goes-down) | ⭐ 385 | 💬 496 | [HN Thread](https://news.ycombinator.com/item?id=50532849) |
-| **10** | [Web Browser Engineering (2021)](https://browser.engineering/) | ⭐ 97 | 💬 17 | [HN Thread](https://news.ycombinator.com/item?id=50537290) |
+| **1** | [Quad9 Is Leaving France: Why DNS Resolvers Are the Wrong Place to Fight Piracy](https://techstackups.com/articles/quad9-leaves-france-dns-blocking/) | ⭐ 85 | 💬 10 | [HN Thread](https://news.ycombinator.com/item?id=50545958) |
+| **2** | [Can Peer Review Survive AI-Generated Text? [pdf]](https://www.sas.upenn.edu/~jesusfv/Peer_Review.pdf) | ⭐ 9 | 💬 0 | [HN Thread](https://news.ycombinator.com/item?id=50546312) |
+| **3** | [Energy-Based Reasoners: 385x more efficient inference](https://energy-based-reasoners.github.io/) | ⭐ 172 | 💬 25 | [HN Thread](https://news.ycombinator.com/item?id=50543989) |
+| **4** | [A Perfect SimCity](https://www.jeffquast.com/post/a-perfect-simcity/) | ⭐ 98 | 💬 22 | [HN Thread](https://news.ycombinator.com/item?id=50504373) |
+| **5** | [Java4Shell: RCE in OpenJDK when processing Base64](https://calif.io/java4shell/) | ⭐ 1047 | 💬 277 | [HN Thread](https://news.ycombinator.com/item?id=50538240) |
+| **6** | [When AI Knows More Than It Can Offer](https://medium.com/@smoking2man/when-ai-knows-more-than-it-can-offer-how-training-turns-an-intelligent-assistant-into-a-generator-7e700f05163e) | ⭐ 15 | 💬 1 | [HN Thread](https://news.ycombinator.com/item?id=50507918) |
+| **7** | [Quad9's withdrawal from France: A canary in the coal mine](https://blog.cloudflare.com/quad9-withdrawal-from-france/) | ⭐ 769 | 💬 340 | [HN Thread](https://news.ycombinator.com/item?id=50538994) |
+| **8** | [Google's AI answers reducing search traffic by 40%](https://revscope.co/blog/search-seo-geo-2026/) | ⭐ 553 | 💬 419 | [HN Thread](https://news.ycombinator.com/item?id=50540178) |
+| **9** | [ID.me terms required for IRS sign-in](https://consumerrights.wiki/w/ID.me_terms_required_for_IRS_sign-in) | ⭐ 408 | 💬 203 | [HN Thread](https://news.ycombinator.com/item?id=50540437) |
+| **10** | [Evidence (YC S21) Is Hiring](https://www.ycombinator.com/companies/evidence/jobs/1xb9PpP-founding-gtm-lead) | ⭐ 1 | 💬 0 | [HN Thread](https://news.ycombinator.com/item?id=50545238) |
 
 ---
 
 ## 🗄️ News Archive
 
+- 📅 [2026-11-18](archive/2026-11-18.md)
 - 📅 [2026-11-17](archive/2026-11-17.md)
 - 📅 [2026-11-16](archive/2026-11-16.md)
 - 📅 [2026-11-15](archive/2026-11-15.md)
@@ -40,9 +41,8 @@ An automated **Tech & AI News Digest** that aggregates top trending discussions 
 - 📅 [2026-11-05](archive/2026-11-05.md)
 - 📅 [2026-11-04](archive/2026-11-04.md)
 - 📅 [2026-11-03](archive/2026-11-03.md)
-- 📅 [2026-11-02](archive/2026-11-02.md)
 
-*... and [73 older editions in the archive folder](archive/)*
+*... and [74 older editions in the archive folder](archive/)*
 
 ---
 
