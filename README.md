@@ -12,21 +12,22 @@ An automated **Tech & AI News Digest** that aggregates top trending discussions 
 
 | # | Story | Points | Comments | Discussion |
 |:---:|:---|:---:|:---:|:---:|
-| **1** | [Quad9 Is Leaving France: Why DNS Resolvers Are the Wrong Place to Fight Piracy](https://techstackups.com/articles/quad9-leaves-france-dns-blocking/) | ⭐ 85 | 💬 10 | [HN Thread](https://news.ycombinator.com/item?id=50545958) |
-| **2** | [Can Peer Review Survive AI-Generated Text? [pdf]](https://www.sas.upenn.edu/~jesusfv/Peer_Review.pdf) | ⭐ 9 | 💬 0 | [HN Thread](https://news.ycombinator.com/item?id=50546312) |
-| **3** | [Energy-Based Reasoners: 385x more efficient inference](https://energy-based-reasoners.github.io/) | ⭐ 172 | 💬 25 | [HN Thread](https://news.ycombinator.com/item?id=50543989) |
-| **4** | [A Perfect SimCity](https://www.jeffquast.com/post/a-perfect-simcity/) | ⭐ 98 | 💬 22 | [HN Thread](https://news.ycombinator.com/item?id=50504373) |
-| **5** | [Java4Shell: RCE in OpenJDK when processing Base64](https://calif.io/java4shell/) | ⭐ 1047 | 💬 277 | [HN Thread](https://news.ycombinator.com/item?id=50538240) |
-| **6** | [When AI Knows More Than It Can Offer](https://medium.com/@smoking2man/when-ai-knows-more-than-it-can-offer-how-training-turns-an-intelligent-assistant-into-a-generator-7e700f05163e) | ⭐ 15 | 💬 1 | [HN Thread](https://news.ycombinator.com/item?id=50507918) |
-| **7** | [Quad9's withdrawal from France: A canary in the coal mine](https://blog.cloudflare.com/quad9-withdrawal-from-france/) | ⭐ 769 | 💬 340 | [HN Thread](https://news.ycombinator.com/item?id=50538994) |
-| **8** | [Google's AI answers reducing search traffic by 40%](https://revscope.co/blog/search-seo-geo-2026/) | ⭐ 553 | 💬 419 | [HN Thread](https://news.ycombinator.com/item?id=50540178) |
-| **9** | [ID.me terms required for IRS sign-in](https://consumerrights.wiki/w/ID.me_terms_required_for_IRS_sign-in) | ⭐ 408 | 💬 203 | [HN Thread](https://news.ycombinator.com/item?id=50540437) |
-| **10** | [Evidence (YC S21) Is Hiring](https://www.ycombinator.com/companies/evidence/jobs/1xb9PpP-founding-gtm-lead) | ⭐ 1 | 💬 0 | [HN Thread](https://news.ycombinator.com/item?id=50545238) |
+| **1** | [How the European Commission rolled out Matrix to more than 40k staff](https://element.io/blog/how-the-european-commission-rolled-out-matrix-to-more-than-40-000-staff/) | ⭐ 205 | 💬 71 | [HN Thread](https://news.ycombinator.com/item?id=50558533) |
+| **2** | [The AI Superintelligence Debate Has Serious Flaws](https://spectrum.ieee.org/ai-superintelligence-debate) | ⭐ 42 | 💬 21 | [HN Thread](https://news.ycombinator.com/item?id=50559140) |
+| **3** | [What's New in PHP 8.6](https://www.php.net/releases/8.6/en.php) | ⭐ 130 | 💬 61 | [HN Thread](https://news.ycombinator.com/item?id=50557870) |
+| **4** | [Ruby2ßhell: Pre-authentication RCE on stock Rails](https://verialabs.com/ruby2shell/) | ⭐ 221 | 💬 87 | [HN Thread](https://news.ycombinator.com/item?id=50556287) |
+| **5** | [Garage Door Spam](https://blog.harrison.page/garage-door-spam/) | ⭐ 104 | 💬 37 | [HN Thread](https://news.ycombinator.com/item?id=50519231) |
+| **6** | [Distributed, high-performance blob storage on SQLite](https://zerodha.tech/blog/high-performance-distributed-blob-storage/) | ⭐ 119 | 💬 21 | [HN Thread](https://news.ycombinator.com/item?id=50557537) |
+| **7** | [Nintendo takes Picofly firmware down from GitHub [video]](https://www.youtube.com/watch?v=-TLCGUpoD6c) | ⭐ 30 | 💬 2 | [HN Thread](https://news.ycombinator.com/item?id=50547048) |
+| **8** | [Gemini 4 Neon](https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-neon/) | ⭐ 892 | 💬 702 | [HN Thread](https://news.ycombinator.com/item?id=50552424) |
+| **9** | [SSD prices will start going down the second half of next year](https://www.drivevault.io/blog/when-will-hard-drive-prices-come-down.html) | ⭐ 147 | 💬 116 | [HN Thread](https://news.ycombinator.com/item?id=50557716) |
+| **10** | [Mass launched to orbit each year by rocket builder](https://www.kadoa.com/companies/insights/spacex-europe-payload) | ⭐ 19 | 💬 3 | [HN Thread](https://news.ycombinator.com/item?id=50546221) |
 
 ---
 
 ## 🗄️ News Archive
 
+- 📅 [2026-11-19](archive/2026-11-19.md)
 - 📅 [2026-11-18](archive/2026-11-18.md)
 - 📅 [2026-11-17](archive/2026-11-17.md)
 - 📅 [2026-11-16](archive/2026-11-16.md)
@@ -40,9 +41,8 @@ An automated **Tech & AI News Digest** that aggregates top trending discussions 
 - 📅 [2026-11-06](archive/2026-11-06.md)
 - 📅 [2026-11-05](archive/2026-11-05.md)
 - 📅 [2026-11-04](archive/2026-11-04.md)
-- 📅 [2026-11-03](archive/2026-11-03.md)
 
-*... and [74 older editions in the archive folder](archive/)*
+*... and [75 older editions in the archive folder](archive/)*
 
 ---
 
