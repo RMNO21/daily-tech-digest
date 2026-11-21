@@ -12,21 +12,22 @@ An automated **Tech & AI News Digest** that aggregates top trending discussions 
 
 | # | Story | Points | Comments | Discussion |
 |:---:|:---|:---:|:---:|:---:|
-| **1** | [How the European Commission rolled out Matrix to more than 40k staff](https://element.io/blog/how-the-european-commission-rolled-out-matrix-to-more-than-40-000-staff/) | ⭐ 205 | 💬 71 | [HN Thread](https://news.ycombinator.com/item?id=50558533) |
-| **2** | [The AI Superintelligence Debate Has Serious Flaws](https://spectrum.ieee.org/ai-superintelligence-debate) | ⭐ 42 | 💬 21 | [HN Thread](https://news.ycombinator.com/item?id=50559140) |
-| **3** | [What's New in PHP 8.6](https://www.php.net/releases/8.6/en.php) | ⭐ 130 | 💬 61 | [HN Thread](https://news.ycombinator.com/item?id=50557870) |
-| **4** | [Ruby2ßhell: Pre-authentication RCE on stock Rails](https://verialabs.com/ruby2shell/) | ⭐ 221 | 💬 87 | [HN Thread](https://news.ycombinator.com/item?id=50556287) |
-| **5** | [Garage Door Spam](https://blog.harrison.page/garage-door-spam/) | ⭐ 104 | 💬 37 | [HN Thread](https://news.ycombinator.com/item?id=50519231) |
-| **6** | [Distributed, high-performance blob storage on SQLite](https://zerodha.tech/blog/high-performance-distributed-blob-storage/) | ⭐ 119 | 💬 21 | [HN Thread](https://news.ycombinator.com/item?id=50557537) |
-| **7** | [Nintendo takes Picofly firmware down from GitHub [video]](https://www.youtube.com/watch?v=-TLCGUpoD6c) | ⭐ 30 | 💬 2 | [HN Thread](https://news.ycombinator.com/item?id=50547048) |
-| **8** | [Gemini 4 Neon](https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-neon/) | ⭐ 892 | 💬 702 | [HN Thread](https://news.ycombinator.com/item?id=50552424) |
-| **9** | [SSD prices will start going down the second half of next year](https://www.drivevault.io/blog/when-will-hard-drive-prices-come-down.html) | ⭐ 147 | 💬 116 | [HN Thread](https://news.ycombinator.com/item?id=50557716) |
-| **10** | [Mass launched to orbit each year by rocket builder](https://www.kadoa.com/companies/insights/spacex-europe-payload) | ⭐ 19 | 💬 3 | [HN Thread](https://news.ycombinator.com/item?id=50546221) |
+| **1** | [Hurried Announcement: Alessandro Masullo GRH](https://math216.wordpress.com/2026/11/20/hurried-announcement-alessandro-masullo-grh/) | ⭐ 2122 | 💬 980 | [HN Thread](https://news.ycombinator.com/item?id=50579568) |
+| **2** | [Levent Alpöge claims proof of the Generalized Riemann Hypothesis [pdf]](https://alpo.ge/remark.pdf) | ⭐ 2665 | 💬 1844 | [HN Thread](https://news.ycombinator.com/item?id=50574968) |
+| **3** | [Inkling 2 Mini](https://thinkingmachines.ai/news/inkling-2-mini/) | ⭐ 1036 | 💬 194 | [HN Thread](https://news.ycombinator.com/item?id=50581260) |
+| **4** | [ClawDOS – An AI coding agent for DOS](http://ricapar.net/ClawDOS/) | ⭐ 74 | 💬 21 | [HN Thread](https://news.ycombinator.com/item?id=50586292) |
+| **5** | [Surprisingly Adorable Insect Portraits](https://amateurphotographer.com/latest/these-astonishing-insect-portraits-reveal-a-hidden-world-you-never-knew-existed/) | ⭐ 54 | 💬 12 | [HN Thread](https://news.ycombinator.com/item?id=50586648) |
+| **6** | [We promoted developers into architects without informing them](https://manidoraisamy.com/developer-to-architect.html) | ⭐ 445 | 💬 247 | [HN Thread](https://news.ycombinator.com/item?id=50579331) |
+| **7** | [NINLIVE: The Nine Inch Nails live archive](https://ninlive.com/) | ⭐ 269 | 💬 70 | [HN Thread](https://news.ycombinator.com/item?id=50583274) |
+| **8** | [Clojure will affect the way you think about programming (2017)](https://eli.thegreenplace.net/2017/clojure-the-perfect-language-to-expand-your-brain/) | ⭐ 106 | 💬 32 | [HN Thread](https://news.ycombinator.com/item?id=50585376) |
+| **9** | [Unforced Navier-Stokes Singularity and the Generalized Riemann Hypothesis](https://terrytao.wordpress.com/2026/11/20/unforced-euler-singularity-unforced-navier-stokes-singularity-and-the-generalized-riemann-hypothesis/) | ⭐ 454 | 💬 187 | [HN Thread](https://news.ycombinator.com/item?id=50578358) |
+| **10** | [RCE in Gnupg](https://lists.gnupg.org/pipermail/gnupg-announce/2026q4/000517.html) | ⭐ 22 | 💬 2 | [HN Thread](https://news.ycombinator.com/item?id=50587208) |
 
 ---
 
 ## 🗄️ News Archive
 
+- 📅 [2026-11-21](archive/2026-11-21.md)
 - 📅 [2026-11-19](archive/2026-11-19.md)
 - 📅 [2026-11-18](archive/2026-11-18.md)
 - 📅 [2026-11-17](archive/2026-11-17.md)
@@ -40,9 +41,8 @@ An automated **Tech & AI News Digest** that aggregates top trending discussions 
 - 📅 [2026-11-07](archive/2026-11-07.md)
 - 📅 [2026-11-06](archive/2026-11-06.md)
 - 📅 [2026-11-05](archive/2026-11-05.md)
-- 📅 [2026-11-04](archive/2026-11-04.md)
 
-*... and [75 older editions in the archive folder](archive/)*
+*... and [76 older editions in the archive folder](archive/)*
 
 ---
 
