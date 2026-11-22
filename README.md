@@ -12,21 +12,22 @@ An automated **Tech & AI News Digest** that aggregates top trending discussions 
 
 | # | Story | Points | Comments | Discussion |
 |:---:|:---|:---:|:---:|:---:|
-| **1** | [Pill to treat pancreatic cancer hailed as 'biggest breakthrough in decades'](https://www.theguardian.com/society/2026/nov/20/pill-pancreatic-cancer-breakthrough-daraxonrasib) | ⭐ 412 | 💬 116 | [HN Thread](https://news.ycombinator.com/item?id=50582069) |
-| **2** | [Inkling-2-Mini in 5.4 GB Memory](https://github.com/ShinMegamiBoson/lookatmyquant) | ⭐ 309 | 💬 78 | [HN Thread](https://news.ycombinator.com/item?id=50591853) |
-| **3** | [Lean verification of the Riemann Hypothesis](https://leanprover-community.github.io/blog/posts/riemann-hypothesis/) | ⭐ 741 | 💬 592 | [HN Thread](https://news.ycombinator.com/item?id=50589618) |
-| **4** | [Detonating a pile of lead azide](https://www.science.org/content/blog-post/detonating-huge-pile-lead-azide-really) | ⭐ 482 | 💬 314 | [HN Thread](https://news.ycombinator.com/item?id=50588982) |
-| **5** | [Brazil's tax authority open-sources its tax calculator on GitHub under MIT](https://www.gov.br/receitafederal/pt-br/assuntos/noticias/2026/novembro/receita-federal-publica-primeiro-codigo-fonte-aberto-no-github-e-amplia-transparencia-da-reforma-tributaria) | ⭐ 683 | 💬 222 | [HN Thread](https://news.ycombinator.com/item?id=50532613) |
-| **6** | [Getting the mind to steer the body to steer you](https://notnottalmud.substack.com/p/getting-the-mind-to-steer-the-body) | ⭐ 102 | 💬 40 | [HN Thread](https://news.ycombinator.com/item?id=50583028) |
-| **7** | [PcapAnalyzer – self-hosted pcap analyzer with 27 problem detectors](https://github.com/sebaandrada-cell/PcapAnalyzer) | ⭐ 21 | 💬 2 | [HN Thread](https://news.ycombinator.com/item?id=50594132) |
-| **8** | [Advice for the next 100 Rust GUIs](https://linebender.org/blog/next-100-guis/) | ⭐ 24 | 💬 1 | [HN Thread](https://news.ycombinator.com/item?id=50593737) |
-| **9** | [Windows has two settings that bring work back after restart, both off by default](https://www.makeuseof.com/windows-can-bring-your-work-back-after-restart/) | ⭐ 20 | 💬 10 | [HN Thread](https://news.ycombinator.com/item?id=50560203) |
-| **10** | [Tasklet (YC P26) Is Hiring Product and Agent Infra Engineers](https://tasklet.ai/careers) | ⭐ 1 | 💬 0 | [HN Thread](https://news.ycombinator.com/item?id=50593679) |
+| **1** | [Toyota, Nissan, and Honda to standardize parts to lower costs](https://www.caranddriver.com/news/a74490092/toyota-nissan-honda-standardize-parts-lower-costs/) | ⭐ 267 | 💬 125 | [HN Thread](https://news.ycombinator.com/item?id=50596133) |
+| **2** | [Pill to treat pancreatic cancer hailed as 'biggest breakthrough in decades'](https://www.theguardian.com/society/2026/nov/20/pill-pancreatic-cancer-breakthrough-daraxonrasib) | ⭐ 874 | 💬 203 | [HN Thread](https://news.ycombinator.com/item?id=50582069) |
+| **3** | [Lean verification of the Riemann Hypothesis](https://leanprover-community.github.io/blog/posts/riemann-hypothesis/) | ⭐ 946 | 💬 809 | [HN Thread](https://news.ycombinator.com/item?id=50589618) |
+| **4** | [Inkling-2-Mini in 5.4 GB Memory](https://github.com/ShinMegamiBoson/lookatmyquant) | ⭐ 429 | 💬 108 | [HN Thread](https://news.ycombinator.com/item?id=50591853) |
+| **5** | [Sandwich Simulator](https://stulle.app/) | ⭐ 143 | 💬 55 | [HN Thread](https://news.ycombinator.com/item?id=50594911) |
+| **6** | [Data Processing Incidents on Inference Providers](https://openrouter.ai/blog/announcements/data-processing-incidents-on-inference-providers/) | ⭐ 97 | 💬 34 | [HN Thread](https://news.ycombinator.com/item?id=50595554) |
+| **7** | [Detonating a pile of lead azide](https://www.science.org/content/blog-post/detonating-huge-pile-lead-azide-really) | ⭐ 585 | 💬 378 | [HN Thread](https://news.ycombinator.com/item?id=50588982) |
+| **8** | [Getting the mind to steer the body to steer you](https://notnottalmud.substack.com/p/getting-the-mind-to-steer-the-body) | ⭐ 231 | 💬 75 | [HN Thread](https://news.ycombinator.com/item?id=50583028) |
+| **9** | [Show HN: The Riemann Proof Handbook](https://github.com/tamnd/riemann-handbook) | ⭐ 6 | 💬 0 | [HN Thread](https://news.ycombinator.com/item?id=50596664) |
+| **10** | [PcapAnalyzer – self-hosted pcap analyzer with 27 problem detectors](https://github.com/sebaandrada-cell/PcapAnalyzer) | ⭐ 101 | 💬 10 | [HN Thread](https://news.ycombinator.com/item?id=50594132) |
 
 ---
 
 ## 🗄️ News Archive
 
+- 📅 [2026-11-22](archive/2026-11-22.md)
 - 📅 [2026-11-21](archive/2026-11-21.md)
 - 📅 [2026-11-19](archive/2026-11-19.md)
 - 📅 [2026-11-18](archive/2026-11-18.md)
@@ -40,9 +41,8 @@ An automated **Tech & AI News Digest** that aggregates top trending discussions 
 - 📅 [2026-11-08](archive/2026-11-08.md)
 - 📅 [2026-11-07](archive/2026-11-07.md)
 - 📅 [2026-11-06](archive/2026-11-06.md)
-- 📅 [2026-11-05](archive/2026-11-05.md)
 
-*... and [76 older editions in the archive folder](archive/)*
+*... and [77 older editions in the archive folder](archive/)*
 
 ---
 
