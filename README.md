@@ -12,21 +12,22 @@ An automated **Tech & AI News Digest** that aggregates top trending discussions 
 
 | # | Story | Points | Comments | Discussion |
 |:---:|:---|:---:|:---:|:---:|
-| **1** | [Toyota, Nissan, and Honda to standardize parts to lower costs](https://www.caranddriver.com/news/a74490092/toyota-nissan-honda-standardize-parts-lower-costs/) | ⭐ 267 | 💬 125 | [HN Thread](https://news.ycombinator.com/item?id=50596133) |
-| **2** | [Pill to treat pancreatic cancer hailed as 'biggest breakthrough in decades'](https://www.theguardian.com/society/2026/nov/20/pill-pancreatic-cancer-breakthrough-daraxonrasib) | ⭐ 874 | 💬 203 | [HN Thread](https://news.ycombinator.com/item?id=50582069) |
-| **3** | [Lean verification of the Riemann Hypothesis](https://leanprover-community.github.io/blog/posts/riemann-hypothesis/) | ⭐ 946 | 💬 809 | [HN Thread](https://news.ycombinator.com/item?id=50589618) |
-| **4** | [Inkling-2-Mini in 5.4 GB Memory](https://github.com/ShinMegamiBoson/lookatmyquant) | ⭐ 429 | 💬 108 | [HN Thread](https://news.ycombinator.com/item?id=50591853) |
-| **5** | [Sandwich Simulator](https://stulle.app/) | ⭐ 143 | 💬 55 | [HN Thread](https://news.ycombinator.com/item?id=50594911) |
-| **6** | [Data Processing Incidents on Inference Providers](https://openrouter.ai/blog/announcements/data-processing-incidents-on-inference-providers/) | ⭐ 97 | 💬 34 | [HN Thread](https://news.ycombinator.com/item?id=50595554) |
-| **7** | [Detonating a pile of lead azide](https://www.science.org/content/blog-post/detonating-huge-pile-lead-azide-really) | ⭐ 585 | 💬 378 | [HN Thread](https://news.ycombinator.com/item?id=50588982) |
-| **8** | [Getting the mind to steer the body to steer you](https://notnottalmud.substack.com/p/getting-the-mind-to-steer-the-body) | ⭐ 231 | 💬 75 | [HN Thread](https://news.ycombinator.com/item?id=50583028) |
-| **9** | [Show HN: The Riemann Proof Handbook](https://github.com/tamnd/riemann-handbook) | ⭐ 6 | 💬 0 | [HN Thread](https://news.ycombinator.com/item?id=50596664) |
-| **10** | [PcapAnalyzer – self-hosted pcap analyzer with 27 problem detectors](https://github.com/sebaandrada-cell/PcapAnalyzer) | ⭐ 101 | 💬 10 | [HN Thread](https://news.ycombinator.com/item?id=50594132) |
+| **1** | [GLM-5.4: Toward Generalized Coding with Our First Loop Transformer](https://z.ai/blog/glm-5.4) | ⭐ 271 | 💬 115 | [HN Thread](https://news.ycombinator.com/item?id=50609685) |
+| **2** | [Free alternative TV network built from the Internet Archive's forgotten videos](https://spelunkr.tv) | ⭐ 627 | 💬 111 | [HN Thread](https://news.ycombinator.com/item?id=50606192) |
+| **3** | [XNU Linux: Full OS X GUI Userspace on Linux](https://github.com/AFK-surf/xnulinux) | ⭐ 407 | 💬 187 | [HN Thread](https://news.ycombinator.com/item?id=50607261) |
+| **4** | [The next circle of security hell](https://blogs.gentoo.org/mgorny/2026/10/27/the-next-circle-of-security-hell/) | ⭐ 21 | 💬 6 | [HN Thread](https://news.ycombinator.com/item?id=50610334) |
+| **5** | [MRAM Basics: How Magnetic Memory Is Replacing Embedded Flash](https://www.allaboutcircuits.com/technical-articles/mram-basics-how-magnetic-memory-is-replacing-embedded-flash/) | ⭐ 14 | 💬 0 | [HN Thread](https://news.ycombinator.com/item?id=50587750) |
+| **6** | [Yes, 17M lines of Lean is a lot](https://micjm.com/blog/yes-17m-lines-of-lean-is-a-lot/) | ⭐ 143 | 💬 165 | [HN Thread](https://news.ycombinator.com/item?id=50607668) |
+| **7** | [A Beginner's Guide to Local AI with Inkling, Qwen, and Unsloth](https://www.gpupartner.com/blog/beginners-guide-local-ai-inkling-qwen-unsloth) | ⭐ 576 | 💬 239 | [HN Thread](https://news.ycombinator.com/item?id=50603845) |
+| **8** | [Elixir HLS makes FPGA circuits from functions written in Elixir](https://github.com/elixir-hls/elixir-hls) | ⭐ 47 | 💬 0 | [HN Thread](https://news.ycombinator.com/item?id=50584526) |
+| **9** | [The Birds of GTA 6: A Field Guide to Vice City and Leonida's Wildlife](https://www.audubon.org/magazine/birds-of-gta-6-field-guide-vice-city-wildlife) | ⭐ 542 | 💬 290 | [HN Thread](https://news.ycombinator.com/item?id=50602843) |
+| **10** | [Perplexity and Intelligence](https://openai.com/index/perplexity-and-intelligence/) | ⭐ 618 | 💬 407 | [HN Thread](https://news.ycombinator.com/item?id=50601525) |
 
 ---
 
 ## 🗄️ News Archive
 
+- 📅 [2026-11-23](archive/2026-11-23.md)
 - 📅 [2026-11-22](archive/2026-11-22.md)
 - 📅 [2026-11-21](archive/2026-11-21.md)
 - 📅 [2026-11-19](archive/2026-11-19.md)
@@ -40,9 +41,8 @@ An automated **Tech & AI News Digest** that aggregates top trending discussions 
 - 📅 [2026-11-09](archive/2026-11-09.md)
 - 📅 [2026-11-08](archive/2026-11-08.md)
 - 📅 [2026-11-07](archive/2026-11-07.md)
-- 📅 [2026-11-06](archive/2026-11-06.md)
 
-*... and [77 older editions in the archive folder](archive/)*
+*... and [78 older editions in the archive folder](archive/)*
 
 ---
 
