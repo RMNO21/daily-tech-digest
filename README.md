@@ -12,21 +12,22 @@ An automated **Tech & AI News Digest** that aggregates top trending discussions 
 
 | # | Story | Points | Comments | Discussion |
 |:---:|:---|:---:|:---:|:---:|
-| **1** | [GLM-5.4: Toward Generalized Coding with Our First Loop Transformer](https://z.ai/blog/glm-5.4) | ⭐ 271 | 💬 115 | [HN Thread](https://news.ycombinator.com/item?id=50609685) |
-| **2** | [Free alternative TV network built from the Internet Archive's forgotten videos](https://spelunkr.tv) | ⭐ 627 | 💬 111 | [HN Thread](https://news.ycombinator.com/item?id=50606192) |
-| **3** | [XNU Linux: Full OS X GUI Userspace on Linux](https://github.com/AFK-surf/xnulinux) | ⭐ 407 | 💬 187 | [HN Thread](https://news.ycombinator.com/item?id=50607261) |
-| **4** | [The next circle of security hell](https://blogs.gentoo.org/mgorny/2026/10/27/the-next-circle-of-security-hell/) | ⭐ 21 | 💬 6 | [HN Thread](https://news.ycombinator.com/item?id=50610334) |
-| **5** | [MRAM Basics: How Magnetic Memory Is Replacing Embedded Flash](https://www.allaboutcircuits.com/technical-articles/mram-basics-how-magnetic-memory-is-replacing-embedded-flash/) | ⭐ 14 | 💬 0 | [HN Thread](https://news.ycombinator.com/item?id=50587750) |
-| **6** | [Yes, 17M lines of Lean is a lot](https://micjm.com/blog/yes-17m-lines-of-lean-is-a-lot/) | ⭐ 143 | 💬 165 | [HN Thread](https://news.ycombinator.com/item?id=50607668) |
-| **7** | [A Beginner's Guide to Local AI with Inkling, Qwen, and Unsloth](https://www.gpupartner.com/blog/beginners-guide-local-ai-inkling-qwen-unsloth) | ⭐ 576 | 💬 239 | [HN Thread](https://news.ycombinator.com/item?id=50603845) |
-| **8** | [Elixir HLS makes FPGA circuits from functions written in Elixir](https://github.com/elixir-hls/elixir-hls) | ⭐ 47 | 💬 0 | [HN Thread](https://news.ycombinator.com/item?id=50584526) |
-| **9** | [The Birds of GTA 6: A Field Guide to Vice City and Leonida's Wildlife](https://www.audubon.org/magazine/birds-of-gta-6-field-guide-vice-city-wildlife) | ⭐ 542 | 💬 290 | [HN Thread](https://news.ycombinator.com/item?id=50602843) |
-| **10** | [Perplexity and Intelligence](https://openai.com/index/perplexity-and-intelligence/) | ⭐ 618 | 💬 407 | [HN Thread](https://news.ycombinator.com/item?id=50601525) |
+| **1** | [AMD Specific Patches for Llama.cpp](https://devnull.land/amd-specific-llama-cpp) | ⭐ 125 | 💬 38 | [HN Thread](https://news.ycombinator.com/item?id=50657265) |
+| **2** | [CTO of 'RansomwareHelp' Indicted for Wire Fraud](https://krebsonsecurity.com/2026/11/cto-of-ransomwarehelp-indicted-for-wire-fraud/) | ⭐ 70 | 💬 25 | [HN Thread](https://news.ycombinator.com/item?id=50657645) |
+| **3** | [Show HN: Three Linux VMs in a browser tab, each running a different browser](https://michidk.github.io/sidebyside/) | ⭐ 75 | 💬 20 | [HN Thread](https://news.ycombinator.com/item?id=50656036) |
+| **4** | [Intel One Mono font (2023)](https://github.com/intel/intel-one-mono) | ⭐ 388 | 💬 220 | [HN Thread](https://news.ycombinator.com/item?id=50653667) |
+| **5** | [George Whitesides, 1939-2026](https://www.science.org/content/blog-post/george-whitesides-1939-2026) | ⭐ 12 | 💬 2 | [HN Thread](https://news.ycombinator.com/item?id=50657936) |
+| **6** | [NP_R ≠ PAR_R](https://github.com/samueleverett01/bss-permanent-separations) | ⭐ 109 | 💬 116 | [HN Thread](https://news.ycombinator.com/item?id=50657059) |
+| **7** | [Curiosity Is No Solo Act](https://thereader.mitpress.mit.edu/curiosity-is-no-solo-act/) | ⭐ 90 | 💬 22 | [HN Thread](https://news.ycombinator.com/item?id=50636931) |
+| **8** | [Tell HN: Happy Thanksgiving](https://news.ycombinator.com/item?id=50655664) | ⭐ 471 | 💬 121 | [HN Thread](https://news.ycombinator.com/item?id=50655664) |
+| **9** | [Nextcloud Office Desktop app](https://nextcloud.com/blog/euro-office-comes-to-your-desktop-with-the-nextcloud-office-desktop-app/) | ⭐ 358 | 💬 167 | [HN Thread](https://news.ycombinator.com/item?id=50654289) |
+| **10** | [The New York Times warns photographers not to update Photoshop over AI features](https://www.theverge.com/ai-artificial-intelligence/1041227/the-new-york-times-warns-photographers-not-to-update-photoshop-over-ai-features) | ⭐ 606 | 💬 488 | [HN Thread](https://news.ycombinator.com/item?id=50647673) |
 
 ---
 
 ## 🗄️ News Archive
 
+- 📅 [2026-11-26](archive/2026-11-26.md)
 - 📅 [2026-11-23](archive/2026-11-23.md)
 - 📅 [2026-11-22](archive/2026-11-22.md)
 - 📅 [2026-11-21](archive/2026-11-21.md)
@@ -40,9 +41,8 @@ An automated **Tech & AI News Digest** that aggregates top trending discussions 
 - 📅 [2026-11-10](archive/2026-11-10.md)
 - 📅 [2026-11-09](archive/2026-11-09.md)
 - 📅 [2026-11-08](archive/2026-11-08.md)
-- 📅 [2026-11-07](archive/2026-11-07.md)
 
-*... and [78 older editions in the archive folder](archive/)*
+*... and [79 older editions in the archive folder](archive/)*
 
 ---
 
