@@ -12,16 +12,16 @@ An automated **Tech & AI News Digest** that aggregates top trending discussions 
 
 | # | Story | Points | Comments | Discussion |
 |:---:|:---|:---:|:---:|:---:|
-| **1** | [A Deterministic Subexponential-Time Algorithm for the Discrete Logarithm Problem [pdf]](https://eprint.iacr.org/2026/3020.pdf) | ⭐ 11 | 💬 0 | [HN Thread](https://news.ycombinator.com/item?id=50665968) |
-| **2** | [The group chat where your AI talks behind your back](https://construct22.com/) | ⭐ 362 | 💬 162 | [HN Thread](https://news.ycombinator.com/item?id=50663595) |
-| **3** | [AI made self-hosting fun again](https://janlukas.blog/posts/ai-self-hosting) | ⭐ 788 | 💬 398 | [HN Thread](https://news.ycombinator.com/item?id=50660180) |
-| **4** | [Kamil Khan Mumtaz: Pakistani architect, admired at home, almost invisible abroad](https://worksinprogress.co/issue/the-greatest-architect-youve-never-heard-of-is-in-pakistan/) | ⭐ 399 | 💬 100 | [HN Thread](https://news.ycombinator.com/item?id=50659841) |
-| **5** | [YouTube Ad Punisher – Auto-reloads YouTube pages when an ad plays](https://github.com/antonpictures/youtube-punisher) | ⭐ 434 | 💬 501 | [HN Thread](https://news.ycombinator.com/item?id=50657530) |
-| **6** | [AMD-specific fork of llama.cpp](https://devnull.land/amd-specific-llama-cpp) | ⭐ 384 | 💬 91 | [HN Thread](https://news.ycombinator.com/item?id=50657265) |
-| **7** | [Hard Drive pricing has gotten bad](https://blog.ktz.me/black-friday-hard-drive-prices-are-messed-up/) | ⭐ 397 | 💬 322 | [HN Thread](https://news.ycombinator.com/item?id=50661646) |
-| **8** | [CTO of 'RansomwareHelp' indicted for wire fraud](https://krebsonsecurity.com/2026/11/cto-of-ransomwarehelp-indicted-for-wire-fraud/) | ⭐ 284 | 💬 141 | [HN Thread](https://news.ycombinator.com/item?id=50657645) |
-| **9** | [Company Culture = Slack Emoji ÷ √Headcount](https://lia.mg/posts/measuring-company-culture-with-slack-emoji/) | ⭐ 416 | 💬 195 | [HN Thread](https://news.ycombinator.com/item?id=50659640) |
-| **10** | [European Commission Declares Browser Competition a Digital Markets Act Priority](https://open-web-advocacy.org/es/blog/commission-responds-declares-browser-competition-a-dma-priority/) | ⭐ 92 | 💬 54 | [HN Thread](https://news.ycombinator.com/item?id=50664191) |
+| **1** | [GPT 6.2 Astra Solves a Historical Mystery](https://generativehistory.substack.com/p/gpt-62-astra-solves-a-historical) | ⭐ 122 | 💬 110 | [HN Thread](https://news.ycombinator.com/item?id=50643158) |
+| **2** | [Credit card skimming scripts using WebRTC found on popular shopping sites](https://www.infohawk.com/news/2026-11-27-black-friday-webrtc-skimmer) | ⭐ 330 | 💬 176 | [HN Thread](https://news.ycombinator.com/item?id=50668145) |
+| **3** | [Convex skills send the user's app idea to a remote server without telling them](https://github.com/convex/convex-backend-skill/issues/64) | ⭐ 161 | 💬 51 | [HN Thread](https://news.ycombinator.com/item?id=50669765) |
+| **4** | [Citroën Hydraulic System](https://www.citroenet.org.uk/miscellaneous/hydraulics/hydraulics-1.html) | ⭐ 70 | 💬 28 | [HN Thread](https://news.ycombinator.com/item?id=50662313) |
+| **5** | [Michael Nielsen took down his book on neural nets](https://twitter.com/michael_nielsen/status/2126359767362748777) | ⭐ 226 | 💬 136 | [HN Thread](https://news.ycombinator.com/item?id=50670757) |
+| **6** | [The AT&T Unix PC (3B1) VM](https://virtuallyfun.com/2026/11/22/the-ultimate-att-unix-pc-3b1-vm-w-tcp-ip-and-apps/) | ⭐ 30 | 💬 5 | [HN Thread](https://news.ycombinator.com/item?id=50670841) |
+| **7** | [Show HN: bouncemarket – a live prediction market game for a bouncing ball](https://bouncemarket.minhanhday.com/) | ⭐ 299 | 💬 92 | [HN Thread](https://news.ycombinator.com/item?id=50667726) |
+| **8** | [False computer-checked proofs](https://cr.yp.to/proofs/falseccp.html) | ⭐ 143 | 💬 66 | [HN Thread](https://news.ycombinator.com/item?id=50667989) |
+| **9** | [First images of the impact of DART asteroid deflection experiment](https://arstechnica.com/space/2026/11/europes-hera-mission-returns-to-the-chaotic-scene-of-a-cosmic-smashup/) | ⭐ 165 | 💬 52 | [HN Thread](https://news.ycombinator.com/item?id=50657392) |
+| **10** | [Show HN: DragDropMath – Learn math by feel](https://dragdropmath.com/) | ⭐ 60 | 💬 15 | [HN Thread](https://news.ycombinator.com/item?id=50669673) |
 
 ---
 
