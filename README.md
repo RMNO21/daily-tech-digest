@@ -12,21 +12,22 @@ An automated **Tech & AI News Digest** that aggregates top trending discussions 
 
 | # | Story | Points | Comments | Discussion |
 |:---:|:---|:---:|:---:|:---:|
-| **1** | [AMD Specific Patches for Llama.cpp](https://devnull.land/amd-specific-llama-cpp) | ⭐ 125 | 💬 38 | [HN Thread](https://news.ycombinator.com/item?id=50657265) |
-| **2** | [CTO of 'RansomwareHelp' Indicted for Wire Fraud](https://krebsonsecurity.com/2026/11/cto-of-ransomwarehelp-indicted-for-wire-fraud/) | ⭐ 70 | 💬 25 | [HN Thread](https://news.ycombinator.com/item?id=50657645) |
-| **3** | [Show HN: Three Linux VMs in a browser tab, each running a different browser](https://michidk.github.io/sidebyside/) | ⭐ 75 | 💬 20 | [HN Thread](https://news.ycombinator.com/item?id=50656036) |
-| **4** | [Intel One Mono font (2023)](https://github.com/intel/intel-one-mono) | ⭐ 388 | 💬 220 | [HN Thread](https://news.ycombinator.com/item?id=50653667) |
-| **5** | [George Whitesides, 1939-2026](https://www.science.org/content/blog-post/george-whitesides-1939-2026) | ⭐ 12 | 💬 2 | [HN Thread](https://news.ycombinator.com/item?id=50657936) |
-| **6** | [NP_R ≠ PAR_R](https://github.com/samueleverett01/bss-permanent-separations) | ⭐ 109 | 💬 116 | [HN Thread](https://news.ycombinator.com/item?id=50657059) |
-| **7** | [Curiosity Is No Solo Act](https://thereader.mitpress.mit.edu/curiosity-is-no-solo-act/) | ⭐ 90 | 💬 22 | [HN Thread](https://news.ycombinator.com/item?id=50636931) |
-| **8** | [Tell HN: Happy Thanksgiving](https://news.ycombinator.com/item?id=50655664) | ⭐ 471 | 💬 121 | [HN Thread](https://news.ycombinator.com/item?id=50655664) |
-| **9** | [Nextcloud Office Desktop app](https://nextcloud.com/blog/euro-office-comes-to-your-desktop-with-the-nextcloud-office-desktop-app/) | ⭐ 358 | 💬 167 | [HN Thread](https://news.ycombinator.com/item?id=50654289) |
-| **10** | [The New York Times warns photographers not to update Photoshop over AI features](https://www.theverge.com/ai-artificial-intelligence/1041227/the-new-york-times-warns-photographers-not-to-update-photoshop-over-ai-features) | ⭐ 606 | 💬 488 | [HN Thread](https://news.ycombinator.com/item?id=50647673) |
+| **1** | [A Deterministic Subexponential-Time Algorithm for the Discrete Logarithm Problem [pdf]](https://eprint.iacr.org/2026/3020.pdf) | ⭐ 11 | 💬 0 | [HN Thread](https://news.ycombinator.com/item?id=50665968) |
+| **2** | [The group chat where your AI talks behind your back](https://construct22.com/) | ⭐ 362 | 💬 162 | [HN Thread](https://news.ycombinator.com/item?id=50663595) |
+| **3** | [AI made self-hosting fun again](https://janlukas.blog/posts/ai-self-hosting) | ⭐ 788 | 💬 398 | [HN Thread](https://news.ycombinator.com/item?id=50660180) |
+| **4** | [Kamil Khan Mumtaz: Pakistani architect, admired at home, almost invisible abroad](https://worksinprogress.co/issue/the-greatest-architect-youve-never-heard-of-is-in-pakistan/) | ⭐ 399 | 💬 100 | [HN Thread](https://news.ycombinator.com/item?id=50659841) |
+| **5** | [YouTube Ad Punisher – Auto-reloads YouTube pages when an ad plays](https://github.com/antonpictures/youtube-punisher) | ⭐ 434 | 💬 501 | [HN Thread](https://news.ycombinator.com/item?id=50657530) |
+| **6** | [AMD-specific fork of llama.cpp](https://devnull.land/amd-specific-llama-cpp) | ⭐ 384 | 💬 91 | [HN Thread](https://news.ycombinator.com/item?id=50657265) |
+| **7** | [Hard Drive pricing has gotten bad](https://blog.ktz.me/black-friday-hard-drive-prices-are-messed-up/) | ⭐ 397 | 💬 322 | [HN Thread](https://news.ycombinator.com/item?id=50661646) |
+| **8** | [CTO of 'RansomwareHelp' indicted for wire fraud](https://krebsonsecurity.com/2026/11/cto-of-ransomwarehelp-indicted-for-wire-fraud/) | ⭐ 284 | 💬 141 | [HN Thread](https://news.ycombinator.com/item?id=50657645) |
+| **9** | [Company Culture = Slack Emoji ÷ √Headcount](https://lia.mg/posts/measuring-company-culture-with-slack-emoji/) | ⭐ 416 | 💬 195 | [HN Thread](https://news.ycombinator.com/item?id=50659640) |
+| **10** | [European Commission Declares Browser Competition a Digital Markets Act Priority](https://open-web-advocacy.org/es/blog/commission-responds-declares-browser-competition-a-dma-priority/) | ⭐ 92 | 💬 54 | [HN Thread](https://news.ycombinator.com/item?id=50664191) |
 
 ---
 
 ## 🗄️ News Archive
 
+- 📅 [2026-11-27](archive/2026-11-27.md)
 - 📅 [2026-11-26](archive/2026-11-26.md)
 - 📅 [2026-11-23](archive/2026-11-23.md)
 - 📅 [2026-11-22](archive/2026-11-22.md)
@@ -40,9 +41,8 @@ An automated **Tech & AI News Digest** that aggregates top trending discussions 
 - 📅 [2026-11-11](archive/2026-11-11.md)
 - 📅 [2026-11-10](archive/2026-11-10.md)
 - 📅 [2026-11-09](archive/2026-11-09.md)
-- 📅 [2026-11-08](archive/2026-11-08.md)
 
-*... and [79 older editions in the archive folder](archive/)*
+*... and [80 older editions in the archive folder](archive/)*
 
 ---
 
